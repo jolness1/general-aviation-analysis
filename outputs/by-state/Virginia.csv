@@ -1,0 +1,215 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+82939,ERA12LA188,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82939/pdf,2/6/2012,Culpeper,Virginia,United States,38.525554,-77.859725,0,0,Non-Fatal,non-fatal,False
+82953,ERA12LA191,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82953/pdf,2/17/2012,Flat Rock,Virginia,United States,37.520278,-77.820274,0,0,Non-Fatal,non-fatal,False
+83027,ERA12LA206,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83027/pdf,3/3/2012,Amisville,Virginia,United States,38.808334,-78.077224,0,2,Non-Fatal,non-fatal,False
+83053,ERA12CA213,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83053/pdf,2/13/2012,Warrenton,Virginia,United States,38.586112,-77.710556,0,0,Non-Fatal,non-fatal,False
+83408,ERA12CA288,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83408/pdf,4/17/2012,Abingdon,Virginia,United States,36.686943,-82.033058,0,0,Non-Fatal,non-fatal,False
+83766,ERA12RA367,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83766/pdf,5/28/2012,Sumerduck,Virginia,United States,38.485832,-77.707221,2,1,Fatal,fatal,True
+83852,ERA12LA380,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83852/pdf,6/2/2012,Monroe,Virginia,United States,37.537498,-79.267776,0,0,Non-Fatal,non-fatal,False
+84018,ERA12CA402,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84018/pdf,6/9/2012,Blairs,Virginia,United States,36.736667,-79.362503,0,0,Non-Fatal,non-fatal,False
+84486,ERA12LA486,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84486/pdf,7/27/2012,Blacksburg,Virginia,United States,37.207778,-80.407775,0,0,Non-Fatal,non-fatal,False
+84587,ERA12CA496,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84587/pdf,8/3/2012,Culpeper,Virginia,United States,38.521945,-77.855552,0,0,Non-Fatal,non-fatal,False
+84790,ERA12FA526,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84790/pdf,8/26/2012,Dayton,Virginia,United States,38.421112,-79.121109,1,0,Fatal,fatal,True
+84792,ERA12FA527,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84792/pdf,8/24/2012,Abingdon,Virginia,United States,36.594444,-82.018333,1,0,Fatal,fatal,True
+85166,ERA12FA583,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85166/pdf,9/29/2012,Fredericksburg,Virginia,United States,38.27111,-77.443054,2,0,Fatal,fatal,True
+85261,ERA13CA008,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85261/pdf,10/3/2012,Warrenton,Virginia,United States,38.584999,-77.70639,0,0,Non-Fatal,non-fatal,False
+85392,ERA13CA035,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85392/pdf,10/20/2012,Roseland,Virginia,United States,37.803333,-78.940277,0,0,Non-Fatal,non-fatal,False
+85422,ERA13CA038,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85422/pdf,10/20/2012,Weyers Cave,Virginia,United States,38.26361,-78.896385,0,0,Non-Fatal,non-fatal,False
+85658,ERA13CA067,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85658/pdf,11/23/2012,King George,Virginia,United States,38.325553,-77.257225,0,1,Non-Fatal,non-fatal,False
+85830,ERA13CA090,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85830/pdf,12/20/2012,Hot Springs,Virginia,United States,37.950832,-79.83361,0,0,Non-Fatal,non-fatal,False
+85832,ERA13CA091,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85832/pdf,12/15/2012,Newport News,Virginia,United States,37.131942,-76.493057,0,0,Non-Fatal,non-fatal,False
+85834,ERA13CA092,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85834/pdf,12/11/2012,Lynchburg,Virginia,United States,37.321945,-79.193054,0,0,Non-Fatal,non-fatal,False
+86440,ERA13LA173,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86440/pdf,3/17/2013,Stafford,Virginia,United States,38.369998,-77.43,0,2,Non-Fatal,non-fatal,False
+86624,ERA13LA194,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86624/pdf,4/7/2013,New Castle,Virginia,United States,37.483333,-80.099723,0,0,Non-Fatal,non-fatal,False
+86676,ERA13FA209,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86676/pdf,4/19/2013,Williamsburg,Virginia,United States,37.245555,-76.726943,2,0,Fatal,fatal,True
+86805,ERA13FA227,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86805/pdf,5/4/2013,Suffolk,Virginia,United States,36.693054,-76.61,2,0,Fatal,fatal,True
+87042,ERA13LA258,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87042/pdf,5/31/2013,Herndon,Virginia,United States,38.965,-77.415275,0,0,Non-Fatal,non-fatal,False
+87524,ERA13LA328,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87524/pdf,7/20/2013,Tappahannock,Virginia,United States,37.88639,-76.879447,0,0,Non-Fatal,non-fatal,False
+87544,ERA13FA330,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87544/pdf,7/22/2013,Fredericksburg,Virginia,United States,38.266109,-77.447776,1,0,Fatal,fatal,True
+87746,ERA13CA362,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87746/pdf,8/12/2013,Fredericksburg,Virginia,United States,38.27111,-77.446945,0,0,Non-Fatal,non-fatal,False
+87834,ERA13CA371,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87834/pdf,8/22/2013,Manassas,Virginia,United States,38.80722,-77.508888,0,0,Non-Fatal,non-fatal,False
+87916,ERA13FA385,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87916/pdf,8/29/2013,Danville,Virginia,United States,36.565277,-79.341667,1,0,Fatal,fatal,True
+88068,ERA13LA418,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88068/pdf,9/7/2013,Louisa,Virginia,United States,38.009723,-77.970275,0,0,Non-Fatal,non-fatal,False
+88083,ERA13CA419,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88083/pdf,9/13/2013,Abingdon,Virginia,United States,36.687221,-82.033332,0,0,Non-Fatal,non-fatal,False
+88245,ERA14LA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88245/pdf,10/10/2013,Hampton Roads,Virginia,United States,36.780277,-76.44889,4,0,Fatal,fatal,True
+88365,ERA14CA033,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88365/pdf,10/28/2013,Manassas,Virginia,United States,38.721111,-77.514999,0,0,Non-Fatal,non-fatal,False
+88370,ERA13CA438,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88370/pdf,9/18/2013,Newport News,Virginia,United States,37.131668,-76.492774,0,0,Non-Fatal,non-fatal,False
+88566,ERA14FA075,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88566/pdf,12/18/2013,Chatlottesville,Virginia,United States,38.157222,-78.392219,1,0,Fatal,fatal,True
+88690,ERA14CA097,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88690/pdf,1/19/2014,Winchester,Virginia,United States,39.143611,-78.144447,0,0,Non-Fatal,non-fatal,False
+88943,ERA14CA160,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88943/pdf,3/8/2014,Charlottesville,Virginia,United States,38.13972,-78.452224,0,0,Non-Fatal,non-fatal,False
+89024,ERA14CA185,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89024/pdf,4/8/2014,Leesburg,Virginia,United States,39.078056,-77.557502,0,0,Non-Fatal,non-fatal,False
+89048,ERA14LA193,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89048/pdf,4/11/2014,Louisa,Virginia,United States,38.048053,-78.093887,0,1,Non-Fatal,non-fatal,False
+89188,ERA14FA231,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89188/pdf,5/9/2014,Ruther Glen,Virginia,United States,37.905834,-77.4225,3,0,Fatal,fatal,True
+89194,ERA14LA235,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89194/pdf,5/9/2014,Warrenton,Virginia,United States,38.655555,-77.787223,0,0,Non-Fatal,non-fatal,False
+89210,ERA14CA240,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89210/pdf,5/14/2014,Norfolk,Virginia,United States,36.780277,-76.44889,0,0,Non-Fatal,non-fatal,False
+89288,ERA14CA262,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89288/pdf,5/24/2014,Williamsburg,Virginia,United States,37.229999,-76.800003,0,0,Non-Fatal,non-fatal,False
+89329,ERA14LA272,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89329/pdf,5/31/2014,Suffolk,Virginia,United States,36.755554,-76.622779,0,0,Non-Fatal,non-fatal,False
+89479,ERA14LA302,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89479/pdf,6/16/2014,Melfa,Virginia,United States,37.646945,-75.761108,0,0,Non-Fatal,non-fatal,False
+89571,ERA14LA319,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89571/pdf,6/29/2014,Warrenton,Virginia,United States,38.549446,-77.716941,0,0,Non-Fatal,non-fatal,False
+89577,ERA14CA320,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89577/pdf,5/22/2014,Petersburg,Virginia,United States,37.2,-77.505554,0,0,Non-Fatal,non-fatal,False
+89610,ERA14FA328,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89610/pdf,7/6/2014,Topping,Virginia,United States,37.589885,-76.460441,2,0,Fatal,fatal,True
+89769,ERA14CA367,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89769/pdf,7/30/2014,Winchester,Virginia,United States,39.143611,-78.144447,0,0,Non-Fatal,non-fatal,False
+89984,ERA14CA412,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89984/pdf,8/25/2014,Luray,Virginia,United States,38.666942,-78.500556,0,0,Non-Fatal,non-fatal,False
+89990,ERA14LA415,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89990/pdf,8/30/2014,Wallops Island,Virginia,United States,37.929679,-75.490348,1,0,Fatal,fatal,True
+90061,ERA14LA433,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90061/pdf,9/10/2014,Carrol County,Virginia,United States,36.636112,-80.720001,0,1,Non-Fatal,non-fatal,False
+90107,ERA14FA445,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90107/pdf,9/19/2014,Alton,Virginia,United States,36.558612,-79.207496,2,0,Fatal,fatal,True
+90117,ERA14CA447,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90117/pdf,9/19/2014,Culpepper,Virginia,United States,38.521667,-77.861114,0,0,Non-Fatal,non-fatal,False
+90226,ERA15CA012,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90226/pdf,10/4/2014,Waynesboro,Virginia,United States,38.076946,-78.944442,0,0,Non-Fatal,non-fatal,False
+90373,ERA15FA046,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90373/pdf,11/8/2014,Hinton,Virginia,United States,38.55389,-79.014999,1,1,Fatal,fatal,True
+90428,ERA15CA059,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90428/pdf,11/24/2014,Leesburg,Virginia,United States,39.078056,-77.557502,0,0,Non-Fatal,non-fatal,False
+90497,ERA15FA076,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90497/pdf,12/14/2014,Catlett,Virginia,United States,38.616664,-77.625831,1,0,Fatal,fatal,True
+90529,ERA15CA080,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90529/pdf,12/20/2014,Bumpass,Virginia,United States,37.959926,-77.729675,0,0,Non-Fatal,non-fatal,False
+90582,ERA15LA094,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90582/pdf,1/6/2015,Norfolk,Virginia,United States,36.780277,-76.467498,0,0,Non-Fatal,non-fatal,False
+90691,ERA15CA120,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90691/pdf,2/4/2015,Brookneal,Virginia,United States,37.141666,-78.969444,0,0,Non-Fatal,non-fatal,False
+90693,ERA15CA121,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90693/pdf,2/4/2015,Crozet,Virginia,United States,38.069442,-78.700553,0,0,Non-Fatal,non-fatal,False
+90817,ERA15FA144,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90817/pdf,3/4/2015,Norfolk,Virginia,United States,36.909721,-76.195556,3,0,Fatal,fatal,True
+90845,ERA15CA150,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90845/pdf,3/7/2015,Richmond,Virginia,United States,37.505279,-77.319725,0,0,Non-Fatal,non-fatal,False
+90944,ERA15FA170,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90944/pdf,3/29/2015,Orange,Virginia,United States,38.251388,-78.037223,1,0,Fatal,fatal,True
+91169,ERA15LA212,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91169/pdf,5/12/2015,Newport News,Virginia,United States,37.131942,-76.493057,0,0,Non-Fatal,non-fatal,False
+91196,GAA15CA078,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91196/pdf,5/16/2015,Mineral,Virginia,United States,38.072776,-77.820556,0,0,Non-Fatal,non-fatal,False
+91199,ERA15FA215,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91199/pdf,5/18/2015,Saltville,Virginia,United States,36.939167,-81.767219,2,0,Fatal,fatal,True
+91486,ERA15LA257,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91486/pdf,7/1/2015,Galax Hillsville,Virginia,United States,36.772499,-80.821388,0,0,Non-Fatal,non-fatal,False
+91629,ERA15LA282,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91629/pdf,7/23/2015,Waynesboro,Virginia,United States,38.07389,-78.949447,0,1,Non-Fatal,non-fatal,False
+91733,ERA15LA300,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91733/pdf,8/8/2015,Hot Springs,Virginia,United States,37.946666,-79.84333,0,0,Non-Fatal,non-fatal,False
+91792,ERA15LA315,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91792/pdf,8/16/2015,Bristow,Virginia,United States,38.743888,-77.549163,0,1,Non-Fatal,non-fatal,False
+91889,GAA15CA241,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91889/pdf,6/22/2015,Upperville,Virginia,United States,38.971668,-77.86972,0,0,Non-Fatal,non-fatal,False
+91964,ERA15LA354,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91964/pdf,9/13/2015,Moneta,Virginia,United States,37.103889,-79.597221,0,2,Non-Fatal,non-fatal,False
+92056,ERA15LA375,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92056/pdf,9/24/2015,Blacksburg,Virginia,United States,37.155834,-80.324447,0,1,Non-Fatal,non-fatal,False
+92186,ERA16LA016,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92186/pdf,10/15/2015,Mitchells,Virginia,United States,38.361946,-78.025833,0,0,Non-Fatal,non-fatal,False
+92221,ERA16LA022,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92221/pdf,10/23/2015,Bluemont,Virginia,United States,39.086666,-77.816108,0,0,Non-Fatal,non-fatal,False
+92229,ERA16CA024,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92229/pdf,10/24/2015,Warrentown,Virginia,United States,38.0,-77.0,0,0,Non-Fatal,non-fatal,False
+92387,GAA16CA066,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92387/pdf,12/1/2015,West Point,Virginia,United States,37.52111,-76.775276,0,0,Non-Fatal,non-fatal,False
+92527,GAA16CA094,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92527/pdf,1/1/2016,CHESAPEAKE,Virginia,United States,36.778888,-76.445556,0,0,Non-Fatal,non-fatal,False
+92551,GAA16CA098,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92551/pdf,1/2/2016,Chesapeake,Virginia,United States,36.665554,-76.320556,0,0,Non-Fatal,non-fatal,False
+92576,ERA16FA089,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92576/pdf,1/14/2016,Wake,Virginia,United States,37.565277,-76.449165,1,0,Fatal,fatal,True
+92614,GAA16CA110,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92614/pdf,1/19/2016,Melfa,Virginia,United States,37.646945,-75.762222,0,0,Non-Fatal,non-fatal,False
+92742,GAA16CA134,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92742/pdf,2/17/2016,Newport News,Virginia,United States,37.131942,-76.493057,0,0,Non-Fatal,non-fatal,False
+92897,ERA16LA142,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92897/pdf,3/27/2016,Danville,Virginia,United States,36.623332,-79.625274,0,0,Non-Fatal,non-fatal,False
+92914,GAA16CA167,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92914/pdf,3/29/2016,Clarksville,Virginia,United States,36.593887,-78.560836,0,0,Non-Fatal,non-fatal,False
+93120,ERA16LA179,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93120/pdf,5/7/2016,Critz,Virginia,United States,36.5625,-80.136108,0,1,Non-Fatal,non-fatal,False
+93182,GAA16CA235,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93182/pdf,5/14/2016,Williamsburg,Virginia,United States,37.239166,-76.71611,0,0,Non-Fatal,non-fatal,False
+93240,ERA16FA194,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93240/pdf,5/24/2016,Rhoadesville,Virginia,United States,38.265277,-77.85778,2,0,Fatal,fatal,True
+93283,GAA16CA268,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93283/pdf,5/19/2016,Newport News,Virginia,United States,37.127777,-76.495834,0,0,Non-Fatal,non-fatal,False
+93320,ERA16LA204,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93320/pdf,6/6/2016,Stafford,Virginia,United States,38.392223,-77.316665,0,1,Non-Fatal,non-fatal,False
+93347,GAA16CA294,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93347/pdf,6/8/2016,Fredericksburg,Virginia,United States,38.266109,-77.449447,0,0,Non-Fatal,non-fatal,False
+93362,ERA16CA211,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93362/pdf,6/10/2016,Williamsburg,Virginia,United States,37.239166,-76.71611,0,1,Non-Fatal,non-fatal,False
+93525,ERA16CA239,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93525/pdf,7/2/2016,Harrisonburg,Virginia,United States,38.498332,-78.893058,0,1,Non-Fatal,non-fatal,False
+93636,ERA16LA263,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93636/pdf,7/19/2016,Warrenton,Virginia,United States,38.632221,-77.87722,0,0,Non-Fatal,non-fatal,False
+93688,GAA17CA055,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93688/pdf,10/30/2016,Bristow,Virginia,United States,38.721111,-77.514999,0,0,Non-Fatal,non-fatal,False
+93699,GAA16CA396,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93699/pdf,7/27/2016,Williamsburg,Virginia,United States,37.239444,-76.716392,0,0,Non-Fatal,non-fatal,False
+93816,ERA16FA288,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93816/pdf,8/12/2016,Fredericksburg,Virginia,United States,38.262779,-77.453056,6,0,Fatal,fatal,True
+93935,GAA16CA460,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93935/pdf,8/30/2016,Winchester,Virginia,United States,39.143611,-78.144447,0,0,Non-Fatal,non-fatal,False
+93995,GAA16CA477,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93995/pdf,9/9/2016,Warrenton,Virginia,United States,38.650833,-77.789718,0,0,Non-Fatal,non-fatal,False
+94067,ERA16LA322,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94067/pdf,9/23/2016,Norfolk,Virginia,United States,36.9375,-76.308609,0,0,Non-Fatal,non-fatal,False
+94171,ERA17CA008,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94171/pdf,10/7/2016,Ashwood,Virginia,United States,37.976112,-79.861946,0,2,Non-Fatal,non-fatal,False
+94212,ERA16LA333,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94212/pdf,9/27/2016,Hurt,Virginia,United States,37.055278,-79.294998,0,0,Non-Fatal,non-fatal,False
+94220,GAA17CA024,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94220/pdf,10/16/2016,Leesburg,Virginia,United States,39.07611,-77.556945,0,0,Non-Fatal,non-fatal,False
+94477,GAA17CA091,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94477/pdf,12/5/2016,Martinsville,Virginia,United States,36.630554,-80.018058,0,0,Non-Fatal,non-fatal,False
+94486,ERA17LA067,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94486/pdf,12/10/2016,Franklin,Virginia,United States,36.646389,-76.918052,0,1,Non-Fatal,non-fatal,False
+94716,GAA17CA139,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94716/pdf,12/2/2016,Midland,Virginia,United States,38.585556,-77.709724,0,0,Non-Fatal,non-fatal,False
+94926,GAA17CA208,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94926/pdf,3/25/2017,Louisa,Virginia,United States,38.009723,-77.970275,0,0,Non-Fatal,non-fatal,False
+94975,ERA17CA149,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94975/pdf,4/8/2017,Culpepper,Virginia,United States,38.525554,-77.859725,0,1,Non-Fatal,non-fatal,False
+95042,ERA17LA165,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95042/pdf,4/22/2017,Leesburg,Virginia,United States,39.068332,-77.552497,0,0,Non-Fatal,non-fatal,False
+95045,GAA17CA241,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95045/pdf,4/9/2017,New Market,Virginia,United States,38.657222,-78.708885,0,0,Non-Fatal,non-fatal,False
+95180,GAA17CA281,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95180/pdf,5/15/2017,South Boston,Virginia,United States,36.708889,-78.848052,0,0,Non-Fatal,non-fatal,False
+95209,GAA17CA295,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95209/pdf,5/21/2017,Catlett,Virginia,United States,38.605556,-77.584724,0,0,Non-Fatal,non-fatal,False
+95210,ERA17CA186,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95210/pdf,5/21/2017,Bristow,Virginia,United States,38.721389,-77.538055,0,0,Non-Fatal,non-fatal,False
+95249,GAA17CA306,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95249/pdf,5/21/2017,Zepp,Virginia,United States,39.039722,-78.555831,0,0,Non-Fatal,non-fatal,False
+95458,ERA17CA216,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95458/pdf,6/28/2017,Emporia,Virginia,United States,36.686943,-77.48278,0,0,Non-Fatal,non-fatal,False
+95492,ERA17LA225,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95492/pdf,7/3/2017,Farmville,Virginia,United States,37.243185,-78.529798,0,1,Non-Fatal,non-fatal,False
+95499,ERA17LA229,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95499/pdf,7/4/2017,Dillwyn,Virginia,United States,37.492221,-78.517501,0,1,Non-Fatal,non-fatal,False
+95642,GAA17CA430,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95642/pdf,7/22/2017,Whaleyville,Virginia,United States,36.589443,-76.638053,0,0,Non-Fatal,non-fatal,False
+95666,GAA17CA438,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95666/pdf,7/19/2017,NEW MARKET,Virginia,United States,38.656112,-78.708335,0,0,Non-Fatal,non-fatal,False
+95692,GAA17CA446,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95692/pdf,7/16/2017,Franklin,Virginia,United States,36.700279,-76.902221,0,0,Non-Fatal,non-fatal,False
+95698,GAA17CA448,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95698/pdf,7/9/2017,Manassas,Virginia,United States,38.721389,-77.514167,0,0,Non-Fatal,non-fatal,False
+95805,ERA17FA274,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95805/pdf,8/12/2017,Charlottesville,Virginia,United States,38.034168,-78.529441,2,0,Fatal,fatal,True
+95838,ERA17LA280,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95838/pdf,8/18/2017,Quinton,Virginia,United States,37.497222,-77.149169,1,0,Fatal,fatal,True
+96033,GAA17CA540,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96033/pdf,9/15/2017,Lynchburg,Virginia,United States,37.378055,-79.122222,0,0,Non-Fatal,non-fatal,False
+96130,ERA18LA003,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96130/pdf,10/3/2017,Virginia Beach,Virginia,United States,36.67889,-76.032775,0,0,Non-Fatal,non-fatal,False
+96151,ERA18FA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96151/pdf,10/7/2017,Front Royal,Virginia,United States,38.920276,-78.263053,1,0,Fatal,fatal,True
+96152,GAA18CA004,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96152/pdf,10/7/2017,Topping,Virginia,United States,37.588054,-76.474441,0,0,Non-Fatal,non-fatal,False
+96219,GAA18CA017,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96219/pdf,10/20/2017,Farmville,Virginia,United States,37.356109,-78.438613,0,1,Non-Fatal,non-fatal,False
+96388,GAA18CA060,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96388/pdf,11/22/2017,Woodlawn,Virginia,United States,36.771945,-80.89833,0,0,Non-Fatal,non-fatal,False
+96402,ERA18CA035,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96402/pdf,11/29/2017,Mechanicsville,Virginia,United States,37.708057,-77.300277,0,0,Non-Fatal,non-fatal,False
+96423,GAA18CA068,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96423/pdf,12/5/2017,Chesapeake,Virginia,United States,36.780834,-76.451385,0,0,Non-Fatal,non-fatal,False
+96563,ANC18LA018,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96563/pdf,1/1/2018,Lynchburg,Virginia,United States,37.378055,-79.121391,0,0,Non-Fatal,non-fatal,False
+96865,ERA18LA101,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96865/pdf,3/13/2018,Chesapeake,Virginia,United States,36.665554,-76.320556,0,0,Non-Fatal,non-fatal,False
+97036,ERA18FA127,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97036/pdf,4/15/2018,Crozet,Virginia,United States,38.097778,-78.722503,1,0,Fatal,fatal,True
+97054,GAA18CA215,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97054/pdf,4/13/2018,Wakefield,Virginia,United States,36.98722,-77.001113,0,0,Non-Fatal,non-fatal,False
+97100,GAA18CA228,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97100/pdf,4/17/2018,Ashland,Virginia,United States,37.708057,-77.436386,0,0,Non-Fatal,non-fatal,False
+97167,GAA18CA251,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97167/pdf,4/16/2018,Suffolk,Virginia,United States,36.682777,-76.599723,0,0,Non-Fatal,non-fatal,False
+97180,ERA18TA142,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97180/pdf,5/6/2018,Smith Beach,Virginia,United States,37.362777,-75.990837,0,0,Non-Fatal,non-fatal,False
+97186,GAA18CA257,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97186/pdf,5/6/2018,Warrenton,Virginia,United States,38.586387,-77.710556,0,0,Non-Fatal,non-fatal,False
+97226,GAA18CA270,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97226/pdf,5/9/2018,Bumpass,Virginia,United States,37.965278,-77.748886,0,0,Non-Fatal,non-fatal,False
+97294,ERA18FA150,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97294/pdf,5/22/2018,Chesapeake,Virginia,United States,36.657501,-76.336944,1,0,Fatal,fatal,True
+97491,ERA18LA169,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97491/pdf,6/16/2018,Quinton,Virginia,United States,37.503334,-77.126663,0,1,Non-Fatal,non-fatal,False
+97548,GAA18CA369,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97548/pdf,6/20/2018,Bruington,Virginia,United States,37.821666,-76.969169,0,0,Non-Fatal,non-fatal,False
+97700,GAA18CA431,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97700/pdf,7/5/2018,King and Queen,Virginia,United States,37.720001,-76.840835,0,0,Non-Fatal,non-fatal,False
+97708,ERA18FA187,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97708/pdf,7/8/2018,Williamsburg,Virginia,United States,37.288333,-76.729446,2,0,Fatal,fatal,True
+97744,GAA18CA414,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97744/pdf,7/5/2018,Moneta,Virginia,United States,37.107776,-79.592498,0,0,Non-Fatal,non-fatal,False
+97907,GAA18CA448,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97907/pdf,7/26/2018,LAWRENCEVILLE,Virginia,United States,36.772777,-77.793891,0,0,Non-Fatal,non-fatal,False
+98158,ERA18LA233,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98158/pdf,8/26/2018,New Kent,Virginia,United States,37.501388,-77.126113,0,1,Non-Fatal,non-fatal,False
+98169,GAA18CA513,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98169/pdf,8/27/2018,Winchester,Virginia,United States,39.143611,-78.144447,0,0,Non-Fatal,non-fatal,False
+98291,GAA18CA550,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98291/pdf,9/1/2018,Culpeper,Virginia,United States,38.525554,-77.859725,0,0,Non-Fatal,non-fatal,False
+98393,GAA18CA574,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98393/pdf,9/29/2018,Crewe,Virginia,United States,37.183612,-78.101943,0,0,Non-Fatal,non-fatal,False
+98418,ERA19FA003,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98418/pdf,10/6/2018,Fancy Gap,Virginia,United States,36.638053,-80.707221,1,0,Fatal,fatal,True
+98465,ERA19FA010,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98465/pdf,10/12/2018,Culpeper,Virginia,United States,38.518611,-77.863334,1,0,Fatal,fatal,True
+98509,ERA19LA019,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98509/pdf,10/18/2018,Lynchburg,Virginia,United States,37.330001,-79.199996,0,0,Non-Fatal,non-fatal,False
+98569,ERA19LA033,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98569/pdf,10/25/2018,New Market,Virginia,United States,38.654998,-78.668334,0,0,Non-Fatal,non-fatal,False
+98594,ERA19FA036,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98594/pdf,11/4/2018,Louisa,Virginia,United States,38.024444,-77.960556,1,0,Fatal,fatal,True
+98595,GAA19CA047,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98595/pdf,11/4/2018,Culpeper,Virginia,United States,38.525554,-77.859725,0,0,Non-Fatal,non-fatal,False
+98748,GAA19CA089,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98748/pdf,11/30/2018,Forest,Virginia,United States,37.27111,-79.335556,0,0,Non-Fatal,non-fatal,False
+98770,ERA19FA066,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98770/pdf,12/14/2018,Fredericksburg,Virginia,United States,38.259166,-77.444442,1,0,Fatal,fatal,True
+98954,GAA19CA130,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98954/pdf,2/4/2019,Hanover,Virginia,United States,37.708057,-77.436386,0,0,Non-Fatal,non-fatal,False
+98955,GAA19CA131,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98955/pdf,1/26/2019,Williamsburg,Virginia,United States,37.239166,-76.71611,0,0,Non-Fatal,non-fatal,False
+98969,ERA19TA098,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98969/pdf,2/10/2019,Lignum,Virginia,United States,38.397499,-77.806663,0,0,Non-Fatal,non-fatal,False
+99229,ERA19LA144,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99229/pdf,4/6/2019,Clover,Virginia,United States,36.819721,-78.783058,0,1,Non-Fatal,non-fatal,False
+99404,WPR19TA142,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99404/pdf,4/30/2019,Marion,Virginia,United States,36.894443,-81.350555,0,0,Non-Fatal,non-fatal,False
+99408,ERA19LA169,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99408/pdf,5/9/2019,Newport News,Virginia,United States,37.131942,-76.493057,0,0,Non-Fatal,non-fatal,False
+99473,GAA19CA276,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99473/pdf,5/22/2019,Louisa,Virginia,United States,38.009998,-77.967224,0,0,Non-Fatal,non-fatal,False
+99537,DCA19LA154,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99537/pdf,6/4/2019,Manassas,Virginia,United States,38.721942,-77.517776,0,0,Non-Fatal,non-fatal,False
+99547,GAA19CA311,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99547/pdf,6/3/2019,Culpeper,Virginia,United States,38.525554,-77.859725,0,0,Non-Fatal,non-fatal,False
+99601,ERA19TA192,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99601/pdf,5/23/2019,Stafford,Virginia,United States,38.398056,-77.455558,0,0,Non-Fatal,non-fatal,False
+99654,GAA19CA351,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99654/pdf,6/14/2019,Culpepper,Virginia,United States,38.525554,-77.859725,0,0,Non-Fatal,non-fatal,False
+99803,GAA19CA434,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99803/pdf,6/30/2019,Stafford,Virginia,United States,38.404998,-77.461944,0,0,Non-Fatal,non-fatal,False
+99814,GAA19CA398,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99814/pdf,7/10/2019,Petersburg,Virginia,United States,37.186943,-77.503334,0,0,Non-Fatal,non-fatal,False
+99934,ERA19TA235,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99934/pdf,7/25/2019,Wakefield,Virginia,United States,36.981109,-77.003051,0,0,Non-Fatal,non-fatal,False
+99962,GAA19CA465,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99962/pdf,7/28/2019,Richmond,Virginia,United States,37.406387,-77.524719,0,0,Non-Fatal,non-fatal,False
+99995,GAA19CA482,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99995/pdf,8/1/2019,Manassas,Virginia,United States,38.721111,-77.514999,0,0,Non-Fatal,non-fatal,False
+100005,GAA19CA486,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100005/pdf,8/4/2019,Bayse,Virginia,United States,38.815277,-78.770835,0,0,Non-Fatal,non-fatal,False
+100021,CEN19LA258,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100021/pdf,8/8/2019,North Garden,Virginia,United States,37.963333,-78.676391,0,0,Non-Fatal,non-fatal,False
+100088,ERA19FA251,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100088/pdf,8/19/2019,Tappahannock,Virginia,United States,37.86,-76.884719,0,1,Non-Fatal,non-fatal,False
+100280,ERA19LA272,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100280/pdf,9/15/2019,Norfolk,Virginia,United States,36.665554,-76.320556,0,0,Non-Fatal,non-fatal,False
+100693,ERA20LA055,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100693/pdf,12/15/2019,New Market,Virginia,United States,38.656112,-78.70861,0,0,Non-Fatal,non-fatal,False
+100792,ERA20CA072,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100792/pdf,1/7/2020,Norfolk,Virginia,United States,36.665554,-76.320556,0,0,Non-Fatal,non-fatal,False
+100831,ERA20LA080,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100831/pdf,12/24/2019,Suffolk,Virginia,United States,36.639749,-76.52337,0,0,Non-Fatal,non-fatal,False
+100916,ERA20FA097,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100916/pdf,2/9/2020,Front Royal,Virginia,United States,38.549999,-78.139999,1,0,Fatal,fatal,True
+101264,ERA20CA178,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101264/pdf,5/11/2020,Stuarts Draft,Virginia,United States,37.9925,-78.981391,0,0,Non-Fatal,non-fatal,False
+101328,ERA20LA195,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101328/pdf,5/26/2020,South Boston,Virginia,United States,36.699184,-78.899894,0,0,Non-Fatal,non-fatal,False
+101522,ERA20CA235,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101522/pdf,7/1/2020,Chesapeake,Virginia,United States,36.665,-76.321113,0,0,Non-Fatal,non-fatal,False
+101593,ERA20CA248,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101593/pdf,7/10/2020,Culpeper,Virginia,United States,38.525554,-77.859725,0,0,Non-Fatal,non-fatal,False
+101903,ERA20CA304,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101903/pdf,8/28/2020,Charlottesville,Virginia,United States,38.13972,-78.452224,0,0,Non-Fatal,non-fatal,False
+101906,ERA20LA305,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101906/pdf,8/31/2020,Luray,Virginia,United States,38.640377,-78.307158,1,0,Fatal,fatal,True
+102085,ERA21LA005,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102085/pdf,10/1/2020,Wake,Virginia,United States,37.579813,-76.443103,0,0,Non-Fatal,non-fatal,False
+102159,ERA21LA022,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102159/pdf,10/14/2020,Moneta,Virginia,United States,37.107722,-79.592472,0,0,Non-Fatal,non-fatal,False
+102335,ERA21LA053,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102335/pdf,11/24/2020,Deltaville,Virginia,United States,37.573094,-76.357028,1,0,Fatal,fatal,True
+102381,ERA21LA062,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102381/pdf,12/6/2020,South Boston,Virginia,United States,36.6987,-78.9014,0,0,Non-Fatal,non-fatal,False
+102473,ERA21LA092,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102473/pdf,12/22/2020,Culpeper,Virginia,United States,38.524409,-77.860355,0,0,Non-Fatal,non-fatal,False
+102494,ERA21LA096,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102494/pdf,12/30/2020,Topping,Virginia,United States,37.602493,-76.446681,0,0,Non-Fatal,non-fatal,False
+102531,ERA21LA106,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102531/pdf,1/19/2021,Leesburg,Virginia,United States,39.081972,-77.559229,0,0,Non-Fatal,non-fatal,False
+102621,ERA21LA128,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102621/pdf,2/8/2021,Orange,Virginia,United States,38.247194,-78.045611,0,0,Non-Fatal,non-fatal,False
+102670,ERA21LA137,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102670/pdf,2/24/2021,Winchester,Virginia,United States,39.168343,-78.356481,0,0,Non-Fatal,non-fatal,False
+102711,ERA21FA148,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102711/pdf,3/4/2021,Purcellville,Virginia,United States,39.23045,-77.74829,1,0,Fatal,fatal,True
+102905,ERA21LA183,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102905/pdf,4/12/2021,Weyers Cave,Virginia,United States,38.263833,-78.896444,0,1,Non-Fatal,non-fatal,False
+103003,ERA21LA198,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103003/pdf,4/24/2021,Fredericksburg,Virginia,United States,38.266708,-77.448452,0,0,Non-Fatal,non-fatal,False
+103014,ERA21LA202,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103014/pdf,5/2/2021,Martinsville,Virginia,United States,36.631359,-80.018125,0,0,Non-Fatal,non-fatal,False
+103020,ERA21LA204,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103020/pdf,5/3/2021,Winchester,Virginia,United States,39.144069,-78.14547,0,0,Non-Fatal,non-fatal,False
+103251,ERA21LA248,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103251/pdf,6/13/2021,Nellysford,Virginia,United States,37.879582,-78.893634,0,1,Non-Fatal,non-fatal,False
+103257,ERA21LA250,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103257/pdf,6/14/2021,Matthews,Virginia,United States,37.371667,-76.228333,0,0,Non-Fatal,non-fatal,False
+103518,ERA21LA294,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103518/pdf,7/19/2021,Dinwiddie,Virginia,United States,37.02,-77.59,0,0,Non-Fatal,non-fatal,False
+103864,ERA21LA358,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103864/pdf,9/13/2021,Abingdon,Virginia,United States,36.687103,-82.033327,0,0,Non-Fatal,non-fatal,False
+104091,ERA22LA012,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104091/pdf,10/9/2021,Winchester,Virginia,United States,39.143528,-78.144444,0,0,Non-Fatal,non-fatal,False
+104130,ERA22LA020,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104130/pdf,10/17/2021,Lynchburg,Virginia,United States,37.318374,-79.205609,0,0,Non-Fatal,non-fatal,False
+104220,ERA22LA052,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104220/pdf,11/7/2021,Ridgeway,Virginia,United States,36.581011,-79.878105,0,0,Non-Fatal,non-fatal,False
+104252,ERA22LA061,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104252/pdf,11/12/2021,Martinsville,Virginia,United States,36.630752,-80.018338,0,0,Non-Fatal,non-fatal,False
+104375,ERA22LA084,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104375/pdf,12/3/2021,Midland,Virginia,United States,38.58669,-77.711039,0,0,Non-Fatal,non-fatal,False

@@ -1,0 +1,704 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+82734,ANC12CA018,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82734/pdf,1/21/2012,Beluga,Alaska,United States,61.644721,-150.101943,0,0,Non-Fatal,non-fatal,False
+82756,ANC12CA020,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82756/pdf,1/26/2012,Old Minto,Alaska,United States,60.209575,-162.030181,0,0,Non-Fatal,non-fatal,False
+82889,ANC12CA022,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82889/pdf,2/10/2012,McCarthy,Alaska,United States,62.100051,-145.529891,0,0,Non-Fatal,non-fatal,False
+82942,ANC12CA023,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82942/pdf,2/20/2012,Anchorage,Alaska,United States,61.168056,-149.971939,0,0,Non-Fatal,non-fatal,False
+83150,ANC12CA027,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83150/pdf,3/9/2012,Naknek,Alaska,United States,58.778331,-156.942214,0,0,Non-Fatal,non-fatal,False
+83257,ANC12FA028,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83257/pdf,3/30/2012,Sleetmute,Alaska,United States,61.940929,-157.620376,2,0,Fatal,fatal,True
+83352,ANC12CA029,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83352/pdf,3/30/2012,Palmer,Alaska,United States,61.186389,-148.592498,0,0,Non-Fatal,non-fatal,False
+83407,ANC12CA030,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83407/pdf,4/15/2012,Fairbanks,Alaska,United States,64.815277,-147.856384,0,0,Non-Fatal,non-fatal,False
+83447,ANC12LA031,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83447/pdf,4/21/2012,Fairbanks,Alaska,United States,64.815277,-147.856384,0,1,Non-Fatal,non-fatal,False
+83452,ANC12CA032,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83452/pdf,4/21/2012,Palmer,Alaska,United States,61.672779,-149.40277,0,0,Non-Fatal,non-fatal,False
+83509,ANC12CA034,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83509/pdf,4/29/2012,Palmer,Alaska,United States,61.476943,-148.748886,0,0,Non-Fatal,non-fatal,False
+83510,ANC12TA035,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83510/pdf,4/27/2012,Paxon,Alaska,United States,61.210491,-149.890518,0,0,Non-Fatal,non-fatal,False
+83607,ANC12CA037,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83607/pdf,5/9/2012,Gakona,Alaska,United States,62.191944,-144.866394,0,0,Non-Fatal,non-fatal,False
+83657,ANC12CA039,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83657/pdf,5/14/2012,Talkeetna,Alaska,United States,62.526668,-150.883331,0,0,Non-Fatal,non-fatal,False
+83691,ANC12CA040,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83691/pdf,5/19/2012,Whittier,Alaska,United States,60.75,-148.75,0,0,Non-Fatal,non-fatal,False
+83796,ANC12CA043,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83796/pdf,5/29/2012,Anchorage,Alaska,United States,60.85361,-150.040557,0,0,Non-Fatal,non-fatal,False
+83813,ANC12CA044,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83813/pdf,5/30/2012,Tok,Alaska,United States,63.324443,-142.952224,0,0,Non-Fatal,non-fatal,False
+83848,ANC12CA045,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83848/pdf,6/2/2012,Ketchikan,Alaska,United States,55.352222,-131.706665,0,0,Non-Fatal,non-fatal,False
+83877,ANC12LA046,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83877/pdf,6/1/2012,Skwentna,Alaska,United States,60.066665,-150.896667,0,0,Non-Fatal,non-fatal,False
+83878,ANC12CA047,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83878/pdf,5/13/2012,Sterling,Alaska,United States,60.54111,-150.599166,0,0,Non-Fatal,non-fatal,False
+83934,ANC12CA050,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83934/pdf,6/3/2012,Chugiak,Alaska,United States,61.392223,-149.466949,0,0,Non-Fatal,non-fatal,False
+84024,ANC12CA052,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84024/pdf,6/16/2012,Willow,Alaska,United States,61.7,-150.316665,0,0,Non-Fatal,non-fatal,False
+84026,ANC12CA053,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84026/pdf,6/16/2012,Skwentna,Alaska,United States,61.95,-151.366668,0,0,Non-Fatal,non-fatal,False
+84027,ANC12CA054,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84027/pdf,6/16/2012,Skwentna,Alaska,United States,61.850276,-151.10028,0,0,Non-Fatal,non-fatal,False
+84058,ANC12LA056,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84058/pdf,6/20/2012,Deadhorse,Alaska,United States,69.150276,-148.824447,0,2,Non-Fatal,non-fatal,False
+84074,ANC12CA057,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84074/pdf,6/22/2012,Tyonek,Alaska,United States,60.991664,-151.65834,0,0,Non-Fatal,non-fatal,False
+84116,ANC12CA059,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84116/pdf,6/20/2012,Two Rivers,Alaska,United States,65.059722,-146.316665,0,0,Non-Fatal,non-fatal,False
+84199,ANC12LA061,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84199/pdf,6/30/2012,Bettles,Alaska,United States,67.24015,-161.190597,0,0,Non-Fatal,non-fatal,False
+84202,ANC12CA062,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84202/pdf,7/3/2012,Illiamna,Alaska,United States,59.755554,-154.91777,0,0,Non-Fatal,non-fatal,False
+84205,ANC12LA064,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84205/pdf,7/4/2012,Chugiak,Alaska,United States,61.394443,-149.842773,0,0,Non-Fatal,non-fatal,False
+84206,ANC12CA065,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84206/pdf,7/3/2012,McGrath,Alaska,United States,62.952777,-155.606948,0,0,Non-Fatal,non-fatal,False
+84216,ANC12FA066,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84216/pdf,7/18/2012,Fairbanks,Alaska,United States,65.453887,-147.556106,2,0,Fatal,fatal,True
+84217,ANC12CA067,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84217/pdf,7/6/2012,Kotlik,Alaska,United States,63.025001,-163.526107,0,0,Non-Fatal,non-fatal,False
+84229,ANC12LA068,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84229/pdf,7/7/2012,North Pole,Alaska,United States,64.818054,-147.53778,0,0,Non-Fatal,non-fatal,False
+84252,ANC12CA069,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84252/pdf,7/6/2012,Skwentna,Alaska,United States,61.650554,-151.315277,0,0,Non-Fatal,non-fatal,False
+84255,ANC12CA071,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84255/pdf,7/6/2012,Fairbanks,Alaska,United States,64.741668,-147.95166,0,0,Non-Fatal,non-fatal,False
+84257,ANC12CA072,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84257/pdf,7/6/2012,Quinhagak,Alaska,United States,59.774444,-161.769729,0,0,Non-Fatal,non-fatal,False
+84268,ANC12FA073,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84268/pdf,7/10/2012,Homer,Alaska,United States,59.639999,-151.501113,1,0,Fatal,fatal,True
+84269,ANC12CA074,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84269/pdf,7/10/2012,Tynoek,Alaska,United States,61.268611,-152.058609,0,0,Non-Fatal,non-fatal,False
+84350,ANC12LA075,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84350/pdf,7/14/2012,Kenai,Alaska,United States,60.6525,-151.127777,0,0,Non-Fatal,non-fatal,False
+84377,ANC12CA076,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84377/pdf,7/18/2012,Whittier,Alaska,United States,61.068889,-147.908615,0,0,Non-Fatal,non-fatal,False
+84393,ANC12CA078,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84393/pdf,7/20/2012,Talkeetna,Alaska,United States,62.44926,-149.790237,0,0,Non-Fatal,non-fatal,False
+84474,ANC12FA079,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84474/pdf,7/26/2012,Fairbanks,Alaska,United States,64.810455,-147.72026,0,0,Non-Fatal,non-fatal,False
+84526,ANC12LA080,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84526/pdf,7/31/2012,Gakona,Alaska,United States,62.721111,-143.935272,0,1,Non-Fatal,non-fatal,False
+84551,ANC12CA081,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84551/pdf,6/20/2012,Beluga,Alaska,United States,61.42889,-150.791381,0,0,Non-Fatal,non-fatal,False
+84552,ANC12CA082,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84552/pdf,7/31/2012,Wainwright,Alaska,United States,70.638053,-159.99472,0,0,Non-Fatal,non-fatal,False
+84637,ANC12CA086,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84637/pdf,8/12/2012,Anchorage,Alaska,United States,61.284721,-149.803054,0,0,Non-Fatal,non-fatal,False
+84678,ANC12CA088,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84678/pdf,8/15/2012,Talkeetna,Alaska,United States,62.450401,-149.789199,0,0,Non-Fatal,non-fatal,False
+84747,ANC12CA089,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84747/pdf,8/18/2012,Coldfoot,Alaska,United States,68.132774,-149.479171,0,0,Non-Fatal,non-fatal,False
+84748,ANC12CA090,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84748/pdf,8/17/2012,Fairbanks,Alaska,United States,64.813056,-147.854721,0,0,Non-Fatal,non-fatal,False
+84776,ANC12CA091,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84776/pdf,8/17/2012,Talkeetna,Alaska,United States,62.356945,-147.814727,0,0,Non-Fatal,non-fatal,False
+84824,ANC12LA093,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84824/pdf,8/25/2012,Nikolai,Alaska,United States,62.505279,-153.887496,0,0,Non-Fatal,non-fatal,False
+84848,ANC12CA094,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84848/pdf,8/28/2012,Delta Junction,Alaska,United States,64.550003,-144.25,0,0,Non-Fatal,non-fatal,False
+84872,ANC12FA095,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84872/pdf,8/31/2012,Homer,Alaska,United States,59.526111,-151.341659,1,0,Fatal,fatal,True
+84898,ANC12LA096,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84898/pdf,9/2/2012,Willow,Alaska,United States,61.739444,-150.036666,0,1,Non-Fatal,non-fatal,False
+84899,ANC12LA097,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84899/pdf,9/2/2012,Coldfoot,Alaska,United States,68.133888,-149.47528,0,1,Non-Fatal,non-fatal,False
+84903,ANC12CA098,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84903/pdf,8/30/2012,Juneau,Alaska,United States,58.354999,-134.576385,0,0,Non-Fatal,non-fatal,False
+84921,ANC12CA099,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84921/pdf,9/2/2012,Kenai,Alaska,United States,60.822776,-151.818328,0,0,Non-Fatal,non-fatal,False
+84925,ANC12CA100,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84925/pdf,8/31/2012,Talkeetna,Alaska,United States,62.766666,-148.583328,0,0,Non-Fatal,non-fatal,False
+84929,ANC12CA101,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84929/pdf,9/4/2012,Ekwok,Alaska,United States,59.352222,-157.473617,0,0,Non-Fatal,non-fatal,False
+84953,ANC12CA102,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84953/pdf,8/31/2012,Aniak,Alaska,United States,60.810722,-161.850219,0,0,Non-Fatal,non-fatal,False
+85005,ANC12LA103,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85005/pdf,9/7/2012,Homer,Alaska,United States,59.562221,-150.353332,0,0,Non-Fatal,non-fatal,False
+85027,ANC12CA104,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85027/pdf,9/8/2012,Nikiski,Alaska,United States,60.9225,-150.733612,0,0,Non-Fatal,non-fatal,False
+85035,ANC12CA105,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85035/pdf,9/13/2012,Bethel,Alaska,United States,60.789443,-161.426116,0,0,Non-Fatal,non-fatal,False
+85068,ANC12LA106,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85068/pdf,9/13/2012,Denali Park,Alaska,United States,63.645278,-148.798049,0,0,Non-Fatal,non-fatal,False
+85069,ANC12LA107,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85069/pdf,9/17/2012,Talkeetna,Alaska,United States,62.093055,-150.118606,0,1,Non-Fatal,non-fatal,False
+85071,ANC12CA108,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85071/pdf,9/14/2012,Atqasuk,Alaska,United States,68.900558,-156.717224,0,0,Non-Fatal,non-fatal,False
+85091,ANC12CA109,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85091/pdf,8/31/2012,Healy,Alaska,United States,64.125,-147.784439,0,0,Non-Fatal,non-fatal,False
+85112,ANC12CA110,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85112/pdf,9/21/2012,Port Alsworth,Alaska,United States,60.13861,-154.368896,0,0,Non-Fatal,non-fatal,False
+85148,ANC12CA111,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85148/pdf,9/25/2012,Anchorage,Alaska,United States,61.208057,-149.84027,0,0,Non-Fatal,non-fatal,False
+85164,ANC12CA112,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85164/pdf,9/23/2012,Fairbanks,Alaska,United States,64.192222,-147.923889,0,0,Non-Fatal,non-fatal,False
+85165,ANC12LA113,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85165/pdf,9/28/2012,Fairbanks,Alaska,United States,64.808334,-147.91777,0,0,Non-Fatal,non-fatal,False
+85175,ANC12GA114,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85175/pdf,9/30/2012,Anchorage,Alaska,United States,61.17472,-149.971939,0,0,Non-Fatal,non-fatal,False
+85178,ANC12CA115,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85178/pdf,9/30/2012,Port Lions,Alaska,United States,57.65361,-152.937225,0,0,Non-Fatal,non-fatal,False
+85273,ANC13FA001,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85273/pdf,10/7/2012,Aleknagik,Alaska,United States,59.972221,-158.35028,1,0,Fatal,fatal,True
+85304,ANC13CA002,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85304/pdf,10/9/2012,Buckland,Alaska,United States,65.758331,-160.559722,0,0,Non-Fatal,non-fatal,False
+85314,ANC13CA003,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85314/pdf,10/7/2012,Buckland,Alaska,United States,65.908058,-161.924163,0,0,Non-Fatal,non-fatal,False
+85340,ANC13FA004,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85340/pdf,10/15/2012,Willow,Alaska,United States,61.83361,-150.560562,1,0,Fatal,fatal,True
+85443,ANC13CA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85443/pdf,10/20/2012,Cordova,Alaska,United States,61.24139,-147.044448,0,0,Non-Fatal,non-fatal,False
+85469,ANC13FAMS1,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85469/pdf,10/13/2012,Kenai,Alaska,United States,60.472778,-151.022216,1,0,Fatal,fatal,True
+85496,ANC13LA008,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85496/pdf,11/4/2012,Kenai,Alaska,United States,60.573333,-151.24472,0,0,Non-Fatal,non-fatal,False
+85575,ANC13LA009,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85575/pdf,11/11/2012,Akiachak,Alaska,United States,60.906387,-161.493057,0,0,Non-Fatal,non-fatal,False
+85803,ANC13LA016,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85803/pdf,12/13/2012,Juneau,Alaska,United States,58.354721,-134.57611,0,0,Non-Fatal,non-fatal,False
+85965,ANC13CA019,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85965/pdf,1/4/2013,Palmer,Alaska,United States,61.905277,-148.923614,0,0,Non-Fatal,non-fatal,False
+86061,ANC13CA020,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86061/pdf,1/5/2013,Skwentna,Alaska,United States,62.516666,-151.483337,0,0,Non-Fatal,non-fatal,False
+86156,ANC13LA021,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86156/pdf,2/5/2013,Kalskag,Alaska,United States,61.536388,-160.341384,0,1,Non-Fatal,non-fatal,False
+86237,ANC13FA024,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86237/pdf,2/17/2013,Skwentna,Alaska,United States,62.092498,-152.73944,0,2,Non-Fatal,non-fatal,False
+86349,ANC13LA026,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86349/pdf,2/28/2013,Sterling,Alaska,United States,60.551109,-150.790283,0,2,Non-Fatal,non-fatal,False
+86355,ANC13FA027,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86355/pdf,3/4/2013,Nikolai,Alaska,United States,62.241111,-153.154449,3,0,Fatal,fatal,True
+86359,ANC13CA028,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86359/pdf,3/5/2013,Flat,Alaska,United States,62.543609,-158.097229,0,0,Non-Fatal,non-fatal,False
+86382,ANC13CA031,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86382/pdf,3/8/2013,Chickaloon,Alaska,United States,61.668056,-148.270004,0,0,Non-Fatal,non-fatal,False
+86456,ANC13LA033,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86456/pdf,3/14/2013,Tyonek,Alaska,United States,61.08052,-151.160461,0,0,Non-Fatal,non-fatal,False
+86458,ANC13CA034,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86458/pdf,3/17/2013,Big Lake,Alaska,United States,61.466667,-150.399993,0,0,Non-Fatal,non-fatal,False
+86508,ANC13CA035,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86508/pdf,3/24/2013,Stevens Village,Alaska,United States,66.174163,-149.120285,0,0,Non-Fatal,non-fatal,False
+86550,ANC13GA036,https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR1403.pdf,3/30/2013,Talkeetna,Alaska,United States,62.321388,-149.933883,3,0,Fatal,fatal,True
+86775,ANC13CA039,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86775/pdf,4/28/2013,Seward,Alaska,United States,60.126945,-149.418884,0,0,Non-Fatal,non-fatal,False
+86819,ANC13CA040,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86819/pdf,5/5/2013,Juneau,Alaska,United States,58.354999,-134.576385,0,0,Non-Fatal,non-fatal,False
+86837,ANC13CA043,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86837/pdf,5/5/2013,Soldotna,Alaska,United States,60.474723,-151.038055,0,0,Non-Fatal,non-fatal,False
+86894,ANC13CA044,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86894/pdf,5/7/2013,Palmer,Alaska,United States,61.95,-149.216659,0,0,Non-Fatal,non-fatal,False
+86904,ANC13CA045,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86904/pdf,5/13/2013,Nikiski,Alaska,United States,60.173889,-152.716659,0,0,Non-Fatal,non-fatal,False
+86907,ANC13CA046,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86907/pdf,4/23/2013,Nenana,Alaska,United States,64.107223,-147.974166,0,0,Non-Fatal,non-fatal,False
+86966,ANC13LA048,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86966/pdf,5/19/2013,Juneau,Alaska,United States,58.409721,-134.852493,0,0,Non-Fatal,non-fatal,False
+86967,ANC13LA049,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86967/pdf,5/19/2013,Big Lake,Alaska,United States,61.389999,-149.838882,0,0,Non-Fatal,non-fatal,False
+87034,ANC13CA050,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87034/pdf,5/28/2013,Napakiak,Alaska,United States,60.6875,-161.973617,0,0,Non-Fatal,non-fatal,False
+87082,ANC13CA052,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87082/pdf,5/30/2013,Fairbanks,Alaska,United States,64.856666,-148.854995,0,0,Non-Fatal,non-fatal,False
+87218,ANC13CA055,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87218/pdf,6/11/2013,Juneau,Alaska,United States,58.354721,-134.57611,0,0,Non-Fatal,non-fatal,False
+87238,ANC13CA056,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87238/pdf,6/19/2013,Dillingham,Alaska,United States,59.071666,-158.039443,0,0,Non-Fatal,non-fatal,False
+87325,ANC13FA058,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87325/pdf,6/28/2013,Cantwell,Alaska,United States,63.257221,-149.250549,3,0,Fatal,fatal,True
+87344,ANC13LA059,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87344/pdf,6/29/2013,Skwentna,Alaska,United States,61.974445,-151.159729,0,0,Non-Fatal,non-fatal,False
+87355,ANC13CA060,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87355/pdf,6/30/2013,Talkeetna,Alaska,United States,62.277221,-148.796386,0,0,Non-Fatal,non-fatal,False
+87451,ANC13CA062,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87451/pdf,7/6/2013,Kodiak,Alaska,United States,57.836666,-152.366668,0,0,Non-Fatal,non-fatal,False
+87452,ANC13LA063,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87452/pdf,7/2/2013,Fairbanks,Alaska,United States,64.808891,-147.853881,0,0,Non-Fatal,non-fatal,False
+87482,ANC13CA064,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87482/pdf,7/13/2013,Kenai,Alaska,United States,60.283054,-152.455001,0,0,Non-Fatal,non-fatal,False
+87495,ANC13LA065,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87495/pdf,7/12/2013,Talkeetna,Alaska,United States,62.318889,-150.116104,0,0,Non-Fatal,non-fatal,False
+87558,ANC13LA067,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87558/pdf,7/23/2013,Anchorage,Alaska,United States,61.174167,-149.998062,0,0,Non-Fatal,non-fatal,False
+87618,ANC13CA069,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87618/pdf,7/28/2013,Kotzebue,Alaska,United States,66.70861,-162.419448,0,0,Non-Fatal,non-fatal,False
+87625,ANC13CA070,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87625/pdf,7/27/2013,Fairbanks,Alaska,United States,65.388053,-147.669448,0,0,Non-Fatal,non-fatal,False
+87634,DCA13CA172,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87634/pdf,7/26/2013,Beaufort Sea,Alaska,United States,71.474441,-149.636383,0,0,Non-Fatal,non-fatal,False
+87693,ANC13LA074,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87693/pdf,8/5/2013,Delta Junction,Alaska,United States,64.046669,-145.69555,0,0,Non-Fatal,non-fatal,False
+87719,ANC13CA075,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87719/pdf,8/8/2013,North Pole,Alaska,United States,64.755554,-147.385833,0,0,Non-Fatal,non-fatal,False
+87720,ANC13TA076,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87720/pdf,8/8/2013,Tok,Alaska,United States,61.259944,-149.600173,0,0,Non-Fatal,non-fatal,False
+87725,ANC13CA077,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87725/pdf,8/9/2013,Arctic Village,Alaska,United States,68.118057,-147.201385,0,0,Non-Fatal,non-fatal,False
+87772,ANC13CA078,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87772/pdf,8/11/2013,McCarthy,Alaska,United States,62.100605,-145.529693,0,0,Non-Fatal,non-fatal,False
+87777,ANC13LA079,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87777/pdf,8/13/2013,Paxson,Alaska,United States,62.956665,-146.384719,0,0,Non-Fatal,non-fatal,False
+87798,ANC13CA080,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87798/pdf,8/15/2013,Sleetmute,Alaska,United States,61.700279,-157.165832,0,0,Non-Fatal,non-fatal,False
+87838,ANC13LA081,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87838/pdf,8/21/2013,Palmer,Alaska,United States,61.61639,-149.22084,0,0,Non-Fatal,non-fatal,False
+87849,ANC13CA082,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87849/pdf,8/15/2013,Sleetmute,Alaska,United States,61.700279,-159.165832,0,0,Non-Fatal,non-fatal,False
+87851,ANC13CA083,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87851/pdf,8/23/2013,Talkeetna,Alaska,United States,62.320278,-150.093612,0,0,Non-Fatal,non-fatal,False
+87853,ANC13FA084,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87853/pdf,8/24/2013,Anchorage,Alaska,United States,61.215831,-149.856109,2,0,Fatal,fatal,True
+87885,ANC13CA086,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87885/pdf,8/27/2013,Anchorage,Alaska,United States,61.208057,-149.837493,0,0,Non-Fatal,non-fatal,False
+87887,ANC13CA087,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87887/pdf,8/27/2013,Bethel,Alaska,United States,60.781944,-161.743057,0,0,Non-Fatal,non-fatal,False
+87917,ANC13LA089,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87917/pdf,7/22/2013,Hoonah,Alaska,United States,57.926109,-135.163055,0,0,Non-Fatal,non-fatal,False
+87921,ANC13FA090,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87921/pdf,8/29/2013,Sutton,Alaska,United States,61.79111,-149.013885,2,0,Fatal,fatal,True
+87943,ANC13FA091,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87943/pdf,8/30/2013,Nikolai,Alaska,United States,62.292499,-152.353332,1,1,Fatal,fatal,True
+87964,ANC13CA092,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87964/pdf,9/3/2013,Skwentna,Alaska,United States,62.079166,-153.048339,0,0,Non-Fatal,non-fatal,False
+87991,ANC13FA093,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87991/pdf,9/5/2013,Glennallen,Alaska,United States,62.534442,-147.609725,1,0,Fatal,fatal,True
+88017,ANC13FA095,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88017/pdf,9/9/2013,Big Lake,Alaska,United States,61.459522,-150.090255,1,1,Fatal,fatal,True
+88031,ANC13CA096,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88031/pdf,9/7/2013,Talkeetna,Alaska,United States,62.094444,-149.680282,0,0,Non-Fatal,non-fatal,False
+88042,ANC13LA100,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88042/pdf,9/13/2013,Kotzebue,Alaska,United States,67.17778,-161.863052,0,2,Non-Fatal,non-fatal,False
+88053,ANC13CA101,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88053/pdf,9/13/2013,Iliamna,Alaska,United States,59.440834,-156.534164,0,0,Non-Fatal,non-fatal,False
+88057,ANC13LA102,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88057/pdf,9/5/2013,Nondalton,Alaska,United States,60.20861,-155.28334,0,0,Non-Fatal,non-fatal,False
+88062,ANC13FAMS2,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88062/pdf,9/9/2013,Yakutat,Alaska,United States,59.503334,-139.660278,1,0,Fatal,fatal,True
+88092,ANC13CA104,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88092/pdf,9/18/2013,Delta Junction,Alaska,United States,64.561668,-145.776672,0,0,Non-Fatal,non-fatal,False
+88125,ANC13CA105,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88125/pdf,9/24/2013,Big Lake,Alaska,United States,61.536109,-149.813888,0,0,Non-Fatal,non-fatal,False
+88168,ANC13CA106,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88168/pdf,9/28/2013,Pilot Point,Alaska,United States,57.580276,-157.571945,0,0,Non-Fatal,non-fatal,False
+88169,ANC13CA107,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88169/pdf,9/30/2013,Wasilla,Alaska,United States,61.591945,-149.358612,0,0,Non-Fatal,non-fatal,False
+88234,ANC14FA002,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88234/pdf,10/17/2013,Fairbanks,Alaska,United States,64.796112,-147.880828,1,2,Fatal,fatal,True
+88345,ANC14CA004,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88345/pdf,10/10/2013,Talkeetna,Alaska,United States,62.618888,-150.958892,0,0,Non-Fatal,non-fatal,False
+88430,ANC14CA005,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88430/pdf,11/12/2013,Juneau,Alaska,United States,58.579132,-134.770095,0,0,Non-Fatal,non-fatal,False
+88507,ANC14CA009,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88507/pdf,11/23/2013,Nenana,Alaska,United States,64.470497,-148.570129,0,0,Non-Fatal,non-fatal,False
+88518,ANC14CA010,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88518/pdf,12/4/2013,Soldotna,Alaska,United States,60.537223,-150.868057,0,0,Non-Fatal,non-fatal,False
+88588,ANC14CA013,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88588/pdf,12/23/2013,Platinum,Alaska,United States,59.0125,-161.822494,0,0,Non-Fatal,non-fatal,False
+88642,ANC14CA014,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88642/pdf,1/4/2014,Nome,Alaska,United States,64.710372,-164.620941,0,0,Non-Fatal,non-fatal,False
+88775,ANC14CA015,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88775/pdf,2/5/2014,Wasilla,Alaska,United States,61.581665,-149.452499,0,0,Non-Fatal,non-fatal,False
+88872,ANC14CA017,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88872/pdf,3/2/2014,Alegnagik,Alaska,United States,59.435554,-158.943893,0,0,Non-Fatal,non-fatal,False
+88909,ANC14CA018,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88909/pdf,3/8/2014,Tanana,Alaska,United States,65.533332,-151.916671,0,0,Non-Fatal,non-fatal,False
+88980,ANC14CA021,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88980/pdf,3/27/2014,North Pole,Alaska,United States,64.489997,-147.25,0,0,Non-Fatal,non-fatal,False
+89029,ANC14FA022,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89029/pdf,4/8/2014,Kwethluk,Alaska,United States,60.524723,-161.087219,2,0,Fatal,fatal,True
+89039,ANC13CA109,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89039/pdf,6/5/2013,Glennallen,Alaska,United States,62.100975,-145.529724,0,0,Non-Fatal,non-fatal,False
+89116,ANC14CA023,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89116/pdf,4/21/2014,Kenai,Alaska,United States,60.159442,-152.701385,0,0,Non-Fatal,non-fatal,False
+89136,ANC14CA024,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89136/pdf,4/28/2014,Fairbanks,Alaska,United States,64.808052,-147.862503,0,0,Non-Fatal,non-fatal,False
+89140,ANC14CA025,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89140/pdf,4/29/2014,Cooper Landing,Alaska,United States,60.378334,-150.079727,0,0,Non-Fatal,non-fatal,False
+89170,ANC14CA026,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89170/pdf,5/2/2014,Soldotna,Alaska,United States,60.474723,-151.041946,0,0,Non-Fatal,non-fatal,False
+89171,ANC14CA027,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89171/pdf,5/4/2014,Wasilla,Alaska,United States,61.613609,-149.673049,0,0,Non-Fatal,non-fatal,False
+89274,ANC14CA029,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89274/pdf,5/26/2014,Anchorage,Alaska,United States,61.109024,-149.899398,0,0,Non-Fatal,non-fatal,False
+89299,ANC14FA030,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89299/pdf,5/28/2014,Chugiak,Alaska,United States,61.417778,-149.500839,1,0,Fatal,fatal,True
+89320,ANC14CA031,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89320/pdf,5/28/2014,Cordova,Alaska,United States,60.542499,-145.752502,0,0,Non-Fatal,non-fatal,False
+89325,ANC14CA032,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89325/pdf,5/31/2014,Willow,Alaska,United States,61.746944,-150.059448,0,0,Non-Fatal,non-fatal,False
+89336,ANC14CA033,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89336/pdf,5/30/2014,Fairbanks,Alaska,United States,64.810836,-147.720703,0,0,Non-Fatal,non-fatal,False
+89339,ANC14LA034,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89339/pdf,6/1/2014,Galena,Alaska,United States,64.739822,-156.85086,0,0,Non-Fatal,non-fatal,False
+89350,ANC14LA035,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89350/pdf,5/30/2014,Homer,Alaska,United States,59.643333,-151.548614,0,0,Non-Fatal,non-fatal,False
+89370,ANC14CA037,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89370/pdf,6/4/2014,Fairbanks,Alaska,United States,64.81472,-147.860549,0,0,Non-Fatal,non-fatal,False
+89378,ANC14LA038,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89378/pdf,6/5/2014,Talkeetna,Alaska,United States,62.517223,-150.945281,0,0,Non-Fatal,non-fatal,False
+89407,ANC14LA039,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89407/pdf,6/7/2014,Wasilla,Alaska,United States,61.572776,-149.535552,0,0,Non-Fatal,non-fatal,False
+89436,ANC14LA041,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89436/pdf,6/11/2014,Anchorage,Alaska,United States,61.213333,-149.84445,0,0,Non-Fatal,non-fatal,False
+89495,ANC14CA043,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89495/pdf,6/18/2014,Beluga,Alaska,United States,55.920562,-159.489028,0,0,Non-Fatal,non-fatal,False
+89496,ANC14CA044,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89496/pdf,6/19/2014,Egegik,Alaska,United States,58.273056,-157.537506,0,0,Non-Fatal,non-fatal,False
+89525,ANC14CA045,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89525/pdf,6/21/2014,Nenana,Alaska,United States,64.510002,-148.81694,0,0,Non-Fatal,non-fatal,False
+89550,ANC14LA046,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89550/pdf,6/25/2014,Iliamna,Alaska,United States,59.89611,-156.506103,0,1,Non-Fatal,non-fatal,False
+89591,ANC14FA050,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89591/pdf,7/2/2014,Anchorage,Alaska,United States,61.214443,-149.85028,1,0,Fatal,fatal,True
+89643,ANC14LA052,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89643/pdf,7/8/2014,Palmer,Alaska,United States,61.554443,-149.133605,0,0,Non-Fatal,non-fatal,False
+89666,ANC14CA053,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89666/pdf,7/11/2014,Prudhoe Bay,Alaska,United States,69.358886,-148.700836,0,0,Non-Fatal,non-fatal,False
+89667,ANC14LA054,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89667/pdf,7/14/2014,Seward,Alaska,United States,59.916667,-147.49472,0,0,Non-Fatal,non-fatal,False
+89704,ANC14LA055,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89704/pdf,7/18/2014,Palmer,Alaska,United States,61.414722,-148.320281,0,0,Non-Fatal,non-fatal,False
+89774,ANC14LA056,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89774/pdf,7/28/2014,Dillingham,Alaska,United States,58.819431,-157.8609,0,0,Non-Fatal,non-fatal,False
+89791,ANC14CA057,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89791/pdf,8/1/2014,Illiamna,Alaska,United States,59.20639,-154.97055,0,0,Non-Fatal,non-fatal,False
+89799,ANC14LA058,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89799/pdf,7/30/2014,Talkeetna,Alaska,United States,62.841388,-149.105834,0,0,Non-Fatal,non-fatal,False
+89802,ANC14CA059,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89802/pdf,8/2/2014,Palmer,Alaska,United States,61.530834,-149.011672,0,0,Non-Fatal,non-fatal,False
+89825,ANC14CA061,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89825/pdf,7/26/2014,Ketchikan,Alaska,United States,55.5,-130.630004,0,0,Non-Fatal,non-fatal,False
+89832,ANC14FA062,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89832/pdf,8/10/2014,Big Lake,Alaska,United States,61.32389,-149.490005,1,1,Fatal,fatal,True
+89844,ANC14CA063,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89844/pdf,8/10/2014,Talkeetna,Alaska,United States,62.157775,-150.159729,0,0,Non-Fatal,non-fatal,False
+89883,ANC14CA064,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89883/pdf,8/14/2014,Gustavus,Alaska,United States,58.906665,-135.756668,0,0,Non-Fatal,non-fatal,False
+89909,ANC14LA065,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89909/pdf,8/18/2014,Nikiski,Alaska,United States,60.764446,-151.890548,0,0,Non-Fatal,non-fatal,False
+89929,ANC14CA066,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89929/pdf,8/16/2014,Skwentna,Alaska,United States,61.929756,-151.72937,0,0,Non-Fatal,non-fatal,False
+89946,ANC14CA067,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89946/pdf,8/23/2014,Talkeetna,Alaska,United States,62.527778,-149.91806,0,0,Non-Fatal,non-fatal,False
+89986,ANC14CA070,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89986/pdf,8/26/2014,Beluga,Alaska,United States,55.920314,-159.490509,0,0,Non-Fatal,non-fatal,False
+90001,ANC14LA071,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90001/pdf,8/31/2014,Anchorage,Alaska,United States,61.191112,-149.97055,0,0,Non-Fatal,non-fatal,False
+90004,ANC14CA072,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90004/pdf,9/1/2014,Talkeetna,Alaska,United States,62.567222,-149.776672,0,0,Non-Fatal,non-fatal,False
+90021,ANC14CA073,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90021/pdf,9/3/2014,Palmer,Alaska,United States,61.316387,-148.535278,0,0,Non-Fatal,non-fatal,False
+90024,ANC14CA074,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90024/pdf,9/4/2014,Fairbanks,Alaska,United States,64.821945,-147.522506,0,0,Non-Fatal,non-fatal,False
+90030,ANC14CA075,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90030/pdf,9/3/2014,Homer,Alaska,United States,59.760276,-150.989166,0,0,Non-Fatal,non-fatal,False
+90049,ANC14CA076,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90049/pdf,9/6/2014,Gustavus,Alaska,United States,58.25,-135.259994,0,0,Non-Fatal,non-fatal,False
+90068,ANC14CA078,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90068/pdf,9/12/2014,Nenana,Alaska,United States,64.546669,-149.06694,0,0,Non-Fatal,non-fatal,False
+90069,ANC14CA079,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90069/pdf,9/13/2014,Susitna,Alaska,United States,61.709999,-151.520004,0,0,Non-Fatal,non-fatal,False
+90070,ANC14CA080,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90070/pdf,9/13/2014,Aniak,Alaska,United States,60.691112,-159.659439,0,0,Non-Fatal,non-fatal,False
+90078,ANC14CA081,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90078/pdf,9/8/2014,Talkeetna,Alaska,United States,61.579914,-149.439315,0,0,Non-Fatal,non-fatal,False
+90082,ANC14CA082,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90082/pdf,9/15/2014,Prospect Creek,Alaska,United States,66.813331,-150.643051,0,0,Non-Fatal,non-fatal,False
+90088,ANC14CA083,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90088/pdf,9/16/2014,Ambler,Alaska,United States,66.897499,-158.573883,0,0,Non-Fatal,non-fatal,False
+90089,ANC14CA084,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90089/pdf,9/17/2014,Cantwell,Alaska,United States,62.950832,-148.246673,0,0,Non-Fatal,non-fatal,False
+90134,ANC14CA086,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90134/pdf,9/21/2014,Iliamna,Alaska,United States,59.803333,-155.466949,0,0,Non-Fatal,non-fatal,False
+90144,ANC14CA087,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90144/pdf,9/19/2014,Arctic Village,Alaska,United States,68.09082,-145.599624,0,0,Non-Fatal,non-fatal,False
+90188,ANC14CA089,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90188/pdf,9/29/2014,Kodiak,Alaska,United States,57.752223,-152.511108,0,0,Non-Fatal,non-fatal,False
+90232,ANC15CA001,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90232/pdf,10/8/2014,Gustavus,Alaska,United States,58.761943,-135.688339,0,0,Non-Fatal,non-fatal,False
+90246,ANC15CA002,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90246/pdf,10/8/2014,Cordova,Alaska,United States,60.107498,-143.203613,0,0,Non-Fatal,non-fatal,False
+90284,ANC15TA003,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90284/pdf,10/19/2014,Anchorage,Alaska,United States,61.056388,-150.375839,0,0,Non-Fatal,non-fatal,False
+90298,ANC14CA090,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90298/pdf,9/29/2014,Port Alsworth,Alaska,United States,60.200603,-154.280151,0,0,Non-Fatal,non-fatal,False
+90634,ANC15LA008,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90634/pdf,1/21/2015,Anchorage,Alaska,United States,61.184444,-149.963607,0,0,Non-Fatal,non-fatal,False
+90679,ANC15FA009,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90679/pdf,1/31/2015,Wasilla,Alaska,United States,61.528057,-149.688049,0,2,Non-Fatal,non-fatal,False
+90682,ANC15LA010,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90682/pdf,1/31/2015,Palmer,Alaska,United States,61.582778,-149.087219,0,0,Non-Fatal,non-fatal,False
+90732,ANC15LA011,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90732/pdf,2/9/2015,Glennallen,Alaska,United States,62.056388,-145.252502,0,0,Non-Fatal,non-fatal,False
+90851,ANC15CA012,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90851/pdf,3/10/2015,Palmer,Alaska,United States,61.409999,-148.546951,0,0,Non-Fatal,non-fatal,False
+90859,ANC15CA013,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90859/pdf,3/1/2015,Cordova,Alaska,United States,60.365001,-146.183883,0,0,Non-Fatal,non-fatal,False
+90867,ANC15CA014,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90867/pdf,3/8/2015,Talkeetna,Alaska,United States,62.178333,-150.174728,0,0,Non-Fatal,non-fatal,False
+90965,ANC15CA016,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90965/pdf,3/30/2015,Wasilla,Alaska,United States,61.395278,-149.840835,0,0,Non-Fatal,non-fatal,False
+90992,ANC15CA019,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90992/pdf,4/1/2015,Palmer,Alaska,United States,61.596668,-149.088058,0,0,Non-Fatal,non-fatal,False
+91000,ANC14LA091,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91000/pdf,9/28/2014,Ft. Yukon,Alaska,United States,66.760833,-144.044174,0,0,Non-Fatal,non-fatal,False
+91013,ANC15LA020,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91013/pdf,4/12/2015,Bettles,Alaska,United States,67.213058,-151.431671,0,0,Non-Fatal,non-fatal,False
+91030,ANC15FA021,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91030/pdf,4/14/2015,Whittier,Alaska,United States,60.707221,-148.103607,1,0,Fatal,fatal,True
+91058,ANC15CA022,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91058/pdf,4/19/2015,Nondalton,Alaska,United States,59.980278,-154.839447,0,1,Non-Fatal,non-fatal,False
+91096,ANC15LA023,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91096/pdf,4/23/2015,Nome,Alaska,United States,64.51139,-165.390274,0,0,Non-Fatal,non-fatal,False
+91138,ANC15CA024,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91138/pdf,5/5/2015,Palmer,Alaska,United States,61.614444,-149.665283,0,0,Non-Fatal,non-fatal,False
+91174,ANC15CA025,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91174/pdf,5/14/2015,Anchorage,Alaska,United States,61.187221,-149.965835,0,0,Non-Fatal,non-fatal,False
+91204,ANC15CA026,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91204/pdf,5/16/2015,Talkeetna,Alaska,United States,62.449535,-149.789367,0,0,Non-Fatal,non-fatal,False
+91233,ANC15CA028,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91233/pdf,5/17/2015,Seward,Alaska,United States,60.129722,-149.416107,0,0,Non-Fatal,non-fatal,False
+91249,ANC15CA030,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91249/pdf,5/26/2015,Port Alsworth,Alaska,United States,60.0,-154.0,0,0,Non-Fatal,non-fatal,False
+91251,ANC15CA031,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91251/pdf,5/27/2015,Palmer,Alaska,United States,61.599445,-149.087493,0,0,Non-Fatal,non-fatal,False
+91274,ANC15FA032,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91274/pdf,5/30/2015,Bethel,Alaska,United States,60.3325,-161.054443,1,0,Fatal,fatal,True
+91276,ANC15LA033,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91276/pdf,5/31/2015,Talkeetna,Alaska,United States,62.324722,-150.089172,0,1,Non-Fatal,non-fatal,False
+91283,ANC15LA034,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91283/pdf,5/31/2015,Skwentna,Alaska,United States,61.701389,-150.936111,0,0,Non-Fatal,non-fatal,False
+91319,ANC15LA035,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91319/pdf,6/4/2015,McCarthy,Alaska,United States,62.099609,-145.529968,1,0,Fatal,fatal,True
+91346,ANC15CA038,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91346/pdf,6/6/2015,Talkeetna,Alaska,United States,62.321666,-150.093887,0,0,Non-Fatal,non-fatal,False
+91379,ANC15CA039,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91379/pdf,6/13/2015,McCarthy,Alaska,United States,62.100292,-145.52922,0,0,Non-Fatal,non-fatal,False
+91380,ANC15CA040,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91380/pdf,6/14/2015,Soldotna,Alaska,United States,60.475276,-151.041107,0,0,Non-Fatal,non-fatal,False
+91490,ANC15LA044,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91490/pdf,7/3/2015,Wasilla,Alaska,United States,61.502223,-149.594451,0,0,Non-Fatal,non-fatal,False
+91496,ANC15CA045,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91496/pdf,6/29/2015,Palmer,Alaska,United States,61.309722,-148.529998,0,0,Non-Fatal,non-fatal,False
+91498,ANC15LA046,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91498/pdf,7/4/2015,Anchorage,Alaska,United States,61.07722,-149.830001,0,0,Non-Fatal,non-fatal,False
+91524,ANC15CA047,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91524/pdf,7/7/2015,Elfin Cove,Alaska,United States,58.194999,-136.347229,0,0,Non-Fatal,non-fatal,False
+91545,ANC15LA048,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91545/pdf,7/11/2015,Juneau,Alaska,United States,58.356666,-134.580276,0,0,Non-Fatal,non-fatal,False
+91592,ANC15FA050,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91592/pdf,7/19/2015,Trapper Creek,Alaska,United States,62.32722,-150.26889,1,0,Fatal,fatal,True
+91598,ANC15CA051,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91598/pdf,7/14/2015,Homer,Alaska,United States,62.179973,-159.840789,0,0,Non-Fatal,non-fatal,False
+91614,ANC15CA052,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91614/pdf,7/22/2015,Wasilla,Alaska,United States,61.615001,-149.618896,0,0,Non-Fatal,non-fatal,False
+91615,ANC15CA053,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91615/pdf,7/22/2015,Kasilof,Alaska,United States,60.283611,-152.458053,0,0,Non-Fatal,non-fatal,False
+91619,ANC15CA054,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91619/pdf,7/21/2015,Talkeetna,Alaska,United States,62.45021,-149.789566,0,0,Non-Fatal,non-fatal,False
+91622,ANC15CA055,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91622/pdf,7/23/2015,Skweetna,Alaska,United States,61.930507,-151.730911,0,0,Non-Fatal,non-fatal,False
+91640,ANC15LA056,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91640/pdf,7/20/2015,Dillingham,Alaska,United States,59.049999,-158.58139,0,0,Non-Fatal,non-fatal,False
+91645,ANC15LA057,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91645/pdf,7/24/2015,Cold Bay,Alaska,United States,54.473331,-164.830001,0,0,Non-Fatal,non-fatal,False
+91663,ANC15CA058,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91663/pdf,7/19/2015,Mekoryuk,Alaska,United States,60.384998,-166.26889,0,0,Non-Fatal,non-fatal,False
+91665,ANC15CA059,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91665/pdf,7/20/2015,Beluga,Alaska,United States,55.919677,-159.489822,0,0,Non-Fatal,non-fatal,False
+91728,ANC15FA062,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91728/pdf,8/6/2015,Chugiak,Alaska,United States,61.429164,-149.560272,2,0,Fatal,fatal,True
+91803,ANC15LA063,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91803/pdf,8/8/2015,Talkeetna,Alaska,United States,62.299999,-151.689727,0,1,Non-Fatal,non-fatal,False
+91804,ANC15CA064,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91804/pdf,8/15/2015,Coldfoot,Alaska,United States,67.976943,-149.752502,0,0,Non-Fatal,non-fatal,False
+91852,ANC15FA066,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91852/pdf,8/22/2015,Kasilof,Alaska,United States,60.305557,-151.379165,2,0,Fatal,fatal,True
+91898,ANC15CA068,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91898/pdf,8/30/2015,Skwentna,Alaska,United States,62.433612,-151.414993,0,0,Non-Fatal,non-fatal,False
+91925,ANC15LA069,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91925/pdf,9/2/2015,North Pole,Alaska,United States,64.821662,-147.521667,0,0,Non-Fatal,non-fatal,False
+91981,ANC15FA071,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91981/pdf,9/15/2015,Iliamna,Alaska,United States,59.777778,-154.91777,3,5,Fatal,fatal,True
+92008,GAA15LA265,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92008/pdf,9/20/2015,Palmer,Alaska,United States,61.413333,-148.571395,0,2,Non-Fatal,non-fatal,False
+92017,ANC15CA072,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92017/pdf,9/7/2015,Delta Junction,Alaska,United States,64.01583,-145.726943,0,0,Non-Fatal,non-fatal,False
+92018,ANC15LA073,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92018/pdf,9/18/2015,Fort Glenn,Alaska,United States,53.166667,-168.383331,0,0,Non-Fatal,non-fatal,False
+92023,GAA15CA267,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92023/pdf,9/12/2015,Delta Junction,Alaska,United States,64.029441,-146.830276,0,0,Non-Fatal,non-fatal,False
+92079,GAA15LA281,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92079/pdf,9/14/2015,Nikolai,Alaska,United States,63.83361,-154.768051,0,0,Non-Fatal,non-fatal,False
+92082,GAA15CA282,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92082/pdf,9/24/2015,Arctic Village,Alaska,United States,68.090202,-145.600128,0,0,Non-Fatal,non-fatal,False
+92084,GAA15LA284,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92084/pdf,9/20/2015,Talkeetna,Alaska,United States,62.329723,-150.086669,0,1,Non-Fatal,non-fatal,False
+92125,GAA16CA004,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92125/pdf,10/1/2015,Talkeetna,Alaska,United States,62.101387,-150.07611,0,0,Non-Fatal,non-fatal,False
+92138,GAA16CA008,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92138/pdf,10/6/2015,Glennallen,Alaska,United States,62.24139,-146.012222,0,0,Non-Fatal,non-fatal,False
+92144,ANC16FA001,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92144/pdf,10/8/2015,Big Lake,Alaska,United States,61.588611,-149.814437,1,0,Fatal,fatal,True
+92205,GAA16CA021,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92205/pdf,10/16/2015,Old Harbor,Alaska,United States,56.583889,-153.524993,0,0,Non-Fatal,non-fatal,False
+92286,GAA16CA040,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92286/pdf,10/23/2015,Skwentna,Alaska,United States,61.98389,-151.413894,0,0,Non-Fatal,non-fatal,False
+92287,ANC16LA005,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92287/pdf,11/4/2015,Haines,Alaska,United States,58.901668,-135.152496,0,1,Non-Fatal,non-fatal,False
+92383,ANC16CA009,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92383/pdf,11/27/2015,Manley Hot Springs,Alaska,United States,64.400001,-151.410003,0,0,Non-Fatal,non-fatal,False
+92463,ANC16LA010,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92463/pdf,12/16/2015,Valdez,Alaska,United States,61.134166,-146.24472,0,0,Non-Fatal,non-fatal,False
+92464,ANC15CA075,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92464/pdf,9/3/2015,Arctic Village,Alaska,United States,68.0,-144.520004,0,0,Non-Fatal,non-fatal,False
+92513,ANC16LA011,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92513/pdf,12/29/2015,Anchorage,Alaska,United States,61.219165,-149.902496,1,0,Fatal,fatal,True
+92596,GAA16CA102,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92596/pdf,12/21/2015,Girdwood,Alaska,United States,60.939998,-149.149993,0,0,Non-Fatal,non-fatal,False
+92722,ANC16CA014,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92722/pdf,2/14/2016,Sleetmute,Alaska,United States,61.206665,-157.167221,0,0,Non-Fatal,non-fatal,False
+92791,GAA16CA141,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92791/pdf,2/13/2016,Anchorage,Alaska,United States,61.213611,-149.844726,0,0,Non-Fatal,non-fatal,False
+92792,GAA16CA142,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92792/pdf,3/1/2016,Wasilla,Alaska,United States,61.571666,-149.539993,0,0,Non-Fatal,non-fatal,False
+92991,GAA16CA185,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92991/pdf,4/6/2016,Palmer,Alaska,United States,61.256668,-148.582504,0,0,Non-Fatal,non-fatal,False
+93045,GAA16CA195,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93045/pdf,4/18/2016,Palmer,Alaska,United States,61.594722,-149.088058,0,0,Non-Fatal,non-fatal,False
+93048,ANC16FA019,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93048/pdf,4/20/2016,Chugiak,Alaska,United States,61.38861,-149.56166,4,0,Fatal,fatal,True
+93074,GAA16CA204,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93074/pdf,4/18/2016,Palmer,Alaska,United States,61.495834,-149.142501,0,0,Non-Fatal,non-fatal,False
+93079,GAA16CA207,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93079/pdf,4/29/2016,Port Alsworth,Alaska,United States,60.187221,-154.351669,0,0,Non-Fatal,non-fatal,False
+93088,GAA16CA210,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93088/pdf,4/23/2016,Talkeetna,Alaska,United States,62.715278,-151.320831,0,0,Non-Fatal,non-fatal,False
+93103,ANC16LA021,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93103/pdf,4/23/2016,Wasilla,Alaska,United States,61.559722,-149.705001,0,0,Non-Fatal,non-fatal,False
+93111,ANC16LA022,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93111/pdf,5/5/2016,Juneau,Alaska,United States,58.479999,-134.208892,0,1,Non-Fatal,non-fatal,False
+93116,ANC16FA023,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93116/pdf,5/6/2016,Skagway,Alaska,United States,59.450279,-135.205551,1,0,Fatal,fatal,True
+93139,ANC16LA024,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93139/pdf,5/3/2016,Naknek,Alaska,United States,58.735,-157.021942,0,0,Non-Fatal,non-fatal,False
+93140,ANC16CA025,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93140/pdf,5/5/2016,McCarthy,Alaska,United States,62.100399,-145.530288,0,0,Non-Fatal,non-fatal,False
+93188,ANC16CA027,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93188/pdf,5/14/2016,Wasilla,Alaska,United States,62.572776,-149.538894,0,0,Non-Fatal,non-fatal,False
+93226,GAA16CA252,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93226/pdf,5/18/2016,Nikolai Creek,Alaska,United States,61.104442,-151.37416,0,0,Non-Fatal,non-fatal,False
+93245,GAA16CA260,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93245/pdf,5/24/2016,Anchorage,Alaska,United States,61.187221,-149.965835,0,0,Non-Fatal,non-fatal,False
+93270,GAA16CA264,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93270/pdf,5/21/2016,Seward,Alaska,United States,60.126667,-149.419998,0,0,Non-Fatal,non-fatal,False
+93297,GAA16CA273,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93297/pdf,5/29/2016,Shulin Lake,Alaska,United States,62.080833,-150.490829,0,0,Non-Fatal,non-fatal,False
+93334,ANC16LA029,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93334/pdf,6/6/2016,Fairbanks,Alaska,United States,64.964164,-148.411666,0,0,Non-Fatal,non-fatal,False
+93335,GAA16CA287,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93335/pdf,5/27/2016,Palmer,Alaska,United States,61.179721,-148.693054,0,0,Non-Fatal,non-fatal,False
+93415,ANC16CA031,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93415/pdf,6/11/2016,Fairbanks,Alaska,United States,64.089996,-148.080001,0,0,Non-Fatal,non-fatal,False
+93416,ANC16LA032,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93416/pdf,6/17/2016,Goodnews Bay,Alaska,United States,59.23611,-161.716949,0,1,Non-Fatal,non-fatal,False
+93430,ANC16LA034,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93430/pdf,6/19/2016,Homer,Alaska,United States,59.76361,-151.324996,0,0,Non-Fatal,non-fatal,False
+93431,GAA16CA324,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93431/pdf,6/17/2016,Palmer,Alaska,United States,61.348609,-148.528884,0,0,Non-Fatal,non-fatal,False
+93481,ANC16LA035,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93481/pdf,6/25/2016,Big Lake,Alaska,United States,61.610553,-150.084442,0,0,Non-Fatal,non-fatal,False
+93500,ANC16CA036,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93500/pdf,6/29/2016,King Salmon,Alaska,United States,58.67889,-156.649444,0,0,Non-Fatal,non-fatal,False
+93527,ANC16LA038,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93527/pdf,7/3/2016,Halibut Cove,Alaska,United States,59.594444,-151.246948,0,0,Non-Fatal,non-fatal,False
+93590,ANC16CA040,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93590/pdf,7/3/2016,Nome,Alaska,United States,64.51361,-165.385559,0,0,Non-Fatal,non-fatal,False
+93600,ANC16CA041,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93600/pdf,6/27/2016,Palmer,Alaska,United States,61.438056,-148.66806,0,0,Non-Fatal,non-fatal,False
+93642,ANC16LA046,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93642/pdf,7/19/2016,Illiamna,Alaska,United States,59.945835,-156.359451,0,0,Non-Fatal,non-fatal,False
+93647,ANC16LA047,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93647/pdf,7/19/2016,McCarthy,Alaska,United States,61.428611,-142.925003,0,0,Non-Fatal,non-fatal,False
+93649,ANC16LA048,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93649/pdf,7/18/2016,Haines,Alaska,United States,59.243888,-135.523605,0,0,Non-Fatal,non-fatal,False
+93650,ANC16CA051,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93650/pdf,8/4/2016,Homer,Alaska,United States,59.585277,-151.329437,0,0,Non-Fatal,non-fatal,False
+93652,ANC16CA049,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93652/pdf,7/20/2016,Cordova,Alaska,United States,60.338333,-146.258056,0,0,Non-Fatal,non-fatal,False
+93757,ANC16CA050,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93757/pdf,8/2/2016,North Pole,Alaska,United States,64.759445,-147.392227,0,0,Non-Fatal,non-fatal,False
+93774,ANC16FA052,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93774/pdf,8/5/2016,Wasilla,Alaska,United States,61.569721,-149.546112,0,0,Non-Fatal,non-fatal,False
+93786,ANC16CA053,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93786/pdf,7/31/2016,Sleetmute,Alaska,United States,61.661666,-157.145278,0,0,Non-Fatal,non-fatal,False
+93797,ANC16LA054,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93797/pdf,8/8/2016,Iliamna,Alaska,United States,62.100776,-145.529739,0,4,Non-Fatal,non-fatal,False
+93800,ANC16CA055,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93800/pdf,7/19/2016,Valdez,Alaska,United States,61.162223,-146.548339,0,0,Non-Fatal,non-fatal,False
+93808,ANC16CA056,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93808/pdf,8/7/2016,Chickaloon,Alaska,United States,61.724998,-148.069168,0,0,Non-Fatal,non-fatal,False
+93822,ANC16FA057,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93822/pdf,8/13/2016,Chugiak,Alaska,United States,61.420555,-149.494995,1,0,Fatal,fatal,True
+93828,ANC16CA058,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93828/pdf,8/24/2016,Sterling,Alaska,United States,60.530834,-150.258605,0,0,Non-Fatal,non-fatal,False
+93846,ANC16LA059,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93846/pdf,8/12/2016,Wasilla,Alaska,United States,61.500556,-149.6725,0,0,Non-Fatal,non-fatal,False
+93853,GAA16CA434,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93853/pdf,8/17/2016,Anchorage,Alaska,United States,61.2625,-149.654724,0,0,Non-Fatal,non-fatal,False
+93861,GAA16CA436,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93861/pdf,8/16/2016,Anchor Point,Alaska,United States,59.800834,-151.846115,0,0,Non-Fatal,non-fatal,False
+93870,GAA16CA440,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93870/pdf,8/19/2016,Palmer,Alaska,United States,61.283611,-148.446105,0,0,Non-Fatal,non-fatal,False
+93873,GAA16CA442,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93873/pdf,8/20/2016,Anchorage,Alaska,United States,61.250831,-149.809448,0,0,Non-Fatal,non-fatal,False
+93912,GAA16CA455,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93912/pdf,8/17/2016,Sleetmute,Alaska,United States,61.705276,-157.150283,0,0,Non-Fatal,non-fatal,False
+93913,GAA16CA456,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93913/pdf,8/27/2016,Kenai,Alaska,United States,60.774166,-151.898605,0,0,Non-Fatal,non-fatal,False
+93916,ANC16LA060,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93916/pdf,8/27/2016,Salcha,Alaska,United States,64.511108,-146.68222,0,1,Non-Fatal,non-fatal,False
+93931,ANC16FA061,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93931/pdf,8/31/2016,Russian Mission,Alaska,United States,61.798053,-161.498886,5,0,Fatal,fatal,True
+93952,GAA16CA463,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93952/pdf,9/3/2016,Barrow,Alaska,United States,70.48944,-155.064163,0,0,Non-Fatal,non-fatal,False
+93963,GAA16CA468,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93963/pdf,9/3/2016,Talkeetna,Alaska,United States,62.889999,-149.171951,0,0,Non-Fatal,non-fatal,False
+93985,GAA16CA474,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93985/pdf,9/2/2016,Yakutat,Alaska,United States,59.712223,-140.348052,0,0,Non-Fatal,non-fatal,False
+93993,ANC16FA065,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93993/pdf,9/10/2016,Anchorage,Alaska,United States,61.125278,-149.748886,1,0,Fatal,fatal,True
+94005,GAA16CA482,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94005/pdf,9/8/2016,Gulkana,Alaska,United States,62.203056,-145.395553,0,0,Non-Fatal,non-fatal,False
+94010,GAA16CA486,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94010/pdf,9/3/2016,Palmer,Alaska,United States,61.619754,-148.980041,0,0,Non-Fatal,non-fatal,False
+94014,GAA16CA487,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94014/pdf,9/1/2016,Anchorage,Alaska,United States,61.213054,-149.839996,0,0,Non-Fatal,non-fatal,False
+94036,ANC16CA066,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94036/pdf,9/18/2016,McGrath,Alaska,United States,63.380001,-156.36,0,0,Non-Fatal,non-fatal,False
+94051,ANC16LA068,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94051/pdf,9/16/2016,Wasilla,Alaska,United States,61.613887,-149.327774,0,1,Non-Fatal,non-fatal,False
+94064,GAA16CA503,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94064/pdf,9/21/2016,Fairbanks,Alaska,United States,63.482776,-146.284729,0,0,Non-Fatal,non-fatal,False
+94082,ANC16CA069,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94082/pdf,9/24/2016,Willow,Alaska,United States,61.754165,-150.051391,0,0,Non-Fatal,non-fatal,False
+94099,GAA16CA516,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94099/pdf,9/25/2016,Kotzebue,Alaska,United States,67.144721,-162.275283,0,0,Non-Fatal,non-fatal,False
+94103,ANC16LA072,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94103/pdf,9/26/2016,Anchorage,Alaska,United States,61.186668,-149.96556,0,0,Non-Fatal,non-fatal,False
+94129,GAA17CA001,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94129/pdf,10/1/2016,Fairbanks,Alaska,United States,64.815002,-147.856384,0,0,Non-Fatal,non-fatal,False
+94178,ANC16CA073,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94178/pdf,9/21/2016,Soldotna,Alaska,United States,60.740276,-152.211669,0,0,Non-Fatal,non-fatal,False
+94219,GAA17CA023,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94219/pdf,10/5/2016,Palmer,Alaska,United States,61.595001,-149.088607,0,0,Non-Fatal,non-fatal,False
+94230,GAA17CA027,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94230/pdf,10/13/2016,Palmer,Alaska,United States,61.401111,-148.600555,0,0,Non-Fatal,non-fatal,False
+94274,GAA17CA041,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94274/pdf,10/20/2016,Anchorage,Alaska,United States,61.215831,-149.852493,0,0,Non-Fatal,non-fatal,False
+94312,ANC17FA003,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94312/pdf,10/29/2016,Palmer,Alaska,United States,61.482223,-148.773895,1,0,Fatal,fatal,True
+94316,ANC17FA004,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94316/pdf,10/28/2016,Port Alsworth,Alaska,United States,61.094722,-153.446945,1,0,Fatal,fatal,True
+94320,GAA17CA051,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94320/pdf,10/14/2016,Chickaloon,Alaska,United States,61.790832,-148.353881,0,0,Non-Fatal,non-fatal,False
+94343,GAA17CA057,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94343/pdf,11/6/2016,Mouth of The Big Susitna River,Alaska,United States,61.255279,-150.399993,0,0,Non-Fatal,non-fatal,False
+94365,ANC17LA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94365/pdf,11/11/2016,Bethel,Alaska,United States,60.772777,-161.886672,0,0,Non-Fatal,non-fatal,False
+94367,ANC17LA005,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94367/pdf,11/12/2016,Ninilchik,Alaska,United States,60.02,-151.589172,0,0,Non-Fatal,non-fatal,False
+94446,ANC17LA007,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94446/pdf,11/22/2016,Bethel,Alaska,United States,61.414722,-161.958053,0,0,Non-Fatal,non-fatal,False
+94447,ANC17LA008,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94447/pdf,11/25/2016,Palmer,Alaska,United States,61.191944,-148.68695,0,0,Non-Fatal,non-fatal,False
+94474,ANC17FA009,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94474/pdf,12/7/2016,Fairbanks,Alaska,United States,64.541946,-147.757781,1,0,Fatal,fatal,True
+94485,ANC17FA010,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94485/pdf,12/7/2016,Port Alsworth,Alaska,United States,60.297222,-154.117218,4,0,Fatal,fatal,True
+94493,ANC17LA011,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94493/pdf,12/2/2016,Unalaska,Alaska,United States,53.784999,-166.709716,0,0,Non-Fatal,non-fatal,False
+94509,ANC17FA012,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94509/pdf,12/15/2016,Aniak,Alaska,United States,60.944442,-159.620834,2,0,Fatal,fatal,True
+94515,ANC17LA013,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94515/pdf,12/18/2016,Palmer,Alaska,United States,61.767223,-149.137771,0,0,Non-Fatal,non-fatal,False
+94700,GAA17CA134,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94700/pdf,1/29/2017,Tyonek,Alaska,United States,61.220001,-152.160003,0,0,Non-Fatal,non-fatal,False
+94703,ANC17LA016,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94703/pdf,2/8/2017,Sterling,Alaska,United States,60.510276,-150.850555,0,1,Non-Fatal,non-fatal,False
+94746,GAA17CA147,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94746/pdf,2/18/2017,Fairbanks,Alaska,United States,64.815002,-147.856384,0,0,Non-Fatal,non-fatal,False
+94785,GAA17CA159,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94785/pdf,2/22/2017,Big Lake,Alaska,United States,61.534721,-149.811111,0,0,Non-Fatal,non-fatal,False
+94807,ANC17LA017,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94807/pdf,3/3/2017,Metlakatla,Alaska,United States,55.091667,-131.601669,0,0,Non-Fatal,non-fatal,False
+94821,ANC17FA018,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94821/pdf,3/5/2017,Nome,Alaska,United States,64.448059,-165.091384,1,0,Fatal,fatal,True
+94866,GAA17CA187,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94866/pdf,2/15/2017,Ruby,Alaska,United States,65.136108,-153.539443,0,0,Non-Fatal,non-fatal,False
+94868,GAA17CA188,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94868/pdf,3/13/2017,Anchorage,Alaska,United States,61.212776,-149.845001,0,0,Non-Fatal,non-fatal,False
+94887,GAA17CA193,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94887/pdf,3/19/2017,Palmer,Alaska,United States,61.599445,-149.086669,0,0,Non-Fatal,non-fatal,False
+94932,GAA17CA210,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94932/pdf,3/27/2017,Soldotna,Alaska,United States,60.477222,-151.171386,0,0,Non-Fatal,non-fatal,False
+94997,GAA17CA228,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94997/pdf,4/11/2017,Willow,Alaska,United States,61.647499,-149.972778,0,0,Non-Fatal,non-fatal,False
+95000,GAA17CA231,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95000/pdf,4/11/2017,Kenai,Alaska,United States,60.572776,-151.246673,0,0,Non-Fatal,non-fatal,False
+95007,ANC17LA020,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95007/pdf,4/15/2017,Willow,Alaska,United States,62.024444,-150.073333,0,0,Non-Fatal,non-fatal,False
+95103,ANC17LA022,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95103/pdf,4/29/2017,Chugiak,Alaska,United States,61.41611,-149.50666,0,0,Non-Fatal,non-fatal,False
+95128,GAA17CA264,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95128/pdf,5/5/2017,Pedro Bay,Alaska,United States,59.796943,-154.12944,0,0,Non-Fatal,non-fatal,False
+95160,GAA17CA275,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95160/pdf,5/11/2017,Seward,Alaska,United States,60.130001,-149.416946,0,1,Non-Fatal,non-fatal,False
+95165,ANC17CA023,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95165/pdf,5/13/2017,Talkeetna,Alaska,United States,62.319168,-150.094161,0,0,Non-Fatal,non-fatal,False
+95222,GAA17CA299,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95222/pdf,5/21/2017,Talkeetna,Alaska,United States,62.320556,-150.093612,0,0,Non-Fatal,non-fatal,False
+95241,WPR17FA108,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95241/pdf,5/27/2017,Haines,Alaska,United States,59.093887,-135.376663,2,1,Fatal,fatal,True
+95243,ANC17FA026,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95243/pdf,5/27/2017,Salcha,Alaska,United States,64.647499,-145.878616,2,0,Fatal,fatal,True
+95319,ANC17LA028,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95319/pdf,6/6/2017,Chugiak,Alaska,United States,61.411109,-149.515548,0,0,Non-Fatal,non-fatal,False
+95414,ANC17LA033,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95414/pdf,6/17/2017,Skwentna,Alaska,United States,61.879165,-150.79472,0,0,Non-Fatal,non-fatal,False
+95489,GAA17CA381,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95489/pdf,6/4/2017,Soldotna,Alaska,United States,60.524723,-150.995285,0,0,Non-Fatal,non-fatal,False
+95507,GAA17CA387,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95507/pdf,6/25/2017,Chickaloon,Alaska,United States,61.793056,-148.492492,0,0,Non-Fatal,non-fatal,False
+95508,GAA17CA388,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95508/pdf,7/3/2017,Hope,Alaska,United States,60.456111,-150.029449,0,0,Non-Fatal,non-fatal,False
+95531,ANC17LA034,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95531/pdf,7/9/2017,Anchorage,Alaska,United States,61.189723,-149.94694,0,0,Non-Fatal,non-fatal,False
+95580,ANC17FA035,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95580/pdf,7/15/2017,BIG LAKE,Alaska,United States,61.606388,-150.506668,1,0,Fatal,fatal,True
+95588,ANC17LA037,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95588/pdf,7/15/2017,Wasilla,Alaska,United States,61.4925,-149.62249,0,0,Non-Fatal,non-fatal,False
+95669,GAA17CA440,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95669/pdf,7/23/2017,Cordova,Alaska,United States,60.538055,-145.660278,0,0,Non-Fatal,non-fatal,False
+95670,GAA17CA441,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95670/pdf,7/23/2017,Sterling,Alaska,United States,60.529167,-150.829162,0,0,Non-Fatal,non-fatal,False
+95678,ANC17CA038,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95678/pdf,7/21/2017,Dilllingham,Alaska,United States,59.199443,-158.741943,0,0,Non-Fatal,non-fatal,False
+95763,GAA17CA473,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95763/pdf,8/1/2017,Puntilla,Alaska,United States,61.92361,-153.023605,0,0,Non-Fatal,non-fatal,False
+95764,GAA17CA474,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95764/pdf,7/8/2017,Bettles,Alaska,United States,67.499443,-151.575836,0,0,Non-Fatal,non-fatal,False
+95768,ANC17LA042,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95768/pdf,8/4/2017,Palmer,Alaska,United States,62.521945,-148.587219,0,0,Non-Fatal,non-fatal,False
+95769,GAA17CA475,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95769/pdf,8/3/2017,Willow,Alaska,United States,61.600555,-150.094726,0,0,Non-Fatal,non-fatal,False
+95835,ANC17CA044,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95835/pdf,6/25/2017,St. Michael,Alaska,United States,63.479721,-162.11,0,0,Non-Fatal,non-fatal,False
+95853,ANC17LA046,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95853/pdf,8/16/2017,Talkeetna,Alaska,United States,62.696666,-148.91806,0,0,Non-Fatal,non-fatal,False
+95861,GAA17CA501,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95861/pdf,8/17/2017,Tyonek,Alaska,United States,60.956111,-151.638885,0,0,Non-Fatal,non-fatal,False
+95889,ANC17FA049,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95889/pdf,8/23/2017,Tyonek,Alaska,United States,61.194442,-152.027496,1,0,Fatal,fatal,True
+95902,GAA17CA511,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95902/pdf,8/26/2017,Gulkana,Alaska,United States,62.169166,-145.410278,0,0,Non-Fatal,non-fatal,False
+95962,GAA17CA521,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95962/pdf,9/4/2017,Ambler,Alaska,United States,67.874443,-156.931671,0,0,Non-Fatal,non-fatal,False
+95998,ANC17LA052,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95998/pdf,8/18/2017,Aniak,Alaska,United States,61.581665,-159.543334,0,0,Non-Fatal,non-fatal,False
+96027,GAA17CA539,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96027/pdf,9/16/2017,Talkeetna,Alaska,United States,62.276111,-150.979995,0,0,Non-Fatal,non-fatal,False
+96039,GAA17CA542,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96039/pdf,8/30/2017,Wasilla,Alaska,United States,61.568054,-149.552215,0,0,Non-Fatal,non-fatal,False
+96053,GAA17CA544,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96053/pdf,9/13/2017,Petersville,Alaska,United States,62.380554,-151.908615,0,0,Non-Fatal,non-fatal,False
+96079,ANC17LA053,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96079/pdf,9/4/2017,Kodiak,Alaska,United States,57.780834,-152.391387,0,0,Non-Fatal,non-fatal,False
+96114,GAA17CA565,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96114/pdf,9/26/2017,Holy Cross,Alaska,United States,62.069999,-160.563613,0,0,Non-Fatal,non-fatal,False
+96142,GAA17CA569,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96142/pdf,9/25/2017,Beluga,Alaska,United States,55.920093,-159.490646,0,0,Non-Fatal,non-fatal,False
+96163,GAA18CA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96163/pdf,10/7/2017,Manokatak,Alaska,United States,58.830001,-159.531951,0,0,Non-Fatal,non-fatal,False
+96204,ANC18FA003,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96204/pdf,10/16/2017,Russian Mission,Alaska,United States,61.639999,-161.445556,1,0,Fatal,fatal,True
+96351,GAA18CA052,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96351/pdf,10/28/2017,Skwentna,Alaska,United States,61.843055,-151.11,0,0,Non-Fatal,non-fatal,False
+96501,GAA18CA087,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96501/pdf,12/18/2017,Willow,Alaska,United States,61.751945,-150.053054,0,0,Non-Fatal,non-fatal,False
+96515,GAA18CA090,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96515/pdf,12/18/2017,Yentna,Alaska,United States,61.731388,-150.672225,0,0,Non-Fatal,non-fatal,False
+96523,ANC18CA017,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96523/pdf,11/29/2017,Nikolai,Alaska,United States,62.293334,-153.361938,0,0,Non-Fatal,non-fatal,False
+96616,ANC18LA019,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96616/pdf,1/14/2018,Juneau,Alaska,United States,58.355556,-134.58,0,0,Non-Fatal,non-fatal,False
+96708,GAA18CA119,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96708/pdf,2/5/2018,Juneau,Alaska,United States,58.373332,-134.051116,0,0,Non-Fatal,non-fatal,False
+96775,GAA18CA136,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96775/pdf,2/17/2018,Big Lake,Alaska,United States,61.580001,-150.410003,0,0,Non-Fatal,non-fatal,False
+96811,GAA18CA147,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96811/pdf,2/24/2018,Talkeetna,Alaska,United States,62.169445,-149.689727,0,0,Non-Fatal,non-fatal,False
+96847,GAA18CA154,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96847/pdf,2/25/2018,Newtok,Alaska,United States,60.938331,-164.640274,0,0,Non-Fatal,non-fatal,False
+96970,GAA18CA196,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96970/pdf,4/1/2018,Seldovia,Alaska,United States,59.442222,-151.703887,0,0,Non-Fatal,non-fatal,False
+97015,ANC18LA030,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97015/pdf,3/25/2018,Anchorage,Alaska,United States,61.215831,-149.841949,0,0,Non-Fatal,non-fatal,False
+97025,GAA18CA211,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97025/pdf,4/12/2018,Sterling,Alaska,United States,60.539722,-150.86972,0,0,Non-Fatal,non-fatal,False
+97052,GAA18CA214,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97052/pdf,4/8/2018,Big Lake,Alaska,United States,61.568889,-149.851104,0,0,Non-Fatal,non-fatal,False
+97097,ANC18LA032,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97097/pdf,4/19/2018,Fairbanks,Alaska,United States,64.813888,-147.921951,0,0,Non-Fatal,non-fatal,False
+97223,GAA18CA269,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97223/pdf,5/7/2018,Goose Bay,Alaska,United States,61.394721,-149.842224,0,0,Non-Fatal,non-fatal,False
+97241,ANC18FA036,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97241/pdf,5/12/2018,Whittier,Alaska,United States,60.763889,-148.715835,1,0,Fatal,fatal,True
+97311,ANC18LA038,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97311/pdf,5/23/2018,Anchorage,Alaska,United States,61.190277,-149.969451,0,0,Non-Fatal,non-fatal,False
+97339,GAA18CA303,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97339/pdf,5/27/2018,Kenai,Alaska,United States,60.490001,-151.235,0,0,Non-Fatal,non-fatal,False
+97360,GAA18CA310,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97360/pdf,5/30/2018,Kake,Alaska,United States,56.964443,-133.915832,0,0,Non-Fatal,non-fatal,False
+97389,ANC18LA040,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97389/pdf,6/2/2018,Wasilla,Alaska,United States,61.493331,-149.703048,0,1,Non-Fatal,non-fatal,False
+97390,GAA18CA320,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97390/pdf,6/1/2018,Nulato,Alaska,United States,65.0,-159.416671,0,0,Non-Fatal,non-fatal,False
+97409,GAA18CA324,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97409/pdf,6/4/2018,Talkeetna,Alaska,United States,62.43,-150.240005,0,0,Non-Fatal,non-fatal,False
+97443,ANC18FA044,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97443/pdf,6/9/2018,Sitka,Alaska,United States,57.171665,-135.276672,2,0,Fatal,fatal,True
+97474,ANC18FA045,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97474/pdf,6/13/2018,Anchorage,Alaska,United States,61.270832,-150.552215,1,0,Fatal,fatal,True
+97488,GAA18CA351,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97488/pdf,6/15/2018,Big Lake,Alaska,United States,61.535556,-149.813888,0,0,Non-Fatal,non-fatal,False
+97509,GAA18CA355,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97509/pdf,6/16/2018,Salcha,Alaska,United States,64.477218,-146.774169,0,0,Non-Fatal,non-fatal,False
+97511,GAA18CA357,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97511/pdf,6/6/2018,Fairbanks,Alaska,United States,64.650001,-147.61,0,0,Non-Fatal,non-fatal,False
+97529,GAA18CA362,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97529/pdf,6/4/2018,Healy,Alaska,United States,63.466667,-148.366668,0,0,Non-Fatal,non-fatal,False
+97530,GAA18CA363,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97530/pdf,6/19/2018,Yakutat,Alaska,United States,59.508888,-139.664169,0,0,Non-Fatal,non-fatal,False
+97544,GAA18CA367,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97544/pdf,6/14/2018,Wasilla,Alaska,United States,61.616943,-149.32167,0,0,Non-Fatal,non-fatal,False
+97549,GAA18CA370,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97549/pdf,6/21/2018,Anchorage,Alaska,United States,61.17889,-149.964447,0,0,Non-Fatal,non-fatal,False
+97567,ANC18LA047,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97567/pdf,6/22/2018,Dillingham,Alaska,United States,59.920276,-158.184997,0,1,Non-Fatal,non-fatal,False
+97569,ANC18LA048,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97569/pdf,6/22/2018,Fairbanks,Alaska,United States,64.192779,-147.946105,0,0,Non-Fatal,non-fatal,False
+97570,GAA18CA375,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97570/pdf,6/25/2018,Goose Bay,Alaska,United States,61.538055,-148.938049,0,0,Non-Fatal,non-fatal,False
+97572,GAA18CA376,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97572/pdf,6/25/2018,Cantwell,Alaska,United States,63.566387,-148.815826,0,0,Non-Fatal,non-fatal,False
+97628,ANC18FA050,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97628/pdf,6/24/2018,Delta Junction,Alaska,United States,63.858612,-146.493057,2,0,Fatal,fatal,True
+97633,GAA18CA385,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97633/pdf,6/28/2018,Anchorage,Alaska,United States,61.500278,-150.567779,0,0,Non-Fatal,non-fatal,False
+97649,ANC18LA051,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97649/pdf,6/29/2018,Anchorage,Alaska,United States,61.186668,-149.96611,0,0,Non-Fatal,non-fatal,False
+97712,GAA18CA398,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97712/pdf,7/7/2018,Palmer,Alaska,United States,61.566944,-148.550277,0,0,Non-Fatal,non-fatal,False
+97726,ANC18CA052,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97726/pdf,6/30/2018,Chugiak,Alaska,United States,61.420555,-149.500549,0,0,Non-Fatal,non-fatal,False
+97767,GAA18CA422,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97767/pdf,7/15/2018,Palmer,Alaska,United States,61.595001,-149.088607,0,0,Non-Fatal,non-fatal,False
+97796,ANC18CA054,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97796/pdf,7/16/2018,Manley Hot Springs,Alaska,United States,64.988891,-150.646942,0,0,Non-Fatal,non-fatal,False
+97948,GAA18CA454,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97948/pdf,7/24/2018,Meadow Lakes,Alaska,United States,61.630001,-149.682495,0,0,Non-Fatal,non-fatal,False
+97949,ANC18LA058,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97949/pdf,7/29/2018,Bettles,Alaska,United States,66.860557,-151.645278,0,0,Non-Fatal,non-fatal,False
+97961,ANC18LA059,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97961/pdf,7/31/2018,White Mountain,Alaska,United States,64.566665,-163.5686,0,0,Non-Fatal,non-fatal,False
+98001,GAA18CA469,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98001/pdf,8/4/2018,Kenai,Alaska,United States,61.045276,-151.979721,0,0,Non-Fatal,non-fatal,False
+98069,GAA18CA488,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98069/pdf,8/12/2018,Brooks Range,Alaska,United States,67.239204,-152.270538,0,0,Non-Fatal,non-fatal,False
+98071,GAA18CA489,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98071/pdf,8/9/2018,Valdez,Alaska,United States,61.760555,-147.080551,0,0,Non-Fatal,non-fatal,False
+98095,GAA18CA494,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98095/pdf,8/12/2018,Gilliam Glacier,Alaska,United States,63.699722,-147.126388,0,0,Non-Fatal,non-fatal,False
+98106,GAA18CA496,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98106/pdf,8/17/2018,Big Lake,Alaska,United States,61.533332,-150.102218,0,0,Non-Fatal,non-fatal,False
+98114,GAA18CA497,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98114/pdf,8/18/2018,Stony RIver,Alaska,United States,61.79,-156.588058,0,0,Non-Fatal,non-fatal,False
+98127,ANC18LA066,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98127/pdf,8/21/2018,Kaktovik,Alaska,United States,69.263885,-141.72332,0,0,Non-Fatal,non-fatal,False
+98139,GAA18CA504,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98139/pdf,8/20/2018,McGrath,Alaska,United States,62.7975,-152.930831,0,0,Non-Fatal,non-fatal,False
+98189,ANC18CA068,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98189/pdf,8/25/2018,Wasilla,Alaska,United States,61.657501,-149.459716,0,0,Non-Fatal,non-fatal,False
+98202,GAA18CA520,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98202/pdf,8/15/2018,Tyonek,Alaska,United States,60.58889,-152.161941,0,0,Non-Fatal,non-fatal,False
+98203,GAA18CA521,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98203/pdf,8/1/2018,Fairbanks,Alaska,United States,65.607223,-146.778884,0,0,Non-Fatal,non-fatal,False
+98229,GAA18CA525,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98229/pdf,8/31/2018,Palmer,Alaska,United States,62.095554,-148.212219,0,0,Non-Fatal,non-fatal,False
+98230,GAA18CA526,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98230/pdf,9/1/2018,Karluk,Alaska,United States,57.997222,-154.996383,0,0,Non-Fatal,non-fatal,False
+98246,GAA18CA535,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98246/pdf,9/4/2018,Talkeetna,Alaska,United States,62.452777,-148.68695,0,0,Non-Fatal,non-fatal,False
+98252,ANC18LA069,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98252/pdf,9/3/2018,Wrangell,Alaska,United States,55.968887,-132.423049,0,0,Non-Fatal,non-fatal,False
+98269,GAA18CA541,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98269/pdf,9/5/2018,Northway,Alaska,United States,62.300277,-142.53334,0,0,Non-Fatal,non-fatal,False
+98273,ANC18TA070,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98273/pdf,9/8/2018,Willow,Alaska,United States,61.781387,-150.043334,0,2,Non-Fatal,non-fatal,False
+98305,GAA18CA558,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98305/pdf,9/13/2018,Kenai,Alaska,United States,60.940834,-151.960556,0,0,Non-Fatal,non-fatal,False
+98342,ANC18FA071,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98342/pdf,9/22/2018,Healy,Alaska,United States,63.900276,-147.733337,2,0,Fatal,fatal,True
+98343,GAA18CA565,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98343/pdf,9/20/2018,Igiugig,Alaska,United States,59.325,-155.900833,0,0,Non-Fatal,non-fatal,False
+98345,GAA18CA567,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98345/pdf,9/20/2018,St. Mary's,Alaska,United States,62.569999,-162.850006,0,0,Non-Fatal,non-fatal,False
+98368,CEN18FA391,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98368/pdf,9/28/2018,Gustavus,Alaska,United States,58.595275,-137.594451,3,1,Fatal,fatal,True
+98385,ANC18LA072,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98385/pdf,9/26/2018,Anchorage,Alaska,United States,61.235279,-149.943054,0,0,Non-Fatal,non-fatal,False
+98390,GAA18CA572,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98390/pdf,9/2/2018,Yakutat,Alaska,United States,59.566112,-139.740829,0,0,Non-Fatal,non-fatal,False
+98392,ANC18LA073,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98392/pdf,9/27/2018,Fairbanks,Alaska,United States,64.760559,-148.596389,0,0,Non-Fatal,non-fatal,False
+98426,ANC18LA080,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98426/pdf,9/30/2018,Delta Junction,Alaska,United States,64.610557,-144.616943,0,0,Non-Fatal,non-fatal,False
+98447,GAA18CA581,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98447/pdf,9/23/2018,Kukaklek Lake,Alaska,United States,59.189998,-155.149993,0,0,Non-Fatal,non-fatal,False
+98508,ANC19CA003,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98508/pdf,10/11/2018,Anchorage,Alaska,United States,61.251667,-149.963882,0,0,Non-Fatal,non-fatal,False
+98596,ANC19LA005,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98596/pdf,11/1/2018,Willow,Alaska,United States,61.859443,-150.126113,0,1,Non-Fatal,non-fatal,False
+98597,ANC19LA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98597/pdf,11/3/2018,Anchorage,Alaska,United States,61.215831,-149.841949,0,0,Non-Fatal,non-fatal,False
+98700,ANC19LA008,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98700/pdf,11/27/2018,Whittier,Alaska,United States,59.878887,-147.747772,0,0,Non-Fatal,non-fatal,False
+98821,ANC19CA009,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98821/pdf,12/22/2018,Big Lake,Alaska,United States,61.537498,-149.85028,0,0,Non-Fatal,non-fatal,False
+98846,ANC19CA010,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98846/pdf,1/21/2019,Chignik Lagoon,Alaska,United States,56.308887,-158.53582,0,0,Non-Fatal,non-fatal,False
+98850,ANC19LA011,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98850/pdf,1/22/2019,Anchorage,Alaska,United States,60.903331,-150.1636,0,0,Non-Fatal,non-fatal,False
+98918,GAA19CA114,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98918/pdf,1/27/2019,Anchorage,Alaska,United States,61.215831,-149.84027,0,0,Non-Fatal,non-fatal,False
+98934,ANC19FA012,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98934/pdf,1/29/2019,Kake,Alaska,United States,56.994998,-134.46722,3,0,Fatal,fatal,True
+98962,GAA19CA132,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98962/pdf,1/27/2019,McGrath,Alaska,United States,62.786109,-154.753616,0,0,Non-Fatal,non-fatal,False
+99056,GAA19CA155,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99056/pdf,3/2/2019,Palmer,Alaska,United States,61.798053,-149.503326,0,0,Non-Fatal,non-fatal,False
+99129,ANC19LA015,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99129/pdf,3/16/2019,Talkeetna,Alaska,United States,62.333057,-150.078613,0,0,Non-Fatal,non-fatal,False
+99155,ANC19FA038,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99155/pdf,3/6/2019,Skwentna,Alaska,United States,62.110279,-152.16777,1,0,Fatal,fatal,True
+99263,GAA19CA205,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99263/pdf,4/13/2019,Seward,Alaska,United States,60.299999,-149.149993,0,0,Non-Fatal,non-fatal,False
+99267,ANC19TA017,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99267/pdf,4/15/2019,Nome,Alaska,United States,65.925834,-164.61138,0,1,Non-Fatal,non-fatal,False
+99356,GAA19CA236,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99356/pdf,4/30/2019,Wasilla,Alaska,United States,61.599166,-149.450561,0,0,Non-Fatal,non-fatal,False
+99394,GAA19CA251,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99394/pdf,5/3/2019,McCarthy,Alaska,United States,61.128612,-142.415283,0,0,Non-Fatal,non-fatal,False
+99420,GAA19CA260,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99420/pdf,5/12/2019,Northway,Alaska,United States,62.961112,-141.928054,0,0,Non-Fatal,non-fatal,False
+99425,GAA19CA263,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99425/pdf,5/12/2019,Soldotna,Alaska,United States,60.524723,-150.996383,0,0,Non-Fatal,non-fatal,False
+99461,WPR19FA152,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99461/pdf,5/21/2019,Whittier,Alaska,United States,60.910556,-147.77082,1,1,Fatal,fatal,True
+99495,GAA19CA286,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99495/pdf,5/25/2019,Takotna,Alaska,United States,63.001945,-156.367218,0,0,Non-Fatal,non-fatal,False
+99531,ANC19FA021,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99531/pdf,5/30/2019,Wasilla,Alaska,United States,61.575832,-149.53166,1,0,Fatal,fatal,True
+99532,GAA19CA305,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99532/pdf,5/30/2019,Fairbanks,Alaska,United States,64.36,-147.36,0,0,Non-Fatal,non-fatal,False
+99560,GAA19CA316,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99560/pdf,6/5/2019,Dillingham,Alaska,United States,59.039722,-158.457504,0,0,Non-Fatal,non-fatal,False
+99584,GAA19CA327,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99584/pdf,6/7/2019,Gulkana,Alaska,United States,62.154998,-145.454437,0,0,Non-Fatal,non-fatal,False
+99640,GAA19CA343,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99640/pdf,6/11/2019,Soldatna,Alaska,United States,60.320278,-150.597229,0,0,Non-Fatal,non-fatal,False
+99641,GAA19CA344,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99641/pdf,6/6/2019,Bethel,Alaska,United States,60.792221,-161.764724,0,0,Non-Fatal,non-fatal,False
+99642,GAA19CA345,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99642/pdf,6/10/2019,Northway,Alaska,United States,63.075832,-141.038894,0,1,Non-Fatal,non-fatal,False
+99645,GAA19CA348,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99645/pdf,6/16/2019,Fairbanks,Alaska,United States,64.93,-148.839996,0,0,Non-Fatal,non-fatal,False
+99646,GAA19CA349,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99646/pdf,6/15/2019,Beluga,Alaska,United States,55.920196,-159.489166,0,0,Non-Fatal,non-fatal,False
+99659,ANC19LA024,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99659/pdf,6/12/2019,Nome Creek,Alaska,United States,65.337219,-146.726104,0,0,Non-Fatal,non-fatal,False
+99684,GAA19CA364,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99684/pdf,6/17/2019,Hewitt Lake,Alaska,United States,61.929851,-151.729095,0,0,Non-Fatal,non-fatal,False
+99694,ANC19FA026,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99694/pdf,6/21/2019,Seward,Alaska,United States,59.941665,-148.664443,3,0,Fatal,fatal,True
+99700,ANC19LA027,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99700/pdf,6/11/2019,Hope,Alaska,United States,60.811943,-150.00666,0,0,Non-Fatal,non-fatal,False
+99706,GAA19CA370,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99706/pdf,6/19/2019,Friday Creek,Alaska,United States,61.341388,-148.355834,0,0,Non-Fatal,non-fatal,False
+99728,ANC19FA029,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99728/pdf,6/28/2019,Moose Pass,Alaska,United States,60.539165,-149.544448,3,1,Fatal,fatal,True
+99738,GAA19CA378,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99738/pdf,6/28/2019,Wasilla,Alaska,United States,61.481945,-149.743896,0,0,Non-Fatal,non-fatal,False
+99777,GAA19CA385,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99777/pdf,6/27/2019,Skwentna,Alaska,United States,62.072223,-151.729446,0,0,Non-Fatal,non-fatal,False
+99779,GAA19CA387,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99779/pdf,7/6/2019,Seldovia,Alaska,United States,59.443889,-151.705001,0,0,Non-Fatal,non-fatal,False
+99780,GAA19CA388,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99780/pdf,7/5/2019,Talkeetna,Alaska,United States,62.630001,-149.830001,0,0,Non-Fatal,non-fatal,False
+99818,GAA19CA402,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99818/pdf,7/11/2019,Talkeetna,Alaska,United States,62.319442,-150.113327,0,0,Non-Fatal,non-fatal,False
+99825,ANC19FA033,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99825/pdf,7/11/2019,Ketchikan,Alaska,United States,55.30107,-131.65202,1,0,Fatal,fatal,True
+99877,GAA19CA430,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99877/pdf,7/9/2019,Wasilla,Alaska,United States,61.616943,-149.32167,0,0,Non-Fatal,non-fatal,False
+99907,ANC19TA037,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99907/pdf,7/20/2019,Skwentna,Alaska,United States,61.687778,-151.40083,0,1,Non-Fatal,non-fatal,False
+99940,ANC19LA040,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99940/pdf,7/23/2019,Farewell,Alaska,United States,62.4775,-153.519729,0,0,Non-Fatal,non-fatal,False
+99998,ANC19FA042,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99998/pdf,8/4/2019,Girdwood,Alaska,United States,61.036945,-149.045272,4,0,Fatal,fatal,True
+100046,ANC19TA044,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100046/pdf,8/12/2019,Anchorage,Alaska,United States,61.17889,-149.958328,0,0,Non-Fatal,non-fatal,False
+100054,GAA19CA492,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100054/pdf,7/31/2019,Kenai,Alaska,United States,60.589443,-152.157501,0,0,Non-Fatal,non-fatal,False
+100095,GAA19CA497,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100095/pdf,8/15/2019,McCarthy,Alaska,United States,61.188056,-142.616104,0,0,Non-Fatal,non-fatal,False
+100099,GAA19CA500,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100099/pdf,7/27/2019,Tok,Alaska,United States,63.329444,-142.95195,0,0,Non-Fatal,non-fatal,False
+100103,GAA19CA501,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100103/pdf,8/18/2019,Fairbanks,Alaska,United States,64.279998,-148.11,0,0,Non-Fatal,non-fatal,False
+100130,GAA19CA507,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100130/pdf,8/22/2019,Anchorage,Alaska,United States,61.493331,-151.906387,0,0,Non-Fatal,non-fatal,False
+100159,GAA19CA515,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100159/pdf,8/27/2019,Kenai,Alaska,United States,60.941665,-151.961105,0,0,Non-Fatal,non-fatal,False
+100172,ANC19LA047,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100172/pdf,8/29/2019,Talkeetna,Alaska,United States,62.321388,-150.092773,0,0,Non-Fatal,non-fatal,False
+100182,ANC19LA048,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100182/pdf,8/30/2019,Fairbanks,Alaska,United States,64.892501,-148.368896,0,0,Non-Fatal,non-fatal,False
+100187,GAA19CA521,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100187/pdf,9/1/2019,Beluga,Alaska,United States,61.229442,-151.769165,0,0,Non-Fatal,non-fatal,False
+100218,GAA19CA529,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100218/pdf,9/7/2019,Mekoryuk,Alaska,United States,59.129615,-161.569503,0,0,Non-Fatal,non-fatal,False
+100219,GAA19CA530,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100219/pdf,9/1/2019,Chickaloon,Alaska,United States,61.673053,-148.546951,0,0,Non-Fatal,non-fatal,False
+100220,GAA19CA531,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100220/pdf,9/6/2019,Nuiqsut,Alaska,United States,63.88861,-160.799163,0,0,Non-Fatal,non-fatal,False
+100238,GAA19CA538,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100238/pdf,9/4/2019,Palmer,Alaska,United States,61.310001,-148.580001,0,0,Non-Fatal,non-fatal,False
+100243,ANC19LA051,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100243/pdf,9/3/2019,Girdwood,Alaska,United States,60.968887,-149.119445,0,0,Non-Fatal,non-fatal,False
+100278,GAA19CA551,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100278/pdf,9/15/2019,Healy,Alaska,United States,63.95111,-144.671661,0,0,Non-Fatal,non-fatal,False
+100279,GAA19CA552,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100279/pdf,9/17/2019,Palmer,Alaska,United States,61.355278,-148.409439,0,0,Non-Fatal,non-fatal,False
+100281,ANC19LA053,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100281/pdf,9/5/2019,Chugiak,Alaska,United States,61.41611,-149.508331,0,0,Non-Fatal,non-fatal,False
+100292,GAA19CA555,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100292/pdf,9/15/2019,Toklat,Alaska,United States,64.527778,-150.423339,0,1,Non-Fatal,non-fatal,False
+100324,GAA19CA562,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100324/pdf,9/20/2019,Kotzebue,Alaska,United States,66.884719,-162.598052,0,0,Non-Fatal,non-fatal,False
+100326,GAA19CA564,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100326/pdf,9/23/2019,Skwentna,Alaska,United States,61.769165,-151.584442,0,0,Non-Fatal,non-fatal,False
+100338,ANC19LA054,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100338/pdf,9/22/2019,Beluga,Alaska,United States,69.219818,-146.790786,0,0,Non-Fatal,non-fatal,False
+100339,ANC19TA055,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100339/pdf,9/25/2019,Tyonek,Alaska,United States,60.978889,-151.89222,0,1,Non-Fatal,non-fatal,False
+100390,GAA20CA007,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100390/pdf,10/7/2019,Kodiak,Alaska,United States,56.93861,-154.182495,0,0,Non-Fatal,non-fatal,False
+100431,ANC20LA002,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100431/pdf,10/13/2019,Palmer,Alaska,United States,61.450279,-148.683334,0,0,Non-Fatal,non-fatal,False
+100547,ANC20LA004,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100547/pdf,11/10/2019,Goodnews Bay,Alaska,United States,59.11222,-161.58139,0,0,Non-Fatal,non-fatal,False
+100630,ANC20CA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100630/pdf,10/12/2019,Moose Pass,Alaska,United States,60.516666,-149.5,0,0,Non-Fatal,non-fatal,False
+100755,ANC20CA011,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100755/pdf,12/31/2019,Fairbanks,Alaska,United States,64.666946,-148.13333,0,0,Non-Fatal,non-fatal,False
+100890,ANC20CA016,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100890/pdf,1/30/2020,Big Lake,Alaska,United States,61.534168,-149.827774,0,0,Non-Fatal,non-fatal,False
+100923,ANC20CA018,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100923/pdf,2/6/2020,Palmer,Alaska,United States,61.410278,-148.086669,0,0,Non-Fatal,non-fatal,False
+100972,ANC20CA022,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100972/pdf,2/19/2020,Koyuk,Alaska,United States,64.751663,-161.6011,0,0,Non-Fatal,non-fatal,False
+101057,ANC20CA029,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101057/pdf,3/3/2020,Sterling,Alaska,United States,60.539058,-150.78944,0,0,Non-Fatal,non-fatal,False
+101058,ANC20CA030,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101058/pdf,2/28/2020,Big Lake,Alaska,United States,61.534721,-149.798889,0,0,Non-Fatal,non-fatal,False
+101070,ANC20CA032,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101070/pdf,3/9/2020,Big Lake,Alaska,United States,61.534721,-149.8125,0,0,Non-Fatal,non-fatal,False
+101104,ANC20CA036,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101104/pdf,3/22/2020,Soldotna,Alaska,United States,60.475276,-151.032501,0,0,Non-Fatal,non-fatal,False
+101129,ANC20CA039,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101129/pdf,3/27/2020,Wasilla,Alaska,United States,61.624168,-149.648605,0,0,Non-Fatal,non-fatal,False
+101134,ANC20CA040,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101134/pdf,3/27/2020,Fairbanks,Alaska,United States,64.815002,-147.856384,0,0,Non-Fatal,non-fatal,False
+101157,ANC20CA041,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101157/pdf,4/7/2020,Chickaloon,Alaska,United States,61.539722,-147.134445,0,0,Non-Fatal,non-fatal,False
+101161,ANC20CA042,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101161/pdf,4/10/2020,Homer,Alaska,United States,59.645557,-151.476394,0,0,Non-Fatal,non-fatal,False
+101166,ANC20LA043,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101166/pdf,4/11/2020,Eagle River,Alaska,United States,61.351943,-149.54888,0,2,Non-Fatal,non-fatal,False
+101236,ANC20CA044,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101236/pdf,4/18/2020,Buckland,Alaska,United States,65.907775,-161.926391,0,0,Non-Fatal,non-fatal,False
+101246,ANC20CA045,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101246/pdf,4/30/2020,Anchorage,Alaska,United States,61.215831,-149.84194,0,0,Non-Fatal,non-fatal,False
+101284,ANC20CA047,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101284/pdf,5/16/2020,McGrath,Alaska,United States,62.508888,-153.89778,0,0,Non-Fatal,non-fatal,False
+101285,ANC20CA048,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101285/pdf,5/15/2020,Skwentna,Alaska,United States,61.96611,-151.19528,0,0,Non-Fatal,non-fatal,False
+101303,ANC20CA049,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101303/pdf,5/5/2020,Palmer,Alaska,United States,61.620338,-148.98068,0,0,Non-Fatal,non-fatal,False
+101338,ANC20LA050,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101338/pdf,5/28/2020,Aniak,Alaska,United States,61.581665,-159.54306,0,4,Non-Fatal,non-fatal,False
+101362,ANC20CA051,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101362/pdf,5/28/2020,Sterling,Alaska,United States,60.533332,-150.76832,0,0,Non-Fatal,non-fatal,False
+101365,ANC20CA052,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101365/pdf,5/31/2020,Unalakleet,Alaska,United States,63.906112,-160.25444,0,0,Non-Fatal,non-fatal,False
+101368,ANC20LA053,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101368/pdf,5/31/2020,Ambler,Alaska,United States,67.039443,-158.82943,0,0,Non-Fatal,non-fatal,False
+101374,ANC20CA054,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101374/pdf,5/23/2020,Gulkana,Alaska,United States,62.189998,-144.87583,0,0,Non-Fatal,non-fatal,False
+101375,ANC20CA055,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101375/pdf,5/29/2020,Anchorage,Alaska,United States,61.412,-150.597,0,0,Non-Fatal,non-fatal,False
+101377,ANC20CA056,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101377/pdf,6/1/2020,Nikiski,Alaska,United States,60.935276,-151.96665,0,0,Non-Fatal,non-fatal,False
+101378,ANC19CA057,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101378/pdf,8/30/2019,Arctic Village,Alaska,United States,68.090156,-145.59938,0,0,Non-Fatal,non-fatal,False
+101379,ANC20CA057,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101379/pdf,5/27/2020,Palmer,Alaska,United States,61.192501,-148.66389,0,0,Non-Fatal,non-fatal,False
+101414,ANC20CA058,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101414/pdf,6/6/2020,Palmer,Alaska,United States,61.9393,-149.2877,0,0,Non-Fatal,non-fatal,False
+101415,ANC20LA059,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101415/pdf,6/8/2020,Anchorage,Alaska,United States,61.186668,-149.96527,0,0,Non-Fatal,non-fatal,False
+101443,ANC20LA060,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101443/pdf,6/15/2020,Fairbanks,Alaska,United States,64.829444,-147.82943,0,0,Non-Fatal,non-fatal,False
+101511,ANC20CA062,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101511/pdf,6/28/2020,Juneau,Alaska,United States,58.141387,-134.37722,0,0,Non-Fatal,non-fatal,False
+101525,ANC20CA063,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101525/pdf,7/1/2020,Nikolai,Alaska,United States,62.553054,-153.38194,0,0,Non-Fatal,non-fatal,False
+101545,ANC20LA064,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101545/pdf,7/4/2020,Soldotna,Alaska,United States,60.45,-150.93333,0,0,Non-Fatal,non-fatal,False
+101546,ANC20LA065,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101546/pdf,7/5/2020,Anchorage,Alaska,United States,61.186668,-149.96527,0,0,Non-Fatal,non-fatal,False
+101559,ANC20CA066,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101559/pdf,7/4/2020,Tyonek,Alaska,United States,61.220001,-152.16,0,0,Non-Fatal,non-fatal,False
+101603,ANC20CA067,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101603/pdf,7/10/2020,Naknek,Alaska,United States,58.735553,-157.02221,0,0,Non-Fatal,non-fatal,False
+101615,ANC20LA069,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101615/pdf,7/14/2020,Birch Creek ,Alaska,United States,65.991028,-144.54469,0,0,Non-Fatal,non-fatal,False
+101627,ANC20CA070,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101627/pdf,7/16/2020,Homer,Alaska,United States,59.400001,-153.516662,0,0,Non-Fatal,non-fatal,False
+101633,ANC20CA071,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101633/pdf,7/13/2020,Palmer,Alaska,United States,61.300277,-148.5,0,0,Non-Fatal,non-fatal,False
+101653,WPR20CA232,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101653/pdf,7/10/2020,Nenana,Alaska,United States,64.138053,-147.98666,0,0,Non-Fatal,non-fatal,False
+101654,WPR20CA233,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101654/pdf,7/19/2020,Bear Valley,Alaska,United States,61.057498,-149.72999,0,0,Non-Fatal,non-fatal,False
+101661,WPR20CA236,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101661/pdf,7/7/2020,Farewell Lakes,Alaska,United States,62.315834,-153.365,0,0,Non-Fatal,non-fatal,False
+101718,ANC20LA074,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101718/pdf,7/31/2020,Soldotna,Alaska,United States,60.495555,-151.01693,7,0,Fatal,fatal,True
+101740,ANC20CA075,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101740/pdf,7/28/2020,Chisana,Alaska,United States,62.130832,-141.856384,0,0,Non-Fatal,non-fatal,False
+101742,ANC20CA076,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101742/pdf,8/4/2020,Wasilla,Alaska,United States,61.571945,-149.539443,0,0,Non-Fatal,non-fatal,False
+101753,ANC20CA078,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101753/pdf,8/5/2020,Minchumina,Alaska,United States,63.526668,-150.795272,0,0,Non-Fatal,non-fatal,False
+101784,ANC20CA080,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101784/pdf,7/26/2020,Fairbanks,Alaska,United States,64.8378,-147.7164,0,0,Non-Fatal,non-fatal,False
+101826,ANC20CA081,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101826/pdf,8/11/2020,Chandalar Shelf,Alaska,United States,68.140274,-147.944168,0,0,Non-Fatal,non-fatal,False
+101828,ANC20CA082,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101828/pdf,8/18/2020,Talkeetna,Alaska,United States,62.320835,-150.09304,0,0,Non-Fatal,non-fatal,False
+101862,WPR20CA287,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101862/pdf,8/22/2020,Tok,Alaska,United States,63.194168,-142.57194,0,0,Non-Fatal,non-fatal,False
+101873,ANC20LA085,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101873/pdf,8/27/2020,Fairbanks,Alaska,United States,64.81167,-147.92444,2,2,Fatal,fatal,True
+101898,ANC20LA086,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101898/pdf,8/30/2020,Wasilla,Alaska,United States,61.616943,-149.32167,0,1,Non-Fatal,non-fatal,False
+101899,ANC20CA087,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101899/pdf,8/22/2020,Lake Louise,Alaska,United States,62.366943,-147.48361,0,0,Non-Fatal,non-fatal,False
+101933,ANC20LA089,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101933/pdf,9/6/2020,Fort Greely,Alaska,United States,63.983339,-145.76679,0,0,Non-Fatal,non-fatal,False
+101934,ANC20CA090,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101934/pdf,9/8/2020,Palmer,Alaska,United States,61.600042,-149.23357,0,0,Non-Fatal,non-fatal,False
+101973,ANC20LA093,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101973/pdf,9/13/2020,Homer,Alaska,United States,59.63293,-151.50499,0,0,Non-Fatal,non-fatal,False
+101974,ANC20CA094,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101974/pdf,9/13/2020,Kiana,Alaska,United States,67.046112,-160.49555,0,0,Non-Fatal,non-fatal,False
+101976,ANC20CA096,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101976/pdf,9/11/2020,Chitina,Alaska,United States,61.33601,-142.68204,0,0,Non-Fatal,non-fatal,False
+102019,ANC20CA097,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102019/pdf,9/16/2020,Arctic Village,Alaska,United States,68.433431,-143.93348,0,0,Non-Fatal,non-fatal,False
+102020,WPR20LA314,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102020/pdf,9/11/2020,Homer,Alaska,United States,59.645832,-151.47555,0,0,Non-Fatal,non-fatal,False
+102032,ANC20LA098,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102032/pdf,9/21/2020,King Salmon,Alaska,United States,58.672779,-156.6425,0,0,Non-Fatal,non-fatal,False
+102060,ANC20LA099,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102060/pdf,9/22/2020,Big Lake,Alaska,United States,61.587423,-150.3984,0,0,Non-Fatal,non-fatal,False
+102108,ANC20LA100,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102108/pdf,9/30/2020,Tok,Alaska,United States,63.329514,-142.95368,0,0,Non-Fatal,non-fatal,False
+102137,ANC21LA001,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102137/pdf,10/10/2020,Yakataga,Alaska,United States,59.9935,-141.84587,0,0,Non-Fatal,non-fatal,False
+102180,ANC21LA002,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102180/pdf,10/20/2020,Anchorage,Alaska,United States,61.416089,-149.5083,0,0,Non-Fatal,non-fatal,False
+102370,ANC21LA008,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102370/pdf,12/2/2020,Juneau,Alaska,United States,58.354712,-134.57847,0,0,Non-Fatal,non-fatal,False
+102493,ANC21LA010,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102493/pdf,12/31/2020,Hope,Alaska,United States,60.90678,-149.62317,0,0,Non-Fatal,non-fatal,False
+102555,ANC21LA012,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102555/pdf,1/24/2021,Anchorage,Alaska,United States,61.210591,-149.8406,0,0,Non-Fatal,non-fatal,False
+102639,ANC21LA017,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102639/pdf,2/13/2021,Tyonek,Alaska,United States,61.336392,-152.01643,0,0,Non-Fatal,non-fatal,False
+102702,ANC21LA020,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102702/pdf,3/2/2021,Kodiak,Alaska,United States,58.872527,-152.13761,1,0,Fatal,fatal,True
+102729,ANC21LA021,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102729/pdf,3/6/2021,Anchorage,Alaska,United States,61.212147,-149.85248,0,0,Non-Fatal,non-fatal,False
+102736,ANC21LA022,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102736/pdf,3/4/2021,Skwentna,Alaska,United States,61.60208,-151.45001,0,0,Non-Fatal,non-fatal,False
+102737,ANC21LA023,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102737/pdf,3/3/2021,Palmer,Alaska,United States,61.233417,-147.85021,0,0,Non-Fatal,non-fatal,False
+102760,ANC21LA024,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102760/pdf,3/12/2021,Kasilof,Alaska,United States,60.12,-150.43,0,0,Non-Fatal,non-fatal,False
+102797,ANC21LA026,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102797/pdf,3/20/2021,Fairbanks,Alaska,United States,64.815111,-147.85644,0,0,Non-Fatal,non-fatal,False
+102805,ANC21LA027,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102805/pdf,3/19/2021,Port Alsworth,Alaska,United States,60.204333,-154.31887,0,0,Non-Fatal,non-fatal,False
+102826,ANC21FA028,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102826/pdf,3/28/2021,Anchorage,Alaska,United States,61.176084,-149.94358,0,0,Non-Fatal,non-fatal,False
+102922,ANC21LA029,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102922/pdf,4/7/2021,Lime Village,Alaska,United States,61.170239,-154.82187,0,0,Non-Fatal,non-fatal,False
+102961,ANC21LA031,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102961/pdf,4/15/2021,Anchorage,Alaska,United States,61.21628,-149.83644,0,0,Non-Fatal,non-fatal,False
+102963,ANC21LA032,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102963/pdf,4/21/2021,Tyonek,Alaska,United States,59.3063,-154.5899,0,0,Non-Fatal,non-fatal,False
+102986,ANC21LA033,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102986/pdf,4/25/2021,Anchorage,Alaska,United States,61.409106,-149.52749,0,0,Non-Fatal,non-fatal,False
+103006,ANC21LA034,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103006/pdf,4/24/2021,Palmer,Alaska,United States,61.2831,-148.4241,0,0,Non-Fatal,non-fatal,False
+103056,ANC21LA036,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103056/pdf,5/6/2021,Willow,Alaska,United States,61.716878,-150.08357,0,0,Non-Fatal,non-fatal,False
+103057,ANC21LA037,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103057/pdf,5/7/2021,Cold Bay,Alaska,United States,55.2001,-162.71682,0,0,Non-Fatal,non-fatal,False
+103058,ANC21LA038,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103058/pdf,5/9/2021,Palmer,Alaska,United States,61.564116,-149.12691,0,0,Non-Fatal,non-fatal,False
+103092,ANC21LA039,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103092/pdf,5/12/2021,Kenai,Alaska,United States,60.568912,-151.24439,0,0,Non-Fatal,non-fatal,False
+103094,ANC21LA040,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103094/pdf,5/10/2021,Gakona,Alaska,United States,62.288694,-145.29136,0,0,Non-Fatal,non-fatal,False
+103099,ANC21LA041,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103099/pdf,5/13/2021,Palmer,Alaska,United States,61.317989,-148.2837,0,0,Non-Fatal,non-fatal,False
+103158,ANC21LA042,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103158/pdf,5/26/2021,Birchwood,Alaska,United States,61.341339,-148.9988,0,0,Non-Fatal,non-fatal,False
+103184,ANC21LA043,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103184/pdf,5/29/2021,Cordova,Alaska,United States,60.702468,-143.5103,0,0,Non-Fatal,non-fatal,False
+103228,ANC21LA044,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103228/pdf,5/28/2021,Perryville,Alaska,United States,56.076912,-159.67982,0,0,Non-Fatal,non-fatal,False
+103253,ANC21LA045,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103253/pdf,6/5/2021,Chandalar Lake,Alaska,United States,67.50296,-148.4935,0,0,Non-Fatal,non-fatal,False
+103283,ANC21LA046,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103283/pdf,6/13/2021,Nenana,Alaska,United States,64.4198,-148.46158,0,0,Non-Fatal,non-fatal,False
+103376,ANC21LA047,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103376/pdf,6/28/2021,Sterling ,Alaska,United States,60.716937,-150.33359,0,0,Non-Fatal,non-fatal,False
+103416,ANC21LA050,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103416/pdf,6/27/2021,Dillingham,Alaska,United States,59.88313,-157.76075,0,0,Non-Fatal,non-fatal,False
+103417,ANC21LA051,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103417/pdf,7/3/2021,Hoonah,Alaska,United States,58.09604,-135.40963,0,0,Non-Fatal,non-fatal,False
+103418,ANC21LA052,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103418/pdf,7/4/2021,Palmer ,Alaska,United States,61.501454,-149.09937,0,1,Non-Fatal,non-fatal,False
+103436,ANC21LA053,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103436/pdf,7/5/2021,Kenney Lake,Alaska,United States,61.7318,-144.9436,0,0,Non-Fatal,non-fatal,False
+103462,ANC21LA054,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103462/pdf,7/1/2021,Talkeetna,Alaska,United States,62.56,-150.77,0,0,Non-Fatal,non-fatal,False
+103464,ANC21LA055,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103464/pdf,7/3/2021,Talkeetna,Alaska,United States,62.173903,-150.06427,0,0,Non-Fatal,non-fatal,False
+103466,ANC21LA056,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103466/pdf,7/1/2021,North Pole,Alaska,United States,64.816936,-147.4168,0,4,Non-Fatal,non-fatal,False
+103467,ANC21LA057,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103467/pdf,7/9/2021,Coffman Cove,Alaska,United States,56.008959,-132.84709,0,0,Non-Fatal,non-fatal,False
+103469,ANC21LA058,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103469/pdf,7/7/2021,Anchorage,Alaska,United States,61.161813,-149.98618,0,0,Non-Fatal,non-fatal,False
+103514,ANC21LA059,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103514/pdf,7/11/2021,Rampart,Alaska,United States,65.413046,-150.04006,0,0,Non-Fatal,non-fatal,False
+103516,ANC21LA060,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103516/pdf,7/16/2021,Skwentna,Alaska,United States,62.533065,-151.50171,0,0,Non-Fatal,non-fatal,False
+103517,ANC21LA061,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103517/pdf,7/16/2021,Skwentna,Alaska,United States,61.918987,-150.99146,0,0,Non-Fatal,non-fatal,False
+103530,ANC21LA063,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103530/pdf,7/11/2021,Yakutat,Alaska,United States,59.126249,-138.59752,0,0,Non-Fatal,non-fatal,False
+103552,ANC21LA064,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103552/pdf,7/23/2021,Anchorage,Alaska,United States,61.181371,-149.97211,0,0,Non-Fatal,non-fatal,False
+103564,ANC21FA065,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103564/pdf,7/26/2021,Eagle River,Alaska,United States,61.198351,-149.13063,2,0,Fatal,fatal,True
+103616,ANC21LA068,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103616/pdf,8/2/2021,Sterling,Alaska,United States,60.528637,-150.82989,0,0,Non-Fatal,non-fatal,False
+103709,ANC21LA070,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103709/pdf,8/5/2021,Talkeetna,Alaska,United States,62.318002,-150.11321,0,0,Non-Fatal,non-fatal,False
+103710,ANC21LA071,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103710/pdf,8/14/2021,Tyonek,Alaska,United States,61.210482,-150.94421,0,1,Non-Fatal,non-fatal,False
+103711,ANC21LA072,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103711/pdf,8/12/2021,Rohn,Alaska,United States,62.293727,-153.37426,0,0,Non-Fatal,non-fatal,False
+103736,ANC21LA074,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103736/pdf,8/13/2021,Soldotna ,Alaska,United States,60.475139,-151.03963,0,0,Non-Fatal,non-fatal,False
+103737,ANC21LA075,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103737/pdf,8/9/2021,Talkeetna ,Alaska,United States,62.635386,-149.06035,0,0,Non-Fatal,non-fatal,False
+103757,WPR21LA328,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103757/pdf,8/19/2021,Wasilla,Alaska,United States,61.639324,-149.2854,0,0,Non-Fatal,non-fatal,False
+103770,ANC21LA076,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103770/pdf,8/28/2021,Kenai,Alaska,United States,60.77425,-151.89859,0,0,Non-Fatal,non-fatal,False
+103778,ANC21LA077,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103778/pdf,8/27/2021,Nikolai,Alaska,United States,63.01,-152.48,0,0,Non-Fatal,non-fatal,False
+103782,ANC21LA079,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103782/pdf,8/30/2021,Pelican,Alaska,United States,58.0903,-136.41332,0,0,Non-Fatal,non-fatal,False
+103783,ANC21LA080,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103783/pdf,8/30/2021,Pelican,Alaska,United States,58.0903,-136.41332,0,0,Non-Fatal,non-fatal,False
+103784,ANC21LA081,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103784/pdf,8/21/2021,Kodiak,Alaska,United States,57.496253,-152.58134,0,0,Non-Fatal,non-fatal,False
+103794,ANC21LA082,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103794/pdf,8/30/2021,Soldotna,Alaska,United States,60.48,-151.04,0,0,Non-Fatal,non-fatal,False
+103829,ANC21LA084,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103829/pdf,9/4/2021,Gustavus,Alaska,United States,58.406419,-136.98371,0,0,Non-Fatal,non-fatal,False
+103846,ANC21LA085,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103846/pdf,9/6/2021,Tyonek,Alaska,United States,61.272318,-152.06502,0,0,Non-Fatal,non-fatal,False
+103847,ANC21LA086,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103847/pdf,9/12/2021,Port Alsworth,Alaska,United States,60.2,-154.32,0,0,Non-Fatal,non-fatal,False
+103851,ANC21LA087,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103851/pdf,9/9/2021,North Pole,Alaska,United States,64.774519,-147.33907,0,1,Non-Fatal,non-fatal,False
+103883,ANC21LA088,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103883/pdf,9/10/2021,Talkeetna,Alaska,United States,62.537216,-149.64694,0,0,Non-Fatal,non-fatal,False
+103917,ANC21LA091,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103917/pdf,9/18/2021,Nenana,Alaska,United States,64.310083,-147.3275,0,0,Non-Fatal,non-fatal,False
+103919,ANC21LA092,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103919/pdf,9/18/2021,Homer,Alaska,United States,59.643255,-151.48317,0,0,Non-Fatal,non-fatal,False
+103925,ANC21LA093,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103925/pdf,9/17/2021,Chandalar Shelf,Alaska,United States,68.050258,-149.56688,0,0,Non-Fatal,non-fatal,False
+103972,ANC21LA096,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103972/pdf,9/22/2021,Chickaloon,Alaska,United States,61.791111,-148.35166,0,0,Non-Fatal,non-fatal,False
+103977,ANC21LA097,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103977/pdf,9/25/2021,Kotzebue,Alaska,United States,67.489064,-162.17135,0,0,Non-Fatal,non-fatal,False
+104026,ANC21LA098,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104026/pdf,9/29/2021,Willow,Alaska,United States,61.7542,-105.0517,0,0,Non-Fatal,non-fatal,False
+104038,ANC21LA099,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104038/pdf,9/22/2021,Cordova,Alaska,United States,60.0952,-142.8183,0,0,Non-Fatal,non-fatal,False
+104066,ANC21LA100,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104066/pdf,9/18/2021,Birchwood,Alaska,United States,61.3662,-149.5083,0,0,Non-Fatal,non-fatal,False
+104116,ANC22LA002,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104116/pdf,10/13/2021,Chickaloon,Alaska,United States,61.702064,-148.97528,0,0,Non-Fatal,non-fatal,False
+104158,ANC22LA004,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104158/pdf,10/23/2021,Willow,Alaska,United States,61.718812,-150.05409,1,1,Fatal,fatal,True
+104214,ANC22FA005,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104214/pdf,11/7/2021,Kodiak,Alaska,United States,57.805489,-152.36548,1,0,Fatal,fatal,True
+104234,ANC22LA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104234/pdf,11/8/2021,Yukon Charlie River,Alaska,United States,65.300192,-143.13334,0,0,Non-Fatal,non-fatal,False
+104338,ANC22LA008,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104338/pdf,11/26/2021,Palmer,Alaska,United States,61.250133,-148.58345,0,0,Non-Fatal,non-fatal,False
+104475,ANC21LA101,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104475/pdf,9/1/2021,Glennallen,Alaska,United States,62.333333,-147.67583,0,0,Non-Fatal,non-fatal,False
+104477,ANC22LA011,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104477/pdf,12/15/2021,Haines,Alaska,United States,59.403056,-136.01944,0,0,Non-Fatal,non-fatal,False

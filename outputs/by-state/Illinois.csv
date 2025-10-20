@@ -1,0 +1,235 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+83551,CEN12FA271,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83551/pdf,5/3/2012,Lake in the Hills,Illinois,United States,42.2075,-88.308891,2,0,Fatal,fatal,True
+83579,CEN12CA280,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83579/pdf,5/8/2012,Sterling,Illinois,United States,41.742778,-89.676109,0,0,Non-Fatal,non-fatal,False
+83716,CEN12LA309,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83716/pdf,5/19/2012,Lebanon,Illinois,United States,38.610279,-89.871391,0,0,Non-Fatal,non-fatal,False
+83783,CEN12LA325,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83783/pdf,5/27/2012,Peoria,Illinois,United States,40.795276,-89.613334,0,0,Non-Fatal,non-fatal,False
+83941,CEN12CA363,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83941/pdf,6/6/2012,New Douglas,Illinois,United States,38.925277,-89.662223,0,0,Non-Fatal,non-fatal,False
+84098,CEN12FA395,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84098/pdf,6/26/2012,Monroe Center,Illinois,United States,42.118331,-88.974166,1,0,Fatal,fatal,True
+84337,CEN12LA446,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84337/pdf,7/15/2012,Peru,Illinois,United States,41.349998,-89.152778,0,0,Non-Fatal,non-fatal,False
+84363,CEN12LA455,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84363/pdf,7/17/2012,Shelby,Illinois,United States,40.348735,-88.986213,0,0,Non-Fatal,non-fatal,False
+84364,CEN12LA456,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84364/pdf,6/22/2012,Metropolis,Illinois,United States,37.185832,-88.750556,0,0,Non-Fatal,non-fatal,False
+84422,CEN12LA470,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84422/pdf,7/22/2012,Chicago,Illinois,United States,41.609722,-87.407775,0,0,Non-Fatal,non-fatal,False
+84466,CEN12LA481,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84466/pdf,7/25/2012,Sugar Grove,Illinois,United States,41.771945,-88.475555,0,0,Non-Fatal,non-fatal,False
+84615,CEN12LA531,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84615/pdf,8/8/2012,Poplar Grove,Illinois,United States,42.322776,-88.836112,0,0,Non-Fatal,non-fatal,False
+84626,CEN12FA534,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84626/pdf,8/11/2012,Taylorville,Illinois,United States,39.539722,-89.302223,1,0,Fatal,fatal,True
+84662,CEN12LA541,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84662/pdf,8/11/2012,Litchfield,Illinois,United States,39.162498,-89.67472,0,0,Non-Fatal,non-fatal,False
+84813,CEN12CA574,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84813/pdf,8/22/2012,Centralia,Illinois,United States,38.514999,-89.09111,0,0,Non-Fatal,non-fatal,False
+84820,CEN12LA577,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84820/pdf,8/19/2012,Rockford,Illinois,United States,42.34914,-89.149276,0,0,Non-Fatal,non-fatal,False
+84916,CEN12CA599,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84916/pdf,8/17/2012,Rockford,Illinois,United States,42.195278,-89.097221,0,0,Non-Fatal,non-fatal,False
+84982,CEN12FA619,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84982/pdf,9/10/2012,Lansing,Illinois,United States,41.52222,-87.527778,1,0,Fatal,fatal,True
+85034,CEN12LA632,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85034/pdf,9/13/2012,Shelbyville,Illinois,United States,39.410556,-88.845558,0,0,Non-Fatal,non-fatal,False
+85182,CEN12CA665,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85182/pdf,9/30/2012,Tiskilwa,Illinois,United States,41.382221,-89.754722,0,0,Non-Fatal,non-fatal,False
+85676,CEN13CA074,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85676/pdf,11/18/2012,Poplar Grove,Illinois,United States,44.322776,-88.836112,0,0,Non-Fatal,non-fatal,False
+85739,CEN13FA089,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85739/pdf,12/4/2012,Manhattan,Illinois,United States,41.380554,-88.008613,1,0,Fatal,fatal,True
+85791,CEN13CA098,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85791/pdf,11/15/2012,Moline,Illinois,United States,41.448333,-90.507499,0,0,Non-Fatal,non-fatal,False
+85810,CEN13LA103,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85810/pdf,12/11/2012,Dekalb,Illinois,United States,41.889301,-88.750793,0,1,Non-Fatal,non-fatal,False
+86077,CEN13CA142,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86077/pdf,1/23/2013,Peoria,Illinois,United States,40.664165,-89.693336,0,0,Non-Fatal,non-fatal,False
+86146,CEN13CA151,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86146/pdf,2/1/2013,Murphysboro,Illinois,United States,37.778057,-89.251945,0,0,Non-Fatal,non-fatal,False
+86239,CEN13LA164,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86239/pdf,2/16/2013,Morris,Illinois,United States,41.423889,-88.418609,0,0,Non-Fatal,non-fatal,False
+86265,CEN13CA169,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86265/pdf,2/14/2013,Murphysboro,Illinois,United States,37.778057,-89.251945,0,0,Non-Fatal,non-fatal,False
+86507,CEN13LA204,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86507/pdf,3/23/2013,Cordova,Illinois,United States,41.448055,-90.507499,0,0,Non-Fatal,non-fatal,False
+87080,CEN13CA312,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87080/pdf,6/3/2013,Lansing,Illinois,United States,41.534999,-87.529441,0,0,Non-Fatal,non-fatal,False
+87306,CEN13CA373,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87306/pdf,6/25/2013,Wheeling,Illinois,United States,42.114444,-87.90139,0,0,Non-Fatal,non-fatal,False
+87414,CEN13LA398,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87414/pdf,7/7/2013,Sandwich,Illinois,United States,41.638332,-88.644447,0,0,Non-Fatal,non-fatal,False
+87528,CEN13LA425,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87528/pdf,7/19/2013,Steward,Illinois,United States,41.871112,-89.018333,0,0,Non-Fatal,non-fatal,False
+87531,CEN13LA426,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87531/pdf,7/20/2013,Shannon,Illinois,United States,42.181388,-89.67694,0,0,Non-Fatal,non-fatal,False
+87575,CEN13LA436,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87575/pdf,7/24/2013,Champaign,Illinois,United States,40.163055,-88.30722,0,0,Non-Fatal,non-fatal,False
+87599,CEN13LA442,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87599/pdf,7/29/2013,Streator,Illinois,United States,41.113334,-88.835281,0,0,Non-Fatal,non-fatal,False
+87624,CEN13LA447,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87624/pdf,7/19/2013,Tamaroa,Illinois,United States,38.093612,-89.192779,0,0,Non-Fatal,non-fatal,False
+87628,CEN13LA448,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87628/pdf,7/28/2013,Capron,Illinois,United States,42.390045,-88.740211,0,1,Non-Fatal,non-fatal,False
+87639,CEN13LA451,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87639/pdf,7/29/2013,Lombardville,Illinois,United States,41.219444,-89.654998,0,0,Non-Fatal,non-fatal,False
+87713,CEN13LA473,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87713/pdf,7/15/2013,Nauvoo,Illinois,United States,40.549999,-91.383331,0,0,Non-Fatal,non-fatal,False
+87761,CEN13LA482,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87761/pdf,8/9/2013,Schaumburg,Illinois,United States,41.989723,-88.103057,0,0,Non-Fatal,non-fatal,False
+87774,CEN13LA487,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87774/pdf,8/10/2013,Albers,Illinois,United States,38.543334,-89.61222,0,0,Non-Fatal,non-fatal,False
+87779,CEN13CA489,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87779/pdf,8/13/2013,Peoria,Illinois,United States,40.795555,-89.613334,0,0,Non-Fatal,non-fatal,False
+87807,CEN13CA495,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87807/pdf,8/17/2013,Kankakee,Illinois,United States,41.071388,-87.846389,0,0,Non-Fatal,non-fatal,False
+87833,CEN13CA499,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87833/pdf,8/18/2013,Wheeling,Illinois,United States,42.114166,-87.915275,0,0,Non-Fatal,non-fatal,False
+87867,CEN13LA506,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87867/pdf,8/24/2013,Franklin,Illinois,United States,39.595001,-90.059997,0,3,Non-Fatal,non-fatal,False
+87874,CEN13FA509,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87874/pdf,8/27/2013,Paris,Illinois,United States,39.701389,-87.650558,1,0,Fatal,fatal,True
+88004,CEN13LA536,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88004/pdf,9/8/2013,Woodstock,Illinois,United States,42.356666,-88.506111,0,0,Non-Fatal,non-fatal,False
+88129,CEN13FA558,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88129/pdf,9/25/2013,Bolingbrook,Illinois,United States,41.691112,-88.125,2,0,Fatal,fatal,True
+88293,CEN14CA017,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88293/pdf,10/2/2013,Chicago,Illinois,United States,41.534999,-87.529441,0,0,Non-Fatal,non-fatal,False
+88364,CEN13CA573,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88364/pdf,9/2/2013,Hampshire,Illinois,United States,42.146945,-88.51583,0,0,Non-Fatal,non-fatal,False
+88726,CEN14CA124,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88726/pdf,1/25/2014,Mt. Morris,Illinois,United States,42.0475,-89.433891,0,0,Non-Fatal,non-fatal,False
+88754,CEN14LA127,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88754/pdf,1/31/2014,Springfield,Illinois,United States,39.844165,-89.678054,0,0,Non-Fatal,non-fatal,False
+88792,CEN14LA134,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88792/pdf,1/26/2014,Milan,Illinois,United States,41.440032,-90.559196,0,0,Non-Fatal,non-fatal,False
+89051,CEN14LA196,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89051/pdf,4/11/2014,West Chicago,Illinois,United States,41.908889,-88.249168,0,0,Non-Fatal,non-fatal,False
+89196,CEN14LA235,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89196/pdf,5/10/2014,Yates City,Illinois,United States,40.773887,-90.074447,0,0,Non-Fatal,non-fatal,False
+89443,CEN14CA289,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89443/pdf,6/14/2014,Valmeyer,Illinois,United States,38.253055,-90.318336,0,0,Non-Fatal,non-fatal,False
+89513,CEN14LA309,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89513/pdf,6/20/2014,St. Joesph,Illinois,United States,40.079166,-88.05722,0,0,Non-Fatal,non-fatal,False
+89632,CEN14LA349,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89632/pdf,7/7/2014,Carthage,Illinois,United States,40.480834,-91.068336,0,0,Non-Fatal,non-fatal,False
+89638,CEN14CA352,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89638/pdf,7/5/2014,Mt. Vernon,Illinois,United States,38.323333,-88.858612,0,0,Non-Fatal,non-fatal,False
+89668,CEN14CA365,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89668/pdf,7/2/2014,Geneseo,Illinois,United States,41.440715,-90.150032,0,0,Non-Fatal,non-fatal,False
+89814,CEN14LA408,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89814/pdf,8/6/2014,Decatur,Illinois,United States,39.824443,-88.884445,0,0,Non-Fatal,non-fatal,False
+89862,CEN14LA423,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89862/pdf,8/12/2014,MANSFIELD,Illinois,United States,40.202499,-88.51139,1,0,Fatal,fatal,True
+89959,CEN14CA457,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89959/pdf,7/16/2014,Murphysboro,Illinois,United States,37.778057,-89.251945,0,0,Non-Fatal,non-fatal,False
+89969,CEN14CA464,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89969/pdf,8/27/2014,Colusa,Illinois,United States,40.576389,-91.097778,0,0,Non-Fatal,non-fatal,False
+90093,CEN14CA499,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90093/pdf,9/12/2014,Newark,Illinois,United States,41.523887,-88.604721,0,2,Non-Fatal,non-fatal,False
+90138,CEN14LA517,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90138/pdf,9/19/2014,Cahokia,Illinois,United States,38.569366,-90.170288,0,0,Non-Fatal,non-fatal,False
+90169,CEN14FA522,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90169/pdf,9/28/2014,Plano,Illinois,United States,41.638889,-88.547775,1,0,Fatal,fatal,True
+90252,CEN15FA009,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90252/pdf,10/12/2014,Palos Hills,Illinois,United States,41.707221,-87.83361,3,0,Fatal,fatal,True
+90254,CEN15CA011,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90254/pdf,10/11/2014,Effingham,Illinois,United States,39.070556,-88.533607,0,0,Non-Fatal,non-fatal,False
+90283,CEN15LA021,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90283/pdf,10/4/2014,Dixon,Illinois,United States,41.83934,-89.470825,0,0,Non-Fatal,non-fatal,False
+90306,CEN15LA028,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90306/pdf,10/26/2014,Plainview,Illinois,United States,39.120109,-90.03952,1,0,Fatal,fatal,True
+90330,CEN15CA033,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90330/pdf,10/26/2014,Quincy,Illinois,United States,39.943054,-91.194442,0,0,Non-Fatal,non-fatal,False
+90349,CEN15CA037,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90349/pdf,10/30/2014,Hinckley,Illinois,United States,41.773612,-88.705558,0,0,Non-Fatal,non-fatal,False
+90631,CEN15LA114,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90631/pdf,1/9/2015,Pontiac,Illinois,United States,40.924446,-88.623886,0,0,Non-Fatal,non-fatal,False
+90739,CEN15LA147,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90739/pdf,2/16/2015,Chicago,Illinois,United States,41.787498,-87.75222,0,0,Non-Fatal,non-fatal,False
+90778,CEN15CA151,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90778/pdf,2/21/2015,Kankakee,Illinois,United States,41.071388,-87.846107,0,0,Non-Fatal,non-fatal,False
+90906,CEN15LA177,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90906/pdf,3/7/2015,St Jacob,Illinois,United States,38.732776,-89.806663,0,0,Non-Fatal,non-fatal,False
+90991,CEN15FA190,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90991/pdf,4/7/2015,Bloomington,Illinois,United States,40.496112,-88.868057,7,0,Fatal,fatal,True
+91039,CEN15LA198,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91039/pdf,4/15/2015,Dunlap,Illinois,United States,40.9225,-89.678886,0,0,Non-Fatal,non-fatal,False
+91141,CEN15CA223,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91141/pdf,5/3/2015,De Kalb,Illinois,United States,41.933887,-88.705558,0,0,Non-Fatal,non-fatal,False
+91166,CEN15LA231,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91166/pdf,5/13/2015,Columbia,Illinois,United States,38.412776,-90.223335,0,0,Non-Fatal,non-fatal,False
+91235,GAA15CA087,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91235/pdf,5/22/2015,McLeansboro,Illinois,United States,38.074165,-88.537498,0,0,Non-Fatal,non-fatal,False
+91384,CEN15CA274,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91384/pdf,6/14/2015,Romeoville,Illinois,United States,41.607223,-88.087501,0,0,Non-Fatal,non-fatal,False
+91408,GAA15CA129,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91408/pdf,6/19/2015,Hampshire,Illinois,United States,42.148612,-88.561943,0,0,Non-Fatal,non-fatal,False
+91426,CEN15LA280,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91426/pdf,6/12/2015,Taylorville,Illinois,United States,39.533611,-89.323608,0,0,Non-Fatal,non-fatal,False
+91488,CEN15FA289,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91488/pdf,7/3/2015,Bartlett,Illinois,United States,41.962501,-88.168609,1,0,Fatal,fatal,True
+91510,GAA15CA161,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91510/pdf,6/10/2015,Galesburg,Illinois,United States,40.944168,-90.430274,0,0,Non-Fatal,non-fatal,False
+91556,GAA15CA183,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91556/pdf,6/30/2015,Cahokia,Illinois,United States,38.571388,-90.159721,0,0,Non-Fatal,non-fatal,False
+91654,CEN15LA323,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91654/pdf,7/14/2015,Fults,Illinois,United States,38.189723,-90.240554,0,0,Non-Fatal,non-fatal,False
+91708,CEN15LA335,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91708/pdf,8/1/2015,Virden,Illinois,United States,39.516666,-89.876113,0,0,Non-Fatal,non-fatal,False
+91719,CEN15LA341,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91719/pdf,8/5/2015,Atkinson,Illinois,United States,41.411109,-89.973335,0,1,Non-Fatal,non-fatal,False
+91753,CEN15FA347,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91753/pdf,8/9/2015,Harrisburg,Illinois,United States,37.565555,-88.643333,2,0,Fatal,fatal,True
+91855,CEN15FA378,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91855/pdf,8/21/2015,Martinville,Illinois,United States,40.350067,-88.98516,1,0,Fatal,fatal,True
+91884,CEN15FA388,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91884/pdf,8/30/2015,Kewanee,Illinois,United States,41.240062,-89.920982,2,1,Fatal,fatal,True
+91941,CEN15LA402,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91941/pdf,9/8/2015,Freeport,Illinois,United States,42.246112,-89.581947,0,1,Non-Fatal,non-fatal,False
+91970,CEN15LA411,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91970/pdf,9/9/2015,Cahokia,Illinois,United States,38.572776,-90.162498,0,0,Non-Fatal,non-fatal,False
+91984,CEN15LA414,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91984/pdf,9/16/2015,Nutwood,Illinois,United States,39.08472,-90.556114,0,0,Non-Fatal,non-fatal,False
+92478,GAA16LA086,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92478/pdf,12/10/2015,Wheeling,Illinois,United States,42.114166,-87.901664,0,0,Non-Fatal,non-fatal,False
+92677,CEN16LA096,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92677/pdf,2/1/2016,Centralia,Illinois,United States,38.524723,-89.090278,1,0,Fatal,fatal,True
+92806,CEN16LA119,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92806/pdf,2/27/2016,Casey,Illinois,United States,39.306388,-87.998886,0,0,Non-Fatal,non-fatal,False
+92868,GAA16CA153,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92868/pdf,3/18/2016,Bolingbrook,Illinois,United States,41.693611,-88.129447,0,1,Non-Fatal,non-fatal,False
+93062,CEN16LA166,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93062/pdf,4/23/2016,Brimfield,Illinois,United States,40.837223,-89.889724,0,0,Non-Fatal,non-fatal,False
+93094,GAA16CA212,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93094/pdf,4/30/2016,Poplar Grove,Illinois,United States,42.323333,-88.926666,0,0,Non-Fatal,non-fatal,False
+93203,GAA16CA245,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93203/pdf,5/18/2016,Carbondale,Illinois,United States,37.778888,-89.248336,0,0,Non-Fatal,non-fatal,False
+93309,GAA16CA277,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93309/pdf,6/3/2016,Loda,Illinois,United States,40.558334,-88.067222,0,0,Non-Fatal,non-fatal,False
+93318,GAA16CA280,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93318/pdf,6/2/2016,Prospect Heights,Illinois,United States,42.115554,-87.903053,0,0,Non-Fatal,non-fatal,False
+93350,GAA16CA296,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93350/pdf,6/7/2016,Cahokia/St. Louis,Illinois,United States,38.570278,-90.154998,0,0,Non-Fatal,non-fatal,False
+93358,CEN16FA214,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93358/pdf,6/10/2016,Marion,Illinois,United States,37.77,-89.006942,1,1,Fatal,fatal,True
+93380,GAA16CA313,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93380/pdf,6/12/2016,Cairo,Illinois,United States,37.064167,-89.219444,0,0,Non-Fatal,non-fatal,False
+93387,CEN16LA218,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93387/pdf,6/11/2016,East St. Louis,Illinois,United States,38.616664,-90.133331,0,0,Non-Fatal,non-fatal,False
+93490,CEN16LA235,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93490/pdf,6/26/2016,Kankakee,Illinois,United States,41.061389,-87.838607,0,0,Non-Fatal,non-fatal,False
+93545,CEN16LA246,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93545/pdf,7/5/2016,Wonder Lake,Illinois,United States,42.407222,-88.373886,0,0,Non-Fatal,non-fatal,False
+93576,CEN16LA263,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93576/pdf,7/9/2016,Newark,Illinois,United States,41.517501,-88.604446,1,0,Fatal,fatal,True
+93655,CEN16FA276,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93655/pdf,7/21/2016,Plainfield,Illinois,United States,41.555,-88.207496,1,0,Fatal,fatal,True
+93681,CEN16LA284,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93681/pdf,7/25/2016,Minonk,Illinois,United States,40.832778,-88.968887,0,0,Non-Fatal,non-fatal,False
+93703,GAA16CA397,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93703/pdf,7/27/2016,Dwight,Illinois,United States,41.136943,-88.443336,0,0,Non-Fatal,non-fatal,False
+93732,CEN16LA297,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93732/pdf,7/31/2016,Newark,Illinois,United States,41.5825,-88.542221,0,0,Non-Fatal,non-fatal,False
+93739,CEN16LA299,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93739/pdf,7/16/2016,Mt Morris,Illinois,United States,42.036666,-89.392776,0,0,Non-Fatal,non-fatal,False
+93779,CEN16FA308,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93779/pdf,8/6/2016,Channahon,Illinois,United States,41.430831,-88.249443,1,0,Fatal,fatal,True
+93829,CEN16CA321,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93829/pdf,8/7/2016,Sparland,Illinois,United States,41.029724,-89.440551,0,1,Non-Fatal,non-fatal,False
+93865,CEN16LA329,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93865/pdf,8/18/2016,Pekin,Illinois,United States,40.488056,-89.675834,0,1,Non-Fatal,non-fatal,False
+93896,CEN16LA335,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93896/pdf,8/25/2016,Cave-In-Rock,Illinois,United States,37.4775,-88.214447,0,1,Non-Fatal,non-fatal,False
+94076,GAA16CA506,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94076/pdf,9/21/2016,East St. Louis,Illinois,United States,38.570278,-90.154998,0,0,Non-Fatal,non-fatal,False
+94118,CEN16LA387,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94118/pdf,9/22/2016,Newark,Illinois,United States,41.519443,-88.605552,0,0,Non-Fatal,non-fatal,False
+94157,GAA17CA007,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94157/pdf,10/4/2016,Galesburg,Illinois,United States,40.938331,-90.431388,0,0,Non-Fatal,non-fatal,False
+94487,CEN17FA053,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94487/pdf,12/9/2016,Marengo,Illinois,United States,42.225555,-88.627502,1,0,Fatal,fatal,True
+94551,CEN17FA064,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94551/pdf,12/31/2016,Vienna,Illinois,United States,37.354167,-88.811386,4,0,Fatal,fatal,True
+94581,GAA17CA109,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94581/pdf,12/16/2016,Kewanee,Illinois,United States,41.204166,-89.970275,0,0,Non-Fatal,non-fatal,False
+94614,GAA17CA112,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94614/pdf,1/18/2017,Champaign,Illinois,United States,40.034168,-88.273056,0,0,Non-Fatal,non-fatal,False
+94925,CEN17CA140,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94925/pdf,2/23/2017,Cahokia,Illinois,United States,38.570278,-90.154998,0,0,Non-Fatal,non-fatal,False
+94962,CEN17LA145,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94962/pdf,3/19/2017,Columbia,Illinois,United States,38.45222,-90.236114,0,0,Non-Fatal,non-fatal,False
+95129,GAA17CA265,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95129/pdf,5/7/2017,Waterloo,Illinois,United States,38.29,-90.230003,0,0,Non-Fatal,non-fatal,False
+95163,CEN17LA180,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95163/pdf,5/11/2017,Orangeville,Illinois,United States,42.472499,-89.64833,0,1,Non-Fatal,non-fatal,False
+95354,CEN17LA223,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95354/pdf,6/8/2017,Chatsworth,Illinois,United States,40.753612,-88.291946,0,1,Non-Fatal,non-fatal,False
+95537,GAA17CA398,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95537/pdf,7/7/2017,Pocahontas,Illinois,United States,38.750831,-89.540832,0,0,Non-Fatal,non-fatal,False
+95705,GAA17CA450,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95705/pdf,7/31/2017,Dunlap,Illinois,United States,40.861667,-89.678611,0,0,Non-Fatal,non-fatal,False
+95707,GAA17CA452,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95707/pdf,7/29/2017,St. Joseph,Illinois,United States,40.064998,-88.025276,0,0,Non-Fatal,non-fatal,False
+95733,GAA17CA461,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95733/pdf,7/5/2017,Kankakee,Illinois,United States,41.071388,-87.846389,0,0,Non-Fatal,non-fatal,False
+95787,CEN17LA309,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95787/pdf,8/9/2017,Galesburg,Illinois,United States,40.973056,-90.303611,0,0,Non-Fatal,non-fatal,False
+95799,GAA17CA483,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95799/pdf,8/9/2017,Cairo,Illinois,United States,37.064167,-89.219444,0,0,Non-Fatal,non-fatal,False
+95856,GAA17CA499,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95856/pdf,8/21/2017,Rochelle,Illinois,United States,41.893054,-89.07833,0,0,Non-Fatal,non-fatal,False
+95912,CEN17LA333,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95912/pdf,8/28/2017,Carbondale,Illinois,United States,37.673053,-89.259162,0,2,Non-Fatal,non-fatal,False
+95955,CEN17LA338,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95955/pdf,9/3/2017,Mt. Zion,Illinois,United States,39.744167,-88.919441,0,0,Non-Fatal,non-fatal,False
+96123,GAA17CA566,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96123/pdf,9/30/2017,Hampshire,Illinois,United States,42.154445,-88.51667,0,0,Non-Fatal,non-fatal,False
+96178,CEN18LA008,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96178/pdf,10/6/2017,Sugar Grove,Illinois,United States,41.771945,-88.475555,0,0,Non-Fatal,non-fatal,False
+96194,GAA18CA012,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96194/pdf,10/12/2017,Canton,Illinois,United States,40.56361,-90.074165,0,0,Non-Fatal,non-fatal,False
+96329,CEN18LA031,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96329/pdf,11/12/2017,Grayslake,Illinois,United States,42.324165,-88.080276,0,0,Non-Fatal,non-fatal,False
+96386,CEN18LA041,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96386/pdf,11/22/2017,Bolingbrook,Illinois,United States,41.695556,-88.12889,0,0,Non-Fatal,non-fatal,False
+96399,CEN18LA043,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96399/pdf,11/22/2017,De Kalb,Illinois,United States,41.931667,-88.705001,0,0,Non-Fatal,non-fatal,False
+96415,CEN18LA044,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96415/pdf,11/8/2017,Harvard,Illinois,United States,42.402221,-88.632225,0,0,Non-Fatal,non-fatal,False
+96419,CEN18LA047,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96419/pdf,12/4/2017,Rockford,Illinois,United States,42.203056,-89.082496,0,2,Non-Fatal,non-fatal,False
+96427,GAA18CA069,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96427/pdf,12/2/2017,Plato Center,Illinois,United States,42.007778,-88.456947,0,0,Non-Fatal,non-fatal,False
+96638,CEN18LA082,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96638/pdf,1/20/2018,Grand Detour,Illinois,United States,41.895,-89.411392,0,2,Non-Fatal,non-fatal,False
+96643,GAA18CA110,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96643/pdf,1/22/2018,Cahokia,Illinois,United States,38.571388,-90.154441,0,0,Non-Fatal,non-fatal,False
+96717,CEN18LA092,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96717/pdf,2/8/2018,Centralia,Illinois,United States,38.515834,-89.091667,0,1,Non-Fatal,non-fatal,False
+96856,GAA18CA157,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96856/pdf,3/12/2018,Rockford,Illinois,United States,42.195278,-89.097221,0,0,Non-Fatal,non-fatal,False
+97184,GAA18CA255,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97184/pdf,5/5/2018,Dekalb,Illinois,United States,41.928333,-88.707496,0,0,Non-Fatal,non-fatal,False
+97279,CEN18LA181,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97279/pdf,5/18/2018,Hanover Park,Illinois,United States,41.994445,-88.135276,0,0,Non-Fatal,non-fatal,False
+97342,GAA18CA305,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97342/pdf,5/27/2018,Hammond,Illinois,United States,39.796943,-88.591667,0,0,Non-Fatal,non-fatal,False
+97375,CEN18LA205,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97375/pdf,5/27/2018,Union,Illinois,United States,42.154167,-88.51139,0,1,Non-Fatal,non-fatal,False
+97490,CEN18LA228,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97490/pdf,6/16/2018,Greenwood,Illinois,United States,42.402778,-88.375,0,0,Non-Fatal,non-fatal,False
+97507,GAA18CA354,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97507/pdf,6/15/2018,WAUKEGAN,Illinois,United States,42.422222,-87.867774,0,0,Non-Fatal,non-fatal,False
+97520,GAA18CA360,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97520/pdf,6/14/2018,Salem,Illinois,United States,38.64389,-88.964721,0,0,Non-Fatal,non-fatal,False
+97559,CEN18FA235,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97559/pdf,6/24/2018,Monmouth,Illinois,United States,40.93861,-90.623054,2,0,Fatal,fatal,True
+97698,GAA18CA401,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97698/pdf,7/5/2018,Rochelle,Illinois,United States,41.943889,-88.924446,0,0,Non-Fatal,non-fatal,False
+97707,CEN18LA260,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97707/pdf,7/6/2018,Bentley,Illinois,United States,40.330001,-91.18,0,0,Non-Fatal,non-fatal,False
+97711,GAA18CA397,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97711/pdf,7/4/2018,Lewiston,Illinois,United States,40.346111,-90.168052,0,0,Non-Fatal,non-fatal,False
+97745,GAA18CA415,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97745/pdf,7/10/2018,De Land,Illinois,United States,40.109722,-88.683052,0,0,Non-Fatal,non-fatal,False
+97760,GAA18CA421,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97760/pdf,7/11/2018,Lincoln,Illinois,United States,40.195556,-89.304168,0,0,Non-Fatal,non-fatal,False
+97794,CEN18LA270,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97794/pdf,7/13/2018,Bismarck,Illinois,United States,40.2425,-87.567222,0,1,Non-Fatal,non-fatal,False
+97835,GAA18CA430,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97835/pdf,7/8/2018,Okawville,Illinois,United States,38.517501,-89.565551,0,0,Non-Fatal,non-fatal,False
+97921,CEN18LA299,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97921/pdf,7/28/2018,Columbia,Illinois,United States,38.461666,-90.229446,0,3,Non-Fatal,non-fatal,False
+98060,CEN18LA328,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98060/pdf,8/12/2018,South Beloit,Illinois,United States,42.492221,-88.983612,0,1,Non-Fatal,non-fatal,False
+98242,GAA18CA531,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98242/pdf,9/2/2018,Centralia,Illinois,United States,38.514999,-89.09111,0,0,Non-Fatal,non-fatal,False
+99016,GAA19CA145,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99016/pdf,2/14/2019,Lacon,Illinois,United States,41.01889,-89.385833,0,0,Non-Fatal,non-fatal,False
+99021,GAA19CA149,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99021/pdf,2/24/2019,Springfield,Illinois,United States,39.841667,-89.675003,0,0,Non-Fatal,non-fatal,False
+99099,CEN19LA098,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99099/pdf,3/12/2019,Waterloo,Illinois,United States,38.362777,-90.10028,0,1,Non-Fatal,non-fatal,False
+99290,CEN19LA123,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99290/pdf,4/20/2019,St Jacob,Illinois,United States,38.699722,-89.775001,0,1,Non-Fatal,non-fatal,False
+99301,CEN19LA126,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99301/pdf,4/19/2019,Dwight,Illinois,United States,41.132778,-88.438331,0,0,Non-Fatal,non-fatal,False
+99311,GAA18CA588,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99311/pdf,7/17/2018,Chicago,Illinois,United States,42.114166,-87.901664,0,0,Non-Fatal,non-fatal,False
+99345,GAA19CA232,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99345/pdf,4/30/2019,Cobden,Illinois,United States,37.537223,-89.891944,0,0,Non-Fatal,non-fatal,False
+99433,CEN19LA142,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99433/pdf,5/15/2019,Centralia,Illinois,United States,38.514999,-89.09111,0,0,Non-Fatal,non-fatal,False
+99475,GAA19CA278,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99475/pdf,5/23/2019,Pittsfield,Illinois,United States,39.651668,-90.809997,0,0,Non-Fatal,non-fatal,False
+99479,GAA19CA279,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99479/pdf,5/23/2019,St. Louis,Illinois,United States,38.570278,-90.154998,0,0,Non-Fatal,non-fatal,False
+99482,CEN19LA152,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99482/pdf,5/26/2019,Poplar Grove,Illinois,United States,42.342777,-88.896667,0,0,Non-Fatal,non-fatal,False
+99506,GAA19CA288,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99506/pdf,5/26/2019,Carbondale,Illinois,United States,37.778057,-89.251945,0,0,Non-Fatal,non-fatal,False
+99524,GAA19CA298,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99524/pdf,5/31/2019,Sparta,Illinois,United States,38.148887,-89.698608,0,0,Non-Fatal,non-fatal,False
+99774,CEN19FA210,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99774/pdf,7/5/2019,Chebanse,Illinois,United States,40.991943,-87.835556,1,1,Fatal,fatal,True
+99810,CEN19LA216,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99810/pdf,7/8/2019,Kaneville,Illinois,United States,41.86861,-88.579719,0,0,Non-Fatal,non-fatal,False
+99827,CEN19LA220,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99827/pdf,7/11/2019,Wheeling,Illinois,United States,42.134723,-87.89167,0,0,Non-Fatal,non-fatal,False
+99994,GAA19CA481,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99994/pdf,8/2/2019,Vandalia,Illinois,United States,38.975276,-89.142501,0,0,Non-Fatal,non-fatal,False
+100003,CEN19LA251,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100003/pdf,7/27/2019,Chicago,Illinois,United States,41.783054,-87.745002,0,0,Non-Fatal,non-fatal,False
+100300,GAA19CA558,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100300/pdf,8/9/2019,Chicago,Illinois,United States,41.785831,-87.752502,0,0,Non-Fatal,non-fatal,False
+100880,CEN20FA070,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100880/pdf,1/28/2020,Springfield,Illinois,United States,39.7625,-89.572219,3,0,Fatal,fatal,True
+101022,CEN20FA110,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101022/pdf,3/3/2020,Lincoln,Illinois,United States,40.160917,-89.417741,3,0,Fatal,fatal,True
+101228,CEN20LA168,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101228/pdf,5/2/2020,PALMYRA,Illinois,United States,39.408889,-89.99028,1,0,Fatal,fatal,True
+101290,CEN20CA181,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101290/pdf,5/15/2020,Colchester,Illinois,United States,40.45111,-90.790832,0,1,Non-Fatal,non-fatal,False
+101294,CEN20CA182,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101294/pdf,5/15/2020,Chatham,Illinois,United States,39.704166,-89.717224,0,0,Non-Fatal,non-fatal,False
+101325,CEN20CA192,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101325/pdf,5/22/2020,Carbondale,Illinois,United States,37.778057,-89.251945,0,0,Non-Fatal,non-fatal,False
+101348,CEN20LA201,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101348/pdf,5/31/2020,Carlinville,Illinois,United States,39.241664,-89.915557,4,0,Fatal,fatal,True
+101406,CEN20LA219,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101406/pdf,6/8/2020,Beecher,Illinois,United States,41.381668,-87.665275,1,0,Fatal,fatal,True
+101466,CEN20CA236,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101466/pdf,6/19/2020,Martinton,Illinois,United States,40.95972,-87.760559,0,0,Non-Fatal,non-fatal,False
+101658,CEN20CA302,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101658/pdf,7/20/2020,Grayslake,Illinois,United States,42.339412,-88.029418,0,0,Non-Fatal,non-fatal,False
+101676,CEN20CA308,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101676/pdf,7/26/2020,Hillsboro,Illinois,United States,39.2425,-89.550834,0,1,Non-Fatal,non-fatal,False
+101684,CEN20CA313,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101684/pdf,7/27/2020,Dakota,Illinois,United States,42.439445,-89.515274,0,0,Non-Fatal,non-fatal,False
+101778,CEN20CA333,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101778/pdf,8/7/2020,Marion,Illinois,United States,37.755001,-89.011108,0,0,Non-Fatal,non-fatal,False
+101806,CEN20LA342,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101806/pdf,8/14/2020,Rockford,Illinois,United States,42.288055,-89.136108,0,0,Non-Fatal,non-fatal,False
+101836,CEN20LA352,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101836/pdf,8/20/2020,Rockford,Illinois,United States,42.193054,-89.088607,1,0,Fatal,fatal,True
+101881,CEN20LA367,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101881/pdf,8/29/2020,Lawrenceville,Illinois,United States,38.789722,-87.605003,1,0,Fatal,fatal,True
+101992,CEN20LA400,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101992/pdf,9/19/2020,Red Bud,Illinois,United States,38.211666,-90.014999,1,0,Fatal,fatal,True
+102001,CEN20LA403,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102001/pdf,9/17/2020,Palatine,Illinois,United States,42.109619,-88.040779,0,0,Non-Fatal,non-fatal,False
+102006,CEN20CA405,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102006/pdf,9/18/2020,Huntley,Illinois,United States,42.221474,-88.416444,0,0,Non-Fatal,non-fatal,False
+102007,CEN20CA406,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102007/pdf,9/19/2020,Union,Illinois,United States,42.229366,-88.539047,0,0,Non-Fatal,non-fatal,False
+102064,CEN20LA427,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102064/pdf,9/29/2020,Hinckley,Illinois,United States,41.772578,-88.652368,0,0,Non-Fatal,non-fatal,False
+102171,CEN21FA024,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102171/pdf,10/20/2020,Ford Heights,Illinois,United States,41.507801,-87.579052,1,0,Fatal,fatal,True
+102281,CEN21LA058,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102281/pdf,11/8/2020,Waukegan,Illinois,United States,42.42,-87.87,0,0,Non-Fatal,non-fatal,False
+102442,CEN21LA095,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102442/pdf,12/20/2020,Morris,Illinois,United States,41.428698,-88.420823,0,0,Non-Fatal,non-fatal,False
+102461,CEN21LA100,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102461/pdf,12/24/2020,Pecatonica,Illinois,United States,42.303868,-89.344838,0,1,Non-Fatal,non-fatal,False
+102894,CEN21LA185,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102894/pdf,4/7/2021,Schaumburg,Illinois,United States,41.989442,-88.101544,0,0,Non-Fatal,non-fatal,False
+102909,CEN21LA189,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102909/pdf,1/12/2021,Poplar Grove,Illinois,United States,42.321487,-88.837441,0,0,Non-Fatal,non-fatal,False
+103066,CEN21LA212,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103066/pdf,5/10/2021,Norris City,Illinois,United States,37.944686,-88.337917,0,0,Non-Fatal,non-fatal,False
+103082,CEN21LA219,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103082/pdf,5/13/2021,New Lenox,Illinois,United States,41.5524,-87.9806,0,3,Non-Fatal,non-fatal,False
+103093,CEN21LA221,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103093/pdf,5/14/2021,Pinckneyville,Illinois,United States,38.076674,-89.402136,0,0,Non-Fatal,non-fatal,False
+103108,CEN21LA226,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103108/pdf,5/16/2021,Hampshire,Illinois,United States,42.152653,-88.505268,0,1,Non-Fatal,non-fatal,False
+103528,CEN21LA332,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103528/pdf,7/21/2021,Jacksonville,Illinois,United States,39.775448,-90.238086,0,0,Non-Fatal,non-fatal,False
+103536,CEN21LA335,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103536/pdf,7/24/2021,Rock Falls,Illinois,United States,41.739882,-89.681476,0,0,Non-Fatal,non-fatal,False
+103682,CEN21LA369,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103682/pdf,8/11/2021,Wheeling,Illinois,United States,42.114279,-87.901541,0,0,Non-Fatal,non-fatal,False
+103727,CEN21LA374,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103727/pdf,8/13/2021,Greenville,Illinois,United States,38.83622,-89.37888,0,0,Non-Fatal,non-fatal,False
+103805,CEN21LA402,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103805/pdf,9/5/2021,Sheridan,Illinois,United States,41.536622,-88.620558,0,0,Non-Fatal,non-fatal,False
+103884,CEN21LA421,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103884/pdf,9/15/2021,Reynoldsville,Illinois,United States,37.3673,-89.3951,0,0,Non-Fatal,non-fatal,False
+103916,CEN21LA432,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103916/pdf,7/9/2021,Berlin,Illinois,United States,39.764167,-89.982778,0,0,Non-Fatal,non-fatal,False
+104168,CEN22LA020,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104168/pdf,10/26/2021,Benton,Illinois,United States,38.0085,-88.934444,0,0,Non-Fatal,non-fatal,False
+104286,CEN22LA043,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104286/pdf,11/21/2021,Wheeling,Illinois,United States,42.122436,-87.906659,0,0,Non-Fatal,non-fatal,False

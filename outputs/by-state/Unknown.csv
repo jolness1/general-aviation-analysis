@@ -1,0 +1,201 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+82665,ERA12WA142,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82665/pdf,1/7/2012,Andros Island,Unknown,Bahamas,24.43,-78.199996,0,0,Non-Fatal,non-fatal,False
+82877,DCA12RA037,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82877/pdf,2/12/2012,Bukavu,Unknown,Congo,-2.305277,28.805276,4,0,Fatal,fatal,True
+83016,CEN12WA178,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83016/pdf,2/25/2012,"Torreon, Coahuila, Mexico",Unknown,Mexico,25.559444,-103.402778,1,0,Fatal,fatal,True
+83019,DCA12RA047,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83019/pdf,3/1/2012,Egelsbach,Unknown,Germany,49.961112,-8.64361,5,0,Fatal,fatal,True
+83167,CEN12CA191,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83167/pdf,3/12/2012,Southern Timbalier 52CA,Unknown,United States,28.944444,-90.182777,0,0,Non-Fatal,non-fatal,False
+83218,ERA12WA255,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83218/pdf,3/25/2012,Treasure Cay,Unknown,Bahamas,26.745277,-77.391387,4,0,Fatal,fatal,True
+83230,ERA12WA257,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83230/pdf,2/28/2012,Villa Canas,Unknown,Argentina,-34.818611,-61.523056,0,0,Non-Fatal,non-fatal,False
+83291,ERA12LA268,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83291/pdf,4/3/2012,Caribbean Sea,Unknown,Unknown,12.733333,-69.849998,0,0,Non-Fatal,non-fatal,False
+83434,ERA12LA290,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83434/pdf,4/19/2012,,Unknown,United States,27.716667,-85.216667,1,0,Fatal,fatal,True
+83862,CEN12WA338,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83862/pdf,6/2/2012,Sinaloa,Unknown,Mexico,,,1,3,Fatal,fatal,True
+84312,DCA12RA110,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84312/pdf,7/13/2012,Le Castellet,Unknown,France,,,3,0,Fatal,fatal,True
+84338,ERA12WA457,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84338/pdf,7/16/2012,Nassau,Unknown,Bahamas,25.833333,-77.699996,2,0,Fatal,fatal,True
+84464,WPR12WA327,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84464/pdf,7/20/2012,Triso,Unknown,Malaysia,1.45,111.916664,3,0,Fatal,fatal,True
+84508,WPR12WA335,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84508/pdf,2/28/2012,"Auckland, New Zealand",Unknown,New Zealand,,,0,0,Non-Fatal,non-fatal,False
+84606,CEN12WA528,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84606/pdf,8/1/2012,"Kenora/Trout Lake, Ontario",Unknown,Canada,,,0,2,Non-Fatal,non-fatal,False
+84634,CEN12WA535,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84634/pdf,7/26/2012,Antwerp,Unknown,Belgium,,,0,0,Non-Fatal,non-fatal,False
+85098,CEN12WA646,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85098/pdf,8/18/2012,Hyeres,Unknown,France,,,0,0,Non-Fatal,non-fatal,False
+85108,CEN12LA652,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85108/pdf,9/20/2012,Gulf of Mexico,Unknown,United States,,,0,0,Non-Fatal,non-fatal,False
+85180,CEN12WA664,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85180/pdf,9/30/2012,Innsbruck,Unknown,Austria,,,6,2,Fatal,fatal,True
+85321,ERA13LA019,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85321/pdf,10/13/2012,Charlotte Amalie,Unknown,United States,18.240833,-65.055274,3,1,Fatal,fatal,True
+85429,DCA13CA008,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85429/pdf,10/17/2012,Kabul,Unknown,Afghanistan,34.566665,69.201385,0,0,Non-Fatal,non-fatal,False
+85764,DCA13RA025,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85764/pdf,12/9/2012,Monterrey,Unknown,Mexico,,,7,0,Fatal,fatal,True
+85951,CEN13WA123,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85951/pdf,12/29/2012,Guatemala,Unknown,Guatemala,,,2,1,Fatal,fatal,True
+86186,CEN13WA156,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86186/pdf,2/9/2013,Charloeri,Unknown,Belgium,50.459167,4.45361,5,0,Fatal,fatal,True
+86316,CEN13WA180,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86316/pdf,2/24/2013,Cozumel,Unknown,Mexico,,,0,0,Non-Fatal,non-fatal,False
+86561,WPR13WA177,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86561/pdf,3/29/2013,"Kawhia Harbour, New Zealand",Unknown,New Zealand,,,2,0,Fatal,fatal,True
+86650,ERA13WA203,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86650/pdf,4/13/2013,Georgetown,Unknown,Guyana,6.807499,-58.096111,2,0,Fatal,fatal,True
+86667,ERA13WA205,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86667/pdf,9/9/2012,Acreúna Municipality,Unknown,Brazil,17.423055,-50.351943,4,0,Fatal,fatal,True
+86844,ERA13WA232,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86844/pdf,5/5/2013,Valencia,Unknown,Venezuela,10.152777,-67.949996,2,0,Fatal,fatal,True
+87020,CEN13WA301,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87020/pdf,5/27/2013,Wolfsbehringen,Unknown,Germany,,,1,0,Fatal,fatal,True
+87036,CEN13WA307,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87036/pdf,5/29/2013,Gap Aerodrome,Unknown,France,,,1,0,Fatal,fatal,True
+87088,CEN13WA314,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87088/pdf,5/1/2013,Baumkirchen,Unknown,Austria,47.490833,11.916944,1,0,Fatal,fatal,True
+87134,CEN13WA328,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87134/pdf,6/7/2013,Micoxtla,Unknown,Mexico,19.458889,-97.036941,2,0,Fatal,fatal,True
+87135,CEN13WA329,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87135/pdf,6/7/2013,San Luis Potosi,Unknown,Mexico,,,4,1,Fatal,fatal,True
+87432,CEN13WA404,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87432/pdf,6/6/2013,Gloucestershire,Unknown,United Kingdom,,,0,0,Non-Fatal,non-fatal,False
+87454,CEN13WA405,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87454/pdf,5/30/2013,"Lagunillas, Jalisco",Unknown,Mexico,,,1,4,Fatal,fatal,True
+87469,ERA13WA319,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87469/pdf,7/11/2013,Ticlio,Unknown,Peru,-11.600277,-76.185836,2,0,Fatal,fatal,True
+87542,CEN13WA427,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87542/pdf,7/21/2013,English Channel,Unknown,United Kingdom,,,1,0,Fatal,fatal,True
+87756,CEN13WA480,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87756/pdf,8/8/2013,Vertaizon,Unknown,France,,,3,0,Fatal,fatal,True
+87787,CEN13WA492,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87787/pdf,8/11/2013,Mont-St-Grégoire,Unknown,Canada,45.338333,-73.162498,1,0,Fatal,fatal,True
+87873,ERA13LA380,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87873/pdf,8/25/2013,Cat Cay,Unknown,Bahamas,25.40361,-77.773887,0,0,Non-Fatal,non-fatal,False
+88159,CEN13WA566,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88159/pdf,9/24/2013,Lyon,Unknown,France,,,4,0,Fatal,fatal,True
+88410,ERA14WA041,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88410/pdf,11/10/2013,Freeport,Unknown,Bahamas,,,4,0,Fatal,fatal,True
+88448,CEN14WA062,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88448/pdf,11/19/2013,Mouffy,Unknown,France,,,6,0,Fatal,fatal,True
+88636,CEN14LA103,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88636/pdf,1/5/2014,West Delta 109,Unknown,United States,29.270156,-89.350418,0,0,Non-Fatal,non-fatal,False
+88893,ERA14WA148,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88893/pdf,3/7/2014,Al Khor,Unknown,Qatar,25.629444,51.506389,1,0,Fatal,fatal,True
+88974,WPR14LA147,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88974/pdf,3/26/2014,Inarajan,Unknown,United States,13.292778,144.734451,0,0,Non-Fatal,non-fatal,False
+89005,CEN14WA184,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89005/pdf,4/1/2014,San Marcos,Unknown,Guatemala,14.968889,-91.78778,2,0,Fatal,fatal,True
+89030,ERA14WA187,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89030/pdf,4/4/2014,Collagna,Unknown,Italy,44.328056,10.20111,1,0,Fatal,fatal,True
+89093,CEN14WA208,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89093/pdf,12/31/2013,"Honiley, Warwickshire",Unknown,United Kingdom,,,0,0,Non-Fatal,non-fatal,False
+89110,CEN14WA216,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89110/pdf,1/12/2014,Trier-Föhren Airport,Unknown,Germany,,,4,0,Fatal,fatal,True
+89257,CEN14WA248,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89257/pdf,2/18/2014,Toussus-Le-Noble,Unknown,France,48.75111,2.106388,0,0,Non-Fatal,non-fatal,False
+89457,CEN14WA294,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89457/pdf,6/11/2014,Rolleville,Unknown,France,49.582221,0.213333,0,0,Non-Fatal,non-fatal,False
+89497,ERA14WA304,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89497/pdf,6/19/2014,"Cerro Militar, Municipio de Calima",Unknown,Colombia,-3.969722,-76.608612,3,0,Fatal,fatal,True
+89611,CEN14RA340,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89611/pdf,7/5/2014,Czestochowska,Unknown,Poland,,,11,1,Fatal,fatal,True
+89662,CEN14WA363,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89662/pdf,7/12/2014,Urtaca,Unknown,France,42.604442,9.185832,3,0,Fatal,fatal,True
+89721,WPR14LA309,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89721/pdf,7/22/2014,Pago Pago,Unknown,American Samoa,-14.331666,-170.711395,2,0,Fatal,fatal,True
+89812,CEN14WA407,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89812/pdf,8/6/2014,Saint Jean les Deux Jumeaux,Unknown,France,48.951389,3.018055,2,3,Fatal,fatal,True
+89835,CEN14WA416,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89835/pdf,8/8/2014,Lake in the Woods,Unknown,Canada,,,3,0,Fatal,fatal,True
+89902,ERA14WA393,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89902/pdf,8/18/2014,Freeport,Unknown,Bahamas,26.594999,-78.790557,4,0,Fatal,fatal,True
+90014,CEN14WA478,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90014/pdf,9/2/2014,Baie-Comeau,Unknown,Canada,,,1,0,Fatal,fatal,True
+90031,ERA14LA424,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90031/pdf,9/5/2014,Caribbean Sea,Unknown,Unknown,18.534721,-76.440551,2,0,Fatal,fatal,True
+90053,CEN14WA491,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90053/pdf,9/5/2014,Roeselare,Unknown,Belgium,50.951946,3.104166,2,0,Fatal,fatal,True
+90100,CEN14WA502,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90100/pdf,9/11/2014,Kulusuk,Unknown,Greenland,,,1,0,Fatal,fatal,True
+90115,CEN14WA509,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90115/pdf,9/17/2014,Le Touguet,Unknown,France,,,0,0,Non-Fatal,non-fatal,False
+90302,ERA15WA026,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90302/pdf,10/24/2014,Governors Harbor,Unknown,Bahamas,,,1,0,Fatal,fatal,True
+90327,ERA15WA034,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90327/pdf,11/11/2013,Charallave,Unknown,Venezuela,10.289999,-66.815002,0,0,Non-Fatal,non-fatal,False
+90376,ERA15RA047,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90376/pdf,11/9/2014,Freeport,Unknown,Bahamas,26.526945,-78.756111,9,0,Fatal,fatal,True
+90509,CEN15WA080,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90509/pdf,11/24/2014,London,Unknown,United Kingdom,51.33139,0.032777,0,0,Non-Fatal,non-fatal,False
+90515,CEN15WA082,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90515/pdf,12/18/2014,Nuevo Michoacan,Unknown,Mexico,,,2,0,Fatal,fatal,True
+90528,WPR15CA069,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90528/pdf,11/24/2014,Obyan,Unknown,United States,15.120277,145.729995,0,0,Non-Fatal,non-fatal,False
+90571,ERA15LA091,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90571/pdf,12/22/2014,South Bimini,Unknown,Bahamas,25.690555,-79.159721,0,0,Non-Fatal,non-fatal,False
+90666,CEN15WA129,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90666/pdf,10/19/2014,Speck-Fehraltorf,Unknown,Switzerland,47.376388,8.757778,0,0,Non-Fatal,non-fatal,False
+90680,CEN15WA133,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90680/pdf,1/30/2015,Geneva,Unknown,Switzerland,,,1,0,Fatal,fatal,True
+90686,ERA15WA119,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90686/pdf,1/26/2015,Milan,Unknown,Italy,45.445556,9.278055,0,0,Non-Fatal,non-fatal,False
+90725,CEN15WA143,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90725/pdf,2/12/2015,Bohusovice nad Ohri,Unknown,Czech Republic,,,1,0,Fatal,fatal,True
+90763,CEN15WA150,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90763/pdf,2/15/2015,Bjornon,Unknown,Sweden,,,0,0,Non-Fatal,non-fatal,False
+90821,CEN15WA162,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90821/pdf,2/6/2015,Oresten,Unknown,Sweden,57.445278,12.648888,0,0,Non-Fatal,non-fatal,False
+90971,ANC15WA017,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90971/pdf,10/12/2014,Ibusuki City,Unknown,Japan,31.252777,130.633056,0,0,Non-Fatal,non-fatal,False
+91115,GAA15CA058,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91115/pdf,4/17/2015,Tamuning,Unknown,United States,13.483888,144.799163,0,0,Non-Fatal,non-fatal,False
+91311,CEN15WA254,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91311/pdf,5/24/2015,Carlow,Unknown,Ireland,52.546943,6.809722,2,0,Fatal,fatal,True
+91336,ANC15WA036,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91336/pdf,6/1/2015,Sikanni Chief,Unknown,Canada,,,2,0,Fatal,fatal,True
+91514,ERA15WA260,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91514/pdf,7/6/2015,Pskov,Unknown,Russia,57.766666,28.383333,0,0,Non-Fatal,non-fatal,False
+91521,CEN15WA299,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91521/pdf,7/5/2015,"Kempton, Germany",Unknown,Germany,,,1,1,Fatal,fatal,True
+91764,CEN15RA352,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91764/pdf,8/9/2015,Akureyri,Unknown,Iceland,65.863609,-18.936388,1,1,Fatal,fatal,True
+91781,ERA15WA310,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91781/pdf,8/12/2015,Saba,Unknown,Netherlands Antilles,17.5925,-63.259723,0,0,Non-Fatal,non-fatal,False
+91813,CEN15WA364,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91813/pdf,8/16/2015,Chateauneuf Sur Cher,Unknown,France,,,0,0,Non-Fatal,non-fatal,False
+91858,ANC15WA067,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91858/pdf,5/8/2015,SURREY,Unknown,Canada,,,1,0,Fatal,fatal,True
+91873,ERA15LA328,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91873/pdf,4/10/2015,Caribbean Sea,Unknown,Unknown,22.416666,-74.833335,0,0,Non-Fatal,non-fatal,False
+91966,ERA15WA355,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91966/pdf,9/11/2015,Santa Fe de Antioquia,Unknown,Colombia,,,2,1,Fatal,fatal,True
+92262,DCA16RA014,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92262/pdf,10/30/2015,Tronzano Vercellese,Unknown,Italy,,,2,0,Fatal,fatal,True
+92340,CEN16WA045,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92340/pdf,11/14/2015,"Buttles Farm, Churchinford, UK",Unknown,United Kingdom,,,4,0,Fatal,fatal,True
+92770,CEN16WA110,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92770/pdf,2/22/2016,Saint François,Unknown,Guadeloupe,16.257778,-61.2625,0,0,Non-Fatal,non-fatal,False
+92915,CEN16RA136,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92915/pdf,3/29/2016,Iles-de-la-Madeleine,Unknown,Canada,,,7,0,Fatal,fatal,True
+92982,CEN16WA147,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92982/pdf,4/7/2016,Suwalki,Unknown,Poland,54.055557,22.903333,0,2,Non-Fatal,non-fatal,False
+92990,CEN16WA149,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92990/pdf,4/2/2016,Atemajac de Brizuela,Unknown,Mexico,20.183332,-103.699996,0,1,Non-Fatal,non-fatal,False
+93043,CEN16WA160,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93043/pdf,4/17/2016,Cozumel,Unknown,Mexico,20.514999,-86.928886,1,0,Fatal,fatal,True
+93154,CEN16WA179,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93154/pdf,4/26/2016,"Andorra, Lleida, Spain",Unknown,Spain,42.204723,1.245277,0,0,Non-Fatal,non-fatal,False
+93409,ERA16WA219,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93409/pdf,6/19/2016,South Bimini,Unknown,Bahamas,25.7,-79.257225,2,0,Fatal,fatal,True
+93421,CEN16WA226,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93421/pdf,6/16/2016,Kyviškes,Unknown,Lithuania,,,1,0,Fatal,fatal,True
+93489,ERA16WA232,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93489/pdf,6/25/2016,Fresh Creek,Unknown,Bahamas,24.698055,-77.795555,0,0,Non-Fatal,non-fatal,False
+93615,CEN16WA268,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93615/pdf,7/14/2016,Ajdovscina,Unknown,Slovenia,45.953609,13.861944,4,0,Fatal,fatal,True
+93781,ERA16LA282,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93781/pdf,8/7/2016,St. Croix,Unknown,United States,18.335657,-64.897193,0,2,Non-Fatal,non-fatal,False
+93907,CEN16WA337,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93907/pdf,8/25/2016,Speyer,Unknown,Germany,49.319442,8.431111,1,0,Fatal,fatal,True
+93943,ERA16WA310,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93943/pdf,8/25/2016,Eleuthera,Unknown,Bahamas,25.472221,-76.69139,0,0,Non-Fatal,non-fatal,False
+94394,ERA17WA049,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94394/pdf,11/10/2016,Kingston,Unknown,Jamaica,18.019443,-76.779724,3,0,Fatal,fatal,True
+94422,ERA17WA055,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94422/pdf,11/23/2016,Valparaiso,Unknown,Chile,-32.838611,-70.083885,1,0,Fatal,fatal,True
+94438,ERA17WA060,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94438/pdf,11/19/2016,Varese,Unknown,Italy,45.876667,8.851666,1,2,Fatal,fatal,True
+94470,CEN17WA049,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94470/pdf,12/4/2016,Toledo,Unknown,Spain,,,4,0,Fatal,fatal,True
+94516,WPR17WA040,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94516/pdf,12/8/2016,Singapore,Unknown,Singapore,1.416944,103.867774,0,0,Non-Fatal,non-fatal,False
+94612,ERA17WA090,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94612/pdf,10/17/2016,Puerto Plata,Unknown,Dominican Republic,19.784999,-70.642219,3,0,Fatal,fatal,True
+94630,WPR16WA190,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94630/pdf,8/27/2016,Zhangye Ganzhou,Unknown,China,39.02,100.099998,1,0,Fatal,fatal,True
+94654,CEN17WA086,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94654/pdf,10/27/2016,Saarbrucken,Unknown,Germany,49.219722,7.113055,1,0,Fatal,fatal,True
+94697,CEN17WA102,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94697/pdf,2/7/2017,Guatemala City,Unknown,Guatemala,14.581666,-90.526664,4,0,Fatal,fatal,True
+94711,CEN16WA398,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94711/pdf,5/16/2016,Ailly-sur-Somme,Unknown,France,,,0,2,Non-Fatal,non-fatal,False
+94755,CEN16RA399,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94755/pdf,9/13/2016,Guatemala City,Unknown,Guatemala,14.584444,-90.608886,0,0,Non-Fatal,non-fatal,False
+94840,ERA17WA124,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94840/pdf,3/4/2017,Villa Tapia,Unknown,Dominican Republic,19.245832,-70.425277,1,0,Fatal,fatal,True
+94880,CEN17WA133,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94880/pdf,3/15/2017,Manitouwadge,Unknown,Canada,49.133335,-85.833335,0,0,Non-Fatal,non-fatal,False
+95023,CEN17WA159,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95023/pdf,4/11/2017,Salzburg,Unknown,Austria,47.785278,13.006944,0,0,Non-Fatal,non-fatal,False
+95027,CEN17WA161,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95027/pdf,4/14/2017,Cancun,Unknown,Mexico,21.104166,-86.831665,1,0,Fatal,fatal,True
+95184,ERA17FA181,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95184/pdf,5/15/2017,Eleuthera,Unknown,Bahamas,25.2,-75.966667,4,0,Fatal,fatal,True
+95188,ERA17WA183,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95188/pdf,5/10/2017,Fundres,Unknown,Italy,46.898612,11.698333,1,0,Fatal,fatal,True
+95228,CEN17WA195,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95228/pdf,5/9/2017,San Vicente Tancoayalab,Unknown,Mexico,21.715,-98.608329,0,1,Non-Fatal,non-fatal,False
+95523,GAA17CA394,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95523/pdf,7/2/2017,Tamuning,Unknown,United States,13.483888,144.797225,0,0,Non-Fatal,non-fatal,False
+95867,ANC17WA048,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95867/pdf,8/14/2017,Zemyo,Unknown,Japan,34.659999,136.0,2,0,Fatal,fatal,True
+96005,CEN17WA349,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96005/pdf,6/9/2017,"Caernarfon, Gwynedd",Unknown,United Kingdom,53.100555,-4.337777,1,0,Fatal,fatal,True
+96149,WPR17LA216,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96149/pdf,9/25/2017,Tamuning,Unknown,United States,13.477777,144.777496,0,0,Non-Fatal,non-fatal,False
+96197,ERA17WA344,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96197/pdf,9/26/2017,Unknown,Unknown,Bahamas,25.475,-76.683609,2,0,Fatal,fatal,True
+96334,ERA18WA025,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96334/pdf,11/10/2017,Goias,Unknown,Brazil,-15.933888,-50.139999,0,1,Non-Fatal,non-fatal,False
+96429,DCA18WA029,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96429/pdf,12/4/2017,Caracas,Unknown,Venezuela,10.604166,-66.998886,0,0,Non-Fatal,non-fatal,False
+96438,ERA18FA046,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96438/pdf,12/7/2017,St. Croix,Unknown,United States,18.33633,-64.897247,5,0,Fatal,fatal,True
+96479,ERA18WA047,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96479/pdf,12/14/2017,West End,Unknown,Bahamas,26.75,-79.033332,1,0,Fatal,fatal,True
+96571,CEN18WA067,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96571/pdf,12/30/2017,Alicante,Unknown,Spain,38.438331,-0.469444,1,0,Fatal,fatal,True
+96630,ERA18WA063,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96630/pdf,1/17/2018,Nicholls Town,Unknown,Bahamas,25.0,-77.933334,6,0,Fatal,fatal,True
+96658,ANC18LA020,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96658/pdf,1/26/2018,Pacific Ocean,Unknown,Japan,35.245555,157.236389,0,0,Non-Fatal,non-fatal,False
+96759,CEN18WA103,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96759/pdf,2/17/2018,Saint Laurent La Roche,Unknown,France,,,3,0,Fatal,fatal,True
+96948,CEN18WA130,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96948/pdf,3/24/2018,Arosa,Unknown,Switzerland,,,2,0,Fatal,fatal,True
+97051,ERA18WA130,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97051/pdf,4/10/2018,Tucuman,Unknown,Argentina,,,4,0,Fatal,fatal,True
+97116,WPR18WA126,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97116/pdf,4/25/2018,HeNan Province,Unknown,China,34.84111,113.279998,1,0,Fatal,fatal,True
+97301,CEN18RA187,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97301/pdf,5/22/2018,Tegucigalpa,Unknown,Honduras,14.061666,87.216941,0,0,Non-Fatal,non-fatal,False
+97408,ERA18WA159,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97408/pdf,6/5/2018,Rock Sound,Unknown,Bahamas,,,3,0,Fatal,fatal,True
+97687,WPR18FA188,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97687/pdf,7/4/2018,Majuro,Unknown,United States,7.110285,171.179718,2,0,Fatal,fatal,True
+97816,CEN18WA279,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97816/pdf,7/18/2018,Tortola,Unknown,British Virgin Islands,18.450834,-64.536941,1,0,Fatal,fatal,True
+97991,CEN18WA312,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97991/pdf,8/4/2018,Fratauti,Unknown,Romania,,,1,1,Fatal,fatal,True
+98027,CEN18WA324,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98027/pdf,7/23/2018,Cork,Unknown,Ireland,51.841388,-8.49111,0,0,Non-Fatal,non-fatal,False
+98064,ENG18WA034,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98064/pdf,5/17/2018,Valle Nuevo,Unknown,Dominican Republic,,,0,0,Non-Fatal,non-fatal,False
+98115,ERA18WA223,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98115/pdf,8/19/2018,Santo Domingo Norte,Unknown,Dominican Republic,18.588888,-69.983055,2,0,Fatal,fatal,True
+98354,ERA18WA261,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98354/pdf,2/9/2018,"Margham, Dubai",Unknown,United Arab Emirates,24.898332,55.619445,0,2,Non-Fatal,non-fatal,False
+98389,CEN18WA393,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98389/pdf,7/20/2018,Wolfsberg,Unknown,Austria,,,0,0,Non-Fatal,non-fatal,False
+98405,CEN19WA001,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98405/pdf,10/1/2018,Yécora,Unknown,Mexico,28.348054,-108.924446,3,0,Fatal,fatal,True
+98618,CEN18WA399,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98618/pdf,4/30/2018,Hamilton,Unknown,Bermuda,32.361389,-64.66278,0,0,Non-Fatal,non-fatal,False
+98625,ERA19WA040,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98625/pdf,11/8/2018,Nassau,Unknown,Bahamas,25.067222,-77.492225,1,0,Fatal,fatal,True
+98694,CEN16WA402,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98694/pdf,5/8/2016,Mexico,Unknown,Mexico,,,0,1,Non-Fatal,non-fatal,False
+98848,CEN19WA057,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98848/pdf,1/21/2019,St. Peter Port,Unknown,United Kingdom,49.683887,-2.562222,2,0,Fatal,fatal,True
+98967,CEN19WA080,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98967/pdf,12/18/2018,Toussus-Le-Noble,Unknown,France,48.456111,1.536944,0,0,Non-Fatal,non-fatal,False
+99388,GAA19WA248,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99388/pdf,5/1/2019,"Rigolet, NL",Unknown,Canada,54.709999,58.363887,0,0,Non-Fatal,non-fatal,False
+99462,ERA19WA176,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99462/pdf,5/21/2019,La Vega,Unknown,Dominican Republic,19.833055,-70.779724,2,1,Fatal,fatal,True
+99488,ANC19WA020,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99488/pdf,5/27/2019,Whitehorse,Unknown,Canada,60.699722,-135.053894,2,0,Fatal,fatal,True
+99749,ERA19WA207,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99749/pdf,6/29/2019,Cabo Rojo,Unknown,Dominican Republic,,,4,0,Fatal,fatal,True
+99766,ERA19FA210,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99766/pdf,7/4/2019,Big Grand Cay,Unknown,Bahamas,27.238056,-78.304443,7,0,Fatal,fatal,True
+99778,GAA19WA386,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99778/pdf,6/27/2019,"Chimaitenango, Guatemala",Unknown,Guatemala,,,2,0,Fatal,fatal,True
+99782,GAA19WA391,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99782/pdf,6/9/2019,Mulakot,Unknown,Iceland,63.712776,91.851943,3,2,Fatal,fatal,True
+99820,GAA19CA404,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99820/pdf,7/10/2019,Saipan,Unknown,United States,15.123888,145.731384,0,0,Non-Fatal,non-fatal,False
+99954,GAA19WA460,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99954/pdf,7/21/2019,"Hythe, Kent-UK",Unknown,United Kingdom,,,1,1,Fatal,fatal,True
+99991,GAA19WA478,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99991/pdf,7/11/2019,Bucaramanga,Unknown,Colombia,7.127777,-73.184722,0,0,Non-Fatal,non-fatal,False
+100029,ERA19WA242,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100029/pdf,8/8/2019,Bimini,Unknown,Bahamas,25.731388,-79.689445,0,0,Non-Fatal,non-fatal,False
+100067,CEN19WA268,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100067/pdf,7/30/2019,"Senneterre, Quebec",Unknown,Canada,48.471944,-77.047778,1,0,Fatal,fatal,True
+100264,CEN19TA321,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100264/pdf,9/15/2019,Gulf of Mexico,Unknown,United States,28.866945,-89.302223,0,0,Non-Fatal,non-fatal,False
+100316,ERA19LA279,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100316/pdf,9/12/2019,Charlotte Amalie,Unknown,United States,18.337499,-64.967224,0,0,Non-Fatal,non-fatal,False
+100474,CEN20WA011,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100474/pdf,10/19/2019,San Salvador,Unknown,El Salvador,13.73295,-89.273017,2,2,Fatal,fatal,True
+100638,CEN20WA024,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100638/pdf,11/27/2019,Kingston,Unknown,Canada,44.281031,-76.606596,7,0,Fatal,fatal,True
+100807,ANC20CA014,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100807/pdf,12/15/2019,Tokyo,Unknown,Japan,35.741111,139.346664,0,0,Non-Fatal,non-fatal,False
+100854,WPR20WA076,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100854/pdf,1/23/2020,Cooma,Unknown,Australia,-36.300556,148.973892,3,0,Fatal,fatal,True
+100883,GAA20WA110,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100883/pdf,1/24/2020,Iztapa,Unknown,Guatemala,13.930277,-90.729446,1,0,Fatal,fatal,True
+101149,CEN20WA142,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101149/pdf,3/30/2020,Gotha,Unknown,Germany,,,0,1,Non-Fatal,non-fatal,False
+101308,ERA20CA191,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101308/pdf,5/10/2020,Baghdad,Unknown,Iraq,33.29639,44.922222,0,0,Non-Fatal,non-fatal,False
+101356,ERA20CA201,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101356/pdf,6/1/2020,GULF OF MEXICO,Unknown,United States,26.014999,-82.112503,0,0,Non-Fatal,non-fatal,False
+101472,ENG20WA035,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101472/pdf,12/19/2019,Moruya,Unknown,Australia,-35.897777,150.144439,0,1,Non-Fatal,non-fatal,False
+102011,CEN20WA408,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102011/pdf,9/19/2020,Moosburg,Unknown,Germany,,,2,0,Fatal,fatal,True
+102012,CEN20WA409,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102012/pdf,9/20/2020,Kulmbach,Unknown,Germany,,,1,0,Fatal,fatal,True
+102034,GAA20WA139,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102034/pdf,9/22/2020,Al Thumamah (OETH-Riyad),Unknown,Saudi Arabia,,,1,0,Fatal,fatal,True
+102062,CEN20WA426,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102062/pdf,9/28/2020,Le Chevillotte,Unknown,France,47.23701,6.152546,3,0,Fatal,fatal,True
+102292,CEN21WA059,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102292/pdf,10/10/2020,Schwenningen,Unknown,Germany,,,0,0,Non-Fatal,non-fatal,False
+102355,CEN20WA437,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102355/pdf,7/4/2020,Pointe-à-Pitre,Unknown,Guadeloupe,16.5075,-61.8478,0,0,Non-Fatal,non-fatal,False
+102631,GAA21WA020,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102631/pdf,1/28/2021,Guerrero Negro,Unknown,Mexico,28.026644,-114.02475,0,0,Non-Fatal,non-fatal,False
+102759,GAA21WA047,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102759/pdf,3/13/2021,Rosh Pinna,Unknown,Israel,32.98,35.57,0,0,Non-Fatal,non-fatal,False
+102780,GAA21WA051,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102780/pdf,3/3/2021,Buitron,Unknown,Mexico,,,0,0,Non-Fatal,non-fatal,False
+102976,GAA21WA088,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102976/pdf,4/23/2021,Nuevo Laredo,Unknown,Mexico,,,1,0,Fatal,fatal,True
+103021,GAA17WA582,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103021/pdf,5/12/2017,Nyiregyhaza,Unknown,Hungary,,,0,0,Non-Fatal,non-fatal,False
+103023,GAA21WA099,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103023/pdf,4/29/2021,Monterrey,Unknown,Mexico,,,6,0,Fatal,fatal,True
+103047,GAA21WA103,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103047/pdf,5/2/2021,Rayon,Unknown,Mexico,,,0,0,Non-Fatal,non-fatal,False
+103050,GAA21WA105,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103050/pdf,4/15/2021,Leer-Papenburg,Unknown,Germany,,,0,0,Non-Fatal,non-fatal,False
+103231,GAA21WA135,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103231/pdf,12/28/2020,Mérida,Unknown,Mexico,,,0,0,Non-Fatal,non-fatal,False
+103237,GAA21WA137,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103237/pdf,3/2/2021,Courcelles-sur-Viosnes,Unknown,France,46.0731,1.98944,0,0,Non-Fatal,non-fatal,False
+103438,GAA21WA168,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103438/pdf,7/4/2021,Luneburg,Unknown,Germany,53.2464,10.4115,0,0,Non-Fatal,non-fatal,False
+103714,GAA21WA207,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103714/pdf,8/15/2021,Marbach,Unknown,Germany,,,0,0,Non-Fatal,non-fatal,False
+103856,GAA21WA226,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103856/pdf,9/13/2021,Pista Del,Unknown,Guatemala,14.3367,-90.3261,0,0,Non-Fatal,non-fatal,False
+104157,GAA22WA017,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104157/pdf,10/20/2021,Bristol,Unknown,Ireland,,,0,0,Non-Fatal,non-fatal,False
+104174,GAA21WA254,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104174/pdf,9/18/2021,Bad Ragaz,Unknown,Switzerland,,,0,0,Non-Fatal,non-fatal,False
+105791,GAA21WA263,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/105791/pdf,8/12/2021,Saint Honorat,Unknown,France,,,0,0,Non-Fatal,non-fatal,False

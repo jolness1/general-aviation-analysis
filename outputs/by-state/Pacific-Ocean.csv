@@ -1,0 +1,9 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+86351,WPR13LA137,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86351/pdf,3/2/2013,Latangai Island,Pacific Ocean,Papua New Guinea,37.636062,-130.069396,1,1,Fatal,fatal,True
+90653,WPR15LA089,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90653/pdf,1/25/2015,Maui,Pacific Ocean,United States,20.870527,-156.449676,0,0,Non-Fatal,non-fatal,False
+91787,WPR15LA242,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91787/pdf,8/13/2015,Pacific Ocean,Pacific Ocean,United States,37.635906,-130.069366,1,0,Fatal,fatal,True
+91916,WPR15LA257,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91916/pdf,9/3/2015,Manra Island,Pacific Ocean,Kiribati,37.634368,-130.070419,1,1,Fatal,fatal,True
+92418,GAA16CA071,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92418/pdf,10/20/2015,Christmas Island,Pacific Ocean,Kiribati,37.634559,-130.069335,0,0,Non-Fatal,non-fatal,False
+94835,WPR17LA075,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94835/pdf,2/22/2017,Unknown,Pacific Ocean,United States,37.634754,-130.070831,0,2,Non-Fatal,non-fatal,False
+95870,WPR17LA186,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95870/pdf,8/22/2017,Pacific Ocean,Pacific Ocean,United States,31.655277,-118.323059,0,0,Non-Fatal,non-fatal,False
+96831,WPR18CA100,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96831/pdf,2/19/2018,Pacific Ocean,Pacific Ocean,Marshall Islands,34.979999,159.979995,0,0,Non-Fatal,non-fatal,False

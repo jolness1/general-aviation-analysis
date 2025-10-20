@@ -1,0 +1,188 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+82704,CEN12FA139,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82704/pdf,1/19/2012,Centerville,Louisiana,United States,29.5275,-91.395553,2,0,Fatal,fatal,True
+83106,CEN12CA185,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83106/pdf,3/11/2012,Belle Chase,Louisiana,United States,29.866111,-90.022224,0,0,Non-Fatal,non-fatal,False
+83177,CEN12CA194,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83177/pdf,3/15/2012,New Orleans,Louisiana,United States,30.342777,-90.028053,0,0,Non-Fatal,non-fatal,False
+83229,CEN12CA207,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83229/pdf,3/26/2012,Crowley,Louisiana,United States,30.213888,-92.339721,0,0,Non-Fatal,non-fatal,False
+83373,CEN12CA240,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83373/pdf,4/10/2012,Monroe,Louisiana,United States,32.510833,-92.03778,0,0,Non-Fatal,non-fatal,False
+83445,CEN12FA250,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83445/pdf,4/17/2012,Gulf of Mexico,Louisiana,United States,28.0925,-92.233612,0,0,Non-Fatal,non-fatal,False
+83552,CEN12CA272,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83552/pdf,4/27/2012,Vidalia,Louisiana,United States,31.561944,-91.506385,0,0,Non-Fatal,non-fatal,False
+84068,CEN12LA388,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84068/pdf,6/23/2012,Mamou,Louisiana,United States,30.6975,-92.413887,0,0,Non-Fatal,non-fatal,False
+84172,CEN12LA417,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84172/pdf,6/29/2012,New Iberia,Louisiana,United States,29.961944,-91.83139,0,1,Non-Fatal,non-fatal,False
+84285,CEN12LA434,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84285/pdf,6/26/2012,New Orleans,Louisiana,United States,30.042222,-90.028053,0,0,Non-Fatal,non-fatal,False
+84387,CEN12LA459,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84387/pdf,7/18/2012,Wisner,Louisiana,United States,31.946111,-91.562774,0,1,Non-Fatal,non-fatal,False
+84537,CEN12LA500,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84537/pdf,8/1/2012,Newellton,Louisiana,United States,32.0625,-91.254165,0,0,Non-Fatal,non-fatal,False
+84598,CEN12CA526,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84598/pdf,8/3/2012,Leesville,Louisiana,United States,31.168333,-93.342498,0,0,Non-Fatal,non-fatal,False
+84686,CEN12CA544,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84686/pdf,8/15/2012,Kaplan,Louisiana,United States,30.0,-92.26667,0,1,Non-Fatal,non-fatal,False
+84954,CEN12FA611,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84954/pdf,9/6/2012,Winnsboro,Louisiana,United States,32.146389,-91.698608,1,0,Fatal,fatal,True
+85252,CEN13FA003,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85252/pdf,10/5/2012,Intracoastal City,Louisiana,United States,29.787221,-92.158332,1,0,Fatal,fatal,True
+85294,CEN13FA009,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85294/pdf,10/10/2012,Crowley,Louisiana,United States,30.085277,-92.382499,1,0,Fatal,fatal,True
+85333,CEN13FA012,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85333/pdf,10/14/2012,Simpson,Louisiana,United States,31.299165,-92.888885,1,0,Fatal,fatal,True
+85405,CEN13FA025,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85405/pdf,10/22/2012,Houma,Louisiana,United States,29.559999,-90.666114,0,1,Non-Fatal,non-fatal,False
+85525,CEN13LA050,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85525/pdf,11/4/2012,Lafayette,Louisiana,United States,30.208889,-91.990554,0,0,Non-Fatal,non-fatal,False
+85626,CEN13LA063,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85626/pdf,11/19/2012,Oak Grove,Louisiana,United States,32.508888,-92.843887,1,0,Fatal,fatal,True
+85633,CEN13CA064,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85633/pdf,11/10/2012,Crowley,Louisiana,United States,30.214166,-92.260559,0,0,Non-Fatal,non-fatal,False
+85665,CEN13LA072,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85665/pdf,11/25/2012,DeRidder,Louisiana,United States,30.856666,-93.0,0,1,Non-Fatal,non-fatal,False
+86080,CEN13FA143,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86080/pdf,1/24/2013,Richwood,Louisiana,United States,32.456943,-92.075279,4,0,Fatal,fatal,True
+86235,CEN13LA163,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86235/pdf,2/15/2013,Jennings,Louisiana,United States,30.188333,-92.632225,1,0,Fatal,fatal,True
+86426,CEN13FA192,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86426/pdf,3/15/2013,Grand Lake,Louisiana,United States,30.03861,-93.167503,3,0,Fatal,fatal,True
+86639,CEN13LA225,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86639/pdf,4/12/2013,Midland,Louisiana,United States,30.150278,-92.483886,0,0,Non-Fatal,non-fatal,False
+86643,CEN13CA226,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86643/pdf,4/13/2013,Alexandria,Louisiana,United States,31.327499,-92.548614,0,0,Non-Fatal,non-fatal,False
+86773,CEN13CA246,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86773/pdf,4/28/2013,New Orleans,Louisiana,United States,30.03861,-90.023612,0,0,Non-Fatal,non-fatal,False
+86780,CEN13LA249,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86780/pdf,5/1/2013,Covington,Louisiana,United States,30.444999,-89.988891,0,0,Non-Fatal,non-fatal,False
+86912,CEN13CA282,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86912/pdf,5/16/2013,Abbeville,Louisiana,United States,29.971944,-92.083885,0,0,Non-Fatal,non-fatal,False
+87112,CEN13LA321,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87112/pdf,6/6/2013,Abbeville,Louisiana,United States,29.969293,-92.120765,0,0,Non-Fatal,non-fatal,False
+87124,CEN13FA326,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87124/pdf,6/7/2013,Baker,Louisiana,United States,30.576389,-91.136947,1,0,Fatal,fatal,True
+87399,CEN13LA394,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87399/pdf,7/4/2013,Colfax,Louisiana,United States,31.519166,-92.706665,0,0,Non-Fatal,non-fatal,False
+87513,CEN13FA420,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87513/pdf,7/18/2013,Oak Ridge,Louisiana,United States,32.619712,-91.770835,2,0,Fatal,fatal,True
+87710,CEN13LA472,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87710/pdf,8/4/2013,Simmesport,Louisiana,United States,30.980937,-91.810523,0,0,Non-Fatal,non-fatal,False
+88414,CEN14LA048,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88414/pdf,11/9/2013,Shreveport,Louisiana,United States,32.536388,-94.760002,0,0,Non-Fatal,non-fatal,False
+88470,CEN14CA070,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88470/pdf,11/24/2013,New Orleans,Louisiana,United States,32.042499,-90.028335,0,0,Non-Fatal,non-fatal,False
+88514,CEN14LA076,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88514/pdf,11/27/2013,Lake Providence,Louisiana,United States,32.61639,-91.27333,0,0,Non-Fatal,non-fatal,False
+88538,CEN14LA081,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88538/pdf,12/10/2013,Hammond,Louisiana,United States,30.591388,-90.286941,0,0,Non-Fatal,non-fatal,False
+88604,CEN14CA095,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88604/pdf,12/29/2013,Paradis,Louisiana,United States,29.78861,-90.409164,0,0,Non-Fatal,non-fatal,False
+88826,CEN14LA147,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88826/pdf,2/19/2014,Church Point,Louisiana,United States,30.437778,-92.1875,0,0,Non-Fatal,non-fatal,False
+89014,CEN14CA189,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89014/pdf,4/5/2014,New Iberia,Louisiana,United States,30.038055,-91.879722,0,0,Non-Fatal,non-fatal,False
+89165,CEN14LA229,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89165/pdf,5/5/2014,Hessmer,Louisiana,United States,31.054721,-92.121109,0,0,Non-Fatal,non-fatal,False
+89280,CEN14LA251,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89280/pdf,5/24/2014,Slaughter,Louisiana,United States,30.727222,-91.148612,0,1,Non-Fatal,non-fatal,False
+89285,CEN14LA255,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89285/pdf,5/27/2014,Gueydan,Louisiana,United States,29.966667,-92.567222,1,0,Fatal,fatal,True
+89337,CEN14LA273,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89337/pdf,6/3/2014,Monroe,Louisiana,United States,32.528331,-92.037223,0,1,Non-Fatal,non-fatal,False
+89804,CEN14CA405,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89804/pdf,7/31/2014,Oakdale,Louisiana,United States,31.920476,-92.639762,0,0,Non-Fatal,non-fatal,False
+89834,CEN14LA415,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89834/pdf,8/10/2014,Jeanerette,Louisiana,United States,29.912221,-91.668891,1,0,Fatal,fatal,True
+89857,CEN14TA421,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89857/pdf,8/8/2014,Sulphur,Louisiana,United States,30.2,-93.325279,0,0,Non-Fatal,non-fatal,False
+89894,CEN14FA435,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89894/pdf,8/17/2014,Natchitoches,Louisiana,United States,31.735834,-93.099166,1,1,Fatal,fatal,True
+89940,CEN14LA449,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89940/pdf,8/22/2014,New Orleans,Louisiana,United States,30.037221,-90.035552,0,0,Non-Fatal,non-fatal,False
+89941,CEN14LA450,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89941/pdf,8/24/2014,Natchez,Louisiana,United States,30.606666,-92.951667,0,0,Non-Fatal,non-fatal,False
+90114,CEN14LA508,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90114/pdf,9/21/2014,Reserve,Louisiana,United States,30.069013,-90.559272,2,0,Fatal,fatal,True
+90182,CEN14CA528,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90182/pdf,9/28/2014,Port Eads,Louisiana,United States,29.276945,-89.354721,0,0,Non-Fatal,non-fatal,False
+90359,CEN15CA039,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90359/pdf,10/29/2014,Baton Rouge,Louisiana,United States,30.532777,-91.150001,0,0,Non-Fatal,non-fatal,False
+90388,CEN15FAMS1,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90388/pdf,11/12/2014,Lake Pontchartrain,Louisiana,United States,30.090833,-89.995834,2,0,Fatal,fatal,True
+90895,CEN15LA175,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90895/pdf,3/17/2015,New Roads,Louisiana,United States,30.532499,-91.418891,0,0,Non-Fatal,non-fatal,False
+91068,CEN15LA207,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91068/pdf,4/7/2015,Jennings,Louisiana,United States,30.242776,-92.673614,0,0,Non-Fatal,non-fatal,False
+91131,CEN15LA222,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91131/pdf,5/5/2015,Basile,Louisiana,United States,30.485277,-92.600555,1,0,Fatal,fatal,True
+91278,CEN15CA246,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91278/pdf,5/28/2015,Winnsboro,Louisiana,United States,32.268611,-91.698059,0,0,Non-Fatal,non-fatal,False
+91321,GAA15CA108,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91321/pdf,6/4/2015,Springhill,Louisiana,United States,32.97861,-93.409164,0,0,Non-Fatal,non-fatal,False
+91391,CEN15LA276,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91391/pdf,6/4/2015,Branch,Louisiana,United States,30.339019,-92.25904,0,0,Non-Fatal,non-fatal,False
+91403,CEN15FA278,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91403/pdf,6/19/2015,Shreveport,Louisiana,United States,32.538055,-93.746391,1,0,Fatal,fatal,True
+91530,CEN15LA301,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91530/pdf,7/8/2015,Oakdale,Louisiana,United States,30.906944,-92.652496,0,2,Non-Fatal,non-fatal,False
+91835,CEN15LA371,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91835/pdf,8/15/2015,Venice,Louisiana,United States,29.01361,-89.159721,0,0,Non-Fatal,non-fatal,False
+91863,GAA15CA236,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91863/pdf,8/24/2015,Pineville,Louisiana,United States,31.347778,-92.443336,0,0,Non-Fatal,non-fatal,False
+91940,GAA15CA250,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91940/pdf,8/28/2015,Welsh,Louisiana,United States,30.2425,-92.831947,0,0,Non-Fatal,non-fatal,False
+92063,CEN15FA426,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92063/pdf,9/26/2015,Ama,Louisiana,United States,29.944444,-90.285278,1,0,Fatal,fatal,True
+92071,GAA15CA278,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92071/pdf,9/25/2015,Ama,Louisiana,United States,29.951944,-90.286109,0,0,Non-Fatal,non-fatal,False
+92176,CEN16FA013,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92176/pdf,10/14/2015,Hammond,Louisiana,United States,30.521667,-90.418334,2,0,Fatal,fatal,True
+92203,CEN15LA444,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92203/pdf,9/19/2015,New Orleans,Louisiana,United States,30.042499,-90.028335,0,0,Non-Fatal,non-fatal,False
+92298,CEN16LA033,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92298/pdf,11/6/2015,Gonzales,Louisiana,United States,30.240554,-90.915275,0,1,Non-Fatal,non-fatal,False
+92456,CEN16LA064,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92456/pdf,11/24/2015,Sulphur,Louisiana,United States,30.131389,-93.376113,0,0,Non-Fatal,non-fatal,False
+92595,GAA16CA101,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92595/pdf,1/11/2016,Baton Rouge,Louisiana,United States,30.622499,-91.141113,0,0,Non-Fatal,non-fatal,False
+92732,GAA16CA131,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92732/pdf,2/14/2016,Bell City,Louisiana,United States,30.039167,-93.086387,0,0,Non-Fatal,non-fatal,False
+92804,CEN16LA118,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92804/pdf,3/2/2016,Simmesport,Louisiana,United States,30.983612,-91.8125,0,0,Non-Fatal,non-fatal,False
+92954,GAA16CA175,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92954/pdf,4/3/2016,Kinder,Louisiana,United States,30.231388,-92.584167,0,0,Non-Fatal,non-fatal,False
+92962,CEN16LA143,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92962/pdf,3/23/2016,Alexandria,Louisiana,United States,31.480556,-92.731666,0,0,Non-Fatal,non-fatal,False
+93025,CEN16LA154,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93025/pdf,4/18/2016,Kilbourne,Louisiana,United States,32.999721,-91.315002,1,0,Fatal,fatal,True
+93038,CEN16FA158,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93038/pdf,4/19/2016,Slidell,Louisiana,United States,30.360277,-89.823333,2,0,Fatal,fatal,True
+93110,CEN16LA173,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93110/pdf,5/4/2016,Iowa,Louisiana,United States,30.224445,-93.000274,0,0,Non-Fatal,non-fatal,False
+93155,CEN16LA180,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93155/pdf,5/11/2016,Lyons Point,Louisiana,United States,30.090833,-92.416946,0,0,Non-Fatal,non-fatal,False
+93233,CEN16LA192,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93233/pdf,5/15/2016,New Roads,Louisiana,United States,30.718334,-91.478614,0,0,Non-Fatal,non-fatal,False
+93399,GAA16CA321,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93399/pdf,6/15/2016,Delhi,Louisiana,United States,32.295833,-91.54,0,0,Non-Fatal,non-fatal,False
+93530,CEN16LA250,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93530/pdf,7/4/2016,Oak Ridge,Louisiana,United States,32.638889,-91.773612,0,0,Non-Fatal,non-fatal,False
+93762,CEN16FA304,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93762/pdf,8/3/2016,Jeanerette,Louisiana,United States,29.997777,-91.405555,1,0,Fatal,fatal,True
+93868,GAA16CA439,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93868/pdf,8/18/2016,Broussard,Louisiana,United States,30.076665,-91.94889,0,0,Non-Fatal,non-fatal,False
+93910,CEN16LA338,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93910/pdf,8/27/2016,New Orleans,Louisiana,United States,30.061666,-90.027496,2,0,Fatal,fatal,True
+94125,CEN17LA001,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94125/pdf,10/1/2016,Jennings,Louisiana,United States,30.242221,-92.671386,0,1,Non-Fatal,non-fatal,False
+94335,CEN17LA034,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94335/pdf,10/31/2016,Baton Rouge,Louisiana,United States,30.531389,-91.150833,0,0,Non-Fatal,non-fatal,False
+94385,CEN17LA041,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94385/pdf,11/13/2016,Port Allen,Louisiana,United States,30.532499,-91.315002,0,0,Non-Fatal,non-fatal,False
+94541,GAA17CA103,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94541/pdf,12/22/2016,Shreveport,Louisiana,United States,32.539722,-93.744445,0,0,Non-Fatal,non-fatal,False
+94670,CEN17LA092,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94670/pdf,1/30/2017,Jennings,Louisiana,United States,30.243333,-92.673332,0,0,Non-Fatal,non-fatal,False
+94717,CEN17FA103,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94717/pdf,2/15/2017,Shreveport,Louisiana,United States,32.311389,-93.705558,2,0,Fatal,fatal,True
+94783,CEN17FA112,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94783/pdf,2/27/2017,Chauvin,Louisiana,United States,29.43926,-90.590591,1,0,Fatal,fatal,True
+95014,CEN17LA157,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95014/pdf,4/15/2017,Minden,Louisiana,United States,32.657775,-93.298614,0,0,Non-Fatal,non-fatal,False
+95051,CEN17LA165,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95051/pdf,4/21/2017,Vidrine,Louisiana,United States,30.693889,-92.403335,0,0,Non-Fatal,non-fatal,False
+95053,CEN17LA166,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95053/pdf,4/23/2017,Covington,Louisiana,United States,30.557777,-90.029998,0,0,Non-Fatal,non-fatal,False
+95077,CEN17FA169,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95077/pdf,4/30/2017,Collinston,Louisiana,United States,32.684444,-91.851943,2,0,Fatal,fatal,True
+95366,CEN17LA228,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95366/pdf,6/9/2017,Homer,Louisiana,United States,32.789722,-93.006385,0,1,Non-Fatal,non-fatal,False
+95371,CEN17LA229,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95371/pdf,6/10/2017,Tallulah,Louisiana,United States,32.351665,-91.027778,0,0,Non-Fatal,non-fatal,False
+95515,GAA17CA389,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95515/pdf,7/3/2017,Shreveport,Louisiana,United States,32.540279,-93.745002,0,0,Non-Fatal,non-fatal,False
+95646,CEN17FA281,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95646/pdf,7/23/2017,Farmerville,Louisiana,United States,32.765834,-92.49028,1,0,Fatal,fatal,True
+95883,CEN17LA328,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95883/pdf,8/17/2017,Gonzales,Louisiana,United States,30.153888,-90.937774,0,0,Non-Fatal,non-fatal,False
+96294,CEN18LA026,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96294/pdf,11/7/2017,Sulphur,Louisiana,United States,30.281944,-93.384445,2,0,Fatal,fatal,True
+96313,CEN18FA030,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96313/pdf,11/10/2017,Pineville,Louisiana,United States,31.351943,-92.43972,1,0,Fatal,fatal,True
+96409,GAA18CA066,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96409/pdf,11/29/2017,New Orleans,Louisiana,United States,30.04,-90.022499,0,0,Non-Fatal,non-fatal,False
+96718,CEN18LA093,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96718/pdf,2/6/2018,Patterson,Louisiana,United States,29.502222,-91.260559,0,1,Non-Fatal,non-fatal,False
+96846,GAA18CA153,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96846/pdf,3/8/2018,Many,Louisiana,United States,31.546667,-93.490837,0,0,Non-Fatal,non-fatal,False
+97141,GAA18CA244,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97141/pdf,4/27/2018,Eunice,Louisiana,United States,30.459722,-92.421943,0,0,Non-Fatal,non-fatal,False
+97230,CEN16LA401,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97230/pdf,4/7/2016,Galliano,Louisiana,United States,29.438055,-90.262496,0,0,Non-Fatal,non-fatal,False
+97282,CEN18FA182,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97282/pdf,5/20/2018,LULING,Louisiana,United States,29.879167,-90.40361,1,1,Fatal,fatal,True
+97319,GAA18CA297,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97319/pdf,5/23/2018,Start,Louisiana,United States,32.455001,-91.82611,0,0,Non-Fatal,non-fatal,False
+97445,CEN18LA221,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97445/pdf,6/8/2018,Baton Rouge,Louisiana,United States,30.533056,-91.150001,0,0,Non-Fatal,non-fatal,False
+97450,GAA18CA335,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97450/pdf,6/6/2018,Gilliam,Louisiana,United States,32.837776,-93.837776,0,0,Non-Fatal,non-fatal,False
+97702,CEN18LA257,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97702/pdf,7/3/2018,Springhill,Louisiana,United States,32.983612,-93.409164,0,0,Non-Fatal,non-fatal,False
+97818,CEN18LA281,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97818/pdf,7/19/2018,Shreveport,Louisiana,United States,32.540279,-93.745002,0,0,Non-Fatal,non-fatal,False
+97847,CEN18LA285,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97847/pdf,7/20/2018,Baton Rouge,Louisiana,United States,30.545555,-91.164718,0,0,Non-Fatal,non-fatal,False
+97905,GAA18CA447,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97905/pdf,7/26/2018,Iowa,Louisiana,United States,30.224445,-93.000274,0,0,Non-Fatal,non-fatal,False
+98132,CEN18LA346,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98132/pdf,8/22/2018,Shreveport,Louisiana,United States,32.438888,-93.814163,0,0,Non-Fatal,non-fatal,False
+98188,CEN18LA357,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98188/pdf,8/29/2018,Opelousas,Louisiana,United States,30.540832,-92.203613,0,0,Non-Fatal,non-fatal,False
+98200,CEN18FA359,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98200/pdf,8/31/2018,Kaplan,Louisiana,United States,30.038888,-92.370834,2,0,Fatal,fatal,True
+98432,GAA19CA009,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98432/pdf,10/6/2018,New Orleans,Louisiana,United States,30.03861,-90.02639,0,0,Non-Fatal,non-fatal,False
+98433,GAA19CA010,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98433/pdf,10/8/2018,Crowley,Louisiana,United States,30.055,-92.245834,0,0,Non-Fatal,non-fatal,False
+98919,GAA19CA115,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98919/pdf,1/20/2019,Patterson,Louisiana,United States,29.707221,-91.296386,0,0,Non-Fatal,non-fatal,False
+99035,CEN19FA088,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99035/pdf,2/28/2019,Shreveport,Louisiana,United States,32.54861,-93.76139,2,0,Fatal,fatal,True
+99183,CEN19LA108,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99183/pdf,3/23/2019,Lafayette,Louisiana,United States,30.24047,-91.989685,0,0,Non-Fatal,non-fatal,False
+99272,WPR19LA112,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99272/pdf,4/16/2019,Morganza,Louisiana,United States,30.722499,-91.648056,0,1,Non-Fatal,non-fatal,False
+99332,CEN19LA130,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99332/pdf,3/21/2019,Milton,Louisiana,United States,30.093334,-92.076942,0,0,Non-Fatal,non-fatal,False
+99348,CEN19LA132,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99348/pdf,4/3/2019,Prairieville,Louisiana,United States,30.346389,-91.029441,0,1,Non-Fatal,non-fatal,False
+99605,CEN19FA164,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99605/pdf,6/12/2019,Henderson,Louisiana,United States,30.402055,-91.809576,2,0,Fatal,fatal,True
+99752,CEN19TA196,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99752/pdf,6/26/2019,Gilliam,Louisiana,United States,32.840557,-93.834724,0,0,Non-Fatal,non-fatal,False
+99770,CEN19LA206,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99770/pdf,7/4/2019,Reeves,Louisiana,United States,30.520833,-93.0475,0,0,Non-Fatal,non-fatal,False
+99931,GAA19CA452,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99931/pdf,7/24/2019,Welsh,Louisiana,United States,30.202222,-92.775001,0,0,Non-Fatal,non-fatal,False
+100073,CEN19FA270,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100073/pdf,8/16/2019,New Orleans,Louisiana,United States,30.025554,-90.029998,2,0,Fatal,fatal,True
+100078,CEN19FA271,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100078/pdf,8/18/2019,Hopedale,Louisiana,United States,29.816944,-89.27639,1,2,Fatal,fatal,True
+100221,CEN19TA310,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100221/pdf,9/7/2019,Winnsboro,Louisiana,United States,32.220001,-91.870002,0,0,Non-Fatal,non-fatal,False
+100352,GAA19CA576,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100352/pdf,9/27/2019,Pollock,Louisiana,United States,31.479444,-92.461112,0,0,Non-Fatal,non-fatal,False
+100389,GAA20CA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100389/pdf,10/4/2019,Kaplan,Louisiana,United States,29.937221,-92.319725,0,0,Non-Fatal,non-fatal,False
+100514,GAA20CA052,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100514/pdf,10/28/2019,Alexandria,Louisiana,United States,31.238332,-92.437774,0,0,Non-Fatal,non-fatal,False
+100721,CEN20CA040,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100721/pdf,12/23/2019,Pineville,Louisiana,United States,31.342222,-92.443611,0,0,Non-Fatal,non-fatal,False
+100739,CEN20MA044,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100739/pdf,12/28/2019,LAFAYETTE,Louisiana,United States,30.176111,-92.007499,5,2,Fatal,fatal,True
+100742,CEN20LA046,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100742/pdf,11/24/2019,Shreveport,Louisiana,United States,32.531944,-93.736946,0,0,Non-Fatal,non-fatal,False
+100910,CEN20FA075,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100910/pdf,2/6/2020,Chatham,Louisiana,United States,32.314445,-92.440551,3,0,Fatal,fatal,True
+101008,CEN20CA103,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101008/pdf,2/22/2020,Bunkie,Louisiana,United States,30.929166,-92.179168,0,0,Non-Fatal,non-fatal,False
+101054,CEN20CA115,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101054/pdf,3/6/2020,New Orleans,Louisiana,United States,29.993333,-90.259162,0,0,Non-Fatal,non-fatal,False
+101105,CEN20LA131,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101105/pdf,3/22/2020,Lettsworth,Louisiana,United States,30.938333,-91.793052,0,1,Non-Fatal,non-fatal,False
+101192,CEN20CA153,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101192/pdf,4/21/2020,Mamou,Louisiana,United States,30.589445,-92.42778,0,0,Non-Fatal,non-fatal,False
+101323,CEN20CA190,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101323/pdf,5/23/2020,Bunkie,Louisiana,United States,30.930555,-92.179168,0,0,Non-Fatal,non-fatal,False
+101330,CEN20CA195,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101330/pdf,5/21/2020,Houma,Louisiana,United States,29.566389,-90.660552,0,0,Non-Fatal,non-fatal,False
+101343,CEN20LA199,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101343/pdf,5/31/2020,Pineville,Louisiana,United States,31.348333,-92.434448,2,1,Fatal,fatal,True
+101408,CEN20CA220,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101408/pdf,6/8/2020,Sulfer,Louisiana,United States,30.133888,-93.377777,0,0,Non-Fatal,non-fatal,False
+101543,CEN20LA265,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101543/pdf,7/1/2020,Marksville,Louisiana,United States,31.1,-92.224441,0,2,Non-Fatal,non-fatal,False
+101602,CEN20LA282,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101602/pdf,7/8/2020,Venice,Louisiana,United States,29.479999,-89.341667,0,0,Non-Fatal,non-fatal,False
+101611,CEN20LA286,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101611/pdf,7/2/2020,Welsh,Louisiana,United States,30.280049,-92.855578,0,0,Non-Fatal,non-fatal,False
+101726,CEN20LA322,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101726/pdf,8/2/2020,Jonesboro,Louisiana,United States,32.213333,-92.729721,0,2,Non-Fatal,non-fatal,False
+101852,CEN20LA361,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101852/pdf,8/24/2020,Crowley,Louisiana,United States,30.138889,-92.333335,0,0,Non-Fatal,non-fatal,False
+101926,CEN20CA386,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101926/pdf,9/3/2020,Reserve,Louisiana,United States,30.07068,-90.560638,0,0,Non-Fatal,non-fatal,False
+102015,CEN20CA411,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102015/pdf,9/17/2020,Marksville,Louisiana,United States,31.094722,-92.069168,0,0,Non-Fatal,non-fatal,False
+102157,CEN21LA018,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102157/pdf,10/16/2020,Houma,Louisiana,United States,29.527144,-90.764442,2,0,Fatal,fatal,True
+102176,CEN21FA025,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102176/pdf,10/21/2020,Slidell,Louisiana,United States,30.355421,-89.823368,1,0,Fatal,fatal,True
+102249,CEN21LA045,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102249/pdf,11/5/2020,Edgard,Louisiana,United States,30.034,-90.554,0,0,Non-Fatal,non-fatal,False
+102362,CEN21LA072,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102362/pdf,12/1/2020,Elton,Louisiana,United States,30.438259,-92.671434,0,0,Non-Fatal,non-fatal,False
+102416,CEN21LA087,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102416/pdf,11/22/2020,Gilliam,Louisiana,United States,32.823539,-93.84502,0,0,Non-Fatal,non-fatal,False
+102421,CEN21LA089,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102421/pdf,12/16/2020,Bossier City,Louisiana,United States,32.506187,-93.639911,2,0,Fatal,fatal,True
+102534,CEN21LA113,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102534/pdf,1/19/2021,Newellton,Louisiana,United States,32.174435,-91.360249,1,0,Fatal,fatal,True
+102590,CEN21LA121,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102590/pdf,2/2/2021,Hackberry,Louisiana,United States,30.009412,-93.330048,2,0,Fatal,fatal,True
+102663,CEN21LA135,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102663/pdf,2/22/2021,Greensburg,Louisiana,United States,30.830033,-90.668565,0,0,Non-Fatal,non-fatal,False
+102745,CEN21LA154,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102745/pdf,3/9/2021,Duson,Louisiana,United States,30.1328,-92.1375,0,0,Non-Fatal,non-fatal,False
+102997,CEN21LA204,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102997/pdf,4/26/2021,Slaughter,Louisiana,United States,30.722925,-91.149641,1,1,Fatal,fatal,True
+103103,CEN21LA223,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103103/pdf,5/18/2021,Clayton,Louisiana,United States,31.801121,-91.586945,1,0,Fatal,fatal,True
+103128,CEN21FA230,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103128/pdf,5/23/2021,Shreveport,Louisiana,United States,32.500874,-93.858316,1,0,Fatal,fatal,True
+103220,CEN21LA253,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103220/pdf,6/3/2021,Monroe,Louisiana,United States,32.510861,-92.037667,0,0,Non-Fatal,non-fatal,False
+103265,CEN21LA268,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103265/pdf,6/10/2021,Saint James,Louisiana,United States,30.038001,-90.927146,0,0,Non-Fatal,non-fatal,False
+103308,CEN21LA284,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103308/pdf,6/10/2021,Reserve,Louisiana,United States,30.08747,-90.58283,0,0,Non-Fatal,non-fatal,False
+103394,CEN21LA298,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103394/pdf,6/25/2021,Jennings,Louisiana,United States,30.24507,-92.66506,0,0,Non-Fatal,non-fatal,False
+103634,CEN21LA357,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103634/pdf,8/4/2021,Mer Rouge,Louisiana,United States,32.773145,-91.783934,0,0,Non-Fatal,non-fatal,False
+103645,CEN21LA358,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103645/pdf,7/27/2021,Patterson,Louisiana,United States,29.714558,-91.298547,0,0,Non-Fatal,non-fatal,False
+103735,CEN21LA378,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103735/pdf,8/20/2021,Gonzales,Louisiana,United States,30.2461,-90.9219,0,0,Non-Fatal,non-fatal,False
+103751,CEN21LA385,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103751/pdf,8/20/2021,New Roads,Louisiana,United States,30.72554,-91.353989,0,0,Non-Fatal,non-fatal,False
+103773,CEN21LA389,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103773/pdf,8/27/2021,Arnaudville,Louisiana,United States,30.395296,-91.934586,0,0,Non-Fatal,non-fatal,False
+103802,CEN21LA399,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103802/pdf,9/2/2021,Cotton Port,Louisiana,United States,30.9841,-92.0535,0,1,Non-Fatal,non-fatal,False
+104067,CEN22LA009,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104067/pdf,10/6/2021,Gonzales,Louisiana,United States,30.164095,-90.939111,0,0,Non-Fatal,non-fatal,False
+104258,CEN22LA037,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104258/pdf,10/28/2021,Hammond,Louisiana,United States,30.478889,-90.384167,0,0,Non-Fatal,non-fatal,False
+104404,CEN22LA072,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104404/pdf,12/12/2021,Abbeville,Louisiana,United States,29.9747,-92.1343,0,0,Non-Fatal,non-fatal,False
+104406,CEN22FA073,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104406/pdf,12/14/2021,LaPlace,Louisiana,United States,30.076082,-90.402543,1,0,Fatal,fatal,True

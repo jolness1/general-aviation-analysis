@@ -1,0 +1,292 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+82774,WPR12CA086,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82774/pdf,1/30/2012,Cascade,Idaho,United States,44.492221,-116.014724,0,0,Non-Fatal,non-fatal,False
+82809,WPR12FA089,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82809/pdf,2/3/2012,Boise,Idaho,United States,43.564167,-116.222778,1,0,Fatal,fatal,True
+82893,WPR12CA103,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82893/pdf,2/5/2012,Yellow Pine,Idaho,United States,44.899723,-115.332778,0,0,Non-Fatal,non-fatal,False
+82947,WPR12CA112,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82947/pdf,2/14/2012,Yellow Pine,Idaho,United States,44.899723,-115.332778,0,0,Non-Fatal,non-fatal,False
+83145,WPR12CA137,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83145/pdf,3/14/2012,Caldwell,Idaho,United States,43.641944,-116.635833,0,0,Non-Fatal,non-fatal,False
+83194,WPR12LA143,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83194/pdf,3/22/2012,Caldwell,Idaho,United States,43.63861,-116.634719,0,0,Non-Fatal,non-fatal,False
+83235,WPR12CA148,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83235/pdf,3/25/2012,Coolin,Idaho,United States,48.520557,-116.822776,0,0,Non-Fatal,non-fatal,False
+83319,WPR12CA157,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83319/pdf,4/6/2012,Nampa,Idaho,United States,43.58139,-116.523056,0,0,Non-Fatal,non-fatal,False
+83421,WPR12CA170,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83421/pdf,4/15/2012,McCall,Idaho,United States,44.889167,-116.101943,0,0,Non-Fatal,non-fatal,False
+83613,WPR12LA200,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83613/pdf,5/11/2012,Rexburg,Idaho,United States,43.833889,-111.802223,0,0,Non-Fatal,non-fatal,False
+83615,WPR12CA202,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83615/pdf,5/12/2012,Idaho Falls,Idaho,United States,43.51361,-112.070831,0,0,Non-Fatal,non-fatal,False
+83692,WPR12LA219,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83692/pdf,5/20/2012,Twin Falls,Idaho,United States,42.483333,-114.483329,0,0,Non-Fatal,non-fatal,False
+83753,WPR12LA225,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83753/pdf,5/22/2012,Buhl,Idaho,United States,42.591388,-114.796669,0,1,Non-Fatal,non-fatal,False
+83760,WPR12LA231,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83760/pdf,5/26/2012,Silver City,Idaho,United States,42.99361,-116.66333,0,0,Non-Fatal,non-fatal,False
+83768,WPR12CA234,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83768/pdf,5/3/2012,Hayden Lake,Idaho,United States,47.774444,-116.819725,0,0,Non-Fatal,non-fatal,False
+83817,WPR12CA240,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83817/pdf,5/30/2012,Jerome,Idaho,United States,42.722778,-114.453887,0,0,Non-Fatal,non-fatal,False
+83907,WPR12FA255,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83907/pdf,6/9/2012,Mountain Home,Idaho,United States,43.424446,-115.484725,1,0,Fatal,fatal,True
+83990,WPR12LA265,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83990/pdf,6/15/2012,Rexburg,Idaho,United States,43.833889,-111.805,0,1,Non-Fatal,non-fatal,False
+84129,WPR12FA280,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84129/pdf,6/28/2012,Kooskia,Idaho,United States,46.130554,-114.92694,1,0,Fatal,fatal,True
+84136,WPR12LA283,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84136/pdf,6/30/2012,Stanley,Idaho,United States,44.406665,-115.351669,0,1,Non-Fatal,non-fatal,False
+84169,WPR12LA289,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84169/pdf,6/23/2012,Soldier Bar,Idaho,United States,45.099723,-114.800834,0,0,Non-Fatal,non-fatal,False
+84171,WPR12CA291,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84171/pdf,6/25/2012,Mile Hi Landing Strip,Idaho,United States,45.151111,-114.997222,0,0,Non-Fatal,non-fatal,False
+84339,WPR12LA306,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84339/pdf,7/16/2012,Rockford,Idaho,United States,43.189445,-112.531669,0,0,Non-Fatal,non-fatal,False
+84360,WPR12CA308,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84360/pdf,6/20/2012,Cascade,Idaho,United States,44.492221,-116.014724,0,0,Non-Fatal,non-fatal,False
+84372,WPR12CA311,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84372/pdf,7/11/2012,Idaho Falls,Idaho,United States,43.508056,-112.069168,0,0,Non-Fatal,non-fatal,False
+84426,WPR12CA322,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84426/pdf,7/22/2012,Stanley,Idaho,United States,44.205001,-114.933891,0,0,Non-Fatal,non-fatal,False
+84444,WPR12LA325,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84444/pdf,7/10/2012,Gooding,Idaho,United States,42.917221,-114.765274,0,1,Non-Fatal,non-fatal,False
+84509,WPR12CA336,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84509/pdf,7/30/2012,Yellow Pine,Idaho,United States,44.911666,-115.484725,0,0,Non-Fatal,non-fatal,False
+84648,WPR12CA355,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84648/pdf,6/23/2012,Rexburg,Idaho,United States,43.833889,-111.805274,0,0,Non-Fatal,non-fatal,False
+84698,WPR12CA360,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84698/pdf,8/15/2012,Coolin,Idaho,United States,48.517776,-116.819725,0,0,Non-Fatal,non-fatal,False
+84754,WPR12LA365,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84754/pdf,8/20/2012,McCall,Idaho,United States,45.334167,-115.719169,0,0,Non-Fatal,non-fatal,False
+84846,WPR12CA375,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84846/pdf,8/27/2012,Sand Point,Idaho,United States,48.276668,-116.552223,0,0,Non-Fatal,non-fatal,False
+84895,WPR12FA395,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84895/pdf,9/3/2012,Murtaugh,Idaho,United States,42.238609,-114.160835,1,0,Fatal,fatal,True
+84950,WPR12CA401,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84950/pdf,9/4/2012,Lewiston,Idaho,United States,46.371387,-117.009162,0,0,Non-Fatal,non-fatal,False
+84988,WPR12LA410,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84988/pdf,9/8/2012,Viola,Idaho,United States,46.829444,-116.998054,1,0,Fatal,fatal,True
+85033,WPR12LA418,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85033/pdf,9/13/2012,Nampa,Idaho,United States,43.581943,-116.523056,0,1,Non-Fatal,non-fatal,False
+85097,WPR12CA429,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85097/pdf,9/16/2012,Emmett,Idaho,United States,44.039722,-116.381111,0,0,Non-Fatal,non-fatal,False
+85268,WPR13LA005,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85268/pdf,10/6/2012,St Maries,Idaho,United States,47.215831,-116.686111,0,0,Non-Fatal,non-fatal,False
+86097,WPR12TA445,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86097/pdf,5/10/2012,Boise,Idaho,United States,43.565834,-116.221664,0,0,Non-Fatal,non-fatal,False
+86125,WPR13LA111,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86125/pdf,2/2/2013,Boise,Idaho,United States,43.564445,-116.222778,0,0,Non-Fatal,non-fatal,False
+86362,WPR13CA139,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86362/pdf,3/2/2013,Nampa,Idaho,United States,43.58139,-116.523056,0,0,Non-Fatal,non-fatal,False
+86531,WPR13LA167,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86531/pdf,3/27/2013,Twin Falls,Idaho,United States,42.475833,-114.486114,0,0,Non-Fatal,non-fatal,False
+86584,WPR13CA179,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86584/pdf,4/2/2013,Caldwell,Idaho,United States,43.641944,-116.635833,0,0,Non-Fatal,non-fatal,False
+86646,WPR13CA192,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86646/pdf,4/9/2013,Moose Creek Ranger Station,Idaho,United States,46.120834,-114.927223,0,0,Non-Fatal,non-fatal,False
+86648,WPR13CA193,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86648/pdf,4/14/2013,Caldwell,Idaho,United States,43.63861,-116.634719,0,0,Non-Fatal,non-fatal,False
+86660,WPR13CA199,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86660/pdf,4/7/2013,Cottonwood,Idaho,United States,46.02639,-116.641944,0,0,Non-Fatal,non-fatal,False
+86670,WPR13CA200,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86670/pdf,4/18/2013,Rexburg,Idaho,United States,43.83361,-111.803054,0,0,Non-Fatal,non-fatal,False
+87078,WPR13CA259,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87078/pdf,5/25/2013,Fruitland,Idaho,United States,44.01889,-116.866943,0,0,Non-Fatal,non-fatal,False
+87204,WPR13CA273,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87204/pdf,6/16/2013,Coolin,Idaho,United States,48.520832,-116.830276,0,0,Non-Fatal,non-fatal,False
+87269,WPR13CA280,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87269/pdf,6/21/2013,McCall,Idaho,United States,45.249168,-115.126663,0,0,Non-Fatal,non-fatal,False
+87270,WPR13FA281,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87270/pdf,6/22/2013,Idaho Falls,Idaho,United States,43.508056,-112.068885,2,1,Fatal,fatal,True
+87324,WPR13FA296,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87324/pdf,6/28/2013,Yellow Pine,Idaho,United States,44.911666,-115.485275,1,3,Fatal,fatal,True
+87365,WPR13LA304,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87365/pdf,7/2/2013,Garden Valley,Idaho,United States,44.066944,-115.931114,0,0,Non-Fatal,non-fatal,False
+87389,WPR13LA308,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87389/pdf,7/3/2013,Caldwell,Idaho,United States,43.697498,-116.644447,0,0,Non-Fatal,non-fatal,False
+87436,WPR13LA320,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87436/pdf,7/9/2013,Blackfoot,Idaho,United States,43.235279,-112.316947,0,0,Non-Fatal,non-fatal,False
+87439,WPR13CA323,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87439/pdf,7/10/2013,Kamiah,Idaho,United States,46.219722,-116.01361,0,0,Non-Fatal,non-fatal,False
+87476,WPR13CA326,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87476/pdf,7/14/2013,Cascade,Idaho,United States,44.2975,-115.639724,0,0,Non-Fatal,non-fatal,False
+87552,WPR13CA337,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87552/pdf,7/23/2013,Lewiston,Idaho,United States,46.374443,-117.015274,0,0,Non-Fatal,non-fatal,False
+87579,WPR13CA339,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87579/pdf,7/25/2013,Challis,Idaho,United States,44.523612,-114.218055,0,0,Non-Fatal,non-fatal,False
+87583,WPR13CA341,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87583/pdf,7/25/2013,Pocatello,Idaho,United States,42.909721,-112.595832,0,0,Non-Fatal,non-fatal,False
+87820,WPR13FA380,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87820/pdf,8/18/2013,Cataldo,Idaho,United States,47.542221,-116.409446,1,0,Fatal,fatal,True
+87934,WPR13CA395,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87934/pdf,9/1/2013,Homedale,Idaho,United States,43.561111,-116.976943,0,0,Non-Fatal,non-fatal,False
+87999,WPR13CA401,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87999/pdf,9/7/2013,Cascade,Idaho,United States,45.15139,-114.992225,0,0,Non-Fatal,non-fatal,False
+88087,WPR13LA416,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88087/pdf,9/19/2013,Idaho Falls,Idaho,United States,43.519481,-112.270355,0,1,Non-Fatal,non-fatal,False
+88109,WPR13LA419,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88109/pdf,9/23/2013,Sandpoint,Idaho,United States,48.340099,-116.450561,0,0,Non-Fatal,non-fatal,False
+88175,WPR14CA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88175/pdf,10/5/2013,Nampa,Idaho,United States,43.57722,-116.615837,0,0,Non-Fatal,non-fatal,False
+88315,WPR14CA035,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88315/pdf,10/26/2013,Twin Falls,Idaho,United States,35.380744,-119.0195,0,0,Non-Fatal,non-fatal,False
+88552,WPR14FA094,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88552/pdf,12/1/2013,Yellow Pine,Idaho,United States,44.913055,-115.485,5,0,Fatal,fatal,True
+88658,WPR14FA091,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88658/pdf,1/9/2014,Pocatello,Idaho,United States,42.860023,-112.63063,0,0,Non-Fatal,non-fatal,False
+89212,WPR14CA190,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89212/pdf,5/14/2014,Hayden,Idaho,United States,47.780834,-116.794998,0,0,Non-Fatal,non-fatal,False
+89261,WPR14LA205,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89261/pdf,5/13/2014,Nampa,Idaho,United States,43.575553,-116.520553,0,0,Non-Fatal,non-fatal,False
+89286,WPR14CA211,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89286/pdf,5/24/2014,Lewiston,Idaho,United States,46.373889,-117.015274,0,0,Non-Fatal,non-fatal,False
+89349,WPR14CA221,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89349/pdf,6/3/2014,McCall,Idaho,United States,45.069042,-115.969451,0,0,Non-Fatal,non-fatal,False
+89493,WPR14CA255,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89493/pdf,6/19/2014,Caldwell,Idaho,United States,43.640834,-116.635559,0,0,Non-Fatal,non-fatal,False
+89515,WPR14CA264,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89515/pdf,6/19/2014,Salmon,Idaho,United States,44.880554,-114.455001,0,0,Non-Fatal,non-fatal,False
+89558,WPR14LA271,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89558/pdf,6/29/2014,Big Creek,Idaho,United States,44.241252,-114.479026,0,1,Non-Fatal,non-fatal,False
+89576,WPR14CA275,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89576/pdf,6/30/2014,Payette,Idaho,United States,44.094444,-116.90361,0,0,Non-Fatal,non-fatal,False
+89618,WPR14FA283,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89618/pdf,7/7/2014,Landmark,Idaho,United States,44.600833,-115.522499,1,0,Fatal,fatal,True
+89634,WPR14CA288,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89634/pdf,7/8/2014,Sand Point,Idaho,United States,48.299446,-116.559997,0,0,Non-Fatal,non-fatal,False
+89672,WPR14CA294,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89672/pdf,7/16/2014,Parma,Idaho,United States,43.77861,-116.921943,0,0,Non-Fatal,non-fatal,False
+89742,WPR14CA314,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89742/pdf,7/26/2014,Warren,Idaho,United States,45.289413,-115.589103,0,0,Non-Fatal,non-fatal,False
+89758,WPR14FA316,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89758/pdf,7/28/2014,Lolo Pass,Idaho,United States,43.649597,-116.430541,1,0,Fatal,fatal,True
+89759,WPR14CA317,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89759/pdf,7/28/2014,Hazelton,Idaho,United States,42.57611,-114.136108,0,0,Non-Fatal,non-fatal,False
+89809,WPR14FA330,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89809/pdf,8/5/2014,WARREN,Idaho,United States,45.210277,-115.359443,2,0,Fatal,fatal,True
+89837,WPR14CA333,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89837/pdf,8/9/2014,Kamiah,Idaho,United States,46.220001,-116.010002,0,0,Non-Fatal,non-fatal,False
+89839,WPR14LA335,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89839/pdf,8/10/2014,Salmon,Idaho,United States,45.131389,-113.881942,0,0,Non-Fatal,non-fatal,False
+89853,WPR14LA341,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89853/pdf,8/11/2014,Idaho Falls,Idaho,United States,43.461666,-112.014999,0,0,Non-Fatal,non-fatal,False
+89872,WPR14LA345,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89872/pdf,8/13/2014,Salmon,Idaho,United States,45.120834,-113.875274,0,0,Non-Fatal,non-fatal,False
+89933,WPR14CA352,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89933/pdf,8/22/2014,Rigby,Idaho,United States,43.642501,-111.929443,0,0,Non-Fatal,non-fatal,False
+90064,WPR14CA372,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90064/pdf,9/11/2014,Cascade,Idaho,United States,44.496387,-116.010002,0,0,Non-Fatal,non-fatal,False
+90201,WPR15LA001,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90201/pdf,10/3/2014,Council,Idaho,United States,44.759998,-116.448059,1,0,Fatal,fatal,True
+90231,WPR15CA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90231/pdf,10/8/2014,Big Creek,Idaho,United States,45.150001,-115.071388,0,0,Non-Fatal,non-fatal,False
+90244,WPR15CA011,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90244/pdf,10/12/2014,Nampa,Idaho,United States,43.58139,-116.523056,0,0,Non-Fatal,non-fatal,False
+90282,WPR15CA017,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90282/pdf,10/20/2014,Mountain Home,Idaho,United States,43.360019,-115.519386,0,0,Non-Fatal,non-fatal,False
+90320,WPR15LA029,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90320/pdf,10/28/2014,Murphy,Idaho,United States,43.216388,-116.548889,0,0,Non-Fatal,non-fatal,False
+91009,WPR15FA143,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91009/pdf,4/10/2015,Challis,Idaho,United States,44.593887,-114.818336,4,0,Fatal,fatal,True
+91074,GAA15CA048,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91074/pdf,4/20/2015,Boise,Idaho,United States,43.564167,-116.22528,0,0,Non-Fatal,non-fatal,False
+91162,GAA15CA067,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91162/pdf,5/11/2015,Rigby,Idaho,United States,43.642501,-111.929443,0,0,Non-Fatal,non-fatal,False
+91393,WPR15LA190,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91393/pdf,6/18/2015,Yellow Pine,Idaho,United States,44.905555,-115.487503,0,2,Non-Fatal,non-fatal,False
+91460,GAA15CA145,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91460/pdf,6/28/2015,Idaho Falls,Idaho,United States,43.516944,-112.069999,0,0,Non-Fatal,non-fatal,False
+91475,GAA15CA153,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91475/pdf,7/1/2015,Mackay,Idaho,United States,43.782501,-113.781944,0,0,Non-Fatal,non-fatal,False
+91487,WPR15FA206,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91487/pdf,7/2/2015,Carey,Idaho,United States,43.230278,-113.597221,1,0,Fatal,fatal,True
+91515,GAA15CA164,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91515/pdf,7/2/2015,Twin Falls,Idaho,United States,42.549999,-114.519996,0,0,Non-Fatal,non-fatal,False
+91555,GAA15CA181,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91555/pdf,7/13/2015,Caldwell,Idaho,United States,43.642223,-116.636108,0,0,Non-Fatal,non-fatal,False
+91560,GAA15CA184,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91560/pdf,7/14/2015,Buhl,Idaho,United States,42.596389,-114.796386,0,0,Non-Fatal,non-fatal,False
+91572,WPR15LA218,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91572/pdf,7/14/2015,Cascade,Idaho,United States,44.491664,-116.0,0,0,Non-Fatal,non-fatal,False
+91599,WPR15LA220,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91599/pdf,7/21/2015,Prichard,Idaho,United States,47.678054,-115.935836,0,0,Non-Fatal,non-fatal,False
+91727,WPR15LA237,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91727/pdf,8/2/2015,American Falls,Idaho,United States,42.705554,-113.094444,0,0,Non-Fatal,non-fatal,False
+91778,GAA15CA223,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91778/pdf,8/11/2015,Driggs,Idaho,United States,43.745555,-111.093612,0,0,Non-Fatal,non-fatal,False
+91794,GAA15CA224,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91794/pdf,8/13/2015,Caldwell,Idaho,United States,43.641944,-116.635833,0,0,Non-Fatal,non-fatal,False
+91909,WPR15LA255,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91909/pdf,9/1/2015,Jerome,Idaho,United States,42.721668,-114.439163,0,1,Non-Fatal,non-fatal,False
+91957,GAA15CA255,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91957/pdf,8/27/2015,Irwin,Idaho,United States,43.396667,-111.298332,0,0,Non-Fatal,non-fatal,False
+91985,GAA15CA259,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91985/pdf,9/6/2015,Soda Springs,Idaho,United States,42.643611,-111.581665,0,0,Non-Fatal,non-fatal,False
+92033,WPR15LA265,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92033/pdf,9/21/2015,Boise,Idaho,United States,43.558612,-116.220275,0,1,Non-Fatal,non-fatal,False
+92053,GAA15CA275,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92053/pdf,9/24/2015,McCall,Idaho,United States,45.129165,-115.323059,0,0,Non-Fatal,non-fatal,False
+92145,WPR16FA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92145/pdf,10/8/2015,Hope,Idaho,United States,48.283054,-116.259162,3,0,Fatal,fatal,True
+92183,GAA16CA015,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92183/pdf,10/14/2015,Grace,Idaho,United States,42.461387,-111.703887,0,0,Non-Fatal,non-fatal,False
+92185,WPR16FA013,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92185/pdf,10/15/2015,Swan Valley,Idaho,United States,43.223331,-111.061386,1,1,Fatal,fatal,True
+92778,GAA16CA136,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92778/pdf,2/7/2016,Slate Creek,Idaho,United States,45.629722,-116.47528,0,0,Non-Fatal,non-fatal,False
+92829,WPR16LA082,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92829/pdf,3/11/2016,Juliaetta,Idaho,United States,46.579444,-116.811111,0,0,Non-Fatal,non-fatal,False
+93101,GAA16CA215,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93101/pdf,5/1/2016,Boise,Idaho,United States,43.564445,-116.219444,0,0,Non-Fatal,non-fatal,False
+93292,GAA16CA271,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93292/pdf,6/1/2016,Elk River,Idaho,United States,46.791389,-116.175834,0,0,Non-Fatal,non-fatal,False
+93307,WPR16FA120,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93307/pdf,6/6/2016,De Smet,Idaho,United States,47.148334,-116.98722,1,0,Fatal,fatal,True
+93355,GAA16CA298,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93355/pdf,6/9/2016,Stanley,Idaho,United States,44.414722,-115.319168,0,0,Non-Fatal,non-fatal,False
+93454,WPR16FA131,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93454/pdf,6/25/2016,Coeur d'Alene,Idaho,United States,47.83361,-116.483612,1,0,Fatal,fatal,True
+93488,WPR16LA133,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93488/pdf,7/2/2016,Salmon,Idaho,United States,45.096389,-113.68972,0,0,Non-Fatal,non-fatal,False
+93523,WPR16LA135,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93523/pdf,7/4/2016,St. Maries,Idaho,United States,47.323333,-116.569168,0,0,Non-Fatal,non-fatal,False
+93602,GAA16CA375,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93602/pdf,6/26/2016,Hayden Lake,Idaho,United States,47.758888,-116.745277,0,0,Non-Fatal,non-fatal,False
+93623,WPR16LA146,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93623/pdf,7/17/2016,Emmett,Idaho,United States,43.840278,-116.501388,0,0,Non-Fatal,non-fatal,False
+93724,GAA16CA403,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93724/pdf,7/28/2016,Rexburg,Idaho,United States,43.833889,-111.805,0,0,Non-Fatal,non-fatal,False
+93759,WPR16LA159,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93759/pdf,8/2/2016,Weiser,Idaho,United States,44.220275,-116.907501,0,0,Non-Fatal,non-fatal,False
+93789,GAA16CA420,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93789/pdf,8/7/2016,Hailey,Idaho,United States,43.503055,-114.294723,0,0,Non-Fatal,non-fatal,False
+93881,GAA16CA446,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93881/pdf,8/21/2016,Caldwell,Idaho,United States,43.641109,-116.634719,0,0,Non-Fatal,non-fatal,False
+93929,GAA16CA459,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93929/pdf,8/30/2016,Gooding,Idaho,United States,42.917221,-114.764999,0,0,Non-Fatal,non-fatal,False
+94033,GAA17CA157,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94033/pdf,2/25/2017,Weiser,Idaho,United States,44.20639,-116.962501,0,0,Non-Fatal,non-fatal,False
+94110,GAA16CA519,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94110/pdf,9/16/2016,Kooskia,Idaho,United States,45.989444,-114.841392,0,0,Non-Fatal,non-fatal,False
+94131,GAA16CA522,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94131/pdf,9/10/2016,McCall,Idaho,United States,44.891944,-116.101943,0,0,Non-Fatal,non-fatal,False
+94155,GAA16CA524,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94155/pdf,9/9/2016,Nordman,Idaho,United States,48.576389,-116.871948,0,0,Non-Fatal,non-fatal,False
+94189,WPR17LA003,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94189/pdf,10/9/2016,Roberts,Idaho,United States,43.724445,-112.154441,0,0,Non-Fatal,non-fatal,False
+94240,WPR17LA009,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94240/pdf,10/19/2016,Caldwell,Idaho,United States,43.641944,-116.635833,0,0,Non-Fatal,non-fatal,False
+94624,GAA17CA116,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94624/pdf,1/14/2017,Coeur D'Alene,Idaho,United States,47.774723,-116.825279,0,0,Non-Fatal,non-fatal,False
+94891,WPR17LA078,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94891/pdf,3/20/2017,Boise,Idaho,United States,43.614444,-116.222778,0,0,Non-Fatal,non-fatal,False
+94912,GAA17CA202,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94912/pdf,3/25/2017,Mackay,Idaho,United States,43.846942,-113.684722,0,0,Non-Fatal,non-fatal,False
+95066,GAA17CA245,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95066/pdf,4/23/2017,Marsing,Idaho,United States,43.569442,-116.776664,0,0,Non-Fatal,non-fatal,False
+95133,WPR17LA102,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95133/pdf,5/8/2017,COEUR D'ALENE,Idaho,United States,47.774444,-116.819442,0,0,Non-Fatal,non-fatal,False
+95257,WPR17LA113,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95257/pdf,5/26/2017,Rockville,Idaho,United States,43.276943,-116.996109,0,1,Non-Fatal,non-fatal,False
+95263,GAA17CA309,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95263/pdf,5/30/2017,Payette,Idaho,United States,44.094444,-116.90361,0,0,Non-Fatal,non-fatal,False
+95300,GAA17CA320,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95300/pdf,6/2/2017,Elk City,Idaho,United States,45.535278,-115.300003,0,0,Non-Fatal,non-fatal,False
+95327,WPR17LA122,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95327/pdf,6/3/2017,Rexberg,Idaho,United States,43.840278,-111.804168,0,0,Non-Fatal,non-fatal,False
+95376,GAA17CA341,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95376/pdf,6/14/2017,Galena,Idaho,United States,43.912223,-114.796112,0,0,Non-Fatal,non-fatal,False
+95386,WPR17FA128,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95386/pdf,6/17/2017,Payette,Idaho,United States,44.102779,-116.896942,1,0,Fatal,fatal,True
+95389,GAA17CA346,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95389/pdf,6/12/2017,Rexberg,Idaho,United States,43.833889,-111.805,0,0,Non-Fatal,non-fatal,False
+95530,GAA17CA396,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95530/pdf,7/8/2017,Cottonwood,Idaho,United States,46.038055,-116.331947,0,0,Non-Fatal,non-fatal,False
+95593,WPR17LA154,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95593/pdf,7/13/2017,Hailey,Idaho,United States,43.503887,-114.29555,0,0,Non-Fatal,non-fatal,False
+95616,GAA17CA421,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95616/pdf,7/2/2017,Dixie,Idaho,United States,45.513332,-115.439445,0,0,Non-Fatal,non-fatal,False
+95649,WPR17LA162,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95649/pdf,7/11/2017,Nampa,Idaho,United States,43.58139,-116.523056,0,0,Non-Fatal,non-fatal,False
+95672,GAA17CA442,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95672/pdf,7/26/2017,Nampa,Idaho,United States,43.580833,-116.521385,0,0,Non-Fatal,non-fatal,False
+95681,GAA17CA444,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95681/pdf,7/27/2017,Priest River,Idaho,United States,48.149723,-116.852775,0,0,Non-Fatal,non-fatal,False
+95753,GAA17CA471,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95753/pdf,8/5/2017,Nampa,Idaho,United States,43.581943,-116.524444,0,0,Non-Fatal,non-fatal,False
+95766,WPR17LA180,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95766/pdf,8/5/2017,Pocatello,Idaho,United States,42.905834,-112.590835,0,0,Non-Fatal,non-fatal,False
+95767,WPR17LA181,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95767/pdf,8/4/2017,Athol,Idaho,United States,47.956943,-116.677497,0,1,Non-Fatal,non-fatal,False
+95848,GAA17CA496,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95848/pdf,8/18/2017,Murphy,Idaho,United States,43.220554,-116.662498,0,0,Non-Fatal,non-fatal,False
+95849,GAA17CA497,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95849/pdf,8/19/2017,Loman,Idaho,United States,44.142223,-115.314163,0,0,Non-Fatal,non-fatal,False
+95860,GAA17CA500,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95860/pdf,8/21/2017,Rexburg,Idaho,United States,43.833889,-111.805,0,0,Non-Fatal,non-fatal,False
+95930,WPR17LA195,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95930/pdf,9/2/2017,Cascade,Idaho,United States,44.411109,-115.677497,1,1,Fatal,fatal,True
+95979,GAA17CA526,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95979/pdf,9/10/2017,Coolin,Idaho,United States,48.518611,-116.822219,0,1,Non-Fatal,non-fatal,False
+96254,GAA18CA028,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96254/pdf,10/26/2017,Lewiston,Idaho,United States,46.374443,-117.015274,0,0,Non-Fatal,non-fatal,False
+96283,WPR18FA026,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96283/pdf,11/3/2017,Murphy,Idaho,United States,42.794998,-116.77639,1,1,Fatal,fatal,True
+96328,GAA18CA044,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96328/pdf,11/7/2017,Bonners Ferry,Idaho,United States,48.70222,-116.243331,0,0,Non-Fatal,non-fatal,False
+96490,WPR18LA050,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96490/pdf,12/17/2017,Caldwell,Idaho,United States,43.641944,-116.635833,0,0,Non-Fatal,non-fatal,False
+96556,GAA18CA095,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96556/pdf,1/1/2018,Nampa,Idaho,United States,43.611946,-116.504722,0,0,Non-Fatal,non-fatal,False
+96618,GAA18CA106,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96618/pdf,1/12/2018,Lowman,Idaho,United States,44.142501,-115.314163,0,0,Non-Fatal,non-fatal,False
+96960,GAA18CA188,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96960/pdf,3/30/2018,Nampa,Idaho,United States,43.583332,-116.52333,0,0,Non-Fatal,non-fatal,False
+97000,GAA18CA203,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97000/pdf,4/6/2018,Caldwell,Idaho,United States,43.641944,-116.635833,0,0,Non-Fatal,non-fatal,False
+97152,GAA18CA245,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97152/pdf,4/18/2018,Weipee,Idaho,United States,46.205276,-115.582496,0,0,Non-Fatal,non-fatal,False
+97251,WPR18FA141,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97251/pdf,5/13/2018,Cascade,Idaho,United States,44.240001,-116.073333,1,0,Fatal,fatal,True
+97328,WPR18LA149,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97328/pdf,5/27/2018,Aberdeen,Idaho,United States,42.978332,-112.791946,0,0,Non-Fatal,non-fatal,False
+97337,GAA18CA301,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97337/pdf,5/27/2018,Weippe,Idaho,United States,46.345832,-115.887779,0,0,Non-Fatal,non-fatal,False
+97338,GAA18CA302,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97338/pdf,5/28/2018,Payette,Idaho,United States,44.094444,-116.90361,0,0,Non-Fatal,non-fatal,False
+97365,GAA18CA311,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97365/pdf,5/27/2018,Lewiston,Idaho,United States,46.309444,-116.964447,0,0,Non-Fatal,non-fatal,False
+97373,GAA18CA315,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97373/pdf,5/28/2018,Couer D'Alene,Idaho,United States,47.774444,-116.819442,0,0,Non-Fatal,non-fatal,False
+97395,WPR18LA163,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97395/pdf,6/2/2018,Mountain Home,Idaho,United States,43.041667,-115.871665,1,0,Fatal,fatal,True
+97547,WPR18LA175,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97547/pdf,5/29/2018,Lewiston,Idaho,United States,46.373332,-117.021385,0,0,Non-Fatal,non-fatal,False
+97550,WPR18LA176,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97550/pdf,6/21/2018,Yellow Pine,Idaho,United States,45.1492,-115.0773,0,1,Non-Fatal,non-fatal,False
+97721,GAA18CA405,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97721/pdf,7/6/2018,Dixie,Idaho,United States,45.514167,-115.442779,0,0,Non-Fatal,non-fatal,False
+98028,WPR18LA215,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98028/pdf,8/8/2018,Lewiston,Idaho,United States,46.375,-117.010002,0,0,Non-Fatal,non-fatal,False
+98031,WPR18LA216,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98031/pdf,8/1/2018,Big Creek,Idaho,United States,45.131942,-115.321113,0,0,Non-Fatal,non-fatal,False
+98078,WPR18LA224,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98078/pdf,8/14/2018,Marsing,Idaho,United States,43.414722,-116.69833,0,0,Non-Fatal,non-fatal,False
+98098,WPR18LA227,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98098/pdf,8/18/2018,Salmon,Idaho,United States,44.990554,-114.74833,0,2,Non-Fatal,non-fatal,False
+98126,GAA18CA501,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98126/pdf,8/20/2018,McCall,Idaho,United States,44.533332,-116.061111,0,0,Non-Fatal,non-fatal,False
+98225,GAA18CA522,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98225/pdf,9/1/2018,Rexburg,Idaho,United States,43.833889,-111.805,0,0,Non-Fatal,non-fatal,False
+98364,WPR18LA275,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98364/pdf,9/26/2018,Malad,Idaho,United States,42.170555,-112.28944,0,0,Non-Fatal,non-fatal,False
+98369,WPR18FA276,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98369/pdf,9/30/2018,Silver City,Idaho,United States,43.075279,-116.77111,3,0,Fatal,fatal,True
+98425,GAA19CA005,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98425/pdf,10/3/2018,Hailey,Idaho,United States,43.506668,-114.299446,0,0,Non-Fatal,non-fatal,False
+98622,GAA19CA054,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98622/pdf,11/9/2018,Boise,Idaho,United States,43.840278,-116.529441,0,0,Non-Fatal,non-fatal,False
+98775,WPR19FA042,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98775/pdf,12/17/2018,Aberdeen,Idaho,United States,42.920276,-112.894721,1,0,Fatal,fatal,True
+98778,GAA19CA098,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98778/pdf,12/16/2018,Riggins,Idaho,United States,45.58361,-115.681663,0,0,Non-Fatal,non-fatal,False
+98853,GAA19CA110,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98853/pdf,1/3/2019,Grace,Idaho,United States,42.461944,-111.702224,0,0,Non-Fatal,non-fatal,False
+99075,WPR19LA092,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99075/pdf,3/1/2019,Melba,Idaho,United States,43.426944,-116.621109,0,0,Non-Fatal,non-fatal,False
+99095,GAA19CA163,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99095/pdf,3/11/2019,PARMA,Idaho,United States,43.778888,-116.938613,0,0,Non-Fatal,non-fatal,False
+99316,WPR19LA120,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99316/pdf,4/22/2019,McCall,Idaho,United States,44.881111,-116.003608,0,0,Non-Fatal,non-fatal,False
+99369,GAA19CA240,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99369/pdf,5/3/2019,Orofino,Idaho,United States,46.49139,-116.276947,0,0,Non-Fatal,non-fatal,False
+99449,WPR19FA150,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99449/pdf,5/19/2019,Melba,Idaho,United States,43.423053,-116.7125,1,0,Fatal,fatal,True
+99492,GAA19CA283,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99492/pdf,5/24/2019,Grangeville,Idaho,United States,45.921112,-116.217781,0,0,Non-Fatal,non-fatal,False
+99515,WPR19LA157,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99515/pdf,5/14/2019,Jerome,Idaho,United States,42.725276,-114.447219,0,0,Non-Fatal,non-fatal,False
+99580,GAA19CA323,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99580/pdf,6/9/2019,Yellow Pine,Idaho,United States,45.989444,-114.841392,0,0,Non-Fatal,non-fatal,False
+99582,GAA19CA325,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99582/pdf,6/9/2019,Pingree,Idaho,United States,43.117221,-112.60778,0,0,Non-Fatal,non-fatal,False
+99623,WPR19LA170,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99623/pdf,6/13/2019,Stanley,Idaho,United States,44.178333,-114.89167,0,2,Non-Fatal,non-fatal,False
+99688,GAA19CA365,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99688/pdf,6/21/2019,Burley,Idaho,United States,42.542499,-113.771667,0,0,Non-Fatal,non-fatal,False
+99729,WPR19LA179,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99729/pdf,6/27/2019,Caldwell,Idaho,United States,43.659969,-116.63075,0,0,Non-Fatal,non-fatal,False
+99750,GAA19CA381,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99750/pdf,7/1/2019,Coeur d'Alene,Idaho,United States,47.774444,-116.819442,0,0,Non-Fatal,non-fatal,False
+99795,GAA19CA393,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99795/pdf,7/2/2019,Stanley,Idaho,United States,44.20861,-114.934448,0,0,Non-Fatal,non-fatal,False
+99860,GAA19CA423,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99860/pdf,7/16/2019,Salmon,Idaho,United States,44.968055,-114.73278,0,0,Non-Fatal,non-fatal,False
+99862,WPR19LA190,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99862/pdf,7/14/2019,Cascade,Idaho,United States,44.537917,-115.3579,0,0,Non-Fatal,non-fatal,False
+99885,GAA19CA437,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99885/pdf,7/15/2019,Bancroft,Idaho,United States,42.800556,-111.986946,0,0,Non-Fatal,non-fatal,False
+99912,WPR19CA197,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99912/pdf,7/20/2019,Yellow Pine,Idaho,United States,44.883888,-115.707496,0,0,Non-Fatal,non-fatal,False
+99925,ANC19LA039,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99925/pdf,7/22/2019,Boise,Idaho,United States,43.561111,-116.21833,0,0,Non-Fatal,non-fatal,False
+99992,GAA19CA479,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99992/pdf,7/27/2019,Mackay,Idaho,United States,43.853332,-113.512779,0,0,Non-Fatal,non-fatal,False
+100038,WPR19FA216,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100038/pdf,8/11/2019,Kooskia,Idaho,United States,46.157775,-115.91972,2,0,Fatal,fatal,True
+100188,WPR19TA248,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100188/pdf,8/30/2019,Nampa,Idaho,United States,43.575553,-116.520553,0,0,Non-Fatal,non-fatal,False
+100259,GAA19CA545,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100259/pdf,9/13/2019,Caldwell,Idaho,United States,43.725555,-116.866943,0,0,Non-Fatal,non-fatal,False
+100376,GAA20CA004,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100376/pdf,10/5/2019,Triangle,Idaho,United States,42.750278,-116.67472,0,0,Non-Fatal,non-fatal,False
+100393,GAA19CA584,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100393/pdf,9/17/2019,New Meadows,Idaho,United States,44.978054,-116.283889,0,0,Non-Fatal,non-fatal,False
+100409,GAA20CA011,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100409/pdf,10/12/2019,Henrys Lake,Idaho,United States,44.67361,-111.424446,0,0,Non-Fatal,non-fatal,False
+100418,GAA20CA019,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100418/pdf,10/11/2019,Coeur d'Alene,Idaho,United States,47.769165,-116.818611,0,1,Non-Fatal,non-fatal,False
+100491,WPR20FA015,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100491/pdf,10/25/2019,American Falls,Idaho,United States,42.777778,-112.894996,1,0,Fatal,fatal,True
+100627,WPR20LA033,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100627/pdf,11/23/2019,Caldwell,Idaho,United States,43.641944,-116.63583,0,0,Non-Fatal,non-fatal,False
+100695,WPR20CA043,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100695/pdf,12/16/2019,Nampa,Idaho,United States,43.580001,-116.519996,0,0,Non-Fatal,non-fatal,False
+100708,WPR20CA048,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100708/pdf,12/18/2019,Caldwell,Idaho,United States,43.64389,-116.636947,0,0,Non-Fatal,non-fatal,False
+101009,WPR20CA095,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101009/pdf,2/27/2020,Dubois,Idaho,United States,44.162223,-112.220558,0,0,Non-Fatal,non-fatal,False
+101010,WPR20LA096,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101010/pdf,2/26/2020,Jerome,Idaho,United States,42.759723,-114.37166,0,0,Non-Fatal,non-fatal,False
+101034,WPR20CA100,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101034/pdf,3/6/2020,Twin Falls,Idaho,United States,42.483333,-114.484725,0,0,Non-Fatal,non-fatal,False
+101256,WPR20CA140,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101256/pdf,4/22/2020,Caldwell,Idaho,United States,43.639999,-116.639999,0,0,Non-Fatal,non-fatal,False
+101403,WPR20CA171,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101403/pdf,6/4/2020,Murphy,Idaho,United States,43.238887,-116.763336,0,0,Non-Fatal,non-fatal,False
+101431,WPR20CA179,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101431/pdf,6/12/2020,Lenore,Idaho,United States,46.454723,-116.524169,0,0,Non-Fatal,non-fatal,False
+101459,WPR20LA187,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101459/pdf,6/18/2020,Coeur D Alene,Idaho,United States,47.589286,-116.910156,0,0,Non-Fatal,non-fatal,False
+101480,WPR20LA191,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101480/pdf,6/23/2020,Hayden,Idaho,United States,47.775001,-116.89555,1,1,Fatal,fatal,True
+101501,WPR20CA198,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101501/pdf,6/24/2020,Yellow Pine,Idaho,United States,45.150554,-114.999443,0,0,Non-Fatal,non-fatal,False
+101532,WPR20FA206,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101532/pdf,7/5/2020,Coeur d'Alene,Idaho,United States,47.519165,-116.82638,8,0,Fatal,fatal,True
+101591,WPR20CA221,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101591/pdf,7/11/2020,Preston,Idaho,United States,42.106945,-111.912498,0,0,Non-Fatal,non-fatal,False
+101635,WPR20CA227,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101635/pdf,7/12/2020,McCall,Idaho,United States,45.150554,-114.999443,0,0,Non-Fatal,non-fatal,False
+101648,WPR20CA231,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101648/pdf,6/23/2020,St Anthony,Idaho,United States,43.946666,-111.692222,0,0,Non-Fatal,non-fatal,False
+101776,WPR20CA265,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101776/pdf,8/10/2020,Stanley,Idaho,United States,44.212776,-114.933334,0,0,Non-Fatal,non-fatal,False
+101788,WPR20CA269,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101788/pdf,8/13/2020,Cascade,Idaho,United States,44.535278,-115.350555,0,1,Non-Fatal,non-fatal,False
+101930,WPR20CA297,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101930/pdf,8/25/2020,Givens Hot Springs,Idaho,United States,43.416389,-116.706665,0,0,Non-Fatal,non-fatal,False
+101932,WPR20CA299,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101932/pdf,9/6/2020,Coeur d'Alene,Idaho,United States,47.786109,-116.719444,0,0,Non-Fatal,non-fatal,False
+101977,WPR20CA307,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101977/pdf,9/11/2020,Big Creek,Idaho,United States,45.133243,-115.32177,0,0,Non-Fatal,non-fatal,False
+102023,WPR20LA315,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102023/pdf,9/22/2020,Emmett,Idaho,United States,43.843334,-116.41166,1,0,Fatal,fatal,True
+102047,WPR20LA318,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102047/pdf,9/22/2020,Island Park ,Idaho,United States,44.63475,-111.34269,0,0,Non-Fatal,non-fatal,False
+102091,WPR21LA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102091/pdf,10/3/2020,Firth,Idaho,United States,43.269389,-112.22431,0,0,Non-Fatal,non-fatal,False
+102111,WPR20LA330,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102111/pdf,9/13/2020,Stanley,Idaho,United States,44.888611,-116.10166,0,0,Non-Fatal,non-fatal,False
+102120,WPR21LA011,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102120/pdf,10/6/2020,Spirit Lake,Idaho,United States,47.980217,-116.78632,1,0,Fatal,fatal,True
+102297,WPR21LA056,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102297/pdf,11/14/2020,Howe,Idaho,United States,43.930556,-112.93805,0,0,Non-Fatal,non-fatal,False
+102608,WPR21LA107,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102608/pdf,2/5/2021,Horseshoe Bend ,Idaho,United States,44.00019,-116.13546,0,1,Non-Fatal,non-fatal,False
+102753,WPR21LA128,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102753/pdf,3/11/2021,McCall,Idaho,United States,44.888722,-116.10175,0,0,Non-Fatal,non-fatal,False
+102758,WPR21LA131,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102758/pdf,3/15/2021,Leadore,Idaho,United States,44.673781,-113.35306,0,0,Non-Fatal,non-fatal,False
+102789,WPR21LA139,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102789/pdf,3/18/2021,Twin Falls,Idaho,United States,42.481806,-114.48775,0,0,Non-Fatal,non-fatal,False
+102859,WPR21LA153,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102859/pdf,4/3/2021,Sand Point,Idaho,United States,48.299528,-116.56013,0,0,Non-Fatal,non-fatal,False
+102910,WPR21LA155,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102910/pdf,11/28/2020,St George,Idaho,United States,37.072888,-113.52047,0,1,Non-Fatal,non-fatal,False
+102946,WPR21LA165,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102946/pdf,4/17/2021,Hayden,Idaho,United States,47.77532,-116.8236,0,0,Non-Fatal,non-fatal,False
+103018,WPR21LA181,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103018/pdf,5/2/2021,Driggs,Idaho,United States,43.738102,-111.10748,0,0,Non-Fatal,non-fatal,False
+103068,WPR21LA190,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103068/pdf,5/11/2021,Coeur d' Alene,Idaho,United States,47.767845,-116.81933,0,0,Non-Fatal,non-fatal,False
+103070,WPR21LA192,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103070/pdf,5/5/2021,Lewiston,Idaho,United States,46.380278,-117.0202,0,0,Non-Fatal,non-fatal,False
+103102,WPR21LA198,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103102/pdf,5/15/2021,Paris,Idaho,United States,42.247667,-111.35095,0,0,Non-Fatal,non-fatal,False
+103183,WPR21LA212,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103183/pdf,5/29/2021,Stanley,Idaho,United States,44.67962,-115.01661,0,0,Non-Fatal,non-fatal,False
+103194,WPR21LA218,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103194/pdf,5/28/2021,Sulphur Creek,Idaho,United States,44.53657,-115.35094,0,0,Non-Fatal,non-fatal,False
+103201,WPR21LA220,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103201/pdf,5/29/2021,Paris,Idaho,United States,42.246913,-111.32509,0,2,Non-Fatal,non-fatal,False
+103272,WPR21LA229,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103272/pdf,6/2/2021,Cascade,Idaho,United States,44.744583,-114.92138,0,0,Non-Fatal,non-fatal,False
+103310,WPR21LA234,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103310/pdf,6/21/2021,Nampa,Idaho,United States,43.596279,-116.53099,0,0,Non-Fatal,non-fatal,False
+103316,WPR21LA237,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103316/pdf,6/21/2021,Warren,Idaho,United States,45.268111,-115.68361,0,2,Non-Fatal,non-fatal,False
+103323,WPR21LA241,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103323/pdf,6/20/2021,Moose Creek Ranger Station,Idaho,United States,46.120751,-114.92733,0,0,Non-Fatal,non-fatal,False
+103352,WPR21LA244,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103352/pdf,6/26/2021,Ririe,Idaho,United States,43.611669,-111.69451,0,0,Non-Fatal,non-fatal,False
+103392,WPR21LA255,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103392/pdf,6/30/2021,Terreton,Idaho,United States,43.850944,-112.50136,0,2,Non-Fatal,non-fatal,False
+103395,WPR21LA256,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103395/pdf,6/28/2021,Nampa ,Idaho,United States,43.581341,-116.52306,0,0,Non-Fatal,non-fatal,False
+103444,WPR21LA264,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103444/pdf,6/30/2021,Twin Falls,Idaho,United States,42.39,-114.57,0,0,Non-Fatal,non-fatal,False
+103463,WPR21LA267,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103463/pdf,7/11/2021,May,Idaho,United States,44.442031,-113.77717,0,0,Non-Fatal,non-fatal,False
+103511,WPR21LA281,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103511/pdf,7/18/2021,Cascade,Idaho,United States,44.492333,-116.01477,0,0,Non-Fatal,non-fatal,False
+103534,WPR21FA283,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103534/pdf,7/24/2021,Lewiston,Idaho,United States,46.376415,-117.01176,1,0,Fatal,fatal,True
+103577,WPR21LA293,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103577/pdf,7/28/2021,Mountain Home,Idaho,United States,43.131389,-115.7303,0,0,Non-Fatal,non-fatal,False
+103619,WPR21LA302,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103619/pdf,7/24/2021,Sandpoint,Idaho,United States,48.299451,-116.55979,0,0,Non-Fatal,non-fatal,False
+103622,WPR21LA304,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103622/pdf,7/4/2021,Coeur D Alene,Idaho,United States,47.841558,-116.25199,0,0,Non-Fatal,non-fatal,False
+103716,WPR21LA324,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103716/pdf,8/7/2021,Athol,Idaho,United States,47.97796,-116.79269,0,0,Non-Fatal,non-fatal,False
+103976,WPR21LA354,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103976/pdf,9/23/2021,Bovill,Idaho,United States,46.840453,-116.2866,0,0,Non-Fatal,non-fatal,False
+104037,WPR21LA360,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104037/pdf,9/27/2021,Warren,Idaho,United States,45.284081,-115.6021,0,2,Non-Fatal,non-fatal,False
+104074,WPR21LA361,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104074/pdf,9/25/2021,Elk River,Idaho,United States,46.787403,-116.16765,0,0,Non-Fatal,non-fatal,False
+104121,WPR22LA014,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104121/pdf,10/13/2021,Payette,Idaho,United States,44.079228,-116.93496,0,0,Non-Fatal,non-fatal,False
+104194,WPR22LA025,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104194/pdf,10/31/2021,Rexburg,Idaho,United States,43.824079,-111.80785,0,0,Non-Fatal,non-fatal,False
+104222,WPR22LA029,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104222/pdf,11/4/2021,Challis,Idaho,United States,44.821738,-114.42129,0,0,Non-Fatal,non-fatal,False
+104226,WPR22LA030,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104226/pdf,10/27/2021,Newdale,Idaho,United States,43.83,-111.5,0,0,Non-Fatal,non-fatal,False
+104259,WPR22LA036,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104259/pdf,11/17/2021,Mackay,Idaho,United States,43.910972,-113.60355,0,0,Non-Fatal,non-fatal,False
+104264,WPR22LA037,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104264/pdf,11/14/2021,Stanley,Idaho,United States,44.723306,-115.00397,0,0,Non-Fatal,non-fatal,False

@@ -1,0 +1,3 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+96574,CEN18FA400,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96574/pdf,1/3/2018,Gulf of Mexico,Gulf of America,United States,23.81334,-89.6853,1,0,Fatal,fatal,True
+100461,CEN20LA021,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100461/pdf,10/16/2019,Unknown,Gulf of America,United States,25.382499,-90.125831,1,0,Fatal,fatal,True

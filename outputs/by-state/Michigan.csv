@@ -1,0 +1,244 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+82671,CEN12CA131,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82671/pdf,1/11/2012,Alanson,Michigan,United States,45.443889,-84.786666,0,1,Non-Fatal,non-fatal,False
+82819,CEN12LA149,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82819/pdf,2/4/2012,Ray,Michigan,United States,42.729442,-82.900558,1,0,Fatal,fatal,True
+83189,CEN12LA197,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83189/pdf,3/21/2012,Pinconning,Michigan,United States,43.846942,-84.01139,0,1,Non-Fatal,non-fatal,False
+83252,CEN12CA215,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83252/pdf,3/27/2012,Battle Creek,Michigan,United States,42.306388,-85.25,0,0,Non-Fatal,non-fatal,False
+83308,CEN12LA231,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83308/pdf,4/5/2012,Ann Arbor,Michigan,United States,42.220275,-83.740554,0,1,Non-Fatal,non-fatal,False
+83549,CEN12CA270,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83549/pdf,5/1/2012,Three Rivers,Michigan,United States,41.95972,-85.593055,0,0,Non-Fatal,non-fatal,False
+83631,CEN12CA294,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83631/pdf,5/13/2012,Au Gres,Michigan,United States,44.0,-83.666664,0,1,Non-Fatal,non-fatal,False
+83640,CEN12LA296,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83640/pdf,5/13/2012,Hanover Township,Michigan,United States,42.087776,-84.486114,0,0,Non-Fatal,non-fatal,False
+83683,CEN12CA305,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83683/pdf,5/16/2012,Crystal Falls,Michigan,United States,46.008888,-88.273887,0,0,Non-Fatal,non-fatal,False
+83704,CEN12LA308,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83704/pdf,5/20/2012,Frankenmuth,Michigan,United States,43.313888,-83.696113,0,0,Non-Fatal,non-fatal,False
+83751,CEN12LA318,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83751/pdf,5/25/2012,Saline,Michigan,United States,42.18222,-83.718887,0,2,Non-Fatal,non-fatal,False
+83780,CEN12LA324,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83780/pdf,5/28/2012,Perry,Michigan,United States,42.805278,-84.238334,1,1,Fatal,fatal,True
+83798,CEN12LA330,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83798/pdf,5/29/2012,Ionia,Michigan,United States,42.938056,-85.060554,1,0,Fatal,fatal,True
+83864,CEN12LA339,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83864/pdf,5/12/2012,Applegate,Michigan,United States,43.351943,-82.558334,0,0,Non-Fatal,non-fatal,False
+83893,CEN12LA348,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83893/pdf,6/6/2012,Bangor,Michigan,United States,42.309505,-86.110992,0,1,Non-Fatal,non-fatal,False
+84078,CEN12CA392,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84078/pdf,6/8/2012,Detroit,Michigan,United States,42.409168,-83.010002,0,0,Non-Fatal,non-fatal,False
+84193,CEN12CA419,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84193/pdf,7/6/2012,Ray Township,Michigan,United States,42.736946,-82.888885,0,0,Non-Fatal,non-fatal,False
+84290,CEN12CA436,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84290/pdf,7/10/2012,Sugar Loaf Mountain,Michigan,United States,44.912223,-85.813888,0,0,Non-Fatal,non-fatal,False
+84476,CEN12FA487,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84476/pdf,7/27/2012,Adrian,Michigan,United States,41.869445,-84.074722,0,0,Non-Fatal,non-fatal,False
+84491,CEN12LA490,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84491/pdf,7/29/2012,Gregory,Michigan,United States,42.441944,-84.064445,0,1,Non-Fatal,non-fatal,False
+84688,CEN12LA545,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84688/pdf,8/12/2012,Monroe,Michigan,United States,41.959621,-83.430313,0,1,Non-Fatal,non-fatal,False
+84762,CEN12LA565,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84762/pdf,8/19/2012,Onondaga,Michigan,United States,42.444999,-84.5625,0,0,Non-Fatal,non-fatal,False
+84828,CEN12LA578,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84828/pdf,8/24/2012,Hart,Michigan,United States,43.678054,-86.510276,2,0,Fatal,fatal,True
+84918,CEN12FA601,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84918/pdf,9/1/2012,Brighton,Michigan,United States,42.569721,-83.778335,1,1,Fatal,fatal,True
+84920,CEN12CA603,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84920/pdf,8/31/2012,Pittsford,Michigan,United States,41.861946,-84.458335,0,0,Non-Fatal,non-fatal,False
+84922,CEN12TA604,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84922/pdf,9/2/2012,Newberry,Michigan,United States,46.310832,-85.456947,0,1,Non-Fatal,non-fatal,False
+85016,CEN12LA626,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85016/pdf,8/12/2012,Schoolcraft,Michigan,United States,42.109722,-85.630424,0,0,Non-Fatal,non-fatal,False
+85043,CEN12LA635,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85043/pdf,9/15/2012,Mecosta,Michigan,United States,43.629165,-85.262496,0,0,Non-Fatal,non-fatal,False
+85480,CEN13FA038,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85480/pdf,10/31/2012,Boyne City,Michigan,United States,45.208889,-84.989997,0,0,Non-Fatal,non-fatal,False
+85531,CEN12LA678,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85531/pdf,9/26/2012,Merrill,Michigan,United States,43.462501,-84.36444,0,0,Non-Fatal,non-fatal,False
+85646,CEN13FA067,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85646/pdf,11/21/2012,Hillsdale,Michigan,United States,41.917221,-84.559165,1,0,Fatal,fatal,True
+85649,CEN13FA069,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85649/pdf,11/21/2012,Mancelona,Michigan,United States,44.909999,-84.911109,1,0,Fatal,fatal,True
+85684,CEN13LA076,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85684/pdf,11/27/2012,Lansing,Michigan,United States,42.77861,-84.586112,0,0,Non-Fatal,non-fatal,False
+85720,CEN13LA086,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85720/pdf,12/1/2012,Walkerville,Michigan,United States,43.674999,-86.107223,1,0,Fatal,fatal,True
+85772,CEN13LA094,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85772/pdf,12/6/2012,Adrian,Michigan,United States,43.710979,-86.119781,0,0,Non-Fatal,non-fatal,False
+86219,CEN13CA161,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86219/pdf,2/12/2013,Jenison,Michigan,United States,42.936668,-85.805557,0,0,Non-Fatal,non-fatal,False
+86346,CEN13CA185,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86346/pdf,3/2/2013,Baraga,Michigan,United States,46.77,-88.486663,0,0,Non-Fatal,non-fatal,False
+86488,CEN13CA202,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86488/pdf,3/17/2013,Pontiac,Michigan,United States,42.659442,-83.418891,0,0,Non-Fatal,non-fatal,False
+86690,CEN13LA232,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86690/pdf,4/20/2013,Reading,Michigan,United States,41.84,-84.70417,0,0,Non-Fatal,non-fatal,False
+86941,CEN13LA286,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86941/pdf,5/18/2013,Fremont,Michigan,United States,43.439445,-85.995002,0,0,Non-Fatal,non-fatal,False
+87144,CEN13CA333,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87144/pdf,6/6/2013,Pontiac,Michigan,United States,42.665554,-83.42028,0,0,Non-Fatal,non-fatal,False
+87148,CEN13CA335,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87148/pdf,6/9/2013,Ann Arbor,Michigan,United States,42.222499,-83.746665,0,0,Non-Fatal,non-fatal,False
+87264,CEN13FA364,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87264/pdf,6/21/2013,Waterford,Michigan,United States,42.667221,-83.412223,4,0,Fatal,fatal,True
+87266,CEN13LA365,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87266/pdf,6/19/2013,Lansing,Michigan,United States,42.789989,-84.589958,0,0,Non-Fatal,non-fatal,False
+87351,CEN13LA383,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87351/pdf,6/30/2013,Grand Haven,Michigan,United States,43.034168,-86.198059,0,1,Non-Fatal,non-fatal,False
+87498,CEN13FA416,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87498/pdf,7/17/2013,Flushing,Michigan,United States,43.052501,-83.805,2,0,Fatal,fatal,True
+87521,CEN13LA422,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87521/pdf,7/17/2013,Elmira,Michigan,United States,45.059253,-84.850608,0,1,Non-Fatal,non-fatal,False
+87707,CEN13CA469,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87707/pdf,8/5/2013,Mackinac Island,Michigan,United States,45.850833,-84.635559,0,0,Non-Fatal,non-fatal,False
+87716,CEN13CA474,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87716/pdf,8/7/2013,Clare,Michigan,United States,43.834445,-84.74028,0,0,Non-Fatal,non-fatal,False
+87755,CEN13CA479,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87755/pdf,8/10/2013,Frankenmuth,Michigan,United States,43.313888,-83.709724,0,0,Non-Fatal,non-fatal,False
+87785,CEN13LA490,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87785/pdf,8/14/2013,Eastport,Michigan,United States,45.055831,-85.355834,0,0,Non-Fatal,non-fatal,False
+87800,CEN13LA493,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87800/pdf,8/16/2013,Covert,Michigan,United States,42.298889,-86.328887,0,1,Non-Fatal,non-fatal,False
+87845,CEN13CA501,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87845/pdf,8/22/2013,Reese,Michigan,United States,43.471111,-83.661392,0,0,Non-Fatal,non-fatal,False
+87875,CEN13CA510,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87875/pdf,8/10/2013,Mackinac Island,Michigan,United States,45.865001,-84.637222,0,0,Non-Fatal,non-fatal,False
+87970,CEN13LA524,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87970/pdf,8/30/2013,Mackinaw City,Michigan,United States,45.767776,-84.734725,0,1,Non-Fatal,non-fatal,False
+88035,CEN13LA546,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88035/pdf,8/29/2013,Rothbury,Michigan,United States,40.950492,-80.649513,0,0,Non-Fatal,non-fatal,False
+88084,CEN13LA552,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88084/pdf,9/18/2013,Frankenmuth,Michigan,United States,43.314167,-83.711387,0,0,Non-Fatal,non-fatal,False
+88119,CEN13LA555,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88119/pdf,9/23/2013,St. Joseph,Michigan,United States,42.015834,-86.42778,0,1,Non-Fatal,non-fatal,False
+88337,CEN14CA026,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88337/pdf,10/9/2013,Onaway,Michigan,United States,45.370834,-84.224998,0,0,Non-Fatal,non-fatal,False
+88390,CEN14CA041,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88390/pdf,10/2/2013,Benton Harbor,Michigan,United States,42.126667,-86.428054,0,0,Non-Fatal,non-fatal,False
+88555,CEN14LA086,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88555/pdf,12/11/2013,Oscoda,Michigan,United States,44.420864,-83.329154,0,0,Non-Fatal,non-fatal,False
+88634,CEN14FA102,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88634/pdf,1/6/2014,Boyne City,Michigan,United States,45.20861,-84.960556,2,0,Fatal,fatal,True
+88665,CEN14FA110,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88665/pdf,1/10/2014,Waterford,Michigan,United States,42.664443,-83.442779,1,0,Fatal,fatal,True
+88680,CEN14CA114,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88680/pdf,1/15/2014,Coldwater,Michigan,United States,41.935554,-85.0475,0,0,Non-Fatal,non-fatal,False
+88814,CEN14LA146,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88814/pdf,2/15/2014,Holland,Michigan,United States,42.786945,-86.149169,0,0,Non-Fatal,non-fatal,False
+89013,CEN14CA186,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89013/pdf,3/21/2014,Marine City,Michigan,United States,42.721389,-82.596389,0,0,Non-Fatal,non-fatal,False
+89083,CEN14LA202,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89083/pdf,4/19/2014,Flushing,Michigan,United States,43.043609,-83.928886,2,0,Fatal,fatal,True
+89084,CEN14CA203,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89084/pdf,4/19/2014,Kalamazoo,Michigan,United States,42.288887,-85.75,0,0,Non-Fatal,non-fatal,False
+89096,CEN14LA210,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89096/pdf,4/19/2014,Sturgis,Michigan,United States,41.813331,-85.438888,0,0,Non-Fatal,non-fatal,False
+89200,CEN14CA237,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89200/pdf,5/11/2014,Dowling,Michigan,United States,42.473056,-85.232498,0,0,Non-Fatal,non-fatal,False
+89279,CEN14CA252,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89279/pdf,5/25/2014,Constantine,Michigan,United States,41.8325,-85.668334,0,0,Non-Fatal,non-fatal,False
+89593,CEN14CA335,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89593/pdf,6/28/2014,Holland,Michigan,United States,42.744167,-86.108886,0,0,Non-Fatal,non-fatal,False
+89673,CEN14CA368,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89673/pdf,7/13/2014,Dodgeville,Michigan,United States,47.019721,-88.551666,0,0,Non-Fatal,non-fatal,False
+89677,CEN14CA370,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89677/pdf,7/16/2014,Midland,Michigan,United States,43.663055,-84.26139,0,0,Non-Fatal,non-fatal,False
+89723,CEN14LA387,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89723/pdf,7/22/2014,Flushing,Michigan,United States,43.052501,-83.805,0,0,Non-Fatal,non-fatal,False
+89800,CEN14CA404,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89800/pdf,7/31/2014,Traverse City,Michigan,United States,44.741664,-85.581665,0,0,Non-Fatal,non-fatal,False
+89808,CEN14LA406,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89808/pdf,8/5/2014,Manistee,Michigan,United States,44.272499,-86.246948,0,0,Non-Fatal,non-fatal,False
+89830,CEN14CA413,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89830/pdf,8/6/2014,Three Rivers,Michigan,United States,41.95861,-85.591941,0,0,Non-Fatal,non-fatal,False
+89850,CEN14LA419,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89850/pdf,8/11/2014,South Haven,Michigan,United States,42.4925,-86.196388,1,0,Fatal,fatal,True
+89875,CEN14CA428,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89875/pdf,8/3/2014,Frankfort,Michigan,United States,44.622776,-86.198059,0,0,Non-Fatal,non-fatal,False
+89967,CEN14LA463,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89967/pdf,8/20/2014,Grand Rapids,Michigan,United States,42.880832,-85.522781,0,0,Non-Fatal,non-fatal,False
+90267,CEN15CA013,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90267/pdf,10/10/2014,Ann Arbor,Michigan,United States,42.223056,-83.745552,0,0,Non-Fatal,non-fatal,False
+90270,CEN15CA016,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90270/pdf,10/11/2014,Coloma,Michigan,United States,42.179588,-86.299362,0,0,Non-Fatal,non-fatal,False
+90398,CEN15CA049,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90398/pdf,10/24/2014,Kalamazoo,Michigan,United States,42.225276,-85.548332,0,0,Non-Fatal,non-fatal,False
+90450,CEN15LA064,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90450/pdf,11/28/2014,Berrien Springs,Michigan,United States,41.95111,-86.368057,0,4,Non-Fatal,non-fatal,False
+90480,CEN15CA073,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90480/pdf,12/6/2014,Berrien Springs,Michigan,United States,41.949722,-86.366668,0,0,Non-Fatal,non-fatal,False
+90537,CEN15FA087,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90537/pdf,12/24/2014,Port Huron,Michigan,United States,42.969963,-82.419502,1,0,Fatal,fatal,True
+90572,CEN15CA097,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90572/pdf,1/5/2015,Marquette,Michigan,United States,46.35361,-87.396385,0,0,Non-Fatal,non-fatal,False
+90615,CEN15CA105,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90615/pdf,1/17/2015,Holland,Michigan,United States,42.742778,-86.10778,0,0,Non-Fatal,non-fatal,False
+90624,CEN15LA111,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90624/pdf,1/19/2015,Lowell,Michigan,United States,42.953887,-85.343887,0,1,Non-Fatal,non-fatal,False
+90797,CEN15LA157,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90797/pdf,2/27/2015,Frankenmuth,Michigan,United States,43.259998,-83.660003,0,0,Non-Fatal,non-fatal,False
+90929,GAA15CA020,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90929/pdf,3/24/2015,Flushing,Michigan,United States,43.0,-83.0,0,0,Non-Fatal,non-fatal,False
+90959,CEN15LA185,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90959/pdf,3/28/2015,Marquette,Michigan,United States,46.548053,-87.396942,0,0,Non-Fatal,non-fatal,False
+91127,CEN15LA219,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91127/pdf,4/14/2015,Evart,Michigan,United States,43.894721,-85.284721,0,0,Non-Fatal,non-fatal,False
+91193,CEN15LA235,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91193/pdf,5/1/2015,Ravenna,Michigan,United States,43.179882,-85.93917,0,1,Non-Fatal,non-fatal,False
+91292,GAA15CA102,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91292/pdf,5/29/2015,Caledonia,Michigan,United States,42.822498,-85.491386,0,0,Non-Fatal,non-fatal,False
+91451,GAA15CA140,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91451/pdf,6/25/2015,Traverse City,Michigan,United States,44.743057,-85.587776,0,0,Non-Fatal,non-fatal,False
+91456,GAA15CA143,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91456/pdf,7/17/2015,Fenton,Michigan,United States,42.856666,-83.719718,0,0,Non-Fatal,non-fatal,False
+91512,GAA15CA163,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91512/pdf,6/22/2015,Grosse Ile,Michigan,United States,42.096389,-83.160003,0,0,Non-Fatal,non-fatal,False
+91689,CEN15LA332,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91689/pdf,7/19/2015,Holland,Michigan,United States,42.781112,-86.209999,0,0,Non-Fatal,non-fatal,False
+91738,CEN15FA342,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91738/pdf,8/9/2015,Harbor Springs,Michigan,United States,45.424446,-84.899444,1,0,Fatal,fatal,True
+91808,GAA15CA227,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91808/pdf,7/15/2015,Sandusky,Michigan,United States,43.420555,-82.877502,0,0,Non-Fatal,non-fatal,False
+91860,CEN15LA381,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91860/pdf,8/23/2015,Pontiac,Michigan,United States,42.665554,-83.42028,0,0,Non-Fatal,non-fatal,False
+91880,CEN15FA386,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91880/pdf,8/27/2015,Battle Creek,Michigan,United States,42.311389,-85.245277,1,0,Fatal,fatal,True
+92049,CEN15LA421,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92049/pdf,9/22/2015,Deckerville,Michigan,United States,43.453056,-82.764999,0,1,Non-Fatal,non-fatal,False
+92202,CEN16LA017,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92202/pdf,10/15/2015,Ray,Michigan,United States,42.736667,-82.888885,0,0,Non-Fatal,non-fatal,False
+92282,CEN16LA029,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92282/pdf,11/3/2015,Tecumseh,Michigan,United States,42.025001,-83.939163,0,0,Non-Fatal,non-fatal,False
+92311,CEN16LA035,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92311/pdf,11/3/2015,Escanaba,Michigan,United States,45.722778,-87.093612,0,0,Non-Fatal,non-fatal,False
+92341,GAA16CA054,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92341/pdf,11/17/2015,Fowlerville,Michigan,United States,42.718612,-84.062225,0,0,Non-Fatal,non-fatal,False
+92406,CEN16LA055,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92406/pdf,12/5/2015,Pontiac,Michigan,United States,42.664722,-83.434997,0,0,Non-Fatal,non-fatal,False
+92706,GAA16CA123,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92706/pdf,2/1/2016,Lapeer,Michigan,United States,43.067222,-83.272224,0,0,Non-Fatal,non-fatal,False
+92718,CEN16LA105,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92718/pdf,2/12/2016,Menominee,Michigan,United States,45.112499,-87.625,0,0,Non-Fatal,non-fatal,False
+93046,GAA16CA196,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93046/pdf,4/14/2016,Moorestown,Michigan,United States,44.52222,-85.103057,0,0,Non-Fatal,non-fatal,False
+93225,CEN16LA190,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93225/pdf,5/22/2016,Marine City,Michigan,United States,42.721389,-82.596389,0,0,Non-Fatal,non-fatal,False
+93238,CEN16TA194,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93238/pdf,5/18/2016,Mason,Michigan,United States,42.569999,-84.419998,0,0,Non-Fatal,non-fatal,False
+93305,GAA16CA275,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93305/pdf,5/30/2016,Saginaw,Michigan,United States,43.537498,-84.074447,0,0,Non-Fatal,non-fatal,False
+93475,GAA16CA338,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93475/pdf,6/25/2016,Jackson,Michigan,United States,42.259166,-84.461669,0,0,Non-Fatal,non-fatal,False
+93495,CEN16LA236,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93495/pdf,6/27/2016,Detroit,Michigan,United States,42.389167,-83.004165,1,0,Fatal,fatal,True
+93502,GAA16CA346,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93502/pdf,6/25/2016,Flushing,Michigan,United States,43.05722,-83.806388,0,0,Non-Fatal,non-fatal,False
+93520,CEN16FA240,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93520/pdf,7/3/2016,Frankenmuth,Michigan,United States,43.314998,-83.705276,2,0,Fatal,fatal,True
+93544,CEN16LA245,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93544/pdf,6/29/2016,Holland,Michigan,United States,42.7975,-86.159446,0,1,Non-Fatal,non-fatal,False
+93556,CEN16LA252,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93556/pdf,7/2/2016,Houghton Lake Heights,Michigan,United States,44.329166,-84.791664,0,0,Non-Fatal,non-fatal,False
+93586,CEN16LA264,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93586/pdf,7/10/2016,Dexter,Michigan,United States,42.356109,-83.846107,0,0,Non-Fatal,non-fatal,False
+93627,CEN16FA269,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93627/pdf,7/18/2016,Ishpeming,Michigan,United States,46.411109,-87.768608,2,0,Fatal,fatal,True
+93722,GAA16CA401,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93722/pdf,7/30/2016,Frankfort,Michigan,United States,44.622501,-86.197776,0,0,Non-Fatal,non-fatal,False
+93765,CEN16LA305,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93765/pdf,8/4/2016,Sparta,Michigan,United States,43.127498,-85.679168,0,0,Non-Fatal,non-fatal,False
+93837,CEN16LA322,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93837/pdf,8/10/2016,Sandusky,Michigan,United States,43.45222,-82.842498,0,1,Non-Fatal,non-fatal,False
+93978,CEN16LA363,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93978/pdf,9/3/2016,Holland,Michigan,United States,42.796665,-86.161666,0,1,Non-Fatal,non-fatal,False
+93991,CEN16LA366,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93991/pdf,9/11/2016,Greenville,Michigan,United States,43.139167,-85.256111,0,2,Non-Fatal,non-fatal,False
+94514,CEN17LA057,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94514/pdf,12/16/2016,Ionia,Michigan,United States,42.938056,-85.060554,0,0,Non-Fatal,non-fatal,False
+94570,CEN17LA070,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94570/pdf,12/23/2016,Pontiac,Michigan,United States,42.665554,-83.420555,0,0,Non-Fatal,non-fatal,False
+94613,CEN17LA078,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94613/pdf,1/16/2017,Howell,Michigan,United States,42.627223,-83.973609,0,1,Non-Fatal,non-fatal,False
+94729,GAA17CA142,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94729/pdf,2/19/2017,Three Rivers,Michigan,United States,41.9775,-85.704444,0,0,Non-Fatal,non-fatal,False
+94894,CEN17LA135,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94894/pdf,3/20/2017,Vicksburg,Michigan,United States,42.116664,-85.51667,1,0,Fatal,fatal,True
+94983,CEN17LA150,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94983/pdf,4/9/2017,Pontiac,Michigan,United States,42.665554,-83.420555,0,0,Non-Fatal,non-fatal,False
+95068,GAA17CA247,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95068/pdf,3/28/2017,Flushing,Michigan,United States,43.053054,-83.803611,0,0,Non-Fatal,non-fatal,False
+95138,GAA17CA271,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95138/pdf,5/7/2017,Big Rapids,Michigan,United States,43.722778,-85.504165,0,0,Non-Fatal,non-fatal,False
+95158,CEN17LA178,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95158/pdf,4/23/2017,Manistee,Michigan,United States,44.239463,-86.319747,0,0,Non-Fatal,non-fatal,False
+95176,CEN17LA184,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95176/pdf,5/15/2017,Dowling,Michigan,United States,42.471942,-85.230278,0,0,Non-Fatal,non-fatal,False
+95332,CEN17CA218,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95332/pdf,5/26/2017,Plainwell,Michigan,United States,42.467777,-85.648056,0,0,Non-Fatal,non-fatal,False
+95392,GAA17CA347,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95392/pdf,6/16/2017,Watervliet,Michigan,United States,42.2,-86.25,0,0,Non-Fatal,non-fatal,False
+95605,GAA17CA416,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95605/pdf,7/18/2017,Breckenridge,Michigan,United States,43.2625,-84.892501,0,0,Non-Fatal,non-fatal,False
+95808,CEN17LA316,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95808/pdf,8/11/2017,Adrian,Michigan,United States,41.829166,-84.074447,0,2,Non-Fatal,non-fatal,False
+95815,GAA17CA485,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95815/pdf,8/12/2017,Sparta,Michigan,United States,43.128334,-85.676666,0,0,Non-Fatal,non-fatal,False
+95903,CEN17FA332,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95903/pdf,8/28/2017,Gaylord,Michigan,United States,44.95,-84.621391,0,2,Non-Fatal,non-fatal,False
+95961,CEN17LA341,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95961/pdf,5/27/2017,Ray,Michigan,United States,42.736667,-82.888885,0,1,Non-Fatal,non-fatal,False
+96118,CEN18FA001,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96118/pdf,10/1/2017,Midland,Michigan,United States,43.623889,-84.470558,1,0,Fatal,fatal,True
+96164,GAA18CA007,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96164/pdf,10/6/2017,Waterford,Michigan,United States,42.664722,-83.423057,0,0,Non-Fatal,non-fatal,False
+96590,GAA18CA097,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96590/pdf,12/21/2017,Monroe,Michigan,United States,41.943611,-83.432777,0,0,Non-Fatal,non-fatal,False
+96768,CEN18LA106,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96768/pdf,2/13/2018,Stockbridge,Michigan,United States,42.45,-84.263053,0,0,Non-Fatal,non-fatal,False
+96853,GAA18CA155,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96853/pdf,3/10/2018,Mount Pleasant,Michigan,United States,43.621665,-84.73722,0,0,Non-Fatal,non-fatal,False
+96887,CEN18LA123,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96887/pdf,3/22/2018,Dewitt,Michigan,United States,42.887222,-84.720001,1,0,Fatal,fatal,True
+97123,CEN18LA150,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97123/pdf,4/27/2018,Kalkaska,Michigan,United States,44.674446,-85.235832,2,0,Fatal,fatal,True
+97385,CEN18LA206,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97385/pdf,5/29/2018,Copemish,Michigan,United States,44.509166,-85.840553,0,2,Non-Fatal,non-fatal,False
+97560,CEN18FA236,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97560/pdf,6/24/2018,Detroit,Michigan,United States,42.407222,-83.025001,2,1,Fatal,fatal,True
+97675,GAA18CA391,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97675/pdf,7/2/2018,Troy,Michigan,United States,42.542778,-83.178886,0,0,Non-Fatal,non-fatal,False
+97723,GAA18CA407,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97723/pdf,7/1/2018,Mackinac Island,Michigan,United States,45.863334,-84.644165,0,0,Non-Fatal,non-fatal,False
+97817,CEN18LA280,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97817/pdf,7/8/2018,Houghton Lake,Michigan,United States,44.32611,-84.78833,0,1,Non-Fatal,non-fatal,False
+97864,ANC18LA057,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97864/pdf,7/23/2018,Bad Axe,Michigan,United States,43.780555,-83.000556,1,0,Fatal,fatal,True
+97920,CEN18LA298,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97920/pdf,7/29/2018,North Fox Island,Michigan,United States,45.482223,-85.78083,0,0,Non-Fatal,non-fatal,False
+97976,CEN18LA307,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97976/pdf,8/2/2018,Escanaba,Michigan,United States,45.722778,-87.093612,0,0,Non-Fatal,non-fatal,False
+97981,GAA18CA466,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97981/pdf,7/28/2018,Holland,Michigan,United States,42.796665,-86.162498,0,0,Non-Fatal,non-fatal,False
+97992,CEN18LA313,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97992/pdf,8/3/2018,Midland,Michigan,United States,43.663055,-84.262222,0,0,Non-Fatal,non-fatal,False
+98003,GAA18CA471,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98003/pdf,8/4/2018,Dowagiac,Michigan,United States,41.993057,-86.128334,0,0,Non-Fatal,non-fatal,False
+98097,CEN18FA339,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98097/pdf,8/18/2018,Bronson,Michigan,United States,41.843055,-85.119163,1,0,Fatal,fatal,True
+98215,CEN18LA365,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98215/pdf,9/3/2018,Orchard Lake,Michigan,United States,42.572223,-83.394996,0,1,Non-Fatal,non-fatal,False
+98218,CEN18FA368,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98218/pdf,8/31/2018,St Ignace,Michigan,United States,45.9025,-84.706947,1,0,Fatal,fatal,True
+98255,CEN18TA374,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98255/pdf,9/1/2018,Harrisville,Michigan,United States,44.665554,-83.30722,0,0,Non-Fatal,non-fatal,False
+98320,GAA18CA560,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98320/pdf,9/17/2018,Hillsdale,Michigan,United States,41.921665,-84.587776,0,0,Non-Fatal,non-fatal,False
+98348,CEN18FA387,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98348/pdf,9/25/2018,Oscoda,Michigan,United States,44.416667,-83.485832,1,0,Fatal,fatal,True
+98522,GAA19CA028,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98522/pdf,10/18/2018,Hastings,Michigan,United States,42.664443,-85.345275,0,0,Non-Fatal,non-fatal,False
+98809,CEN19LA050,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98809/pdf,12/29/2018,Chesaning,Michigan,United States,43.166942,-84.133331,1,0,Fatal,fatal,True
+98810,CEN19LA051,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98810/pdf,12/30/2018,Beaver Island,Michigan,United States,45.684722,-85.574447,1,0,Fatal,fatal,True
+98875,CEN19LA059,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98875/pdf,1/6/2019,Flint,Michigan,United States,42.969165,-83.755279,0,0,Non-Fatal,non-fatal,False
+98880,CEN19CA062,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98880/pdf,1/19/2019,Iron Mountain,Michigan,United States,45.830001,-87.980003,0,0,Non-Fatal,non-fatal,False
+98884,CEN19LA066,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98884/pdf,1/13/2019,Adrian,Michigan,United States,41.867778,-84.077224,0,0,Non-Fatal,non-fatal,False
+99167,GAA19CA178,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99167/pdf,3/23/2019,Mecosta,Michigan,United States,43.576946,-85.283889,0,0,Non-Fatal,non-fatal,False
+99368,CEN19FA134,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99368/pdf,5/4/2019,New Era,Michigan,United States,43.564445,-86.418052,1,0,Fatal,fatal,True
+99417,GAA19CA258,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99417/pdf,5/11/2019,Dexter,Michigan,United States,42.426944,-83.866668,0,2,Non-Fatal,non-fatal,False
+99426,CEN19FA165,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99426/pdf,5/12/2019,Frankfort,Michigan,United States,44.622776,-86.330558,2,0,Fatal,fatal,True
+99695,CEN19LA179,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99695/pdf,6/21/2019,Cottrellville Township,Michigan,United States,42.717224,-82.611389,0,1,Non-Fatal,non-fatal,False
+99792,CEN19LA214,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99792/pdf,7/6/2019,Bay City,Michigan,United States,43.546943,-83.894996,0,1,Non-Fatal,non-fatal,False
+99821,CEN19LA217,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99821/pdf,7/10/2019,Ypsilanti,Michigan,United States,42.239166,-83.532501,0,0,Non-Fatal,non-fatal,False
+99898,CEN19LA231,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99898/pdf,7/21/2019,Breckenridge,Michigan,United States,43.484165,-84.484443,0,0,Non-Fatal,non-fatal,False
+99948,CEN19LA242,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99948/pdf,7/27/2019,Lake,Michigan,United States,43.77222,-84.946113,0,1,Non-Fatal,non-fatal,False
+99986,CEN19FA247,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99986/pdf,8/3/2019,Ontonagon,Michigan,United States,46.699165,-89.472778,1,0,Fatal,fatal,True
+99988,CEN19LA249,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99988/pdf,8/3/2019,Saginaw,Michigan,United States,43.404167,-83.980003,0,0,Non-Fatal,non-fatal,False
+100102,CEN19FA279,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100102/pdf,8/20/2019,Howell,Michigan,United States,42.624721,-83.973335,2,0,Fatal,fatal,True
+100183,CEN19LA297,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100183/pdf,9/2/2019,Independence Charter Township,Michigan,United States,42.756846,-83.351221,0,2,Non-Fatal,non-fatal,False
+100186,GAA19CA520,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100186/pdf,9/2/2019,Mackinac Island,Michigan,United States,45.865001,-84.637222,0,0,Non-Fatal,non-fatal,False
+100214,CEN19LA308,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100214/pdf,9/9/2019,WHITEHALL,Michigan,United States,43.405555,-86.335556,1,0,Fatal,fatal,True
+100226,GAA19CA534,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100226/pdf,9/2/2019,Sawyer,Michigan,United States,46.318889,-87.281944,0,0,Non-Fatal,non-fatal,False
+100359,CEN20FA001,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100359/pdf,10/3/2019,Lansing,Michigan,United States,42.780277,-84.606109,5,1,Fatal,fatal,True
+100519,CEN20LA017,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100519/pdf,11/1/2019,Kalamazoo,Michigan,United States,42.234443,-85.551666,0,1,Non-Fatal,non-fatal,False
+100648,CEN20CA027,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100648/pdf,11/30/2019,Williamston,Michigan,United States,42.686111,-84.313056,0,0,Non-Fatal,non-fatal,False
+100956,CEN20CA089,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100956/pdf,2/16/2020,Sparta,Michigan,United States,43.127498,-85.679168,0,0,Non-Fatal,non-fatal,False
+100985,CEN20CA100,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100985/pdf,2/22/2020,Coldwater,Michigan,United States,41.936943,-85.046669,0,0,Non-Fatal,non-fatal,False
+101102,CEN20LA130,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101102/pdf,3/22/2020,Harrisville,Michigan,United States,44.666942,-83.321945,0,0,Non-Fatal,non-fatal,False
+101141,CEN20CA138,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101141/pdf,4/2/2020,Hessel,Michigan,United States,46.035556,-84.417778,0,0,Non-Fatal,non-fatal,False
+101315,CEN20LA187,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101315/pdf,5/20/2020,West Branch,Michigan,United States,44.215557,-84.188056,0,0,Non-Fatal,non-fatal,False
+101324,CEN20CA191,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101324/pdf,5/23/2020,Midland,Michigan,United States,43.663055,-84.26139,0,0,Non-Fatal,non-fatal,False
+101326,CEN20CA193,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101326/pdf,5/22/2020,Ionia,Michigan,United States,42.937778,-85.056114,0,0,Non-Fatal,non-fatal,False
+101391,CEN20CA213,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101391/pdf,6/4/2020,Cadillac,Michigan,United States,44.275276,-85.418891,0,0,Non-Fatal,non-fatal,False
+101401,CEN20LA216,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101401/pdf,6/7/2020,Marshall,Michigan,United States,42.245834,-84.991111,0,0,Non-Fatal,non-fatal,False
+101513,CEN20CA254,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101513/pdf,6/27/2020,Erie,Michigan,United States,41.77639,-83.446945,0,0,Non-Fatal,non-fatal,False
+101575,CEN20LA272,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101575/pdf,7/11/2020,Grosse Ile,Michigan,United States,42.110832,-83.172225,1,0,Fatal,fatal,True
+101800,CEN20CA337,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101800/pdf,8/16/2020,Frankenmuth,Michigan,United States,43.314167,-83.711387,0,2,Non-Fatal,non-fatal,False
+101849,CEN20CA358,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101849/pdf,8/19/2020,Three Rivers,Michigan,United States,41.958889,-85.592224,0,0,Non-Fatal,non-fatal,False
+101891,CEN20LA372,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101891/pdf,8/30/2020,Ray,Michigan,United States,42.736752,-82.888838,0,0,Non-Fatal,non-fatal,False
+101897,CEN20LA373,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101897/pdf,9/1/2020,Midland,Michigan,United States,43.758056,-84.266113,1,1,Fatal,fatal,True
+101913,CEN20LA377,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101913/pdf,9/1/2020,Coleman,Michigan,United States,43.756668,-84.58583,0,0,Non-Fatal,non-fatal,False
+101922,CEN20CA382,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101922/pdf,9/4/2020,Bellaire,Michigan,United States,44.988609,-85.198333,0,0,Non-Fatal,non-fatal,False
+101937,CEN20CA387,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101937/pdf,8/11/2020,Casco,Michigan,United States,42.735279,-82.629447,0,1,Non-Fatal,non-fatal,False
+101991,CEN20LA399,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101991/pdf,9/19/2020,Zeeland,Michigan,United States,42.82389,-85.923889,2,0,Fatal,fatal,True
+102083,CEN20LA431,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102083/pdf,9/29/2020,Big Rapids,Michigan,United States,43.722639,-85.504056,0,0,Non-Fatal,non-fatal,False
+102254,CEN21LA046,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102254/pdf,11/5/2020,Fremont,Michigan,United States,43.435343,-85.99581,0,0,Non-Fatal,non-fatal,False
+102260,CEN21LA048,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102260/pdf,11/6/2020,Greenville,Michigan,United States,43.142139,-85.253861,0,0,Non-Fatal,non-fatal,False
+102480,CEN21LA104,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102480/pdf,1/2/2021,New Hudson,Michigan,United States,42.509573,-83.623552,3,0,Fatal,fatal,True
+102521,CEN21LA112,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102521/pdf,1/12/2021,Sparta,Michigan,United States,43.13002,-85.67238,0,0,Non-Fatal,non-fatal,False
+102582,CEN21LA120,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102582/pdf,1/29/2021,Clare,Michigan,United States,43.834444,-84.740222,0,0,Non-Fatal,non-fatal,False
+102598,CEN21LA123,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102598/pdf,2/3/2021,Weidman,Michigan,United States,43.720649,-85.002243,0,0,Non-Fatal,non-fatal,False
+102714,CEN21LA146,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102714/pdf,3/2/2021,Grand Haven,Michigan,United States,43.01963,-86.198471,0,0,Non-Fatal,non-fatal,False
+102928,CEN21LA191,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102928/pdf,4/17/2021,Caro,Michigan,United States,43.492475,-83.384762,0,0,Non-Fatal,non-fatal,False
+103091,CEN21FA220,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103091/pdf,5/17/2021,St. Louis,Michigan,United States,43.51798,-84.55103,1,0,Fatal,fatal,True
+103197,CEN21LA247,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103197/pdf,5/29/2021,Flint,Michigan,United States,42.970371,-83.74585,0,0,Non-Fatal,non-fatal,False
+103306,CEN21LA283,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103306/pdf,6/20/2021,Edwardsburg,Michigan,United States,41.7956,-86.0808,0,1,Non-Fatal,non-fatal,False
+103379,CEN21LA294,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103379/pdf,6/28/2021,Mio,Michigan,United States,44.674833,-84.122042,0,0,Non-Fatal,non-fatal,False
+103380,CEN21LA295,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103380/pdf,6/28/2021,Ray,Michigan,United States,42.738367,-82.889726,0,1,Non-Fatal,non-fatal,False
+103405,CEN21LA303,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103405/pdf,6/30/2021,Hastings,Michigan,United States,42.66739,-85.35251,0,0,Non-Fatal,non-fatal,False
+103484,CEN21LA321,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103484/pdf,7/3/2021,Charlevoix,Michigan,United States,45.388545,-85.320435,0,0,Non-Fatal,non-fatal,False
+103627,CEN21LA352,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103627/pdf,7/28/2021,Adrian,Michigan,United States,41.867674,-84.077306,0,0,Non-Fatal,non-fatal,False
+103750,CEN21LA384,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103750/pdf,8/24/2021,Lansing,Michigan,United States,42.778514,-84.564772,0,0,Non-Fatal,non-fatal,False
+103772,CEN21LA388,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103772/pdf,8/3/2021,Iron Mountain,Michigan,United States,45.818361,-88.114556,0,0,Non-Fatal,non-fatal,False
+103862,CEN21LA420,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103862/pdf,9/11/2021,Rogers City,Michigan,United States,45.407083,-83.812861,0,0,Non-Fatal,non-fatal,False
+103892,CEN21LA422,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103892/pdf,9/16/2021,Ypsilanti,Michigan,United States,42.238195,-83.538268,0,0,Non-Fatal,non-fatal,False
+103893,CEN21LA423,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103893/pdf,9/16/2021,Howell,Michigan,United States,42.638481,-84.068627,0,0,Non-Fatal,non-fatal,False
+103910,CEN21LA430,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103910/pdf,9/16/2021,Battle Creek,Michigan,United States,42.307638,-85.251317,0,0,Non-Fatal,non-fatal,False
+103911,CEN21LA431,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103911/pdf,9/15/2021,Romeo,Michigan,United States,42.796334,-82.97426,0,0,Non-Fatal,non-fatal,False
+104207,CEN22FA029,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104207/pdf,11/5/2021,Harrison,Michigan,United States,44.032792,-84.810053,1,0,Fatal,fatal,True
+104219,CEN22LA030,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104219/pdf,11/7/2021,Frankenmuth,Michigan,United States,43.313985,-83.708168,0,0,Non-Fatal,non-fatal,False
+104245,CEN22FA032,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104245/pdf,11/15/2021,Boyne City,Michigan,United States,45.204687,-84.907979,2,0,Fatal,fatal,True
+104299,CEN22LA052,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104299/pdf,11/20/2021,Marshall,Michigan,United States,42.251227,-84.956868,0,0,Non-Fatal,non-fatal,False
+104465,CEN22LA089,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104465/pdf,12/25/2021,Iron Mountain,Michigan,United States,45.845545,-88.113173,0,0,Non-Fatal,non-fatal,False

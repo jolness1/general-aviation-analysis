@@ -1,0 +1,76 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+82913,CEN12CA159,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82913/pdf,2/8/2012,Tea,South Dakota,United States,43.454166,-94.802223,0,0,Non-Fatal,non-fatal,False
+83004,CEN12LA175,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83004/pdf,2/24/2012,Rapid City,South Dakota,United States,44.038055,-102.82611,0,0,Non-Fatal,non-fatal,False
+83307,CEN12LA230,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83307/pdf,4/5/2012,Isabel,South Dakota,United States,45.267223,-101.38639,0,1,Non-Fatal,non-fatal,False
+83384,CEN12LA242,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83384/pdf,4/14/2012,Aberdeen,South Dakota,United States,45.466667,-98.476387,0,0,Non-Fatal,non-fatal,False
+83584,CEN12LA283,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83584/pdf,4/24/2012,Sioux Falls,South Dakota,United States,43.581943,-96.741943,0,0,Non-Fatal,non-fatal,False
+83738,CEN12CA313,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83738/pdf,5/23/2012,Clear Lake,South Dakota,United States,44.797222,-96.632225,0,1,Non-Fatal,non-fatal,False
+83889,CEN12LA346,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83889/pdf,6/7/2012,Clark,South Dakota,United States,44.895,-97.710556,0,0,Non-Fatal,non-fatal,False
+83928,CEN12LA357,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83928/pdf,5/23/2012,Howard,South Dakota,United States,44.029167,-97.53778,0,0,Non-Fatal,non-fatal,False
+84006,CEN12CA375,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84006/pdf,6/15/2012,Ipswich,South Dakota,United States,45.451946,-99.010002,0,0,Non-Fatal,non-fatal,False
+84732,CEN12LA557,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84732/pdf,8/14/2012,Flandreau,South Dakota,United States,44.04861,-96.714996,0,0,Non-Fatal,non-fatal,False
+84829,CEN12FA579,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84829/pdf,8/28/2012,Pierre,South Dakota,United States,44.37611,-100.284721,1,0,Fatal,fatal,True
+84833,CEN12LA580,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84833/pdf,8/25/2012,Spearfish,South Dakota,United States,44.818889,-103.988609,0,0,Non-Fatal,non-fatal,False
+85040,CEN12LA634,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85040/pdf,9/14/2012,Vermillion,South Dakota,United States,42.773887,-96.948333,1,0,Fatal,fatal,True
+85149,CEN12CA658,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85149/pdf,9/25/2012,Spearfish,South Dakota,United States,44.486946,-104.025558,0,0,Non-Fatal,non-fatal,False
+85841,CEN13CA108,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85841/pdf,12/11/2012,Okaton,South Dakota,United States,43.886112,-100.891944,0,0,Non-Fatal,non-fatal,False
+86597,CEN13LA220,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86597/pdf,4/4/2013,Spearfish,South Dakota,United States,44.480667,-103.839797,0,0,Non-Fatal,non-fatal,False
+86659,CEN13LA228,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86659/pdf,4/13/2013,Buffalo,South Dakota,United States,45.795555,-103.43,0,0,Non-Fatal,non-fatal,False
+87118,CEN13FA324,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87118/pdf,6/6/2013,Ludlow,South Dakota,United States,45.844722,-103.149444,1,0,Fatal,fatal,True
+87268,CEN13LA367,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87268/pdf,6/20/2013,De Smet,South Dakota,United States,44.385833,-97.551666,0,0,Non-Fatal,non-fatal,False
+87313,CEN13LA375,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87313/pdf,6/26/2013,Colome,South Dakota,United States,43.376667,-99.858886,0,0,Non-Fatal,non-fatal,False
+87382,CEN13LA391,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87382/pdf,7/2/2013,Ipswich,South Dakota,United States,45.455554,-99.010559,0,0,Non-Fatal,non-fatal,False
+87559,CEN13LA431,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87559/pdf,7/23/2013,Gary,South Dakota,United States,44.793056,-96.457496,0,0,Non-Fatal,non-fatal,False
+87759,CEN13CA481,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87759/pdf,8/10/2013,Humboldt,South Dakota,United States,43.628334,-97.073333,0,0,Non-Fatal,non-fatal,False
+89131,CEN14FA224,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89131/pdf,4/27/2014,Highmore,South Dakota,United States,44.369167,-99.463058,4,0,Fatal,fatal,True
+89216,CEN14CA242,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89216/pdf,4/19/2014,Huron,South Dakota,United States,44.315834,-98.27333,0,0,Non-Fatal,non-fatal,False
+89413,CEN14LA284,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89413/pdf,6/10/2014,Winner,South Dakota,United States,43.390277,-99.842224,0,0,Non-Fatal,non-fatal,False
+89530,CEN14CA317,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89530/pdf,6/19/2014,Watertown,South Dakota,United States,44.48611,-97.17028,0,1,Non-Fatal,non-fatal,False
+89752,CEN14CA392,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89752/pdf,7/25/2014,Caputa,South Dakota,United States,43.977222,-102.981666,0,0,Non-Fatal,non-fatal,False
+90197,CEN15CA001,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90197/pdf,10/1/2014,Yankton,South Dakota,United States,42.946945,-97.440002,0,0,Non-Fatal,non-fatal,False
+90228,CEN15CA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90228/pdf,10/7/2014,Glenham,South Dakota,United States,45.516109,-100.271385,0,0,Non-Fatal,non-fatal,False
+90812,CEN15CA160,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90812/pdf,2/27/2015,Marion,South Dakota,United States,43.484443,-97.241668,0,1,Non-Fatal,non-fatal,False
+91268,GAA15CA097,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91268/pdf,5/28/2015,Fort Pierre,South Dakota,United States,44.493888,-100.746109,0,0,Non-Fatal,non-fatal,False
+91331,CEN15FA264,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91331/pdf,6/8/2015,Kadoka,South Dakota,United States,43.833332,-101.497222,1,0,Fatal,fatal,True
+91350,GAA15CA117,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91350/pdf,6/9/2015,Wall,South Dakota,United States,44.106666,-102.348052,0,0,Non-Fatal,non-fatal,False
+91612,GAA15CA196,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91612/pdf,7/1/2015,Forest City,South Dakota,United States,45.000278,-100.280281,0,0,Non-Fatal,non-fatal,False
+91942,GAA15CA251,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91942/pdf,9/4/2015,Fort Pierre,South Dakota,United States,44.376667,-100.631385,0,0,Non-Fatal,non-fatal,False
+92131,CEN16LA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92131/pdf,10/5/2015,Parkston,South Dakota,United States,43.383335,-97.981666,0,2,Non-Fatal,non-fatal,False
+92206,GAA16CA022,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92206/pdf,10/19/2015,Sioux Falls,South Dakota,United States,43.576667,-96.735557,0,0,Non-Fatal,non-fatal,False
+92726,GAA16LA128,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92726/pdf,2/12/2016,Sturgis,South Dakota,United States,44.424167,-103.385002,0,1,Non-Fatal,non-fatal,False
+93282,CEN16LA201,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93282/pdf,5/27/2016,Sioux Falls,South Dakota,United States,43.582778,-96.742774,0,0,Non-Fatal,non-fatal,False
+93332,CEN16FA209,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93332/pdf,6/7/2016,De Smet,South Dakota,United States,44.285556,-97.459167,1,1,Fatal,fatal,True
+93645,CEN16LA275,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93645/pdf,7/19/2016,Huron,South Dakota,United States,44.376945,-98.197219,0,0,Non-Fatal,non-fatal,False
+93937,CEN16FA344,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93937/pdf,9/2/2016,Viborg,South Dakota,United States,43.170833,-97.300552,2,0,Fatal,fatal,True
+93988,CEN16CA364,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93988/pdf,8/30/2016,Sioux Falls,South Dakota,United States,43.594444,-96.73278,0,0,Non-Fatal,non-fatal,False
+94877,CEN17FA132,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94877/pdf,3/16/2017,Opal,South Dakota,United States,44.874168,-102.416664,1,0,Fatal,fatal,True
+95455,GAA17CA374,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95455/pdf,6/26/2017,WATERTOWN,South Dakota,United States,44.913887,-97.152221,0,0,Non-Fatal,non-fatal,False
+95554,CEN17LA265,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95554/pdf,7/9/2017,Milesville,South Dakota,United States,44.458057,-101.679168,0,0,Non-Fatal,non-fatal,False
+95718,CEN17CA294,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95718/pdf,7/26/2017,Harrold,South Dakota,United States,44.514999,-99.769721,0,0,Non-Fatal,non-fatal,False
+95921,GAA17CA513,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95921/pdf,8/30/2017,Belle Fourche,South Dakota,United States,44.734443,-103.861946,0,0,Non-Fatal,non-fatal,False
+96541,GAA18CA094,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96541/pdf,12/28/2017,Spearfish,South Dakota,United States,44.484722,-103.788055,0,0,Non-Fatal,non-fatal,False
+96890,GAA18CA166,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96890/pdf,3/12/2018,Madison,South Dakota,United States,44.012779,-97.086669,0,0,Non-Fatal,non-fatal,False
+96904,GAA18CA173,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96904/pdf,3/20/2018,Rapid City,South Dakota,United States,43.973888,-102.90361,0,0,Non-Fatal,non-fatal,False
+97824,GAA18CA429,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97824/pdf,7/19/2018,Spearfish,South Dakota,United States,44.480834,-103.783332,0,0,Non-Fatal,non-fatal,False
+97971,CEN18LA306,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97971/pdf,8/2/2018,Custer,South Dakota,United States,43.825,-103.63583,0,0,Non-Fatal,non-fatal,False
+98066,CEN18LA329,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98066/pdf,8/14/2018,Madison,South Dakota,United States,44.016387,-97.085556,0,0,Non-Fatal,non-fatal,False
+98587,CEN19FA021,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98587/pdf,11/2/2018,Bradley,South Dakota,United States,45.108612,-97.694442,1,0,Fatal,fatal,True
+98803,CEN19LA049,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98803/pdf,12/25/2018,Sioux Falls,South Dakota,United States,43.501945,-96.700836,2,0,Fatal,fatal,True
+98836,CEN19LA053,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98836/pdf,1/13/2019,Salem,South Dakota,United States,43.61861,-97.381111,1,0,Fatal,fatal,True
+99019,GAA19CA147,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99019/pdf,2/23/2019,Aberdeen,South Dakota,United States,45.534721,-98.613052,0,0,Non-Fatal,non-fatal,False
+99300,GAA19CA217,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99300/pdf,4/14/2019,Wall,South Dakota,United States,43.999443,-102.254722,0,0,Non-Fatal,non-fatal,False
+99946,CEN19LA241,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99946/pdf,7/26/2019,Mitchell,South Dakota,United States,43.774723,-98.038612,0,0,Non-Fatal,non-fatal,False
+100008,GAA19CA487,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100008/pdf,7/15/2019,Bison,South Dakota,United States,45.518333,-102.467781,0,0,Non-Fatal,non-fatal,False
+100105,GAA19CA502,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100105/pdf,8/16/2019,Onida,South Dakota,United States,44.707778,-100.061668,0,0,Non-Fatal,non-fatal,False
+100213,CEN19FA307,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100213/pdf,9/8/2019,Lakeview,South Dakota,United States,43.039443,-100.80555,2,0,Fatal,fatal,True
+100248,CEN19LA318,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100248/pdf,9/12/2019,Hill City,South Dakota,United States,43.932498,-103.58361,0,0,Non-Fatal,non-fatal,False
+100465,CEN20FA010,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100465/pdf,10/9/2019,Aberdeen,South Dakota,United States,45.561668,-98.460281,1,0,Fatal,fatal,True
+100636,CEN20FA022,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100636/pdf,11/30/2019,Chamberlain,South Dakota,United States,43.765556,-99.337219,9,3,Fatal,fatal,True
+100952,CEN20CA086,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100952/pdf,2/15/2020,Huron,South Dakota,United States,44.379722,-98.218612,0,0,Non-Fatal,non-fatal,False
+101679,CEN20LA309,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101679/pdf,7/27/2020,Corsica,South Dakota,United States,43.428333,-98.244445,1,0,Fatal,fatal,True
+101808,CEN20CA344,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101808/pdf,8/16/2020,White Owl,South Dakota,United States,44.604721,-102.38861,0,0,Non-Fatal,non-fatal,False
+101956,CEN20LA389,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101956/pdf,9/13/2020,Groton,South Dakota,United States,45.52861,-98.093055,2,0,Fatal,fatal,True
+102169,CEN21LA022,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102169/pdf,10/18/2020,Spearfish,South Dakota,United States,44.4908,-103.8594,0,0,Non-Fatal,non-fatal,False
+102397,CEN21LA082,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102397/pdf,12/8/2020,Spearfish,South Dakota,United States,44.481056,-103.786,0,0,Non-Fatal,non-fatal,False
+103461,CEN21LA316,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103461/pdf,7/11/2021,Eagle Butte,South Dakota,United States,44.989766,-101.2589,0,0,Non-Fatal,non-fatal,False
+103845,CEN21LA416,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103845/pdf,9/10/2021,Hot Springs,South Dakota,United States,43.430346,-103.47618,0,0,Non-Fatal,non-fatal,False

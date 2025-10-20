@@ -1,0 +1,64 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+83156,ERA12LA230,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83156/pdf,3/17/2012,Otisfield,Maine,United States,44.049446,-70.524719,0,1,Non-Fatal,non-fatal,False
+83183,ERA12LA241,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83183/pdf,3/20/2012,Belfast,Maine,United States,44.408889,-69.019721,0,0,Non-Fatal,non-fatal,False
+83985,ERA12LA397,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83985/pdf,6/15/2012,Biddeford,Maine,United States,43.420833,-70.505279,0,0,Non-Fatal,non-fatal,False
+84061,ERA12LA411,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84061/pdf,6/24/2012,Portland,Maine,United States,43.621112,-70.206665,1,0,Fatal,fatal,True
+84353,ERA12CA461,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84353/pdf,7/13/2012,Sanford,Maine,United States,43.389446,-70.706665,0,0,Non-Fatal,non-fatal,False
+84461,ERA12LA480,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84461/pdf,7/22/2012,Mapleton,Maine,United States,46.718055,-68.053611,0,0,Non-Fatal,non-fatal,False
+84477,ERA12CA485,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84477/pdf,7/26/2012,Houlton,Maine,United States,46.109725,-67.82994,0,0,Non-Fatal,non-fatal,False
+84601,ERA12CA499,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84601/pdf,8/7/2012,Norridgewock,Maine,United States,44.709167,-69.859725,0,0,Non-Fatal,non-fatal,False
+84653,ERA12CA502,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84653/pdf,8/9/2012,Lincoln,Maine,United States,45.361946,-68.534164,0,0,Non-Fatal,non-fatal,False
+85266,ERA13CA010,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85266/pdf,10/6/2012,Lyman,Maine,United States,43.497222,-70.63639,0,0,Non-Fatal,non-fatal,False
+85612,ERA13FA059,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85612/pdf,11/16/2012,Owls Head,Maine,United States,44.05611,-69.103332,3,0,Fatal,fatal,True
+86336,ERA13LA151,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86336/pdf,3/2/2013,Naples,Maine,United States,44.020557,-70.642219,0,0,Non-Fatal,non-fatal,False
+86745,ERA13CA216,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86745/pdf,4/28/2013,Bethel,Maine,United States,44.425277,-70.809997,0,0,Non-Fatal,non-fatal,False
+87081,ERA13CA266,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87081/pdf,5/31/2013,Millinocket,Maine,United States,45.647777,-68.685554,0,0,Non-Fatal,non-fatal,False
+87387,ERA13LA314,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87387/pdf,7/3/2013,Burnham,Maine,United States,44.672779,-69.408058,0,1,Non-Fatal,non-fatal,False
+87832,ERA13LA370,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87832/pdf,8/20/2013,Bingham,Maine,United States,45.040279,-69.868888,0,0,Non-Fatal,non-fatal,False
+87923,ERA13FA388,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87923/pdf,8/30/2013,Limington,Maine,United States,43.762779,-70.674446,1,0,Fatal,fatal,True
+88294,ERA14CA021,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88294/pdf,10/19/2013,Northeast Carry,Maine,United States,44.694328,-69.382179,0,0,Non-Fatal,non-fatal,False
+88517,ERA14CA065,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88517/pdf,11/30/2013,Portland,Maine,United States,43.645557,-70.308609,0,0,Non-Fatal,non-fatal,False
+88619,ERA14LA084,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88619/pdf,1/1/2014,Fryeburg,Maine,United States,43.988056,-70.941947,1,0,Fatal,fatal,True
+88689,ERA14TA096,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88689/pdf,1/17/2014,Houlton,Maine,United States,46.124721,-67.792221,0,0,Non-Fatal,non-fatal,False
+89031,ERA14CA188,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89031/pdf,4/6/2014,Bethel,Maine,United States,44.425277,-70.809997,0,0,Non-Fatal,non-fatal,False
+89303,ERA14CA265,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89303/pdf,5/25/2014,Harpswell,Maine,United States,43.779724,-70.015556,0,0,Non-Fatal,non-fatal,False
+89312,ERA14LA269,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89312/pdf,5/30/2014,Whitefield,Maine,United States,44.201946,-69.604446,0,0,Non-Fatal,non-fatal,False
+89646,ERA14FA337,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89646/pdf,7/12/2014,Limington,Maine,United States,43.7625,-70.677497,1,0,Fatal,fatal,True
+89843,ERA14LA378,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89843/pdf,8/10/2014,Standish,Maine,United States,43.0,-70.0,0,0,Non-Fatal,non-fatal,False
+90113,ERA14LA446,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90113/pdf,9/19/2014,Piscataquis County,Maine,United States,44.694858,-69.382583,0,0,Non-Fatal,non-fatal,False
+90586,ERA15CA095,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90586/pdf,1/7/2015,Lewiston,Maine,United States,44.157501,-70.481391,0,0,Non-Fatal,non-fatal,False
+91167,GAA15CA068,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91167/pdf,5/4/2015,Hartland,Maine,United States,44.929443,-69.519721,0,0,Non-Fatal,non-fatal,False
+91868,ERA15FA326,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91868/pdf,8/27/2015,Houlton,Maine,United States,46.100833,-67.804443,1,0,Fatal,fatal,True
+91906,ERA15LA334,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91906/pdf,8/29/2015,Dexter,Maine,United States,45.000556,-69.2425,0,1,Non-Fatal,non-fatal,False
+93005,GAA16CA191,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93005/pdf,3/30/2016,Frenchville,Maine,United States,47.285556,-68.312774,0,0,Non-Fatal,non-fatal,False
+93577,ERA16LA247,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93577/pdf,7/9/2016,West Pittsfield,Maine,United States,44.694652,-69.382057,0,0,Non-Fatal,non-fatal,False
+93905,ERA16CA303,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93905/pdf,7/1/2016,Augusta,Maine,United States,44.320556,-69.797225,0,0,Non-Fatal,non-fatal,False
+93918,ERA16CA304,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93918/pdf,8/27/2016,Livermore Falls,Maine,United States,44.0,-70.0,0,0,Non-Fatal,non-fatal,False
+94266,GAA17CA036,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94266/pdf,10/20/2016,Carrabassett,Maine,United States,45.0825,-70.21389,0,0,Non-Fatal,non-fatal,False
+94353,ERA17CA039,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94353/pdf,11/8/2016,Houlton,Maine,United States,46.115276,-67.800834,0,0,Non-Fatal,non-fatal,False
+94829,GAA17CA175,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94829/pdf,3/2/2017,Greenville,Maine,United States,45.462776,-69.551666,0,0,Non-Fatal,non-fatal,False
+95236,GAA17CA304,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95236/pdf,5/23/2017,Sidney,Maine,United States,44.472778,-69.736114,0,0,Non-Fatal,non-fatal,False
+95619,ERA17LA252,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95619/pdf,7/16/2017,Naples,Maine,United States,43.953887,-70.587501,0,0,Non-Fatal,non-fatal,False
+95938,ERA17LA307,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95938/pdf,9/1/2017,Harpswell,Maine,United States,43.819999,-69.919998,0,0,Non-Fatal,non-fatal,False
+96015,ERA17LA325,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96015/pdf,9/14/2017,Machias,Maine,United States,44.703056,-67.478614,0,0,Non-Fatal,non-fatal,False
+96617,GAA18CA105,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96617/pdf,12/17/2017,Wiscassett,Maine,United States,44.693599,-69.38134,0,0,Non-Fatal,non-fatal,False
+97743,ERA18LA190,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97743/pdf,7/11/2018,Passadumkeag,Maine,United States,45.186389,-68.568885,0,0,Non-Fatal,non-fatal,False
+98138,ERA18LA228,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98138/pdf,8/22/2018,Pittsfield,Maine,United States,44.758609,-69.370002,0,1,Non-Fatal,non-fatal,False
+98256,GAA18CA538,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98256/pdf,9/6/2018,Carrabassett Valley,Maine,United States,45.133335,-70.333335,0,0,Non-Fatal,non-fatal,False
+99282,GAA19CA213,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99282/pdf,4/14/2019,Bangor,Maine,United States,44.808055,-68.829444,0,0,Non-Fatal,non-fatal,False
+99283,GAA19CA214,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99283/pdf,4/14/2019,Limington,Maine,United States,43.763053,-70.6725,0,0,Non-Fatal,non-fatal,False
+99575,GAA19CA320,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99575/pdf,6/7/2019,Ashland,Maine,United States,46.661109,-68.389442,0,0,Non-Fatal,non-fatal,False
+99647,GAA19CA350,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99647/pdf,6/7/2019,Nowdoinham,Maine,United States,44.694465,-69.382247,0,0,Non-Fatal,non-fatal,False
+99768,CEN19LA204,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99768/pdf,6/22/2019,Bar Harbor,Maine,United States,44.379249,-68.209838,0,0,Non-Fatal,non-fatal,False
+99785,GAA19CA407,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99785/pdf,7/3/2019,Montville,Maine,United States,44.43861,-69.26667,0,0,Non-Fatal,non-fatal,False
+99866,GAA19CA425,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99866/pdf,7/16/2019,Brownville,Maine,United States,45.336112,-69.050834,0,0,Non-Fatal,non-fatal,False
+100153,GAA19CA513,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100153/pdf,8/22/2019,Rangeley Lake,Maine,United States,44.693206,-69.381057,0,0,Non-Fatal,non-fatal,False
+100346,ERA19LA287,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100346/pdf,9/28/2019,Sanford,Maine,United States,43.39389,-70.708053,0,1,Non-Fatal,non-fatal,False
+101599,ERA20CA250,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101599/pdf,7/9/2020,Auburn,Maine,United States,44.04861,-70.283607,0,0,Non-Fatal,non-fatal,False
+101710,ERA20CA268,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101710/pdf,7/18/2020,Linconville,Maine,United States,44.69429,-69.381042,0,0,Non-Fatal,non-fatal,False
+101750,ERA20LA277,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101750/pdf,8/5/2020,St. Agatha,Maine,United States,44.693504,-69.381858,0,0,Non-Fatal,non-fatal,False
+101813,ERA20LA289,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101813/pdf,8/17/2020,Surry,Maine,United States,44.431667,-68.480003,0,0,Non-Fatal,non-fatal,False
+102412,ERA21LA074,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102412/pdf,12/11/2020,Dexter,Maine,United States,45.004508,-69.237437,0,0,Non-Fatal,non-fatal,False
+102743,ERA21LA151,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102743/pdf,3/9/2021,Augusta,Maine,United States,44.315015,-69.794812,0,0,Non-Fatal,non-fatal,False
+103097,ERA21LA220,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103097/pdf,5/10/2021,Brunswick,Maine,United States,43.892355,-69.93883,0,0,Non-Fatal,non-fatal,False
+103238,ERA21LA244,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103238/pdf,6/5/2021,Sanford,Maine,United States,43.393806,-70.708,0,0,Non-Fatal,non-fatal,False

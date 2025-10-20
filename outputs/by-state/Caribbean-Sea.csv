@@ -1,0 +1,2 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+102634,ERA21FA130,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102634/pdf,2/15/2021,St Thomas,Caribbean Sea,United States,18.354444,-65.027778,4,0,Fatal,fatal,True

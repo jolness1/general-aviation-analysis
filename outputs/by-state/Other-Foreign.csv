@@ -1,0 +1,26 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+96757,WPR18LA092,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96757/pdf,2/19/2018,Obyan,Other Foreign,Northern Mariana Islands,15.114722,145.716659,0,0,Non-Fatal,non-fatal,False
+98725,WPR19LA035,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98725/pdf,12/2/2018,Santa Rita ,Other Foreign,United States,13.419444,144.63861,0,0,Non-Fatal,non-fatal,False
+99081,CEN19WA096,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99081/pdf,3/10/2019,Escuintla,Other Foreign,United States,14.38,-90.82,2,0,Fatal,fatal,True
+99451,CEN19RA145,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99451/pdf,5/18/2019,Roatán,Other Foreign,Honduras,16.322219,-86.504322,5,0,Fatal,fatal,True
+102198,WPR21WA026,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102198/pdf,10/22/2020,Limpopo Province,Other Foreign,South Africa,,,0,0,Non-Fatal,non-fatal,False
+102333,WPR21WA062,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102333/pdf,11/18/2020,Katale,Other Foreign,South Africa,,,1,0,Fatal,fatal,True
+102439,CEN21WA093,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102439/pdf,10/30/2020,Toussus-le-Noble,Other Foreign,France,48.75018,2.11282,0,0,Non-Fatal,non-fatal,False
+102655,GAA21WA025,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102655/pdf,2/20/2021,Cat Cay,Other Foreign,Bahamas,,,0,0,Non-Fatal,non-fatal,False
+102656,GAA21WA026,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102656/pdf,2/2/2021,Toulouse,Other Foreign,France,43.601839,1.44961,0,0,Non-Fatal,non-fatal,False
+102660,GAA21WA027,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102660/pdf,2/20/2021,Ilopango,Other Foreign,El Salvador,,,3,1,Fatal,fatal,True
+102926,GAA21WA074,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102926/pdf,4/15/2021,Epse,Other Foreign,Netherlands,52.206823,6.19183,0,0,Non-Fatal,non-fatal,False
+102932,GAA21WA076,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102932/pdf,4/16/2021,South Bimini,Other Foreign,United States,25.699978,-79.265136,1,1,Fatal,fatal,True
+102983,GAA21WA090,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102983/pdf,4/26/2021,Buckinghamshire,Other Foreign,United Kingdom,,,0,0,Non-Fatal,non-fatal,False
+103193,GAA21WA131,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103193/pdf,5/28/2021,Essex,Other Foreign,United Kingdom,,,0,0,Non-Fatal,non-fatal,False
+103419,GAA21WA163,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103419/pdf,7/2/2021,Leogane,Other Foreign,Haiti,18.48192,-72.467901,6,0,Fatal,fatal,True
+103425,GAA21WA165,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103425/pdf,7/5/2021,Treasure Cay,Other Foreign,Bahamas,26.745342,-77.391272,2,0,Fatal,fatal,True
+103813,GAA21WA218,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103813/pdf,9/4/2021,"Sandbanks, Poole, Dorset",Other Foreign,United Kingdom,,,0,0,Non-Fatal,non-fatal,False
+103988,CEN20WA441,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103988/pdf,2/23/2020,les Charots,Other Foreign,France,,,2,0,Fatal,fatal,True
+104001,GAA21WA242,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104001/pdf,9/28/2021,Tököl,Other Foreign,Hungary,,,0,0,Non-Fatal,non-fatal,False
+104250,GAA22WA029,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104250/pdf,11/11/2021,Dornbirn,Other Foreign,Austria,,,1,0,Fatal,fatal,True
+104271,GAA22WA031,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104271/pdf,11/14/2021,Worms,Other Foreign,Germany,,,0,0,Non-Fatal,non-fatal,False
+104403,GAA22WA047,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104403/pdf,12/8/2021,La Aurora,Other Foreign,Guatemala,14.584591,-90.526594,0,0,Non-Fatal,non-fatal,False
+104411,ERA22LA088,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104411/pdf,11/21/2021,Atlantic Ocean,Other Foreign,Turks And Caicos Islands,22.228,-71.523,0,1,Non-Fatal,non-fatal,False
+104439,GAA22WA054,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104439/pdf,12/21/2021,Auxerre,Other Foreign,France,47.8464,-3.49667,1,0,Fatal,fatal,True
+104560,GAA22WA082,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104560/pdf,11/25/2021,Monterrey Nuevo Leon,Other Foreign,Mexico,,,1,1,Fatal,fatal,True

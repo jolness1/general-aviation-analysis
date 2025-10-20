@@ -1,0 +1,111 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+82909,WPR12GA106,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82909/pdf,2/15/2012,Moran Junction,Wyoming,United States,43.726112,-110.199722,1,2,Fatal,fatal,True
+82927,WPR12LA110,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82927/pdf,2/18/2012,Rawlins,Wyoming,United States,41.821666,-107.213607,0,0,Non-Fatal,non-fatal,False
+83324,WPR12LA161,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83324/pdf,4/7/2012,Casper,Wyoming,United States,43.033611,-106.583053,0,0,Non-Fatal,non-fatal,False
+83381,WPR12FA164,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83381/pdf,4/12/2012,Green River,Wyoming,United States,41.336112,-109.821388,1,0,Fatal,fatal,True
+83830,WPR12CA242,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83830/pdf,6/3/2012,Riverton,Wyoming,United States,43.123889,-108.323333,0,0,Non-Fatal,non-fatal,False
+83913,WPR12LA256,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83913/pdf,6/11/2012,Riverton,Wyoming,United States,43.049999,-108.449996,0,0,Non-Fatal,non-fatal,False
+84263,WPR12LA301,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84263/pdf,7/10/2012,Cheyenne,Wyoming,United States,41.171943,-105.036666,0,1,Non-Fatal,non-fatal,False
+84361,WPR12LA309,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84361/pdf,6/22/2012,Rock Springs,Wyoming,United States,41.596942,-109.065002,0,0,Non-Fatal,non-fatal,False
+84413,WPR12CA319,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84413/pdf,7/22/2012,Jackson Hole,Wyoming,United States,43.607223,-110.737777,0,0,Non-Fatal,non-fatal,False
+84562,WPR12LA341,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84562/pdf,7/31/2012,Cody,Wyoming,United States,44.417221,-109.138053,0,0,Non-Fatal,non-fatal,False
+84892,WPR12LA392,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84892/pdf,8/30/2012,Kemmerer,Wyoming,United States,41.82389,-110.556663,0,0,Non-Fatal,non-fatal,False
+85113,WPR12FA432,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85113/pdf,9/21/2012,Laramie,Wyoming,United States,41.321666,-105.661666,1,0,Fatal,fatal,True
+85308,WPR13FA008,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85308/pdf,10/9/2012,Laramie Peak,Wyoming,United States,42.263889,-105.44889,4,0,Fatal,fatal,True
+85591,WPR13CA040,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85591/pdf,11/2/2012,Casper,Wyoming,United States,42.904724,-106.45861,0,0,Non-Fatal,non-fatal,False
+85655,WPR13FA053,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85655/pdf,11/17/2012,Bondurant,Wyoming,United States,43.008609,-110.563331,1,0,Fatal,fatal,True
+85788,WPR13CA067,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85788/pdf,12/11/2012,Rawlins,Wyoming,United States,41.805557,-107.200279,0,0,Non-Fatal,non-fatal,False
+86049,WPR13LA094,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86049/pdf,1/18/2013,Rock Springs,Wyoming,United States,41.589721,-109.058891,0,0,Non-Fatal,non-fatal,False
+86157,WPR13CA114,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86157/pdf,2/1/2013,Worland,Wyoming,United States,43.95,-107.949996,0,0,Non-Fatal,non-fatal,False
+86274,WPR13LA132,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86274/pdf,2/17/2013,Casper,Wyoming,United States,42.904724,-106.45861,0,0,Non-Fatal,non-fatal,False
+86354,WPR13FA138,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86354/pdf,3/3/2013,Saratoga,Wyoming,United States,41.5125,-106.570274,1,0,Fatal,fatal,True
+86859,WPR13CA225,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86859/pdf,5/10/2013,Newcastle,Wyoming,United States,45.879444,-104.309448,0,0,Non-Fatal,non-fatal,False
+86903,WPR13LA230,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86903/pdf,5/15/2013,Pine Bluffs,Wyoming,United States,41.150276,-104.168891,0,0,Non-Fatal,non-fatal,False
+86996,WPR13CA242,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86996/pdf,5/25/2013,Alpine,Wyoming,United States,43.184165,-111.038887,0,0,Non-Fatal,non-fatal,False
+87026,WPR13LA248,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87026/pdf,5/24/2013,Wheatland,Wyoming,United States,42.053054,-105.010276,0,0,Non-Fatal,non-fatal,False
+87116,WPR13CA263,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87116/pdf,6/6/2013,Sheridan,Wyoming,United States,44.769165,-106.980278,0,0,Non-Fatal,non-fatal,False
+87271,WPR13CA282,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87271/pdf,6/23/2013,Rawlins,Wyoming,United States,41.805557,-107.199996,0,0,Non-Fatal,non-fatal,False
+87326,WPR13CA297,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87326/pdf,6/28/2013,Jackson,Wyoming,United States,43.333332,-110.666664,0,0,Non-Fatal,non-fatal,False
+87827,WPR13CA381,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87827/pdf,8/20/2013,Meeteetse,Wyoming,United States,43.8875,-109.32611,0,0,Non-Fatal,non-fatal,False
+88029,WPR13FA405,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88029/pdf,9/11/2013,Jackson Hole,Wyoming,United States,43.590557,-110.743331,2,0,Fatal,fatal,True
+88189,WPR14CA013,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88189/pdf,10/11/2013,Cody,Wyoming,United States,44.75,-110.183334,0,1,Non-Fatal,non-fatal,False
+88408,WPR14CA047,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88408/pdf,11/9/2013,LaGrange,Wyoming,United States,41.286109,-104.459724,0,0,Non-Fatal,non-fatal,False
+88984,WPR14CA152,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88984/pdf,3/30/2014,Wheatland,Wyoming,United States,42.053054,-104.923889,0,0,Non-Fatal,non-fatal,False
+89197,WPR14FA188,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89197/pdf,5/6/2014,Cody,Wyoming,United States,44.398612,-109.901947,2,0,Fatal,fatal,True
+89410,WPR14LA240,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89410/pdf,5/5/2014,Rock Springs,Wyoming,United States,41.594165,-109.065277,0,0,Non-Fatal,non-fatal,False
+89448,WPR14CA247,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89448/pdf,6/16/2014,Casper,Wyoming,United States,42.905277,-106.459724,0,0,Non-Fatal,non-fatal,False
+89781,WPR14LA323,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89781/pdf,8/1/2014,Fort Bridger,Wyoming,United States,41.393333,-110.40583,0,0,Non-Fatal,non-fatal,False
+89845,WPR14CA339,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89845/pdf,8/8/2014,LYSITE,Wyoming,United States,43.340278,-107.686943,0,0,Non-Fatal,non-fatal,False
+89871,WPR14CA344,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89871/pdf,8/13/2014,PINE BLUFFS,Wyoming,United States,41.152221,-104.134719,0,0,Non-Fatal,non-fatal,False
+90112,WPR14FA382,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90112/pdf,9/20/2014,Saratoga,Wyoming,United States,41.43222,-106.841392,2,0,Fatal,fatal,True
+90482,WPR15CA057,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90482/pdf,12/9/2014,Jeffrey,Wyoming,United States,42.532222,-107.934722,0,0,Non-Fatal,non-fatal,False
+90486,WPR15LA058,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90486/pdf,12/10/2014,Sheridan,Wyoming,United States,44.723331,-106.978614,0,0,Non-Fatal,non-fatal,False
+90953,GAA15LA025,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90953/pdf,3/27/2015,Pinedale,Wyoming,United States,42.586387,-109.561386,0,1,Non-Fatal,non-fatal,False
+91296,CEN15LA250,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91296/pdf,5/27/2015,Pine Bluffs,Wyoming,United States,41.180458,-104.059898,0,0,Non-Fatal,non-fatal,False
+91458,CEN15LA284,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91458/pdf,6/27/2015,Casper,Wyoming,United States,42.907222,-106.48722,0,3,Non-Fatal,non-fatal,False
+91519,GAA15CA168,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91519/pdf,7/1/2015,Saratoga,Wyoming,United States,41.445835,-106.820831,0,0,Non-Fatal,non-fatal,False
+91584,CEN15FA307,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91584/pdf,7/18/2015,Cody,Wyoming,United States,44.605834,-109.419166,4,0,Fatal,fatal,True
+91600,CEN15FA310,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91600/pdf,7/21/2015,Auburn,Wyoming,United States,42.794445,-111.01361,2,0,Fatal,fatal,True
+91643,CEN15LA319,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91643/pdf,7/22/2015,Rozet,Wyoming,United States,44.278331,-105.205558,0,0,Non-Fatal,non-fatal,False
+91883,CEN15LA387,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91883/pdf,8/28/2015,Cheyenne,Wyoming,United States,41.097221,-104.827224,0,3,Non-Fatal,non-fatal,False
+91967,CEN15LA407,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91967/pdf,9/11/2015,Laramie,Wyoming,United States,41.26472,-105.474998,0,1,Non-Fatal,non-fatal,False
+92001,GAA15CA264,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92001/pdf,9/18/2015,Rock Springs,Wyoming,United States,41.592777,-109.055831,0,0,Non-Fatal,non-fatal,False
+92096,GAA15CA291,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92096/pdf,9/30/2015,Kemmerer,Wyoming,United States,41.822223,-110.557502,0,0,Non-Fatal,non-fatal,False
+92180,CEN16LA019,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92180/pdf,10/9/2015,Sheridan,Wyoming,United States,44.769165,-106.980278,0,1,Non-Fatal,non-fatal,False
+92522,WPR16FA046,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92522/pdf,1/4/2016,Alpine,Wyoming,United States,43.204444,-111.071945,2,0,Fatal,fatal,True
+92833,WPR16FA084,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92833/pdf,3/13/2016,Alpine,Wyoming,United States,43.190277,-111.064445,4,0,Fatal,fatal,True
+93528,GAA16CA354,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93528/pdf,6/30/2016,Saratoga,Wyoming,United States,41.443611,-106.827499,0,0,Non-Fatal,non-fatal,False
+93563,CEN16LA256,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93563/pdf,7/7/2016,Cheyenne,Wyoming,United States,41.159442,-104.817497,0,0,Non-Fatal,non-fatal,False
+93876,CEN16LA330,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93876/pdf,8/23/2016,Cokeville,Wyoming,United States,42.066944,-110.946945,0,0,Non-Fatal,non-fatal,False
+94197,GAA17CA019,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94197/pdf,10/6/2016,Hanna,Wyoming,United States,42.116664,-106.716667,0,0,Non-Fatal,non-fatal,False
+94267,CEN17LA025,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94267/pdf,10/23/2016,Buffalo,Wyoming,United States,44.385555,-106.620552,0,1,Non-Fatal,non-fatal,False
+94341,CEN17FA035,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94341/pdf,11/5/2016,Dubois,Wyoming,United States,43.553611,-109.70861,1,0,Fatal,fatal,True
+94472,CEN17FA050,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94472/pdf,12/7/2016,Basin,Wyoming,United States,44.321945,-108.336387,1,1,Fatal,fatal,True
+94552,CEN17LA065,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94552/pdf,12/23/2016,Cody,Wyoming,United States,44.527221,-109.010833,0,0,Non-Fatal,non-fatal,False
+94728,GAA17CA141,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94728/pdf,2/13/2017,Wheatland,Wyoming,United States,42.055831,-104.92472,0,0,Non-Fatal,non-fatal,False
+94885,GAA17CA192,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94885/pdf,3/7/2017,Laramie,Wyoming,United States,41.313331,-105.672775,0,0,Non-Fatal,non-fatal,False
+95085,GAA17CA251,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95085/pdf,4/30/2017,Wheatland,Wyoming,United States,42.077499,-105.057777,0,0,Non-Fatal,non-fatal,False
+95336,CEN17LA219,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95336/pdf,6/9/2017,Douglas,Wyoming,United States,42.836666,-105.409721,0,1,Non-Fatal,non-fatal,False
+95539,GAA17CA400,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95539/pdf,7/7/2017,Kemmerer,Wyoming,United States,41.815834,-110.555831,0,0,Non-Fatal,non-fatal,False
+95665,GAA17CA437,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95665/pdf,7/24/2017,Powell,Wyoming,United States,44.872776,-108.795829,0,0,Non-Fatal,non-fatal,False
+95905,GAA17CA512,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95905/pdf,8/27/2017,Cody,Wyoming,United States,44.520278,-109.023887,0,0,Non-Fatal,non-fatal,False
+95944,GAA17CA518,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95944/pdf,9/2/2017,Afton,Wyoming,United States,42.702499,-110.942779,0,0,Non-Fatal,non-fatal,False
+96026,CEN17LA356,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96026/pdf,9/12/2017,Worland,Wyoming,United States,43.962776,-107.950553,0,0,Non-Fatal,non-fatal,False
+96336,CEN18LA032,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96336/pdf,11/15/2017,Rock Springs,Wyoming,United States,41.601943,-109.118057,0,2,Non-Fatal,non-fatal,False
+96485,CEN18LA052,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96485/pdf,12/24/2017,Riverton,Wyoming,United States,43.064167,-108.459724,0,0,Non-Fatal,non-fatal,False
+96753,CEN18FA101,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96753/pdf,2/18/2018,Evanston,Wyoming,United States,41.288055,-110.981941,2,0,Fatal,fatal,True
+97272,CEN18LA178,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97272/pdf,5/16/2018,Jackson,Wyoming,United States,43.288887,-110.65305,0,0,Non-Fatal,non-fatal,False
+97419,GAA18CA330,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97419/pdf,5/31/2018,Evanston,Wyoming,United States,41.254165,-110.999725,0,0,Non-Fatal,non-fatal,False
+97436,CEN18FA217,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97436/pdf,6/9/2018,Moose,Wyoming,United States,43.724723,-110.819168,2,0,Fatal,fatal,True
+97441,CEN18LA219,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97441/pdf,6/11/2018,Cokeville,Wyoming,United States,42.082778,-110.955276,0,0,Non-Fatal,non-fatal,False
+97481,CEN18LA225,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97481/pdf,6/14/2018,Cheyenne,Wyoming,United States,41.154445,-104.785003,0,0,Non-Fatal,non-fatal,False
+97611,GAA18CA379,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97611/pdf,6/11/2018,Douglas,Wyoming,United States,42.74472,-105.403335,0,0,Non-Fatal,non-fatal,False
+97969,GAA18CA462,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97969/pdf,7/29/2018,Evanston,Wyoming,United States,41.274723,-111.034721,0,0,Non-Fatal,non-fatal,False
+98164,WPR18LA241,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98164/pdf,8/13/2018,Afton,Wyoming,United States,43.283332,-111.51667,0,3,Non-Fatal,non-fatal,False
+98254,CEN18LA373,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98254/pdf,9/6/2018,Laramie,Wyoming,United States,41.311943,-105.675,0,0,Non-Fatal,non-fatal,False
+98582,GAA19CA044,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98582/pdf,10/26/2018,Laramie,Wyoming,United States,41.320278,-105.67028,0,0,Non-Fatal,non-fatal,False
+98667,WPR19LA029,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98667/pdf,11/19/2018,Casper,Wyoming,United States,42.905834,-106.459999,0,0,Non-Fatal,non-fatal,False
+99026,WPR19LA088,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99026/pdf,2/10/2019,Laramie,Wyoming,United States,41.287498,-105.60749,0,0,Non-Fatal,non-fatal,False
+99193,GAA19CA184,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99193/pdf,3/31/2019,Afton,Wyoming,United States,42.708889,-110.942222,0,0,Non-Fatal,non-fatal,False
+99494,GAA19CA285,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99494/pdf,5/25/2019,Cody,Wyoming,United States,44.520278,-109.023887,0,0,Non-Fatal,non-fatal,False
+99764,GAA19CA384,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99764/pdf,7/1/2019,Cheyenne,Wyoming,United States,41.154998,-104.795555,0,0,Non-Fatal,non-fatal,False
+99797,GAA19CA394,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99797/pdf,7/4/2019,Casper,Wyoming,United States,42.89611,-106.471389,0,0,Non-Fatal,non-fatal,False
+99801,GAA19CA395,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99801/pdf,6/27/2019,Gillette,Wyoming,United States,44.348888,-105.337501,0,0,Non-Fatal,non-fatal,False
+99880,GAA19CA433,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99880/pdf,7/18/2019,Laramie,Wyoming,United States,41.311943,-105.675003,0,0,Non-Fatal,non-fatal,False
+100201,GAA19CA526,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100201/pdf,9/5/2019,Glendo,Wyoming,United States,42.52,-105.019996,0,0,Non-Fatal,non-fatal,False
+100206,CEN19FA305,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100206/pdf,9/7/2019,Carpenter,Wyoming,United States,41.029998,-104.24639,1,0,Fatal,fatal,True
+100351,GAA19CA575,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100351/pdf,9/26/2019,Lander,Wyoming,United States,42.815277,-108.728614,0,0,Non-Fatal,non-fatal,False
+100754,WPR20LA054,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100754/pdf,12/30/2019,Big Piney,Wyoming,United States,42.582221,-110.108886,0,0,Non-Fatal,non-fatal,False
+101078,WPR20LA110,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101078/pdf,3/16/2020,Pinedale,Wyoming,United States,42.796943,-109.810554,0,1,Non-Fatal,non-fatal,False
+101329,WPR20CA154,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101329/pdf,5/25/2020,Spotted Horse,Wyoming,United States,44.740001,-105.949996,0,0,Non-Fatal,non-fatal,False
+101398,WPR20LA170,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101398/pdf,6/7/2020,Lander,Wyoming,United States,42.704723,-108.882499,1,1,Fatal,fatal,True
+101772,WPR20CA262,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101772/pdf,8/3/2020,Jackson,Wyoming,United States,43.5875,-110.8279,0,1,Non-Fatal,non-fatal,False
+101773,WPR20CA263,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101773/pdf,8/3/2020,Jackson,Wyoming,United States,43.587501,-110.8279,0,2,Non-Fatal,non-fatal,False
+101780,WPR20CA266,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101780/pdf,8/10/2020,Grover,Wyoming,United States,42.800556,-110.95777,0,1,Non-Fatal,non-fatal,False
+101783,WPR20CA267,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101783/pdf,8/3/2020,Jackson,Wyoming,United States,43.587501,-110.82777,0,1,Non-Fatal,non-fatal,False
+101939,WPR20LA301,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101939/pdf,8/25/2020,Rawlins,Wyoming,United States,41.805831,-107.20027,1,2,Fatal,fatal,True
+102192,WPR21LA024,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102192/pdf,10/21/2020,Rock Springs,Wyoming,United States,41.596475,-109.06877,0,0,Non-Fatal,non-fatal,False
+102614,WPR21LA108,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102614/pdf,2/7/2021,Saratoga,Wyoming,United States,42.1,-107.58,0,0,Non-Fatal,non-fatal,False
+103410,WPR21LA259,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103410/pdf,7/4/2021,Lander,Wyoming,United States,42.815385,-108.72856,0,0,Non-Fatal,non-fatal,False
+103754,WPR21LA327,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103754/pdf,5/6/2021,Buffalo,Wyoming,United States,44.381083,-106.7218,0,0,Non-Fatal,non-fatal,False
+103877,WPR21LA345,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103877/pdf,7/24/2021,Rock Springs,Wyoming,United States,41.594222,-109.06519,0,0,Non-Fatal,non-fatal,False

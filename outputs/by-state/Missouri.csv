@@ -1,0 +1,224 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+82808,CEN12LA147,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82808/pdf,2/2/2012,Kansas City,Missouri,United States,39.149028,-94.57949,0,0,Non-Fatal,non-fatal,False
+82901,CEN12FA158,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82901/pdf,2/14/2012,Osborn,Missouri,United States,39.701389,-94.400833,2,0,Fatal,fatal,True
+83127,CEN12LA187,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83127/pdf,3/13/2012,Kimberling,Missouri,United States,36.605834,-93.440002,1,0,Fatal,fatal,True
+83154,CEN12FA188,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83154/pdf,3/18/2012,Mexico,Missouri,United States,39.154445,-91.817497,1,1,Fatal,fatal,True
+83174,CEN12CA193,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83174/pdf,3/17/2012,Branson,Missouri,United States,36.625831,-93.229164,0,0,Non-Fatal,non-fatal,False
+83571,CEN12CA279,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83571/pdf,5/5/2012,Hallsville,Missouri,United States,39.185554,-92.462776,0,0,Non-Fatal,non-fatal,False
+83629,CEN12CA293,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83629/pdf,4/9/2012,Lee's Summit,Missouri,United States,38.959445,-94.371109,0,0,Non-Fatal,non-fatal,False
+83914,CEN12LA353,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83914/pdf,5/26/2012,Chesterfield,Missouri,United States,38.662223,-90.651947,0,0,Non-Fatal,non-fatal,False
+83938,CEN12LA362,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83938/pdf,6/12/2012,Mt. Vernon,Missouri,United States,36.957221,-93.690551,0,1,Non-Fatal,non-fatal,False
+83940,CEN12CA361,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83940/pdf,6/10/2012,Moscow Mills,Missouri,United States,38.901668,-90.960281,0,0,Non-Fatal,non-fatal,False
+84073,CEN12CA391,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84073/pdf,6/23/2012,Mexico,Missouri,United States,39.207778,-91.935279,0,0,Non-Fatal,non-fatal,False
+84106,CEN12CA399,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84106/pdf,6/21/2012,Point Lookout,Missouri,United States,36.62611,-93.228889,0,0,Non-Fatal,non-fatal,False
+84316,CEN12LA440,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84316/pdf,7/13/2012,Darksville,Missouri,United States,39.541942,-92.587776,1,0,Fatal,fatal,True
+84352,CEN12CA450,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84352/pdf,7/14/2012,Camdenton,Missouri,United States,37.973888,-92.691108,0,0,Non-Fatal,non-fatal,False
+84560,CEN12LA512,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84560/pdf,7/29/2012,Bragg City,Missouri,United States,36.266944,-89.910003,0,0,Non-Fatal,non-fatal,False
+84729,CEN12CA555,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84729/pdf,8/15/2012,Dexter,Missouri,United States,36.775276,-89.941108,0,0,Non-Fatal,non-fatal,False
+84836,CEN12LA583,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84836/pdf,8/24/2012,Arrow Rock,Missouri,United States,39.068332,-92.945831,0,0,Non-Fatal,non-fatal,False
+84850,CEN12FA586,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84850/pdf,8/29/2012,Canton,Missouri,United States,40.095832,-91.553337,2,0,Fatal,fatal,True
+84961,CEN12CA613,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84961/pdf,8/7/2012,Washington,Missouri,United States,38.590278,-90.991111,0,0,Non-Fatal,non-fatal,False
+85001,CEN12LA622,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85001/pdf,9/6/2012,Jasper,Missouri,United States,37.336112,-94.301109,0,0,Non-Fatal,non-fatal,False
+85024,CEN12LA630,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85024/pdf,9/11/2012,Eldon,Missouri,United States,38.361667,-92.571388,0,0,Non-Fatal,non-fatal,False
+85037,CEN12FA633,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85037/pdf,9/15/2012,Willard,Missouri,United States,37.341945,-93.466941,5,0,Fatal,fatal,True
+85049,CEN12LA636,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85049/pdf,9/16/2012,Cameron,Missouri,United States,39.722221,-94.275558,1,0,Fatal,fatal,True
+85051,CEN12LA637,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85051/pdf,8/11/2012,Ste. Genevieve,Missouri,United States,37.970218,-90.04026,0,0,Non-Fatal,non-fatal,False
+85078,CEN12LA642,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85078/pdf,8/19/2012,Greenfield,Missouri,United States,37.468055,-93.929443,0,0,Non-Fatal,non-fatal,False
+85092,CEN12LA645,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85092/pdf,9/19/2012,Branson,Missouri,United States,36.625278,-93.224998,0,0,Non-Fatal,non-fatal,False
+85143,CEN12CA656,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85143/pdf,9/13/2012,Cape Girardeau,Missouri,United States,37.225276,-89.570831,0,0,Non-Fatal,non-fatal,False
+85427,CEN13FA030,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85427/pdf,10/24/2012,Maryland Heights,Missouri,United States,38.773612,-90.492774,2,0,Fatal,fatal,True
+85506,CEN13FA044,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85506/pdf,11/4/2012,Stotts City,Missouri,United States,37.123054,-94.040275,2,0,Fatal,fatal,True
+85685,CEN13CA077,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85685/pdf,11/24/2012,Grain Valley,Missouri,United States,39.014446,-94.214721,0,0,Non-Fatal,non-fatal,False
+85755,CEN13LA091,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85755/pdf,12/5/2012,Halfway,Missouri,United States,37.616664,-93.239997,0,0,Non-Fatal,non-fatal,False
+86723,CEN13LA239,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86723/pdf,4/24/2013,Bowling Green,Missouri,United States,39.36972,-91.219169,0,0,Non-Fatal,non-fatal,False
+86794,CEN13LA252,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86794/pdf,5/1/2013,Saint Louis,Missouri,United States,38.662223,-90.651947,0,0,Non-Fatal,non-fatal,False
+86826,CEN13FA259,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86826/pdf,5/5/2013,Lamar,Missouri,United States,37.496944,-94.311668,1,0,Fatal,fatal,True
+86852,CEN13CA268,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86852/pdf,5/2/2013,Gainesville,Missouri,United States,36.672222,-92.484443,0,0,Non-Fatal,non-fatal,False
+86910,CEN13CA281,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86910/pdf,5/15/2013,Camdenton,Missouri,United States,38.000934,-92.740814,0,0,Non-Fatal,non-fatal,False
+86992,CEN13LA378,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86992/pdf,5/23/2013,St Louis,Missouri,United States,38.75111,-90.371391,0,0,Non-Fatal,non-fatal,False
+86995,CEN13FA295,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86995/pdf,5/24/2013,Cross Timbers,Missouri,United States,38.039165,-93.288055,2,0,Fatal,fatal,True
+87155,CEN13LA339,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87155/pdf,6/10/2013,Festus,Missouri,United States,38.158054,-90.402496,0,2,Non-Fatal,non-fatal,False
+87337,CEN13LA379,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87337/pdf,6/28/2013,Salisbury,Missouri,United States,38.941387,-92.676109,0,0,Non-Fatal,non-fatal,False
+87354,CEN13CA386,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87354/pdf,6/30/2013,Climax Springs,Missouri,United States,38.11639,-93.076942,0,0,Non-Fatal,non-fatal,False
+87401,CEN13LA396,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87401/pdf,6/28/2013,Lake Ozark,Missouri,United States,38.180973,-92.620956,0,0,Non-Fatal,non-fatal,False
+87653,CEN13FA456,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87653/pdf,8/3/2013,Chesterfield,Missouri,United States,38.660556,-90.681663,2,0,Fatal,fatal,True
+87813,CEN13FA496,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87813/pdf,8/18/2013,Kansas City,Missouri,United States,39.150463,-94.579025,2,0,Fatal,fatal,True
+87947,CEN13LA520,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87947/pdf,6/30/2013,Boonville,Missouri,United States,38.996112,-92.72528,0,0,Non-Fatal,non-fatal,False
+87957,CEN13CA521,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87957/pdf,9/1/2013,Osage Beach,Missouri,United States,38.110279,-92.680557,0,0,Non-Fatal,non-fatal,False
+88320,CEN14TA020,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88320/pdf,10/26/2013,Jefferson City,Missouri,United States,38.59111,-92.156112,0,0,Non-Fatal,non-fatal,False
+88385,CEN14CA039,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88385/pdf,10/20/2013,Festus,Missouri,United States,38.191387,-90.385833,0,0,Non-Fatal,non-fatal,False
+88389,CEN14CA040,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88389/pdf,11/1/2013,Braggadocio,Missouri,United States,36.175556,-89.829444,0,0,Non-Fatal,non-fatal,False
+88391,CEN14FA042,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88391/pdf,11/5/2013,Kirksville,Missouri,United States,40.145832,-92.528335,2,0,Fatal,fatal,True
+88468,CEN13CA575,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88468/pdf,8/18/2013,Lee's Summit,Missouri,United States,38.970848,-94.349517,0,0,Non-Fatal,non-fatal,False
+88672,CEN14LA112,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88672/pdf,1/3/2014,Forsyth,Missouri,United States,36.682498,-93.104446,0,0,Non-Fatal,non-fatal,False
+88708,CEN14LA120,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88708/pdf,1/23/2014,Ashland,Missouri,United States,38.774166,-92.279724,0,0,Non-Fatal,non-fatal,False
+89044,CEN14LA194,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89044/pdf,4/6/2014,Lee's Summit,Missouri,United States,38.924999,-94.328613,0,2,Non-Fatal,non-fatal,False
+89130,CEN14CA223,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89130/pdf,4/25/2014,Liberty,Missouri,United States,39.292778,-94.442222,0,0,Non-Fatal,non-fatal,False
+89276,CEN14CA250,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89276/pdf,5/16/2014,Bonne Terre,Missouri,United States,37.0,-90.0,0,0,Non-Fatal,non-fatal,False
+89522,CEN14LA313,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89522/pdf,6/19/2014,Moscow Mills,Missouri,United States,38.940834,-90.910575,0,0,Non-Fatal,non-fatal,False
+89552,CEN14LA324,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89552/pdf,6/26/2014,Maryland Heights,Missouri,United States,38.726665,-90.508331,0,1,Non-Fatal,non-fatal,False
+89586,CEN14LA333,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89586/pdf,7/1/2014,Joplin,Missouri,United States,37.151943,-94.498336,0,0,Non-Fatal,non-fatal,False
+89710,CEN14CA382,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89710/pdf,7/17/2014,Cape Girardeau,Missouri,United States,37.305831,-89.518058,0,1,Non-Fatal,non-fatal,False
+89712,CEN14CA383,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89712/pdf,7/18/2014,St. Louis,Missouri,United States,38.699386,-90.469741,0,0,Non-Fatal,non-fatal,False
+89919,CEN14LA441,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89919/pdf,8/19/2014,Grain Valley,Missouri,United States,39.015556,-94.212501,0,1,Non-Fatal,non-fatal,False
+89962,CEN14CA459,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89962/pdf,8/25/2014,Sedalia,Missouri,United States,38.738609,-93.160835,0,0,Non-Fatal,non-fatal,False
+90399,CEN14CA532,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90399/pdf,9/1/2014,Willow Springs,Missouri,United States,36.989723,-91.95417,0,0,Non-Fatal,non-fatal,False
+90400,CEN15LA050,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90400/pdf,11/17/2014,Fulton,Missouri,United States,38.837501,-92.008888,0,3,Non-Fatal,non-fatal,False
+90432,CEN15FA060,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90432/pdf,11/30/2014,Boonville,Missouri,United States,38.935276,-92.684165,1,3,Fatal,fatal,True
+90456,CEN15CA065,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90456/pdf,10/16/2014,Branson,Missouri,United States,36.410831,-93.181388,0,1,Non-Fatal,non-fatal,False
+90498,CEN15LA077,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90498/pdf,12/12/2014,Springfield,Missouri,United States,37.218055,-93.26583,0,2,Non-Fatal,non-fatal,False
+90638,CEN15LA116,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90638/pdf,1/8/2015,Sullivan,Missouri,United States,38.233333,-91.8525,0,0,Non-Fatal,non-fatal,False
+90665,CEN15CA130,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90665/pdf,1/28/2015,Rothville,Missouri,United States,39.630279,-93.01889,0,0,Non-Fatal,non-fatal,False
+90805,CEN15CA158,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90805/pdf,3/1/2015,Kansas City,Missouri,United States,39.126945,-94.599166,0,0,Non-Fatal,non-fatal,False
+90830,CEN15FA164,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90830/pdf,3/6/2015,St Louis,Missouri,United States,38.622222,-90.233612,1,0,Fatal,fatal,True
+90833,CEN15CA165,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90833/pdf,3/1/2015,Lee's Summit,Missouri,United States,38.95972,-94.371391,0,0,Non-Fatal,non-fatal,False
+90864,CEN15LA170,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90864/pdf,3/10/2015,Oregon,Missouri,United States,39.986946,-95.144996,0,0,Non-Fatal,non-fatal,False
+90874,CEN15LA172,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90874/pdf,3/11/2015,Osage Beach,Missouri,United States,38.110553,-92.680557,0,1,Non-Fatal,non-fatal,False
+91001,GAA15CA036,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91001/pdf,4/5/2015,Drexel,Missouri,United States,38.480556,-94.60778,0,0,Non-Fatal,non-fatal,False
+91100,GAA15CA052,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91100/pdf,4/21/2015,West Plains,Missouri,United States,36.884445,-91.902778,0,0,Non-Fatal,non-fatal,False
+91161,CEN15LA229,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91161/pdf,5/7/2015,Chesterfield,Missouri,United States,38.662223,-90.651947,0,0,Non-Fatal,non-fatal,False
+91205,CEN15LA237,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91205/pdf,5/19/2015,St. Charles,Missouri,United States,38.93222,-90.431114,0,0,Non-Fatal,non-fatal,False
+91247,GAA15CA091,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91247/pdf,5/23/2015,Caledonia,Missouri,United States,37.79861,-90.770553,0,0,Non-Fatal,non-fatal,False
+91323,CEN15CA261,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91323/pdf,6/5/2015,Sikeston,Missouri,United States,36.898887,-89.561668,0,0,Non-Fatal,non-fatal,False
+91338,GAA15CA112,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91338/pdf,6/6/2015,Vichey,Missouri,United States,38.127498,-91.769447,0,0,Non-Fatal,non-fatal,False
+91354,CEN15FA267,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91354/pdf,6/12/2015,Huggins,Missouri,United States,37.397777,-92.208335,4,1,Fatal,fatal,True
+91356,CEN15FA268,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91356/pdf,6/14/2015,Cuba,Missouri,United States,38.078334,-91.436943,1,0,Fatal,fatal,True
+91442,CEN15FA282,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91442/pdf,6/27/2015,Cameron,Missouri,United States,39.726665,-94.279167,1,0,Fatal,fatal,True
+91517,GAA15CA166,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91517/pdf,6/26/2015,Gainesville,Missouri,United States,36.613887,-92.399719,0,0,Non-Fatal,non-fatal,False
+91641,GAA15CA201,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91641/pdf,7/23/2015,Warsaw,Missouri,United States,38.347778,-93.345275,0,0,Non-Fatal,non-fatal,False
+91798,CEN15LA361,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91798/pdf,8/11/2015,Brookfield,Missouri,United States,39.761943,-93.013336,0,0,Non-Fatal,non-fatal,False
+91829,CEN15LA369,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91829/pdf,8/18/2015,Bolivar,Missouri,United States,37.596111,-93.348052,0,0,Non-Fatal,non-fatal,False
+92118,CEN16LA004,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92118/pdf,10/5/2015,Dexter,Missouri,United States,36.766666,-89.967224,0,1,Non-Fatal,non-fatal,False
+92315,CEN16FA037,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92315/pdf,11/10/2015,Richmond,Missouri,United States,39.323612,-93.966392,1,0,Fatal,fatal,True
+92404,CEN16FA054,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92404/pdf,12/6/2015,Keytesville,Missouri,United States,39.541942,-92.898887,2,0,Fatal,fatal,True
+92417,CEN16FA059,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92417/pdf,12/6/2015,Pattonsburg,Missouri,United States,40.142501,-94.368614,1,0,Fatal,fatal,True
+92531,CEN16LA079,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92531/pdf,12/30/2015,Republic,Missouri,United States,37.110996,-93.469245,0,1,Non-Fatal,non-fatal,False
+92572,CEN16LA084,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92572/pdf,12/21/2015,Warrenton,Missouri,United States,38.714721,-91.173614,0,0,Non-Fatal,non-fatal,False
+92696,CEN16LA100,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92696/pdf,1/29/2016,Macon,Missouri,United States,39.729721,-92.456665,0,0,Non-Fatal,non-fatal,False
+92911,CEN16LA135,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92911/pdf,3/25/2016,Galena,Missouri,United States,36.705554,-93.44889,0,1,Non-Fatal,non-fatal,False
+93008,GAA16CA192,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93008/pdf,4/12/2016,Lee's Summit,Missouri,United States,38.963611,-94.371665,0,0,Non-Fatal,non-fatal,False
+93073,GAA16CA203,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93073/pdf,4/25/2016,Maryville,Missouri,United States,40.353332,-94.916664,0,0,Non-Fatal,non-fatal,False
+93106,GAA16CA217,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93106/pdf,4/9/2016,Chesterfield,Missouri,United States,38.659999,-90.64611,0,0,Non-Fatal,non-fatal,False
+93184,GAA16CA236,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93184/pdf,5/12/2016,Lee's Summit,Missouri,United States,38.95972,-94.371391,0,0,Non-Fatal,non-fatal,False
+93191,CEN16LA187,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93191/pdf,5/10/2016,Dexter,Missouri,United States,36.775554,-89.941108,0,0,Non-Fatal,non-fatal,False
+93405,CEN16LA222,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93405/pdf,6/19/2016,Henley,Missouri,United States,38.343055,-92.244445,0,2,Non-Fatal,non-fatal,False
+93435,CEN16LA229,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93435/pdf,6/22/2016,Humansville,Missouri,United States,37.811389,-93.584724,0,0,Non-Fatal,non-fatal,False
+93512,GAA16CA350,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93512/pdf,6/24/2016,Springfield,Missouri,United States,37.2425,-93.387779,0,0,Non-Fatal,non-fatal,False
+93536,GAA16CA357,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93536/pdf,7/1/2016,Maryville,Missouri,United States,40.331665,-94.834724,0,0,Non-Fatal,non-fatal,False
+93570,CEN16LA260,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93570/pdf,7/7/2016,Kennett,Missouri,United States,36.29,-89.986389,1,0,Fatal,fatal,True
+93653,GAA16CA384,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93653/pdf,7/17/2016,St. James,Missouri,United States,37.997222,-91.614166,0,0,Non-Fatal,non-fatal,False
+93674,GAA16CA386,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93674/pdf,7/18/2016,Chesterfield,Missouri,United States,38.660278,-90.645835,0,0,Non-Fatal,non-fatal,False
+93888,CEN16LA332,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93888/pdf,8/5/2016,Miller,Missouri,United States,37.230556,-93.930274,0,0,Non-Fatal,non-fatal,False
+93955,CEN16LA354,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93955/pdf,8/29/2016,Monett,Missouri,United States,36.906112,-94.012779,0,0,Non-Fatal,non-fatal,False
+93957,CEN16LA355,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93957/pdf,8/30/2016,Post Oak,Missouri,United States,38.569168,-93.746948,0,1,Non-Fatal,non-fatal,False
+93976,GAA16CA473,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93976/pdf,8/14/2016,Fulton,Missouri,United States,38.840557,-92.002502,0,0,Non-Fatal,non-fatal,False
+94002,GAA16CA480,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94002/pdf,9/9/2016,Peach Orchard,Missouri,United States,36.328887,-89.938888,0,0,Non-Fatal,non-fatal,False
+94044,CEN16FA378,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94044/pdf,9/20/2016,Lee's Summit,Missouri,United States,38.960556,-94.375556,2,0,Fatal,fatal,True
+94047,CEN16LA379,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94047/pdf,9/18/2016,Chesterfield,Missouri,United States,38.662223,-90.651947,0,1,Non-Fatal,non-fatal,False
+94261,CEN17FA024,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94261/pdf,10/22/2016,Osage Beach,Missouri,United States,38.1025,-92.539169,2,0,Fatal,fatal,True
+94279,GAA17CA046,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94279/pdf,10/23/2016,Kirksville,Missouri,United States,40.093334,-92.544441,0,0,Non-Fatal,non-fatal,False
+94319,CEN17LA031,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94319/pdf,10/27/2016,Lexington,Missouri,United States,39.209999,-93.92778,0,0,Non-Fatal,non-fatal,False
+94533,CEN17LA061,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94533/pdf,12/27/2016,Farmington,Missouri,United States,37.761112,-90.428611,0,0,Non-Fatal,non-fatal,False
+94542,CEN17LA062,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94542/pdf,12/27/2016,Piedmont,Missouri,United States,37.124443,-90.714996,0,0,Non-Fatal,non-fatal,False
+94556,CEN17LA066,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94556/pdf,12/31/2016,Lee's Summit,Missouri,United States,38.925277,-94.378051,0,1,Non-Fatal,non-fatal,False
+94636,GAA17CA120,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94636/pdf,11/27/2016,St. Louis,Missouri,United States,38.721942,-90.508888,0,0,Non-Fatal,non-fatal,False
+94679,CEN17LA097,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94679/pdf,1/26/2017,Ozark,Missouri,United States,37.020832,-93.206108,0,1,Non-Fatal,non-fatal,False
+94752,GAA17CA150,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94752/pdf,2/6/2017,Poplar Bluff,Missouri,United States,36.773887,-90.324722,0,0,Non-Fatal,non-fatal,False
+94761,CEN17LA110,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94761/pdf,2/18/2017,Clever,Missouri,United States,37.030277,-93.473052,0,2,Non-Fatal,non-fatal,False
+94890,GAA17CA195,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94890/pdf,3/17/2017,Mosby,Missouri,United States,39.333332,-94.309448,0,0,Non-Fatal,non-fatal,False
+95050,CEN17FA164,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95050/pdf,4/24/2017,Boonville,Missouri,United States,38.959167,-92.681388,2,0,Fatal,fatal,True
+95067,GAA17CA246,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95067/pdf,4/24/2017,Chesterfield,Missouri,United States,38.659721,-90.646942,0,0,Non-Fatal,non-fatal,False
+95079,CEN17LA171,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95079/pdf,3/21/2017,Oronogo,Missouri,United States,37.188331,-94.470275,0,1,Non-Fatal,non-fatal,False
+95143,GAA17CA272,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95143/pdf,5/7/2017,Chesterfield,Missouri,United States,38.659721,-90.648056,0,0,Non-Fatal,non-fatal,False
+95274,CEN17LA206,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95274/pdf,5/31/2017,Boonville,Missouri,United States,38.946666,-92.682777,0,0,Non-Fatal,non-fatal,False
+95330,CEN17LA217,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95330/pdf,6/8/2017,Harrisonville,Missouri,United States,38.550277,-94.406112,0,1,Non-Fatal,non-fatal,False
+95426,GAA17CA361,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95426/pdf,6/22/2017,Doniphan,Missouri,United States,36.679443,-90.719444,0,0,Non-Fatal,non-fatal,False
+95432,CEN17LA241,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95432/pdf,6/24/2017,Fulton,Missouri,United States,38.838054,-92.002502,0,0,Non-Fatal,non-fatal,False
+95641,CEN17LA280,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95641/pdf,7/21/2017,Lee's Summit,Missouri,United States,38.960556,-94.374725,0,0,Non-Fatal,non-fatal,False
+95688,CEN17FA288,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95688/pdf,7/27/2017,Laddonia,Missouri,United States,39.334445,-91.685836,2,0,Fatal,fatal,True
+95711,CEN17LA293,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95711/pdf,7/31/2017,Potosi,Missouri,United States,37.928611,-90.731666,0,1,Non-Fatal,non-fatal,False
+95756,CEN17LA303,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95756/pdf,8/4/2017,Marshall,Missouri,United States,39.095554,-93.202774,0,0,Non-Fatal,non-fatal,False
+95770,GAA17CA476,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95770/pdf,8/4/2017,Drexel,Missouri,United States,38.540279,-94.560554,0,0,Non-Fatal,non-fatal,False
+95855,GAA17CA498,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95855/pdf,8/21/2017,Perryville,Missouri,United States,37.863334,-89.86444,0,0,Non-Fatal,non-fatal,False
+95876,CEN17LA326,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95876/pdf,8/20/2017,Booneville,Missouri,United States,38.946666,-92.693336,0,0,Non-Fatal,non-fatal,False
+95977,GAA17CA525,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95977/pdf,9/4/2017,Lockwood,Missouri,United States,37.468055,-93.930274,0,0,Non-Fatal,non-fatal,False
+95996,GAA17CA532,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95996/pdf,9/11/2017,Harrisonville,Missouri,United States,38.610832,-94.343612,0,0,Non-Fatal,non-fatal,False
+96014,CEN17LA352,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96014/pdf,9/13/2017,Hallsville,Missouri,United States,39.123054,-92.118057,0,0,Non-Fatal,non-fatal,False
+96372,GAA18CA055,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96372/pdf,11/21/2017,El Dorado,Missouri,United States,37.855556,-94.000831,0,0,Non-Fatal,non-fatal,False
+96433,CEN18FA049,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96433/pdf,12/6/2017,Chesterfield,Missouri,United States,38.400001,-90.370002,1,0,Fatal,fatal,True
+96494,CEN18FA054,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96494/pdf,12/17/2017,Reeds Spring,Missouri,United States,36.724723,-93.39611,2,0,Fatal,fatal,True
+96562,CEN18LA065,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96562/pdf,12/19/2017,Versailles,Missouri,United States,38.428333,-92.875274,0,0,Non-Fatal,non-fatal,False
+96720,CEN18LA095,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96720/pdf,2/8/2018,Troy,Missouri,United States,38.912223,-91.033332,0,1,Non-Fatal,non-fatal,False
+96935,CEN18LA128,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96935/pdf,3/22/2018,Kansas City,Missouri,United States,39.123054,-94.592781,0,0,Non-Fatal,non-fatal,False
+97300,CEN18FA186,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97300/pdf,5/22/2018,Bolivar,Missouri,United States,37.600051,-93.409278,1,0,Fatal,fatal,True
+97332,CEN18LA194,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97332/pdf,5/27/2018,Qulin,Missouri,United States,36.55722,-90.204719,0,0,Non-Fatal,non-fatal,False
+97442,CEN18LA220,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97442/pdf,6/7/2018,Sedalia,Missouri,United States,38.7075,-93.175834,0,0,Non-Fatal,non-fatal,False
+97715,GAA18CA402,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97715/pdf,6/27/2018,ROLLA,Missouri,United States,38.127498,-91.769447,0,0,Non-Fatal,non-fatal,False
+97904,GAA18CA446,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97904/pdf,7/20/2018,Malden,Missouri,United States,36.600555,-89.992225,0,0,Non-Fatal,non-fatal,False
+98008,CEN18LA317,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98008/pdf,8/6/2018,Pomona,Missouri,United States,36.878612,-91.904998,0,0,Non-Fatal,non-fatal,False
+98013,CEN18LA321,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98013/pdf,8/6/2018,Sedalia,Missouri,United States,38.704444,-93.228332,0,0,Non-Fatal,non-fatal,False
+98181,GAA18CA516,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98181/pdf,8/25/2018,Point Lookout,Missouri,United States,36.625831,-93.228889,0,0,Non-Fatal,non-fatal,False
+98185,GAA18CA518,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98185/pdf,8/19/2018,Painton,Missouri,United States,37.086387,-89.793891,0,0,Non-Fatal,non-fatal,False
+98213,CEN18LA364,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98213/pdf,9/2/2018,Brookfield,Missouri,United States,39.908054,-93.14389,0,1,Non-Fatal,non-fatal,False
+98227,GAA18CA524,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98227/pdf,8/28/2018,Fulton,Missouri,United States,38.836666,-92.0,0,0,Non-Fatal,non-fatal,False
+98260,WPR18LA255,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98260/pdf,9/4/2018,RICHLAND,Missouri,United States,37.874443,-92.406944,0,1,Non-Fatal,non-fatal,False
+98263,WPR18LA256,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98263/pdf,9/7/2018,Kennett,Missouri,United States,36.225833,-90.036666,0,0,Non-Fatal,non-fatal,False
+98329,CEN18FA384,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98329/pdf,9/20/2018,Festus,Missouri,United States,38.189998,-90.384445,2,0,Fatal,fatal,True
+98431,GAA19CA008,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98431/pdf,10/8/2018,Rolla,Missouri,United States,37.935554,-91.813613,0,0,Non-Fatal,non-fatal,False
+98436,GAA19CA012,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98436/pdf,10/7/2018,Bolivar,Missouri,United States,37.596111,-93.347778,0,0,Non-Fatal,non-fatal,False
+98450,WPR19LA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98450/pdf,10/9/2018,Cape Girardeau,Missouri,United States,37.225276,-89.570831,1,1,Fatal,fatal,True
+98512,CEN19FA009,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98512/pdf,10/17/2018,Fulton,Missouri,United States,38.85889,-91.909446,1,0,Fatal,fatal,True
+98553,CEN19LA016,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98553/pdf,10/27/2018,Passaic,Missouri,United States,38.321945,-94.346946,0,0,Non-Fatal,non-fatal,False
+99061,CEN19FA093,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99061/pdf,3/5/2019,Summersville,Missouri,United States,37.195926,-91.70314,1,0,Fatal,fatal,True
+99132,GAA19CA170,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99132/pdf,3/15/2019,Moberly,Missouri,United States,39.464168,-92.431945,0,0,Non-Fatal,non-fatal,False
+99327,CEN19LA127,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99327/pdf,4/26/2019,Sheldon,Missouri,United States,37.66611,-94.302223,0,0,Non-Fatal,non-fatal,False
+99342,GAA19CA231,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99342/pdf,4/26/2019,St Charles,Missouri,United States,38.929721,-90.43,0,0,Non-Fatal,non-fatal,False
+99585,CEN19FA161,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99585/pdf,6/10/2019,Butler,Missouri,United States,38.350276,-94.340278,1,0,Fatal,fatal,True
+99599,GAA19CA331,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99599/pdf,6/7/2019,Lee's Summit,Missouri,United States,38.959167,-94.371948,0,0,Non-Fatal,non-fatal,False
+99656,GAA19CA353,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99656/pdf,5/30/2019,Festus,Missouri,United States,38.193054,-90.385833,0,0,Non-Fatal,non-fatal,False
+99754,CEN19LA198,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99754/pdf,6/29/2019,Joplin,Missouri,United States,37.153057,-94.498886,0,0,Non-Fatal,non-fatal,False
+99824,GAA19CA406,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99824/pdf,7/11/2019,Lincoln,Missouri,United States,38.400554,-93.332496,0,0,Non-Fatal,non-fatal,False
+99894,CEN19LA229,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99894/pdf,7/21/2019,Houston,Missouri,United States,37.333332,-91.966667,0,0,Non-Fatal,non-fatal,False
+99902,GAA19CA443,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99902/pdf,7/20/2019,Jefferson City,Missouri,United States,38.59111,-92.156112,0,0,Non-Fatal,non-fatal,False
+99982,GAA19CA476,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99982/pdf,6/9/2019,Lebanon,Missouri,United States,37.74361,-92.513336,0,0,Non-Fatal,non-fatal,False
+100255,CEN19LA319,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100255/pdf,9/2/2019,Branson,Missouri,United States,36.531944,-93.200553,0,0,Non-Fatal,non-fatal,False
+100274,GAA19CA549,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100274/pdf,9/15/2019,Kennett,Missouri,United States,36.225833,-90.036666,0,0,Non-Fatal,non-fatal,False
+100337,CEN19TA333,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100337/pdf,9/25/2019,Bolivar,Missouri,United States,37.596111,-93.348052,0,0,Non-Fatal,non-fatal,False
+100368,CEN20FA003,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100368/pdf,10/6/2019,Bixby,Missouri,United States,37.361389,-91.066947,1,0,Fatal,fatal,True
+100559,GAA20CA072,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100559/pdf,11/10/2019,Mexico,Missouri,United States,39.037776,-91.725555,0,0,Non-Fatal,non-fatal,False
+100670,ERA20LA050,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100670/pdf,12/8/2019,Willow Springs,Missouri,United States,36.984165,-91.955558,0,0,Non-Fatal,non-fatal,False
+100826,CEN20CA062,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100826/pdf,1/16/2020,St. Charles,Missouri,United States,38.929164,-90.430831,0,0,Non-Fatal,non-fatal,False
+100948,CEN20LA084,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100948/pdf,2/6/2020,St Louis,Missouri,United States,38.75,-90.36,0,0,Non-Fatal,non-fatal,False
+100975,CEN20LA095,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100975/pdf,2/18/2020,Chesterfield,Missouri,United States,38.657222,-90.651107,0,0,Non-Fatal,non-fatal,False
+101016,CEN20LA107,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101016/pdf,2/29/2020,Cabool,Missouri,United States,37.132499,-92.083885,0,0,Non-Fatal,non-fatal,False
+101059,CEN20CA117,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101059/pdf,3/8/2020,Eolia,Missouri,United States,39.212776,-90.917221,0,0,Non-Fatal,non-fatal,False
+101310,CEN20CA184,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101310/pdf,5/19/2020,Lee's Summit,Missouri,United States,38.95972,-94.373886,0,0,Non-Fatal,non-fatal,False
+101322,CEN20LA189,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101322/pdf,5/22/2020,Steele,Missouri,United States,36.083332,-89.82917,0,0,Non-Fatal,non-fatal,False
+101353,CEN20LA203,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101353/pdf,5/29/2020,Cape Girardeau,Missouri,United States,37.226943,-89.56472,0,0,Non-Fatal,non-fatal,False
+101473,CEN20CA241,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101473/pdf,6/12/2020,Bowling Green,Missouri,United States,39.369998,-91.219169,0,0,Non-Fatal,non-fatal,False
+101617,CEN20LA288,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101617/pdf,7/16/2020,Independence,Missouri,United States,39.125278,-94.331947,0,0,Non-Fatal,non-fatal,False
+101723,CEN20CA320,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101723/pdf,7/31/2020,Memphis,Missouri,United States,40.396945,-92.181663,0,0,Non-Fatal,non-fatal,False
+101751,CEN20CA326,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101751/pdf,8/6/2020,St Louis,Missouri,United States,38.663612,-90.644721,0,0,Non-Fatal,non-fatal,False
+101795,CEN20LA336,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101795/pdf,8/16/2020,Osage Beach,Missouri,United States,38.106945,-92.6725,2,0,Fatal,fatal,True
+101851,CEN20LA360,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101851/pdf,8/22/2020,St Louis,Missouri,United States,38.623332,-90.542778,0,1,Non-Fatal,non-fatal,False
+101854,CEN20CA362,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101854/pdf,8/24/2020,Lebanon,Missouri,United States,37.646945,-92.652496,0,0,Non-Fatal,non-fatal,False
+101985,CEN20LA397,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101985/pdf,9/16/2020,Montgomery City,Missouri,United States,38.979721,-91.61,0,0,Non-Fatal,non-fatal,False
+102017,CEN20LA412,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102017/pdf,9/20/2020,Montrose,Missouri,United States,38.25,-93.889999,0,0,Non-Fatal,non-fatal,False
+102070,CEN20LA429,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102070/pdf,9/29/2020,Higginsville,Missouri,United States,39.072278,-93.677297,0,0,Non-Fatal,non-fatal,False
+102133,CEN21LA014,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102133/pdf,10/10/2020,Kimberling City,Missouri,United States,36.62629,-93.423947,0,2,Non-Fatal,non-fatal,False
+102271,CEN21LA053,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102271/pdf,11/11/2020,Holden,Missouri,United States,38.707,-94.0058,1,0,Fatal,fatal,True
+102457,CEN21LA098,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102457/pdf,12/26/2020,Waldron,Missouri,United States,39.230667,-94.801305,0,1,Non-Fatal,non-fatal,False
+102518,CEN21LA111,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102518/pdf,11/26/2020,Hollister,Missouri,United States,36.529571,-93.19837,0,0,Non-Fatal,non-fatal,False
+102616,CEN21FA125,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102616/pdf,2/8/2021,Galt,Missouri,United States,40.10722,-93.37464,2,0,Fatal,fatal,True
+102672,CEN21LA137,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102672/pdf,2/22/2021,Kansas City,Missouri,United States,39.124939,-94.592276,0,0,Non-Fatal,non-fatal,False
+102750,CEN21LA156,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102750/pdf,3/9/2021,Poplar Bluff,Missouri,United States,36.8544,-90.4375,0,0,Non-Fatal,non-fatal,False
+103080,CEN21LA217,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103080/pdf,5/12/2021,Fulton,Missouri,United States,38.838449,-91.999933,0,0,Non-Fatal,non-fatal,False
+103447,CEN21LA312,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103447/pdf,6/24/2021,St. Louis,Missouri,United States,38.745331,-90.353213,0,0,Non-Fatal,non-fatal,False
+103743,CEN21FA380,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103743/pdf,8/22/2021,Adrian,Missouri,United States,38.4343,-94.44294,1,0,Fatal,fatal,True
+103947,CEN21LA446,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103947/pdf,9/18/2021,Higginsville,Missouri,United States,39.072477,-93.717016,0,1,Non-Fatal,non-fatal,False
+103966,CEN21LA453,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103966/pdf,9/17/2021,Osage Beach,Missouri,United States,38.110752,-92.680852,0,0,Non-Fatal,non-fatal,False
+104056,CEN22LA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104056/pdf,10/5/2021,Delta,Missouri,United States,37.206,-89.74571,0,0,Non-Fatal,non-fatal,False
+104102,CEN22LA014,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104102/pdf,10/9/2021,Chesterfield,Missouri,United States,38.662646,-90.649695,0,0,Non-Fatal,non-fatal,False
+104360,CEN22LA060,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104360/pdf,12/1/2021,Cassville,Missouri,United States,36.697642,-93.899508,0,0,Non-Fatal,non-fatal,False
+104364,CEN22LA063,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104364/pdf,12/2/2021,St. Louis,Missouri,United States,38.66211,-90.65205,0,0,Non-Fatal,non-fatal,False
+104461,CEN22LA087,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104461/pdf,12/30/2021,Golden,Missouri,United States,36.529123,-93.682286,1,0,Fatal,fatal,True

@@ -1,0 +1,111 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+82818,CEN12CA148,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82818/pdf,2/5/2012,Thedford,Nebraska,United States,41.9575,-100.568885,0,0,Non-Fatal,non-fatal,False
+82991,CEN12CA173,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82991/pdf,2/25/2012,Hebron,Nebraska,United States,40.152221,-97.586944,0,0,Non-Fatal,non-fatal,False
+83241,CEN12FA210,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83241/pdf,3/28/2012,Broken Bow,Nebraska,United States,41.436389,-99.642219,1,1,Fatal,fatal,True
+83371,CEN12LA239,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83371/pdf,3/22/2012,Kimball,Nebraska,United States,41.188056,-103.677223,0,0,Non-Fatal,non-fatal,False
+83558,CEN12CA274,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83558/pdf,5/3/2012,Cedar Bluffs,Nebraska,United States,39.977222,-100.599441,0,0,Non-Fatal,non-fatal,False
+83593,CEN12CA285,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83593/pdf,5/9/2012,Genoa,Nebraska,United States,41.404167,-97.70861,0,0,Non-Fatal,non-fatal,False
+83651,CEN12LA302,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83651/pdf,5/14/2012,Elm Creek,Nebraska,United States,40.8125,-99.417778,0,1,Non-Fatal,non-fatal,False
+84093,CEN12CA393,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84093/pdf,6/17/2012,Pierce,Nebraska,United States,42.202777,-97.392219,0,1,Non-Fatal,non-fatal,False
+84121,CEN12CA403,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84121/pdf,6/28/2012,Minden,Nebraska,United States,40.51472,-98.945556,0,0,Non-Fatal,non-fatal,False
+84165,CEN12CA416,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84165/pdf,6/28/2012,Omaha,Nebraska,United States,41.195835,-96.11222,0,0,Non-Fatal,non-fatal,False
+84270,CEN12LA428,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84270/pdf,7/10/2012,Central City,Nebraska,United States,41.12611,-97.963333,0,1,Non-Fatal,non-fatal,False
+84478,CEN12LA488,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84478/pdf,7/27/2012,Valentine,Nebraska,United States,42.856666,-100.548889,1,0,Fatal,fatal,True
+84520,CEN12LA497,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84520/pdf,7/30/2012,Big Springs,Nebraska,United States,41.059623,-102.069801,0,0,Non-Fatal,non-fatal,False
+84574,CEN12FA517,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84574/pdf,8/4/2012,Imperial,Nebraska,United States,40.509464,-101.630363,1,0,Fatal,fatal,True
+84731,CEN12LA556,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84731/pdf,8/19/2012,Sidney,Nebraska,United States,41.099723,-102.985,0,0,Non-Fatal,non-fatal,False
+85100,CEN12LA648,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85100/pdf,9/19/2012,Mc Cool Junction,Nebraska,United States,40.740997,-97.590934,0,0,Non-Fatal,non-fatal,False
+85183,CEN12CA666,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85183/pdf,9/28/2012,Springfield,Nebraska,United States,41.080833,-96.136947,0,1,Non-Fatal,non-fatal,False
+85507,CEN13FA045,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85507/pdf,11/4/2012,Gothenburg,Nebraska,United States,40.925556,-100.146385,1,0,Fatal,fatal,True
+85708,CEN13FA081,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85708/pdf,11/29/2012,Blair,Nebraska,United States,41.909168,-96.223892,1,0,Fatal,fatal,True
+85849,CEN13LA109,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85849/pdf,12/18/2012,Grand Isle,Nebraska,United States,40.95861,-98.289443,0,0,Non-Fatal,non-fatal,False
+86005,CEN13FA130,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86005/pdf,1/11/2013,Maxwell,Nebraska,United States,41.201667,-100.470275,4,0,Fatal,fatal,True
+86271,CEN13LA171,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86271/pdf,2/13/2013,Grand Island,Nebraska,United States,40.967498,-98.309722,0,0,Non-Fatal,non-fatal,False
+86744,CEN13FA241,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86744/pdf,4/27/2013,Norfolk,Nebraska,United States,41.982223,-97.383056,2,0,Fatal,fatal,True
+87156,CEN13LA340,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87156/pdf,6/11/2013,Chadron,Nebraska,United States,42.835834,-103.090553,0,1,Non-Fatal,non-fatal,False
+87303,CEN13LA371,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87303/pdf,6/23/2013,Campbell,Nebraska,United States,40.602222,-99.255279,0,0,Non-Fatal,non-fatal,False
+87550,CEN13FA429,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87550/pdf,7/19/2013,Holdrege,Nebraska,United States,40.468887,-99.381111,0,0,Non-Fatal,non-fatal,False
+87992,CEN13CA530,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87992/pdf,8/31/2013,Plattsmouth,Nebraska,United States,40.948333,-95.917221,0,0,Non-Fatal,non-fatal,False
+88014,CEN13CA538,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88014/pdf,9/7/2013,Hyannis,Nebraska,United States,42.009445,-101.769447,0,0,Non-Fatal,non-fatal,False
+88034,CEN13CA545,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88034/pdf,9/10/2013,Mullen,Nebraska,United States,42.041942,-101.058891,0,0,Non-Fatal,non-fatal,False
+88427,CEN14LA053,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88427/pdf,10/12/2013,Lincoln,Nebraska,United States,40.909629,-96.789299,0,0,Non-Fatal,non-fatal,False
+88449,CEN14CA063,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88449/pdf,11/18/2013,Burwell,Nebraska,United States,41.782222,-99.153053,0,0,Non-Fatal,non-fatal,False
+88772,CEN14LA131,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88772/pdf,1/25/2014,Eustis,Nebraska,United States,40.660678,-100.020286,0,0,Non-Fatal,non-fatal,False
+88796,CEN14CA137,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88796/pdf,2/12/2014,Gordon,Nebraska,United States,42.738334,-102.175834,0,0,Non-Fatal,non-fatal,False
+89199,CEN14CA236,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89199/pdf,5/9/2014,Lincoln,Nebraska,United States,40.851387,-96.755836,0,0,Non-Fatal,non-fatal,False
+89478,CEN14CA302,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89478/pdf,6/15/2014,Springview,Nebraska,United States,42.819988,-99.739273,0,0,Non-Fatal,non-fatal,False
+89625,CEN14LA346,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89625/pdf,7/8/2014,Ansley,Nebraska,United States,41.231388,-99.400001,1,0,Fatal,fatal,True
+89629,CEN14CA348,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89629/pdf,6/21/2014,Wayne,Nebraska,United States,42.241664,-96.982223,0,0,Non-Fatal,non-fatal,False
+89749,CEN14LA390,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89749/pdf,7/26/2014,Bennet,Nebraska,United States,40.439998,-96.319999,0,0,Non-Fatal,non-fatal,False
+89765,CEN14CA395,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89765/pdf,7/23/2014,Milford,Nebraska,United States,40.766944,-97.077774,0,0,Non-Fatal,non-fatal,False
+89790,CEN14CA403,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89790/pdf,7/31/2014,Allen,Nebraska,United States,42.415832,-96.841392,0,0,Non-Fatal,non-fatal,False
+89878,CEN14CA429,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89878/pdf,7/29/2014,Minden,Nebraska,United States,40.748054,-99.137496,0,0,Non-Fatal,non-fatal,False
+90132,CEN14CA514,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90132/pdf,9/14/2014,Fremont,Nebraska,United States,41.45,-96.52111,0,0,Non-Fatal,non-fatal,False
+91368,CEN15LA271,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91368/pdf,6/12/2015,Foster,Nebraska,United States,42.273887,-97.664443,0,0,Non-Fatal,non-fatal,False
+91742,CEN15LA343,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91742/pdf,8/8/2015,Hartington,Nebraska,United States,42.801387,-97.411666,0,2,Non-Fatal,non-fatal,False
+91892,CEN15LA389,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91892/pdf,8/27/2015,Monroe,Nebraska,United States,41.51361,-97.646942,0,0,Non-Fatal,non-fatal,False
+91954,CEN15LA405,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91954/pdf,9/9/2015,Elmwood,Nebraska,United States,40.856388,-96.216667,0,0,Non-Fatal,non-fatal,False
+91990,GAA15CA261,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91990/pdf,9/13/2015,Lexington,Nebraska,United States,40.7975,-99.754722,0,0,Non-Fatal,non-fatal,False
+92016,GAA15CA266,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92016/pdf,9/16/2015,Paxton,Nebraska,United States,41.098609,-101.344444,0,0,Non-Fatal,non-fatal,False
+92128,CEN16FA005,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92128/pdf,10/6/2015,Chadron,Nebraska,United States,42.688056,-103.072219,1,0,Fatal,fatal,True
+92187,CEN16FA014,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92187/pdf,10/17/2015,Cortland,Nebraska,United States,40.494998,-96.764724,2,0,Fatal,fatal,True
+92374,GAA16CA063,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92374/pdf,11/24/2015,Hamlet,Nebraska,United States,40.381389,-101.210281,0,0,Non-Fatal,non-fatal,False
+92512,CEN16FA073,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92512/pdf,1/3/2016,Wayne,Nebraska,United States,42.167778,-96.846107,1,0,Fatal,fatal,True
+92601,GAA16CA105,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92601/pdf,1/13/2016,Chappell,Nebraska,United States,41.077777,-102.464721,0,0,Non-Fatal,non-fatal,False
+92872,CEN16FA130,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92872/pdf,3/20/2016,Ellsworth,Nebraska,United States,42.173053,-102.209167,1,0,Fatal,fatal,True
+92902,CEN16LA133,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92902/pdf,3/27/2016,Louisville,Nebraska,United States,40.963611,-96.196945,0,1,Non-Fatal,non-fatal,False
+93239,CEN16LA193,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93239/pdf,5/24/2016,Cozad,Nebraska,United States,40.947776,-99.930831,0,0,Non-Fatal,non-fatal,False
+93529,GAA16CA355,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93529/pdf,7/3/2016,Cairo,Nebraska,United States,41.000831,-98.615554,0,0,Non-Fatal,non-fatal,False
+93666,CEN16FA282,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93666/pdf,7/24/2016,Leshara,Nebraska,United States,41.3325,-96.438613,2,0,Fatal,fatal,True
+93708,CEN16LA291,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93708/pdf,7/28/2016,David City,Nebraska,United States,41.294998,-97.1025,1,0,Fatal,fatal,True
+93949,CEN16LA352,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93949/pdf,9/4/2016,Morrill,Nebraska,United States,42.000278,-103.883056,0,0,Non-Fatal,non-fatal,False
+93967,GAA16CA470,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93967/pdf,9/7/2016,Diller,Nebraska,United States,40.109722,-96.934448,0,0,Non-Fatal,non-fatal,False
+94672,GAA17CA127,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94672/pdf,1/28/2017,McCook,Nebraska,United States,40.205833,-100.589721,0,0,Non-Fatal,non-fatal,False
+94824,CEN17LA119,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94824/pdf,3/3/2017,Hebron,Nebraska,United States,40.151943,-97.584442,0,0,Non-Fatal,non-fatal,False
+95166,CEN17LA181,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95166/pdf,5/13/2017,Blair,Nebraska,United States,41.414722,-96.108886,1,0,Fatal,fatal,True
+95550,GAA17CA403,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95550/pdf,7/6/2017,Grand Island,Nebraska,United States,40.967498,-98.309722,0,0,Non-Fatal,non-fatal,False
+95603,CEN17LA272,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95603/pdf,7/18/2017,Pierce,Nebraska,United States,42.226943,-97.684165,0,1,Non-Fatal,non-fatal,False
+95710,GAA17CA453,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95710/pdf,7/29/2017,McCook,Nebraska,United States,40.281112,-100.624168,0,0,Non-Fatal,non-fatal,False
+95793,GAA17CA482,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95793/pdf,8/2/2017,Kearney,Nebraska,United States,40.752223,-99.000831,0,0,Non-Fatal,non-fatal,False
+95884,GAA17CA508,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95884/pdf,8/22/2017,North Platte,Nebraska,United States,41.12611,-100.683609,0,0,Non-Fatal,non-fatal,False
+96063,CEN17FA362,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96063/pdf,9/23/2017,Ainsworth,Nebraska,United States,42.536945,-99.959167,1,0,Fatal,fatal,True
+96587,CEN18CA072,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96587/pdf,1/4/2018,Norfolk,Nebraska,United States,42.022499,-97.413612,0,0,Non-Fatal,non-fatal,False
+96653,CEN18LA085,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96653/pdf,1/24/2018,Omaha,Nebraska,United States,41.196109,-96.11222,0,0,Non-Fatal,non-fatal,False
+96918,CEN18FA126,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96918/pdf,3/21/2018,Pierce,Nebraska,United States,42.238609,-97.597221,1,0,Fatal,fatal,True
+97331,CEN18FA193,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97331/pdf,5/27/2018,Omaha,Nebraska,United States,41.195278,-96.113609,2,0,Fatal,fatal,True
+97343,CEN18LA199,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97343/pdf,5/28/2018,Tekamah,Nebraska,United States,41.768611,-96.241386,0,2,Non-Fatal,non-fatal,False
+97644,CEN18FA242,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97644/pdf,6/29/2018,Arthur,Nebraska,United States,41.562221,-101.599723,1,0,Fatal,fatal,True
+97724,GAA18CA408,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97724/pdf,7/9/2018,Rulo,Nebraska,United States,40.02,-95.43,0,0,Non-Fatal,non-fatal,False
+97995,CEN18LA314,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97995/pdf,8/3/2018,Mullen,Nebraska,United States,41.86111,-101.289443,0,1,Non-Fatal,non-fatal,False
+98096,GAA18CA495,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98096/pdf,8/17/2018,Hayes Center,Nebraska,United States,40.49361,-101.043052,0,0,Non-Fatal,non-fatal,False
+98212,CEN18LA363,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98212/pdf,9/1/2018,Crete,Nebraska,United States,40.618331,-96.925834,0,2,Non-Fatal,non-fatal,False
+98407,GAA18CA577,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98407/pdf,9/18/2018,Grand Island,Nebraska,United States,40.971942,-98.31472,0,0,Non-Fatal,non-fatal,False
+99091,GAA19CA160,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99091/pdf,3/8/2019,Rushville,Nebraska,United States,42.459167,-102.501113,0,0,Non-Fatal,non-fatal,False
+99266,CEN19LA121,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99266/pdf,4/16/2019,Omaha,Nebraska,United States,41.414443,-96.108329,0,0,Non-Fatal,non-fatal,False
+99718,CEN19LA186,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99718/pdf,6/28/2019,Omaha,Nebraska,United States,41.196109,-96.11222,0,0,Non-Fatal,non-fatal,False
+99799,CEN19LA215,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99799/pdf,7/9/2019,Sidney,Nebraska,United States,41.101387,-102.985275,0,0,Non-Fatal,non-fatal,False
+99926,CEN19FA236,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99926/pdf,7/24/2019,Chadron,Nebraska,United States,42.850276,-103.084999,3,0,Fatal,fatal,True
+99933,GAA19CA454,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99933/pdf,7/24/2019,Deshler,Nebraska,United States,40.167221,-97.714721,0,0,Non-Fatal,non-fatal,False
+99945,CEN19LA240,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99945/pdf,7/27/2019,Blair,Nebraska,United States,41.564167,-96.14083,0,0,Non-Fatal,non-fatal,False
+99989,CEN19LA250,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99989/pdf,8/3/2019,Lyons,Nebraska,United States,41.9375,-96.473052,0,0,Non-Fatal,non-fatal,False
+99993,GAA19CA480,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99993/pdf,8/4/2019,Waco,Nebraska,United States,40.937778,-97.50222,0,0,Non-Fatal,non-fatal,False
+100068,CEN19LA269,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100068/pdf,8/16/2019,Blair,Nebraska,United States,41.415,-96.109169,0,0,Non-Fatal,non-fatal,False
+100334,GAA19CA570,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100334/pdf,9/25/2019,Lexington,Nebraska,United States,40.786388,-99.778335,0,1,Non-Fatal,non-fatal,False
+100664,CEN20TA030,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100664/pdf,12/7/2019,Omaha,Nebraska,United States,41.194721,-96.112503,0,1,Non-Fatal,non-fatal,False
+101140,CEN20CA137,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101140/pdf,3/31/2020,Omaha,Nebraska,United States,41.198612,-96.114723,0,0,Non-Fatal,non-fatal,False
+101668,CEN20LA306,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101668/pdf,7/25/2020,Grant,Nebraska,United States,40.747222,-101.709999,1,0,Fatal,fatal,True
+101670,CEN20CA307,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101670/pdf,7/25/2020,Imperial,Nebraska,United States,40.406944,-101.6175,0,1,Non-Fatal,non-fatal,False
+101690,CEN20CA316,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101690/pdf,7/27/2020,Hebron,Nebraska,United States,40.151943,-97.584442,0,0,Non-Fatal,non-fatal,False
+101768,CEN20CA331,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101768/pdf,7/27/2020,Hartington,Nebraska,United States,42.603054,-97.253608,0,0,Non-Fatal,non-fatal,False
+101814,CEN20CA347,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101814/pdf,8/18/2020,Scottsbluff,Nebraska,United States,41.860404,-103.66091,0,0,Non-Fatal,non-fatal,False
+101860,CEN20LA364,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101860/pdf,8/24/2020,Ogallala,Nebraska,United States,41.1175,-101.804725,0,0,Non-Fatal,non-fatal,False
+101921,CEN20LA381,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101921/pdf,8/18/2020,Ord,Nebraska,United States,41.623611,-98.951942,0,0,Non-Fatal,non-fatal,False
+102449,CEN21LA097,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102449/pdf,12/18/2020,Albion,Nebraska,United States,41.728577,-98.05576,0,0,Non-Fatal,non-fatal,False
+102722,CEN21FA150,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102722/pdf,3/6/2021,Berwyn,Nebraska,United States,41.1965,-99.4836,1,0,Fatal,fatal,True
+103007,CEN21LA206,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103007/pdf,4/18/2021,Curtis,Nebraska,United States,40.63875,-100.47341,0,0,Non-Fatal,non-fatal,False
+103179,CEN21LA242,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103179/pdf,5/30/2021,Omaha,Nebraska,United States,41.369612,-96.022191,0,0,Non-Fatal,non-fatal,False
+103259,CEN21LA264,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103259/pdf,6/13/2021,Elwood,Nebraska,United States,40.70839,-99.83443,0,0,Non-Fatal,non-fatal,False
+103606,CEN21LA348,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103606/pdf,7/30/2021,Merry,Nebraska,United States,42.22387,-96.5997,0,1,Non-Fatal,non-fatal,False
+103626,CEN21LA351,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103626/pdf,8/2/2021,Rushville,Nebraska,United States,42.846558,-102.51894,0,2,Non-Fatal,non-fatal,False
+104188,CEN22FA023,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104188/pdf,10/31/2021,Harrison,Nebraska,United States,42.791395,-104.00842,2,0,Fatal,fatal,True
+104284,CEN22FA042,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104284/pdf,11/21/2021,Chadron,Nebraska,United States,42.84705,-103.11431,3,0,Fatal,fatal,True

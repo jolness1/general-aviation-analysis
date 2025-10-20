@@ -1,0 +1,133 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+82949,CEN12LA167,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82949/pdf,2/19/2012,Clarinda,Iowa,United States,40.705554,-95.04972,1,0,Fatal,fatal,True
+83240,CEN12LA209,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83240/pdf,3/28/2012,Larchwood,Iowa,United States,43.451389,-96.40583,1,0,Fatal,fatal,True
+83247,CEN12CA213,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83247/pdf,3/24/2012,Council Bluffs,Iowa,United States,41.259998,-95.758613,0,0,Non-Fatal,non-fatal,False
+83294,CEN12LA224,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83294/pdf,4/1/2012,Winterset,Iowa,United States,41.329479,-94.01062,0,0,Non-Fatal,non-fatal,False
+83415,CEN12LA247,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83415/pdf,4/17/2012,Grinnell,Iowa,United States,41.709999,-92.736114,0,0,Non-Fatal,non-fatal,False
+83865,CEN12LA340,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83865/pdf,6/4/2012,Manchester,Iowa,United States,42.490276,-91.497779,1,0,Fatal,fatal,True
+84119,CEN12CA402,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84119/pdf,6/26/2012,Grinnell,Iowa,United States,41.705833,-92.734725,0,0,Non-Fatal,non-fatal,False
+84144,CEN12LA408,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84144/pdf,6/30/2012,Griswold,Iowa,United States,41.333332,-95.083335,0,1,Non-Fatal,non-fatal,False
+84284,CEN12CA435,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84284/pdf,7/9/2012,Treynor,Iowa,United States,41.189723,-95.586669,0,0,Non-Fatal,non-fatal,False
+84319,CEN12LA441,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84319/pdf,7/14/2012,Elkader,Iowa,United States,42.847221,-91.382225,0,1,Non-Fatal,non-fatal,False
+84323,CEN12LA443,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84323/pdf,7/14/2012,Red Oak,Iowa,United States,41.086112,-95.263053,0,0,Non-Fatal,non-fatal,False
+84358,CEN12LA453,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84358/pdf,7/17/2012,Britt,Iowa,United States,43.121112,-93.746948,1,0,Fatal,fatal,True
+84543,CEN12CA503,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84543/pdf,7/29/2012,Keokuk,Iowa,United States,40.45972,-91.428611,0,0,Non-Fatal,non-fatal,False
+84919,CEN12LA602,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84919/pdf,9/1/2012,Davenport,Iowa,United States,41.610279,-90.588333,1,0,Fatal,fatal,True
+84937,CEN12CA607,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84937/pdf,8/31/2012,Council Bluffs,Iowa,United States,41.256111,-95.755279,0,0,Non-Fatal,non-fatal,False
+85023,CEN12LA629,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85023/pdf,9/12/2012,Clinton,Iowa,United States,41.830833,-90.328887,0,0,Non-Fatal,non-fatal,False
+85184,CEN12LA667,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85184/pdf,9/30/2012,Decorah,Iowa,United States,43.271945,-91.736946,0,0,Non-Fatal,non-fatal,False
+85687,CEN13FA078,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85687/pdf,11/28/2012,Clutier,Iowa,United States,42.086112,-92.442222,1,1,Fatal,fatal,True
+85712,CEN13FA082,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85712/pdf,12/1/2012,Correctionville,Iowa,United States,42.449722,-95.81639,2,1,Fatal,fatal,True
+85724,CEN13CA087,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85724/pdf,11/20/2012,Red Oak,Iowa,United States,41.010833,-95.258613,0,0,Non-Fatal,non-fatal,False
+85944,CEN13FA122,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85944/pdf,1/2/2013,Clear Lake,Iowa,United States,43.142776,-93.48278,3,0,Fatal,fatal,True
+86020,CEN13CA133,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86020/pdf,1/11/2013,Ankeny,Iowa,United States,41.691112,-93.56639,0,0,Non-Fatal,non-fatal,False
+86709,CEN13CA238,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86709/pdf,4/23/2013,Lanesboro,Iowa,United States,42.161388,-94.633888,0,0,Non-Fatal,non-fatal,False
+86944,CEN13LA287,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86944/pdf,5/18/2013,Oskaloosa,Iowa,United States,41.200443,-92.499183,0,0,Non-Fatal,non-fatal,False
+86956,CEN13CA289,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86956/pdf,5/13/2013,Ankeny,Iowa,United States,41.691112,-93.56639,0,0,Non-Fatal,non-fatal,False
+86965,CEN13CA290,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86965/pdf,5/12/2013,Pella,Iowa,United States,41.401111,-92.945831,0,0,Non-Fatal,non-fatal,False
+87152,CEN13CA337,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87152/pdf,6/8/2013,Vinton,Iowa,United States,42.217777,-92.022224,0,0,Non-Fatal,non-fatal,False
+87629,CEN13CA449,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87629/pdf,7/27/2013,Grinnell,Iowa,United States,41.740459,-92.72097,0,0,Non-Fatal,non-fatal,False
+87697,CEN13LA463,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87697/pdf,8/6/2013,Vinton,Iowa,United States,42.176666,-91.980834,0,0,Non-Fatal,non-fatal,False
+87762,CEN13LA484,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87762/pdf,8/12/2013,Larchwood,Iowa,United States,43.401943,-96.409446,0,0,Non-Fatal,non-fatal,False
+87837,CEN13LA500,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87837/pdf,8/16/2013,Brooklyn,Iowa,United States,41.745555,-92.409164,1,0,Fatal,fatal,True
+87960,CEN13CA522,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87960/pdf,8/25/2013,Iowa City,Iowa,United States,41.63972,-91.548057,0,0,Non-Fatal,non-fatal,False
+87989,CEN13CA529,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87989/pdf,9/4/2013,Council Bluff,Iowa,United States,41.259998,-95.758613,0,0,Non-Fatal,non-fatal,False
+87997,CEN13LA533,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87997/pdf,9/6/2013,Atlantic,Iowa,United States,41.390102,-95.009849,0,0,Non-Fatal,non-fatal,False
+88167,CEN13LA570,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88167/pdf,9/29/2013,Algona,Iowa,United States,43.075279,-94.268058,0,0,Non-Fatal,non-fatal,False
+88797,CEN14LA138,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88797/pdf,2/11/2014,Marion,Iowa,United States,42.029392,-91.580513,0,0,Non-Fatal,non-fatal,False
+89306,CEN14CA264,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89306/pdf,5/21/2014,Rockwell City,Iowa,United States,42.387779,-94.618614,0,0,Non-Fatal,non-fatal,False
+89403,CEN14LA281,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89403/pdf,6/5/2014,Lamoni,Iowa,United States,40.633056,-93.901947,0,2,Non-Fatal,non-fatal,False
+89505,CEN14LA305,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89505/pdf,6/22/2014,Fairfield,Iowa,United States,41.055831,-91.980834,1,0,Fatal,fatal,True
+89860,CEN14LA424,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89860/pdf,8/9/2014,Russell,Iowa,United States,40.883609,-93.183891,2,0,Fatal,fatal,True
+90003,CEN14LA472,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90003/pdf,9/1/2014,Marshalltown,Iowa,United States,43.584999,-92.841941,0,0,Non-Fatal,non-fatal,False
+90041,CEN14LA487,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90041/pdf,9/6/2014,Macedonia,Iowa,United States,41.182498,-95.535552,1,0,Fatal,fatal,True
+90056,CEN14LA493,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90056/pdf,9/3/2014,Vinton,Iowa,United States,42.218612,-92.025833,0,0,Non-Fatal,non-fatal,False
+90245,CEN15FA008,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90245/pdf,10/13/2014,Dubuque,Iowa,United States,42.42139,-90.729446,1,0,Fatal,fatal,True
+90928,GAA15LA019,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90928/pdf,3/9/2015,Garrison,Iowa,United States,42.143611,-92.143058,0,0,Non-Fatal,non-fatal,False
+91050,CEN15CA203,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91050/pdf,4/18/2015,Independence,Iowa,United States,42.45,-91.947776,0,0,Non-Fatal,non-fatal,False
+91377,GAA15CA125,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91377/pdf,6/6/2015,Waterloo,Iowa,United States,42.562778,-92.401947,0,0,Non-Fatal,non-fatal,False
+91434,GAA15CA137,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91434/pdf,6/24/2015,Charles City,Iowa,United States,43.072498,-92.610832,0,0,Non-Fatal,non-fatal,False
+91609,GAA15CA193,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91609/pdf,7/18/2015,Oxford,Iowa,United States,41.758335,-91.721107,0,0,Non-Fatal,non-fatal,False
+91649,CEN15LA322,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91649/pdf,7/24/2015,Gilbert,Iowa,United States,42.169445,-93.641113,0,0,Non-Fatal,non-fatal,False
+91745,CEN15LA344,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91745/pdf,8/9/2015,Humboldt,Iowa,United States,42.754722,-94.198608,1,1,Fatal,fatal,True
+91831,CEN15LA370,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91831/pdf,8/18/2015,Cresco,Iowa,United States,43.365276,-92.133056,0,0,Non-Fatal,non-fatal,False
+91853,CEN15LA377,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91853/pdf,8/12/2015,Sac City,Iowa,United States,42.425834,-94.961669,0,0,Non-Fatal,non-fatal,False
+91974,CEN15LA412,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91974/pdf,9/12/2015,Stuart,Iowa,United States,41.496944,-94.327499,0,0,Non-Fatal,non-fatal,False
+92201,CEN16LA032,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92201/pdf,10/8/2015,Red Oak,Iowa,United States,41.011665,-95.227218,0,0,Non-Fatal,non-fatal,False
+92430,CEN16FA062,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92430/pdf,12/10/2015,Council Bluffs,Iowa,United States,41.292221,-95.867225,1,0,Fatal,fatal,True
+92525,GAA16CA093,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92525/pdf,1/2/2016,Newton,Iowa,United States,41.674446,-93.021667,0,0,Non-Fatal,non-fatal,False
+92870,GAA16CA154,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92870/pdf,3/22/2016,Allison,Iowa,United States,42.761943,-92.804725,0,0,Non-Fatal,non-fatal,False
+93234,GAA16CA257,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93234/pdf,5/19/2016,Vinton,Iowa,United States,42.218612,-92.023056,0,0,Non-Fatal,non-fatal,False
+93247,CEN16LA196,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93247/pdf,5/19/2016,West Des Moines,Iowa,United States,41.526111,-93.741111,0,1,Non-Fatal,non-fatal,False
+93693,GAA16CA393,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93693/pdf,7/25/2016,What Cheer,Iowa,United States,41.427776,-92.377777,0,0,Non-Fatal,non-fatal,False
+93700,CEN16LA289,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93700/pdf,7/22/2016,Lake Mills,Iowa,United States,43.3875,-93.621665,0,0,Non-Fatal,non-fatal,False
+93714,CEN16LA292,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93714/pdf,7/29/2016,Sac City,Iowa,United States,42.36,-94.984725,1,0,Fatal,fatal,True
+93787,CEN16LA310,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93787/pdf,8/5/2016,Indianola,Iowa,United States,41.415279,-93.561386,2,0,Fatal,fatal,True
+93805,CEN16LA316,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93805/pdf,8/9/2016,Winterset,Iowa,United States,41.364723,-94.024169,0,0,Non-Fatal,non-fatal,False
+93827,CEN16LA320,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93827/pdf,8/13/2016,Des Moines,Iowa,United States,41.555557,-93.69139,0,0,Non-Fatal,non-fatal,False
+93971,CEN16FA361,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93971/pdf,9/7/2016,Chariton,Iowa,United States,41.090278,-93.108612,1,0,Fatal,fatal,True
+94060,GAA16CA501,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94060/pdf,9/21/2016,Ottumwa,Iowa,United States,41.106388,-92.449722,0,0,Non-Fatal,non-fatal,False
+94972,CEN17FA147,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94972/pdf,4/7/2017,Oxford,Iowa,United States,41.656665,-91.698059,2,0,Fatal,fatal,True
+95011,CEN17LA156,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95011/pdf,4/17/2017,Knoxville,Iowa,United States,41.326389,-93.092498,0,0,Non-Fatal,non-fatal,False
+95030,GAA17CA238,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95030/pdf,4/17/2017,Indianola,Iowa,United States,41.301387,-93.567497,0,0,Non-Fatal,non-fatal,False
+95293,GAA17CA317,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95293/pdf,6/3/2017,Guttenberg,Iowa,United States,42.8125,-91.098892,0,0,Non-Fatal,non-fatal,False
+95368,GAA17CA338,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95368/pdf,6/14/2017,Estherville,Iowa,United States,43.404445,-94.745552,0,0,Non-Fatal,non-fatal,False
+95474,CEN17FA249,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95474/pdf,7/1/2017,Monticello,Iowa,United States,42.219722,-91.158332,1,0,Fatal,fatal,True
+95548,CEN17LA263,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95548/pdf,7/9/2017,Corydon,Iowa,United States,40.775276,-93.23278,0,2,Non-Fatal,non-fatal,False
+95620,GAA17CA422,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95620/pdf,7/15/2017,Marion,Iowa,United States,42.031112,-91.531944,0,0,Non-Fatal,non-fatal,False
+95645,GAA17CA433,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95645/pdf,7/22/2017,Bode,Iowa,United States,42.904167,-94.23722,0,0,Non-Fatal,non-fatal,False
+95655,GAA17CA436,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95655/pdf,7/24/2017,Toterville,Iowa,United States,43.438888,-92.782218,0,0,Non-Fatal,non-fatal,False
+95988,CEN17CA346,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95988/pdf,7/20/2017,Logan,Iowa,United States,41.643054,-95.789169,0,0,Non-Fatal,non-fatal,False
+96292,CEN18LA025,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96292/pdf,11/6/2017,Larchwood,Iowa,United States,43.382221,-96.439163,0,2,Non-Fatal,non-fatal,False
+96469,CEN18LA051,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96469/pdf,12/9/2017,Algona,Iowa,United States,43.078056,-94.271942,0,0,Non-Fatal,non-fatal,False
+96473,GAA17CA578,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96473/pdf,7/3/2017,Eagle Grove,Iowa,United States,42.712501,-93.919998,0,0,Non-Fatal,non-fatal,False
+96531,CEN18FA060,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96531/pdf,12/23/2017,Oskaloosa,Iowa,United States,41.344165,-92.66278,1,0,Fatal,fatal,True
+96855,GAA18CA156,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96855/pdf,3/11/2018,Cedar Rapids,Iowa,United States,41.88639,-91.706947,0,0,Non-Fatal,non-fatal,False
+96990,CEN18LA137,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96990/pdf,4/5/2018,Maxwell,Iowa,United States,41.8402,-92.6146,0,1,Non-Fatal,non-fatal,False
+97299,CEN18CA185,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97299/pdf,5/16/2018,Harlan,Iowa,United States,41.586944,-95.336669,0,0,Non-Fatal,non-fatal,False
+97386,GAA18CA317,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97386/pdf,5/28/2018,Vinton,Iowa,United States,42.218612,-92.025833,0,0,Non-Fatal,non-fatal,False
+97464,GAA18CA341,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97464/pdf,6/10/2018,Marion,Iowa,United States,42.029724,-91.531669,0,0,Non-Fatal,non-fatal,False
+97734,GAA18CA412,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97734/pdf,6/29/2018,Spencer,Iowa,United States,43.165554,-95.202774,0,0,Non-Fatal,non-fatal,False
+97815,CEN18LA278,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97815/pdf,7/17/2018,Vinton,Iowa,United States,42.21934,-92.03833,0,0,Non-Fatal,non-fatal,False
+97850,CEN18LA288,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97850/pdf,7/22/2018,Milford,Iowa,United States,43.302501,-95.0625,0,0,Non-Fatal,non-fatal,False
+97934,GAA18CA453,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97934/pdf,7/27/2018,Elma,Iowa,United States,43.33472,-92.384445,0,0,Non-Fatal,non-fatal,False
+98277,GAA18CA545,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98277/pdf,9/8/2018,Mason City,Iowa,United States,43.153057,-93.336112,0,0,Non-Fatal,non-fatal,False
+98396,GAA19CA001,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98396/pdf,10/1/2018,Keokuk,Iowa,United States,40.459999,-91.452224,0,0,Non-Fatal,non-fatal,False
+98621,WPR19FA022,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98621/pdf,11/9/2018,Guthrie Center,Iowa,United States,41.620277,-94.521942,4,0,Fatal,fatal,True
+99142,GAA19CA172,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99142/pdf,3/11/2019,Oskaloosa,Iowa,United States,41.226112,-92.493888,0,0,Non-Fatal,non-fatal,False
+99143,GAA19CA173,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99143/pdf,3/15/2019,Independence,Iowa,United States,42.456943,-91.947776,0,0,Non-Fatal,non-fatal,False
+99213,GAA19CA193,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99213/pdf,3/26/2019,Pella,Iowa,United States,41.401111,-92.945831,0,0,Non-Fatal,non-fatal,False
+99679,GAA19CA363,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99679/pdf,6/20/2019,Elkader,Iowa,United States,42.847221,-91.382225,0,0,Non-Fatal,non-fatal,False
+99869,GAA19CA428,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99869/pdf,7/16/2019,Council Bluff,Iowa,United States,41.234443,-95.746391,0,0,Non-Fatal,non-fatal,False
+99895,CEN19LA230,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99895/pdf,7/21/2019,Ida Grove,Iowa,United States,42.340831,-95.538055,0,0,Non-Fatal,non-fatal,False
+100022,CEN19FA259,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100022/pdf,8/8/2019,Sumner,Iowa,United States,42.847778,-92.116943,1,0,Fatal,fatal,True
+100268,CEN19LA322,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100268/pdf,9/6/2019,Pocahontas,Iowa,United States,42.742778,-94.647224,0,0,Non-Fatal,non-fatal,False
+100490,CEN20LA014,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100490/pdf,10/24/2019,Swea City,Iowa,United States,43.384166,-94.320274,0,0,Non-Fatal,non-fatal,False
+100848,CEN20CA064,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100848/pdf,1/21/2020,Independence,Iowa,United States,42.456111,-91.945274,0,1,Non-Fatal,non-fatal,False
+101069,CEN20CA120,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101069/pdf,3/11/2020,Ankeny,Iowa,United States,41.695278,-93.568611,0,1,Non-Fatal,non-fatal,False
+101136,CEN20LA136,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101136/pdf,3/31/2020,Audubon,Iowa,United States,41.659911,-94.763558,2,0,Fatal,fatal,True
+101164,CEN20LA145,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101164/pdf,4/10/2020,Sidney,Iowa,United States,40.82611,-95.67028,0,0,Non-Fatal,non-fatal,False
+101194,CEN20CA155,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101194/pdf,4/23/2020,Independence,Iowa,United States,42.456943,-91.947776,0,0,Non-Fatal,non-fatal,False
+101487,CEN20CA244,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101487/pdf,6/23/2020,Pisgah,Iowa,United States,41.83139,-95.925552,0,1,Non-Fatal,non-fatal,False
+101509,CEN20CA253,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101509/pdf,6/27/2020,Davenport,Iowa,United States,41.612499,-90.588333,0,0,Non-Fatal,non-fatal,False
+101537,CEN20LA261,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101537/pdf,7/3/2020,Des Moines,Iowa,United States,41.518333,-93.682502,0,0,Non-Fatal,non-fatal,False
+101583,CEN20LA276,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101583/pdf,7/12/2020,Keokuk,Iowa,United States,40.442779,-91.424163,0,0,Non-Fatal,non-fatal,False
+101640,CEN20LA294,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101640/pdf,7/20/2020,Harlan,Iowa,United States,41.650791,-95.319587,0,0,Non-Fatal,non-fatal,False
+101766,CEN20LA330,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101766/pdf,8/8/2020,Logan,Iowa,United States,41.631665,-95.793459,0,1,Non-Fatal,non-fatal,False
+101925,CEN20LA385,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101925/pdf,9/5/2020,Red Oak,Iowa,United States,41.010158,-95.220352,0,2,Non-Fatal,non-fatal,False
+102579,CEN21LA118,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102579/pdf,1/28/2021,Davenport,Iowa,United States,41.614972,-90.587418,0,0,Non-Fatal,non-fatal,False
+102676,CEN21LA138,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102676/pdf,2/24/2021,Millville,Iowa,United States,42.7,-91.0743,0,0,Non-Fatal,non-fatal,False
+103011,CEN21FA207,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103011/pdf,5/2/2021,Oxford,Iowa,United States,41.752565,-91.718851,1,0,Fatal,fatal,True
+103236,CEN21LA257,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103236/pdf,6/1/2021,Wallingford,Iowa,United States,43.319727,-94.800286,0,0,Non-Fatal,non-fatal,False
+103396,CEN21FA299,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103396/pdf,7/1/2021,Lamoni,Iowa,United States,40.630195,-93.902882,2,0,Fatal,fatal,True
+103453,CEN21LA313,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103453/pdf,7/11/2021,Newell,Iowa,United States,42.634578,-94.981444,0,0,Non-Fatal,non-fatal,False
+103480,CEN21LA319,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103480/pdf,7/13/2021,Carroll,Iowa,United States,42.0656,94.8673,0,0,Non-Fatal,non-fatal,False
+103481,CEN21FA320,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103481/pdf,7/14/2021,Muscatine,Iowa,United States,41.493333,-91.049722,2,0,Fatal,fatal,True
+103512,CEN21LA329,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103512/pdf,7/19/2021,Amana,Iowa,United States,41.794664,-91.865018,0,0,Non-Fatal,non-fatal,False
+103560,CEN21LA339,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103560/pdf,7/20/2021,West Liberty ,Iowa,United States,41.57,-91.2638,0,0,Non-Fatal,non-fatal,False
+103624,CEN21LA350,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103624/pdf,8/4/2021,Waukon,Iowa,United States,43.261185,-91.375664,0,0,Non-Fatal,non-fatal,False
+103787,CEN21LA393,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103787/pdf,9/1/2021,Storm Lake,Iowa,United States,42.643,-95.2019,0,0,Non-Fatal,non-fatal,False
+103816,CEN21LA406,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103816/pdf,9/6/2021,Kingsley,Iowa,United States,42.589344,-95.878157,0,0,Non-Fatal,non-fatal,False
+103861,CEN21LA419,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103861/pdf,9/9/2021,Marshalltown,Iowa,United States,42.1226,-92.9455,0,0,Non-Fatal,non-fatal,False
+103918,CEN21LA433,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103918/pdf,9/15/2021,Council Bluffs,Iowa,United States,41.260111,-95.758639,0,0,Non-Fatal,non-fatal,False
+104447,CEN22LA084,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104447/pdf,12/20/2021,Dubuque ,Iowa,United States,42.5063,-90.6677,0,0,Non-Fatal,non-fatal,False

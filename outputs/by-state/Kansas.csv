@@ -1,0 +1,176 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+82691,CEN12LA135,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82691/pdf,1/13/2012,El Dorado,Kansas,United States,37.819248,-96.850662,0,0,Non-Fatal,non-fatal,False
+83273,CEN12CA219,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83273/pdf,3/31/2012,Emporia,Kansas,United States,38.423053,-96.371948,0,0,Non-Fatal,non-fatal,False
+83326,CEN12CA233,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83326/pdf,4/7/2012,Marienthal,Kansas,United States,38.487499,-101.223609,0,0,Non-Fatal,non-fatal,False
+83339,CEN12LA236,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83339/pdf,4/9/2012,Lakin,Kansas,United States,37.977222,-101.20333,0,1,Non-Fatal,non-fatal,False
+83546,CEN12LA267,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83546/pdf,5/2/2012,Valley Falls,Kansas,United States,39.339851,-95.460609,0,0,Non-Fatal,non-fatal,False
+83600,CEN12LA288,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83600/pdf,5/9/2012,Rose Hill,Kansas,United States,37.539886,-97.250915,0,0,Non-Fatal,non-fatal,False
+83610,CEN12FA290,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83610/pdf,5/11/2012,Chanute,Kansas,United States,37.638332,-96.613052,4,1,Fatal,fatal,True
+83661,CEN12LA304,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83661/pdf,5/14/2012,El Dorado,Kansas,United States,37.77111,-96.817222,0,0,Non-Fatal,non-fatal,False
+83746,CEN12CA315,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83746/pdf,5/25/2012,Wichita,Kansas,United States,37.741943,-97.219444,0,0,Non-Fatal,non-fatal,False
+83872,CEN12CA342,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83872/pdf,5/26/2012,Fort Scott,Kansas,United States,37.798332,-94.769165,0,0,Non-Fatal,non-fatal,False
+83983,CEN12LA373,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83983/pdf,6/6/2012,Gardner,Kansas,United States,38.644721,-94.96083,0,0,Non-Fatal,non-fatal,False
+84423,CEN12LA471,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84423/pdf,7/21/2012,Augusta,Kansas,United States,37.671665,-97.077774,0,0,Non-Fatal,non-fatal,False
+84529,CEN12CA499,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84529/pdf,7/30/2012,Hutchinson,Kansas,United States,38.065277,-97.860557,0,0,Non-Fatal,non-fatal,False
+84569,CEN12LA514,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84569/pdf,8/3/2012,Holcomb,Kansas,United States,37.98611,-100.989166,0,0,Non-Fatal,non-fatal,False
+84586,CEN12FA521,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84586/pdf,8/6/2012,Lakin,Kansas,United States,37.984443,-101.326667,0,0,Non-Fatal,non-fatal,False
+84694,CEN12LA549,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84694/pdf,7/28/2012,Rose Hill,Kansas,United States,37.566665,-97.175003,0,0,Non-Fatal,non-fatal,False
+84703,CEN12LA551,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84703/pdf,8/16/2012,Holton,Kansas,United States,39.453887,-95.788887,0,2,Non-Fatal,non-fatal,False
+84716,CEN12LA552,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84716/pdf,8/17/2012,Tribune,Kansas,United States,38.468887,-101.752777,0,1,Non-Fatal,non-fatal,False
+84733,CEN12LA558,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84733/pdf,8/17/2012,Ruleton,Kansas,United States,39.340473,-101.699836,0,0,Non-Fatal,non-fatal,False
+85010,CEN12CA624,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85010/pdf,9/11/2012,Salina,Kansas,United States,38.790554,-97.652221,0,0,Non-Fatal,non-fatal,False
+86182,CEN13CA153,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86182/pdf,2/8/2013,Herington,Kansas,United States,38.694721,-96.807777,0,0,Non-Fatal,non-fatal,False
+86395,CEN13LA188,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86395/pdf,3/7/2013,Olathe,Kansas,United States,38.847499,-94.737503,0,0,Non-Fatal,non-fatal,False
+86756,CEN13LA245,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86756/pdf,4/26/2013,Hoxie,Kansas,United States,39.363887,-100.45639,0,0,Non-Fatal,non-fatal,False
+86800,CEN13LA254,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86800/pdf,5/1/2013,Lawrence,Kansas,United States,38.921943,-95.190834,0,1,Non-Fatal,non-fatal,False
+86823,CEN13LA263,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86823/pdf,5/5/2013,Udall,Kansas,United States,37.37907,-97.110755,0,0,Non-Fatal,non-fatal,False
+86830,CEN13LA260,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86830/pdf,5/7/2013,Lyons,Kansas,United States,36.341945,-98.221664,0,0,Non-Fatal,non-fatal,False
+86848,CEN13LA265,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86848/pdf,5/8/2013,Lyons,Kansas,United States,38.328334,-98.209724,0,0,Non-Fatal,non-fatal,False
+86900,CEN13CA278,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86900/pdf,5/11/2013,Anthony,Kansas,United States,37.158611,-98.079719,0,0,Non-Fatal,non-fatal,False
+86901,CEN13CA279,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86901/pdf,5/13/2013,Meriden,Kansas,United States,39.158332,-95.591667,0,0,Non-Fatal,non-fatal,False
+86906,CEN13LA280,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86906/pdf,5/14/2013,Galena,Kansas,United States,37.068889,-94.664718,0,0,Non-Fatal,non-fatal,False
+87103,CEN13CA319,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87103/pdf,5/25/2013,Emporia,Kansas,United States,38.330554,-96.18972,0,0,Non-Fatal,non-fatal,False
+87183,CEN13LA346,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87183/pdf,6/11/2013,St Francis,Kansas,United States,39.759445,-101.786666,0,0,Non-Fatal,non-fatal,False
+87477,CEN13CA411,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87477/pdf,7/14/2013,Rose Hill,Kansas,United States,37.543056,-97.171386,0,0,Non-Fatal,non-fatal,False
+87526,CEN13CA423,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87526/pdf,7/20/2013,Augusta,Kansas,United States,37.675834,-96.885276,0,0,Non-Fatal,non-fatal,False
+87591,CEN13LA439,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87591/pdf,7/28/2013,Lucas,Kansas,United States,39.030277,-98.589447,1,0,Fatal,fatal,True
+87642,CEN13CA453,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87642/pdf,7/31/2013,Ellinwood,Kansas,United States,38.372776,-98.598609,0,0,Non-Fatal,non-fatal,False
+88132,CEN13LA561,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88132/pdf,9/25/2013,Ulysses,Kansas,United States,37.68222,-101.453613,0,0,Non-Fatal,non-fatal,False
+88193,CEN14LA008,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88193/pdf,10/15/2013,Wichita,Kansas,United States,37.747776,-97.221107,0,0,Non-Fatal,non-fatal,False
+88235,CEN14FA009,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88235/pdf,10/18/2013,Derby,Kansas,United States,37.522499,-97.217498,2,0,Fatal,fatal,True
+88369,CEN14LA033,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88369/pdf,10/31/2013,Wellington,Kansas,United States,37.322776,-97.388336,0,0,Non-Fatal,non-fatal,False
+88418,CEN14LA050,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88418/pdf,11/9/2013,Concordia,Kansas,United States,39.558055,-97.653053,0,0,Non-Fatal,non-fatal,False
+88615,CEN14CA096,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88615/pdf,12/30/2013,Concordia,Kansas,United States,39.549167,-97.652221,0,0,Non-Fatal,non-fatal,False
+88834,CEN14LA148,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88834/pdf,2/22/2014,Tribune,Kansas,United States,38.470973,-101.750526,1,0,Fatal,fatal,True
+88876,CEN14CA152,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88876/pdf,2/13/2014,Ellsworth,Kansas,United States,38.750278,-98.229164,0,0,Non-Fatal,non-fatal,False
+89099,CEN14LA211,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89099/pdf,4/22/2014,Garfield,Kansas,United States,38.076389,-99.245002,1,0,Fatal,fatal,True
+89440,CEN14FA288,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89440/pdf,6/8/2014,Great Bend,Kansas,United States,38.468887,-98.834999,2,0,Fatal,fatal,True
+89551,CEN14CA323,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89551/pdf,6/19/2014,Wichita,Kansas,United States,37.650001,-97.433052,0,0,Non-Fatal,non-fatal,False
+89570,CEN14CA330,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89570/pdf,5/19/2014,Douglass,Kansas,United States,37.514167,-96.992774,0,0,Non-Fatal,non-fatal,False
+89603,CEN14CA338,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89603/pdf,7/2/2014,Olathe,Kansas,United States,38.853889,-94.735275,0,0,Non-Fatal,non-fatal,False
+89653,CEN14LA357,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89653/pdf,7/7/2014,Wichita,Kansas,United States,37.650119,-97.430648,0,0,Non-Fatal,non-fatal,False
+89688,CEN14LA375,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89688/pdf,7/18/2014,Fairview,Kansas,United States,39.853889,-95.729721,0,0,Non-Fatal,non-fatal,False
+89692,CEN14LA376,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89692/pdf,7/17/2014,Ellis,Kansas,United States,39.023887,-99.457221,1,0,Fatal,fatal,True
+89873,CEN14CA427,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89873/pdf,8/13/2014,Cimarron,Kansas,United States,37.939998,-100.309997,0,1,Non-Fatal,non-fatal,False
+89895,CEN14LA436,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89895/pdf,8/16/2014,Augusta,Kansas,United States,37.671665,-97.077774,0,0,Non-Fatal,non-fatal,False
+89964,CEN14LA461,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89964/pdf,8/27/2014,El Dorado,Kansas,United States,37.773612,-96.816665,0,0,Non-Fatal,non-fatal,False
+90333,CEN15FA034,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90333/pdf,10/30/2014,Wichita,Kansas,United States,37.6525,-97.429725,4,2,Fatal,fatal,True
+90616,CEN15LA107,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90616/pdf,1/14/2015,Dodge City,Kansas,United States,37.746665,-99.967498,0,1,Non-Fatal,non-fatal,False
+90733,CEN15LA146,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90733/pdf,2/13/2015,Haviland,Kansas,United States,37.608333,-99.115554,0,0,Non-Fatal,non-fatal,False
+90828,CEN15FA163,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90828/pdf,3/7/2015,Pratt,Kansas,United States,37.611667,-98.619163,1,0,Fatal,fatal,True
+90954,CEN15CA184,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90954/pdf,3/28/2015,Burdett,Kansas,United States,38.184165,-99.533889,0,0,Non-Fatal,non-fatal,False
+90972,CEN15FA187,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90972/pdf,3/31/2015,Pleasanton,Kansas,United States,38.203609,-94.74028,2,0,Fatal,fatal,True
+91048,CEN15CA201,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91048/pdf,3/31/2015,Derby,Kansas,United States,37.555,-97.344169,0,0,Non-Fatal,non-fatal,False
+91152,CEN15LA226,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91152/pdf,5/10/2015,Dighton,Kansas,United States,38.489723,-100.479721,0,0,Non-Fatal,non-fatal,False
+91194,GAA15CA077,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91194/pdf,5/17/2015,Wellington,Kansas,United States,37.328887,-97.388336,0,0,Non-Fatal,non-fatal,False
+91228,CEN15FA240,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91228/pdf,5/25/2015,Syracuse,Kansas,United States,37.980976,-101.749114,1,0,Fatal,fatal,True
+91433,GAA15CA136,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91433/pdf,6/6/2015,Cottonwood Falls,Kansas,United States,38.358055,-96.543891,0,0,Non-Fatal,non-fatal,False
+91497,CEN15LA294,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91497/pdf,7/1/2015,Louisburg,Kansas,United States,38.5625,-94.625274,0,0,Non-Fatal,non-fatal,False
+91552,GAA15CA178,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91552/pdf,7/4/2015,Newton,Kansas,United States,38.055831,-97.27639,0,0,Non-Fatal,non-fatal,False
+91683,CEN15LA330,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91683/pdf,7/31/2015,Emmett,Kansas,United States,39.30722,-96.056388,0,0,Non-Fatal,non-fatal,False
+91800,GAA15CA226,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91800/pdf,8/4/2015,Kingman,Kansas,United States,37.670276,-98.125831,0,0,Non-Fatal,non-fatal,False
+92050,GAA15CA274,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92050/pdf,9/16/2015,Herington,Kansas,United States,38.697498,-96.808052,0,0,Non-Fatal,non-fatal,False
+92061,CEN15FA425,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92061/pdf,9/25/2015,Wichita,Kansas,United States,37.677776,-97.459999,1,0,Fatal,fatal,True
+92076,CEN15LA431,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92076/pdf,9/28/2015,Gardner,Kansas,United States,38.809722,-94.958053,0,1,Non-Fatal,non-fatal,False
+92238,GAA16CA028,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92238/pdf,10/24/2015,Goodland,Kansas,United States,39.370555,-101.69889,0,0,Non-Fatal,non-fatal,False
+92249,CEN16LA023,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92249/pdf,10/24/2015,New Century,Kansas,United States,38.830833,-94.890274,0,0,Non-Fatal,non-fatal,False
+92412,GAA16CA070,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92412/pdf,12/2/2015,Sharon,Kansas,United States,37.248889,-98.473335,0,0,Non-Fatal,non-fatal,False
+92603,GAA16CA107,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92603/pdf,1/19/2016,Ottawa,Kansas,United States,38.335277,-95.114997,0,0,Non-Fatal,non-fatal,False
+92630,CEN16LA093,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92630/pdf,1/19/2016,Wichita,Kansas,United States,37.757778,-97.219444,0,0,Non-Fatal,non-fatal,False
+92814,GAA15CA301,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92814/pdf,9/3/2015,Rose Hill,Kansas,United States,37.566387,-97.175003,0,0,Non-Fatal,non-fatal,False
+92869,CEN16LA129,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92869/pdf,3/18/2016,Wichita,Kansas,United States,37.726665,-97.228614,0,0,Non-Fatal,non-fatal,False
+93067,GAA16CA200,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93067/pdf,4/25/2016,Madison,Kansas,United States,38.11111,-96.113891,0,0,Non-Fatal,non-fatal,False
+93133,CEN16LA177,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93133/pdf,4/28/2016,Osage City,Kansas,United States,38.641387,-95.802497,0,0,Non-Fatal,non-fatal,False
+93134,GAA16CA224,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93134/pdf,5/8/2016,Oberlin,Kansas,United States,39.833889,-100.540275,0,0,Non-Fatal,non-fatal,False
+93436,CEN16LA230,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93436/pdf,6/17/2016,Gardner,Kansas,United States,38.806667,-94.956665,0,0,Non-Fatal,non-fatal,False
+93457,GAA16CA331,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93457/pdf,6/17/2016,Salina,Kansas,United States,38.789165,-97.660835,0,0,Non-Fatal,non-fatal,False
+93573,GAA16CA364,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93573/pdf,7/1/2016,Manhattan,Kansas,United States,39.141944,-96.668891,0,0,Non-Fatal,non-fatal,False
+93609,CEN16LA266,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93609/pdf,7/15/2016,Whitewater,Kansas,United States,37.993057,-97.106666,1,0,Fatal,fatal,True
+93624,GAA16CA379,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93624/pdf,7/16/2016,Beaumont,Kansas,United States,37.659168,-96.527778,0,0,Non-Fatal,non-fatal,False
+93656,CEN16CA277,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93656/pdf,7/21/2016,Topeka,Kansas,United States,39.062778,-95.584442,0,0,Non-Fatal,non-fatal,False
+93891,CEN16LA334,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93891/pdf,8/25/2016,Bushton,Kansas,United States,38.506111,-98.39611,0,1,Non-Fatal,non-fatal,False
+94008,GAA16CA484,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94008/pdf,9/11/2016,Olathe,Kansas,United States,38.847499,-94.737503,0,0,Non-Fatal,non-fatal,False
+94065,CEN16LA381,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94065/pdf,9/22/2016,Wichita,Kansas,United States,37.747501,-97.221107,0,0,Non-Fatal,non-fatal,False
+94133,CEN17LA009,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94133/pdf,10/1/2016,Iola,Kansas,United States,37.924446,-95.400001,0,0,Non-Fatal,non-fatal,False
+94136,GAA17CA003,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94136/pdf,10/2/2016,Berryton,Kansas,United States,38.985279,-95.597221,0,0,Non-Fatal,non-fatal,False
+94160,GAA17CA008,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94160/pdf,10/1/2016,Lawrence,Kansas,United States,39.004444,-95.211112,0,0,Non-Fatal,non-fatal,False
+94324,GAA17CA053,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94324/pdf,10/22/2016,Valley Center,Kansas,United States,37.842224,-97.351387,0,0,Non-Fatal,non-fatal,False
+94349,GAA17CA059,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94349/pdf,11/4/2016,Eureka,Kansas,United States,37.847221,-96.292221,0,0,Non-Fatal,non-fatal,False
+94652,GAA17CA123,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94652/pdf,1/24/2017,Wichita,Kansas,United States,37.643611,-97.425834,0,0,Non-Fatal,non-fatal,False
+94814,GAA17CA170,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94814/pdf,3/2/2017,Roxbury,Kansas,United States,38.550834,-97.652778,0,0,Non-Fatal,non-fatal,False
+95010,GAA17CA234,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95010/pdf,4/9/2017,Stafford,Kansas,United States,37.958332,-98.650276,0,0,Non-Fatal,non-fatal,False
+95048,CEN17LA163,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95048/pdf,4/17/2017,Palmer,Kansas,United States,39.561943,-97.188056,0,0,Non-Fatal,non-fatal,False
+95113,GAA17CA260,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95113/pdf,5/2/2017,Olathe,Kansas,United States,38.846389,-94.737503,0,0,Non-Fatal,non-fatal,False
+95126,CEN17LA176,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95126/pdf,5/5/2017,Gypsum,Kansas,United States,38.661388,-97.379722,0,0,Non-Fatal,non-fatal,False
+95148,GAA17CA273,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95148/pdf,5/5/2017,Wellington,Kansas,United States,37.319721,-97.387779,0,0,Non-Fatal,non-fatal,False
+95298,GAA17CA319,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95298/pdf,6/2/2017,Chapman,Kansas,United States,38.918334,-97.010002,0,0,Non-Fatal,non-fatal,False
+95406,GAA17CA351,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95406/pdf,6/10/2017,Lawrence,Kansas,United States,39.011112,-95.216392,0,0,Non-Fatal,non-fatal,False
+95516,GAA17CA390,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95516/pdf,7/7/2017,Topeka,Kansas,United States,39.069168,-95.628051,0,0,Non-Fatal,non-fatal,False
+95581,CEN17FA270,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95581/pdf,7/16/2017,Cummings,Kansas,United States,39.482223,-95.204444,2,0,Fatal,fatal,True
+95601,GAA17CA415,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95601/pdf,7/17/2017,Leavenworth,Kansas,United States,39.3675,-94.914443,0,0,Non-Fatal,non-fatal,False
+95704,GAA17CA449,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95704/pdf,7/22/2017,Atchison,Kansas,United States,39.568054,-95.18,0,0,Non-Fatal,non-fatal,False
+95731,CEN17FA297,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95731/pdf,7/31/2017,Topeka,Kansas,United States,39.068611,-95.622497,2,0,Fatal,fatal,True
+95825,GAA17CA489,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95825/pdf,8/11/2017,Axtell,Kansas,United States,39.870834,-96.259162,0,0,Non-Fatal,non-fatal,False
+95993,GAA17CA531,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95993/pdf,9/12/2017,Kinsley,Kansas,United States,37.908889,-99.403053,0,0,Non-Fatal,non-fatal,False
+96129,CEN17LA372,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96129/pdf,9/28/2017,Westphalia,Kansas,United States,38.185001,-95.483612,0,0,Non-Fatal,non-fatal,False
+96300,CEN18LA027,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96300/pdf,11/5/2017,St Mary's,Kansas,United States,39.197498,-96.073333,0,2,Non-Fatal,non-fatal,False
+96730,GAA18CA124,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96730/pdf,2/3/2018,El Dorado,Kansas,United States,37.869998,-96.690002,0,0,Non-Fatal,non-fatal,False
+96778,CEN18FA108,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96778/pdf,2/22/2018,Ulysses,Kansas,United States,37.652778,-101.370552,2,0,Fatal,fatal,True
+97107,CEN18LA148,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97107/pdf,4/24/2018,Roxbury,Kansas,United States,38.551109,-97.427223,0,1,Non-Fatal,non-fatal,False
+97335,CEN18LA197,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97335/pdf,5/28/2018,Wichita,Kansas,United States,37.651668,-97.383888,0,0,Non-Fatal,non-fatal,False
+97514,CEN18LA230,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97514/pdf,6/18/2018,Beloit,Kansas,United States,39.471111,-98.12889,0,0,Non-Fatal,non-fatal,False
+97650,CEN18LA246,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97650/pdf,6/30/2018,Baldwin City,Kansas,United States,38.836112,-95.181945,0,0,Non-Fatal,non-fatal,False
+97848,CEN18LA286,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97848/pdf,7/20/2018,Coldwater,Kansas,United States,37.222778,-99.331947,0,2,Non-Fatal,non-fatal,False
+97882,GAA18CA439,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97882/pdf,7/20/2018,Kinsey,Kansas,United States,38.526367,-96.725914,0,0,Non-Fatal,non-fatal,False
+98108,CEN18LA342,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98108/pdf,8/17/2018,Whitewater,Kansas,United States,37.999168,-97.11528,0,0,Non-Fatal,non-fatal,False
+98156,CEN18LA350,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98156/pdf,8/22/2018,Atchison,Kansas,United States,39.575832,-95.181114,0,0,Non-Fatal,non-fatal,False
+98187,CEN18LA356,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98187/pdf,8/29/2018,Partridge,Kansas,United States,37.979442,-98.105003,0,0,Non-Fatal,non-fatal,False
+98391,GAA18CA573,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98391/pdf,9/20/2018,Frankfort,Kansas,United States,39.705554,-96.416946,0,0,Non-Fatal,non-fatal,False
+98427,GAA19CA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98427/pdf,10/5/2018,Topeka,Kansas,United States,39.068889,-95.622497,0,0,Non-Fatal,non-fatal,False
+98556,GAA19CA037,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98556/pdf,10/22/2018,Junction City,Kansas,United States,39.043334,-96.84333,0,0,Non-Fatal,non-fatal,False
+98572,GAA19CA041,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98572/pdf,6/1/2019,Paola,Kansas,United States,38.540279,-94.92028,0,0,Non-Fatal,non-fatal,False
+98579,GAA19CA042,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98579/pdf,10/26/2018,Salina,Kansas,United States,38.784999,-97.645835,0,0,Non-Fatal,non-fatal,False
+98651,CEN19FA029,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98651/pdf,11/17/2018,Liberal,Kansas,United States,36.985,-100.955276,2,0,Fatal,fatal,True
+98791,CEN19LA046,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98791/pdf,12/15/2018,Beaumont,Kansas,United States,37.659168,-96.527778,0,0,Non-Fatal,non-fatal,False
+99027,CEN19LA086,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99027/pdf,2/22/2019,Colby,Kansas,United States,39.427223,-101.05278,0,0,Non-Fatal,non-fatal,False
+99092,GAA19CA161,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99092/pdf,3/11/2019,Benton,Kansas,United States,37.774444,-97.113334,0,0,Non-Fatal,non-fatal,False
+99187,CEN19LA111,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99187/pdf,3/26/2019,Newton,Kansas,United States,38.067779,-97.275276,0,0,Non-Fatal,non-fatal,False
+99268,GAA19CA206,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99268/pdf,4/15/2019,Hutchinson,Kansas,United States,38.066112,-97.860557,0,0,Non-Fatal,non-fatal,False
+99526,GAA19CA300,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99526/pdf,6/1/2019,Rose Hill,Kansas,United States,37.562778,-97.064163,0,0,Non-Fatal,non-fatal,False
+99536,GAA19CA307,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99536/pdf,6/1/2019,Junction City,Kansas,United States,39.043334,-96.84333,0,0,Non-Fatal,non-fatal,False
+99596,GAA19CA328,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99596/pdf,6/7/2019,Monument,Kansas,United States,39.104442,-101.007225,0,0,Non-Fatal,non-fatal,False
+99600,GAA19CA332,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99600/pdf,6/8/2019,Rose Hill,Kansas,United States,37.566387,-97.174446,0,0,Non-Fatal,non-fatal,False
+99655,GAA19CA352,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99655/pdf,6/17/2019,Liberal,Kansas,United States,37.043056,-100.921112,0,0,Non-Fatal,non-fatal,False
+99727,CEN19FA189,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99727/pdf,6/28/2019,Hiawatha,Kansas,United States,39.887779,-95.517219,1,0,Fatal,fatal,True
+99737,GAA19CA377,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99737/pdf,6/27/2019,Pleasanton,Kansas,United States,38.202777,-94.737503,0,0,Non-Fatal,non-fatal,False
+100100,CEN19FA278,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100100/pdf,8/20/2019,Hays,Kansas,United States,38.726112,-99.34111,1,0,Fatal,fatal,True
+100242,CEN19LA315,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100242/pdf,9/11/2019,Kingman,Kansas,United States,37.669166,-98.123886,0,0,Non-Fatal,non-fatal,False
+100318,GAA19CA560,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100318/pdf,9/23/2019,Rose Hill,Kansas,United States,37.564723,-97.17472,0,0,Non-Fatal,non-fatal,False
+100414,GAA20CA015,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100414/pdf,10/13/2019,Goddard,Kansas,United States,37.692501,-97.543609,0,0,Non-Fatal,non-fatal,False
+100661,CEN20LA029,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100661/pdf,12/4/2019,Baldwin City,Kansas,United States,38.836112,-95.181945,0,0,Non-Fatal,non-fatal,False
+100748,CEN20FA049,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100748/pdf,12/31/2019,OLATHE,Kansas,United States,38.846111,-94.736114,2,0,Fatal,fatal,True
+100751,CEN20CA052,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100751/pdf,12/31/2019,Onaga,Kansas,United States,39.498054,-96.175003,0,0,Non-Fatal,non-fatal,False
+100955,CEN20TA088,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100955/pdf,2/16/2020,Valley Center,Kansas,United States,37.842777,-97.351387,0,0,Non-Fatal,non-fatal,False
+101410,CEN20CA221,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101410/pdf,6/8/2020,Hiawatha,Kansas,United States,39.882499,-95.518333,0,0,Non-Fatal,non-fatal,False
+101553,CEN20LA267,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101553/pdf,7/6/2020,Mankato,Kansas,United States,39.802667,-98.219596,0,1,Non-Fatal,non-fatal,False
+101782,CEN20CA334,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101782/pdf,8/5/2020,Delia,Kansas,United States,39.259998,-95.988609,0,0,Non-Fatal,non-fatal,False
+101842,CEN20CA356,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101842/pdf,8/19/2020,Olathe,Kansas,United States,38.847221,-94.737777,0,0,Non-Fatal,non-fatal,False
+102194,CEN21LA029,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102194/pdf,10/24/2020,Geuda Springs,Kansas,United States,31.0451,-97.2163,0,0,Non-Fatal,non-fatal,False
+102233,ANC21LA004,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102233/pdf,11/3/2020,Whitewater,Kansas,United States,37.934334,-97.069493,2,0,Fatal,fatal,True
+102302,CEN21LA062,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102302/pdf,11/17/2020,Johnson City,Kansas,United States,37.579722,-101.59972,0,0,Non-Fatal,non-fatal,False
+102336,CEN21LA066,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102336/pdf,11/20/2020,Lawrence,Kansas,United States,39.009273,-95.212902,0,0,Non-Fatal,non-fatal,False
+102350,CEN21LA069,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102350/pdf,11/28/2020,Ottawa,Kansas,United States,38.549767,-95.249129,0,0,Non-Fatal,non-fatal,False
+102635,CEN21LA129,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102635/pdf,2/5/2021,Larned,Kansas,United States,38.1806,-99.0987,0,0,Non-Fatal,non-fatal,False
+102806,CEN21LA165,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102806/pdf,3/25/2021,Lake City,Kansas,United States,37.362358,-98.812263,0,0,Non-Fatal,non-fatal,False
+102856,CEN21LA174,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102856/pdf,3/10/2021,Colby,Kansas,United States,39.427669,-101.04859,0,0,Non-Fatal,non-fatal,False
+102857,CEN21LA175,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102857/pdf,4/1/2021,Augusta,Kansas,United States,37.65588,-97.0599,0,0,Non-Fatal,non-fatal,False
+102879,CEN21LA184,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102879/pdf,4/5/2021,Johnson,Kansas,United States,37.667167,-101.988,0,0,Non-Fatal,non-fatal,False
+102902,CEN21LA187,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102902/pdf,4/9/2021,LeRoy,Kansas,United States,38.095955,-95.634504,0,0,Non-Fatal,non-fatal,False
+103030,CEN21LA208,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103030/pdf,5/1/2021,Hutchinson,Kansas,United States,38.066155,-97.86049,0,0,Non-Fatal,non-fatal,False
+103107,CEN21LA225,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103107/pdf,5/18/2021,Ulysses,Kansas,United States,37.565617,-101.37033,1,0,Fatal,fatal,True
+103313,CEN21LA286,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103313/pdf,6/21/2021,Leoti,Kansas,United States,38.471722,-101.35047,0,0,Non-Fatal,non-fatal,False
+103403,CEN21LA302,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103403/pdf,7/1/2021,Wichita,Kansas,United States,37.819516,-97.226232,0,0,Non-Fatal,non-fatal,False
+103654,CEN21LA362,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103654/pdf,8/6/2021,Topeka,Kansas,United States,39.216972,-95.76119,0,0,Non-Fatal,non-fatal,False
+103715,CEN21LA372,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103715/pdf,8/15/2021,Towanda,Kansas,United States,37.75043,-96.98402,0,1,Non-Fatal,non-fatal,False
+103952,CEN21LA448,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103952/pdf,9/18/2021,Topeka,Kansas,United States,39.067103,-95.616981,0,0,Non-Fatal,non-fatal,False
+104418,CEN22LA079,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104418/pdf,12/13/2021,Ellinwood,Kansas,United States,38.373266,-98.598874,0,0,Non-Fatal,non-fatal,False

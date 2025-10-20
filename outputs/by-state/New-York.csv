@@ -1,0 +1,262 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+82599,ERA12LA132,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82599/pdf,1/2/2012,Shelter Island,New York,United States,41.066665,-72.343055,0,0,Non-Fatal,non-fatal,False
+83164,ERA12LA233,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83164/pdf,3/18/2012,Hannacroix,New York,United States,42.410278,-73.870834,0,1,Non-Fatal,non-fatal,False
+83327,ERA12CA272,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83327/pdf,4/5/2012,Warwarsing,New York,United States,41.833332,-74.483329,0,0,Non-Fatal,non-fatal,False
+83448,ERA12LA295,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83448/pdf,4/20/2012,Yorktown,New York,United States,41.207778,-73.801391,0,0,Non-Fatal,non-fatal,False
+83508,ERA12CA311,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83508/pdf,4/29/2012,Eaton,New York,United States,42.859443,-75.585556,0,0,Non-Fatal,non-fatal,False
+83521,ERA12CA313,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83521/pdf,4/30/2012,Ghent,New York,United States,42.350276,-73.636947,0,0,Non-Fatal,non-fatal,False
+83561,ERA12CA320,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83561/pdf,5/5/2012,Cambridge,New York,United States,43.052501,-73.363052,0,0,Non-Fatal,non-fatal,False
+83675,ERA12CA341,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83675/pdf,5/17/2012,Shirley,New York,United States,40.821388,-72.872779,0,0,Non-Fatal,non-fatal,False
+83710,ERA12LA349,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83710/pdf,5/20/2012,Tyre,New York,United States,42.990276,-76.80194,0,0,Non-Fatal,non-fatal,False
+83715,ERA12CA350,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83715/pdf,5/19/2012,Norwich,New York,United States,42.573055,-75.523612,0,0,Non-Fatal,non-fatal,False
+83741,ERA12CA359,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83741/pdf,5/21/2012,Norwich,New York,United States,42.566387,-75.524169,0,0,Non-Fatal,non-fatal,False
+83742,ERA12LA360,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83742/pdf,5/19/2012,Kingston,New York,United States,41.985,-73.964164,0,0,Non-Fatal,non-fatal,False
+83764,ERA12LA365,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83764/pdf,5/26/2012,Dansville,New York,United States,42.470832,-77.718887,0,0,Non-Fatal,non-fatal,False
+84177,ERA12LA428,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84177/pdf,7/1/2012,Greene,New York,United States,42.304164,-75.787223,0,0,Non-Fatal,non-fatal,False
+84224,ERA12CA434,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84224/pdf,7/7/2012,Bayport,New York,United States,40.758609,-73.053611,0,0,Non-Fatal,non-fatal,False
+84351,ERA12CA460,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84351/pdf,7/16/2012,Glens Falls,New York,United States,43.34111,-73.606109,0,0,Non-Fatal,non-fatal,False
+84429,ERA12CA475,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84429/pdf,7/21/2012,Cooperstown,New York,United States,42.629165,-74.891113,0,0,Non-Fatal,non-fatal,False
+84462,ERA12CA481,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84462/pdf,7/21/2012,Hammond,New York,United States,44.468612,-75.65583,0,0,Non-Fatal,non-fatal,False
+84533,ERA12CA492,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84533/pdf,7/25/2012,Albion,New York,United States,43.178611,-78.271385,0,0,Non-Fatal,non-fatal,False
+84550,ERA12CA495,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84550/pdf,8/2/2012,Alexander,New York,United States,42.926944,-78.199447,0,0,Non-Fatal,non-fatal,False
+84669,ERA12FA508,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84669/pdf,8/15/2012,Clifton Park,New York,United States,42.801666,-73.793052,2,0,Fatal,fatal,True
+84725,ERA12FA514,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84725/pdf,8/19/2012,Shirley,New York,United States,40.819721,-72.866668,2,1,Fatal,fatal,True
+84753,ERA12CA520,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84753/pdf,8/18/2012,Bayport,New York,United States,40.756111,-73.05194,0,0,Non-Fatal,non-fatal,False
+84795,ERA12LA528,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84795/pdf,8/25/2012,Dansville,New York,United States,42.578334,-77.722503,1,0,Fatal,fatal,True
+84804,ERA12LA532,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84804/pdf,8/26/2012,East Hampton,New York,United States,40.959445,-72.251663,0,2,Non-Fatal,non-fatal,False
+84871,ERA12TA538,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84871/pdf,8/31/2012,Bath,New York,United States,42.373332,-77.35028,0,0,Non-Fatal,non-fatal,False
+84884,ERA12TA542,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84884/pdf,8/16/2012,Otter Lake,New York,United States,43.552776,-75.0625,0,0,Non-Fatal,non-fatal,False
+85088,ERA12CA569,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85088/pdf,9/1/2012,Farmingdale,New York,United States,40.72861,-73.413612,0,0,Non-Fatal,non-fatal,False
+85320,ERA13LA018,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85320/pdf,10/12/2012,Yorktown,New York,United States,41.220832,-73.786941,0,0,Non-Fatal,non-fatal,False
+85377,ERA13FA032,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85377/pdf,10/20/2012,East Moriches,New York,United States,40.764999,-72.754997,2,0,Fatal,fatal,True
+85541,ERA13CA051,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85541/pdf,10/21/2012,Seneca Falls,New York,United States,42.883609,-76.781112,0,0,Non-Fatal,non-fatal,False
+85595,ERA13LA057,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85595/pdf,11/15/2012,Corning,New York,United States,42.147499,-77.041946,2,0,Fatal,fatal,True
+85613,ERA13LA060,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85613/pdf,11/17/2012,White Plains,New York,United States,41.049999,-73.689445,0,0,Non-Fatal,non-fatal,False
+85742,ERA13CA077,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85742/pdf,12/2/2012,Middletown,New York,United States,41.425556,-74.388336,0,0,Non-Fatal,non-fatal,False
+86092,ERA13LA121,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86092/pdf,1/27/2013,Yonkers,New York,United States,40.956665,-73.901664,0,0,Non-Fatal,non-fatal,False
+86283,ERA13CA142,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86283/pdf,2/21/2013,Lake Placid,New York,United States,44.313056,-74.031112,0,0,Non-Fatal,non-fatal,False
+86699,ERA13LA211,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86699/pdf,4/23/2013,Inlet,New York,United States,43.740001,-74.738334,0,1,Non-Fatal,non-fatal,False
+86742,ERA13FA215,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86742/pdf,4/27/2013,Shirley,New York,United States,40.809444,-72.854721,1,0,Fatal,fatal,True
+86755,ERA13LA221,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86755/pdf,4/28/2013,Hoosick Falls,New York,United States,42.890556,-73.336112,0,1,Non-Fatal,non-fatal,False
+86782,ERA13LA224,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86782/pdf,4/26/2013,Newburgh,New York,United States,41.505554,-74.098335,0,0,Non-Fatal,non-fatal,False
+86795,ERA13FA225,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86795/pdf,5/2/2013,Catskill,New York,United States,42.136665,-73.904441,1,0,Fatal,fatal,True
+86835,ERA13CA231,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86835/pdf,5/4/2013,Arcadia,New York,United States,43.127498,-77.046386,0,0,Non-Fatal,non-fatal,False
+86945,ERA13CA247,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86945/pdf,5/17/2013,East Moriches,New York,United States,40.824722,-72.750831,0,0,Non-Fatal,non-fatal,False
+86993,ERA13FA253,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86993/pdf,5/24/2013,Johnstown,New York,United States,43.040279,-74.517219,3,0,Fatal,fatal,True
+87049,ERA13CA260,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87049/pdf,5/30/2013,Ellenville,New York,United States,41.684165,-74.351387,0,0,Non-Fatal,non-fatal,False
+87259,ERA13CA298,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87259/pdf,6/20/2013,East Aurora,New York,United States,42.761665,-78.496109,0,0,Non-Fatal,non-fatal,False
+87525,ERA13LA329,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87525/pdf,7/17/2013,Fowler,New York,United States,44.254165,-75.412223,0,1,Non-Fatal,non-fatal,False
+87597,ERA13CA338,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87597/pdf,7/28/2013,Shirley,New York,United States,40.821945,-72.866943,0,0,Non-Fatal,non-fatal,False
+87643,ERA13LA346,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87643/pdf,7/30/2013,Wurtsboro,New York,United States,41.603054,-74.538612,0,1,Non-Fatal,non-fatal,False
+87695,ERA13CA353,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87695/pdf,8/2/2013,Eagle Bay,New York,United States,43.831665,-74.848892,0,0,Non-Fatal,non-fatal,False
+87824,ERA13CA369,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87824/pdf,8/11/2013,Verona,New York,United States,43.11,-75.543052,0,0,Non-Fatal,non-fatal,False
+87860,ERA13CA375,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87860/pdf,8/25/2013,Cortland,New York,United States,42.592498,-76.214721,0,0,Non-Fatal,non-fatal,False
+87864,ERA13CA378,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87864/pdf,8/25/2013,Shelter Island,New York,United States,41.067779,-72.323608,0,0,Non-Fatal,non-fatal,False
+87878,ERA13LA382,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87878/pdf,8/27/2013,Middle Grove,New York,United States,43.090557,-73.909446,0,0,Non-Fatal,non-fatal,False
+88115,ERA13LA429,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88115/pdf,9/22/2013,Rhinebeck,New York,United States,41.969722,-73.86444,0,0,Non-Fatal,non-fatal,False
+88154,ERA13LA434,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88154/pdf,9/29/2013,Edinburg,New York,United States,43.217777,-74.116111,1,0,Fatal,fatal,True
+88286,ERA14LA018,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88286/pdf,10/16/2013,Palatine,New York,United States,42.983333,-74.51667,0,0,Non-Fatal,non-fatal,False
+88597,ERA14CA080,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88597/pdf,12/28/2013,White Plains,New York,United States,41.066944,-73.707496,0,0,Non-Fatal,non-fatal,False
+88627,ERA14LA085,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88627/pdf,1/4/2014,Bronx,New York,United States,40.880279,-73.901947,0,0,Non-Fatal,non-fatal,False
+89011,ERA14LA181,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89011/pdf,4/3/2014,Bayport,New York,United States,40.758335,-73.053611,0,0,Non-Fatal,non-fatal,False
+89167,ERA14LA223,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89167/pdf,5/4/2014,Hamburg,New York,United States,42.694721,-78.773612,0,0,Non-Fatal,non-fatal,False
+89205,ERA14CA238,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89205/pdf,5/9/2014,Roxbury,New York,United States,42.300556,-74.553054,0,1,Non-Fatal,non-fatal,False
+89284,ERA14LA261,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89284/pdf,5/26/2014,Cooperstown,New York,United States,42.629165,-74.891113,0,0,Non-Fatal,non-fatal,False
+89335,ERA14CA274,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89335/pdf,6/1/2014,Middletown,New York,United States,41.431945,-74.39167,0,0,Non-Fatal,non-fatal,False
+89434,ERA14FA288,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89434/pdf,6/13/2014,White Plains,New York,United States,41.509998,-73.704719,1,0,Fatal,fatal,True
+89451,ERA14FA292,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89451/pdf,6/17/2014,East Patchogue,New York,United States,40.788887,-72.972503,1,0,Fatal,fatal,True
+89535,ERA14CA310,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89535/pdf,6/14/2014,Altamont,New York,United States,43.726387,-74.070274,0,0,Non-Fatal,non-fatal,False
+89607,ERA14FA327,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89607/pdf,7/5/2014,Parma,New York,United States,43.222778,-77.812225,1,0,Fatal,fatal,True
+89613,ERA14LA329,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89613/pdf,7/5/2014,Gasport,New York,United States,43.18111,-78.556945,1,0,Fatal,fatal,True
+89616,ERA14LA330,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89616/pdf,7/6/2014,Mattituck,New York,United States,41.0,-72.690277,1,0,Fatal,fatal,True
+89696,ERA14FA345,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89696/pdf,7/19/2014,North Elba,New York,United States,44.267223,-73.949165,3,0,Fatal,fatal,True
+89763,ERA14CA366,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89763/pdf,7/29/2014,Waterloo,New York,United States,42.849998,-76.849723,0,0,Non-Fatal,non-fatal,False
+89785,ERA14FA372,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89785/pdf,8/2/2014,Gansevoort,New York,United States,43.190223,-73.639328,2,0,Fatal,fatal,True
+89854,ERA14CA379,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89854/pdf,8/9/2014,Lakeville,New York,United States,42.826389,-77.714447,0,0,Non-Fatal,non-fatal,False
+89885,ERA14LA388,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89885/pdf,8/14/2014,Buffalo,New York,United States,42.940555,-78.732223,0,0,Non-Fatal,non-fatal,False
+89898,ERA14LA390,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89898/pdf,8/17/2014,Farmingdale,New York,United States,40.72861,-73.41333,0,0,Non-Fatal,non-fatal,False
+89996,ERA14LA418,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89996/pdf,9/1/2014,Greene,New York,United States,42.29861,-75.792778,0,1,Non-Fatal,non-fatal,False
+90025,ERA14LA423,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90025/pdf,9/4/2014,Webb,New York,United States,43.924167,-74.909164,1,0,Fatal,fatal,True
+90040,ERA14CA426,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90040/pdf,9/7/2014,Avoca,New York,United States,42.410278,-77.425552,0,1,Non-Fatal,non-fatal,False
+90045,ERA14FA428,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90045/pdf,9/8/2014,Selkirk,New York,United States,42.556388,-73.916664,2,0,Fatal,fatal,True
+90127,ERA14CA449,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90127/pdf,9/20/2014,Bethany Center,New York,United States,42.943332,-78.138336,0,0,Non-Fatal,non-fatal,False
+90145,ERA14CA453,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90145/pdf,9/20/2014,Wurtsboro,New York,United States,41.597221,-74.458335,0,0,Non-Fatal,non-fatal,False
+90164,ERA14FA459,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90164/pdf,9/27/2014,Lancaster,New York,United States,42.898334,-78.580558,2,0,Fatal,fatal,True
+90305,ERA15LA029,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90305/pdf,10/25/2014,Tompkins,New York,United States,42.049999,-75.33889,0,0,Non-Fatal,non-fatal,False
+90709,ERA15CA126,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90709/pdf,2/7/2015,Shirley,New York,United States,40.821945,-72.866943,0,0,Non-Fatal,non-fatal,False
+90710,ERA15CA127,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90710/pdf,2/1/2015,Carthage,New York,United States,43.990001,-75.629447,0,0,Non-Fatal,non-fatal,False
+91026,ERA15LA184,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91026/pdf,4/13/2015,Shelter Island,New York,United States,41.055831,-72.360832,0,1,Non-Fatal,non-fatal,False
+91037,ERA15LA187,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91037/pdf,4/15/2015,Lancaster,New York,United States,42.921112,-78.594169,0,0,Non-Fatal,non-fatal,False
+91062,GAA15CA044,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91062/pdf,4/18/2015,Slate Hill,New York,United States,41.406944,-74.532218,0,0,Non-Fatal,non-fatal,False
+91110,ERA15FA203,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91110/pdf,5/3/2015,Penn Yan,New York,United States,42.633609,-77.051109,1,0,Fatal,fatal,True
+91170,GAA15CA069,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91170/pdf,5/8/2015,Canandaigua,New York,United States,42.907775,-77.322219,0,0,Non-Fatal,non-fatal,False
+91260,ERA15CA226,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91260/pdf,5/23/2015,LaGrangeville,New York,United States,41.631389,-73.760833,0,1,Non-Fatal,non-fatal,False
+91351,GAA15CA118,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91351/pdf,6/4/2015,Lancaster,New York,United States,42.921943,-78.613052,0,0,Non-Fatal,non-fatal,False
+91389,ERA15CA242,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91389/pdf,6/15/2015,Kirkville,New York,United States,43.074165,-75.93222,0,1,Non-Fatal,non-fatal,False
+91432,ERA15LA251,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91432/pdf,6/24/2015,East Moriches,New York,United States,40.824722,-72.750831,0,1,Non-Fatal,non-fatal,False
+91505,ERA15LA258,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91505/pdf,7/6/2015,Oneonta,New York,United States,42.633335,-74.066665,0,1,Non-Fatal,non-fatal,False
+91536,GAA15CA176,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91536/pdf,7/5/2015,Montgomery,New York,United States,41.508335,-74.267776,0,0,Non-Fatal,non-fatal,False
+91565,ERA15CA267,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91565/pdf,7/11/2015,Batavia,New York,United States,43.031665,-78.169723,0,0,Non-Fatal,non-fatal,False
+91571,ERA15LA269,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91571/pdf,7/16/2015,Dunkirk,New York,United States,42.515834,-79.259162,0,0,Non-Fatal,non-fatal,False
+91652,ERA15LA286,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91652/pdf,7/25/2015,Poughkeepsie,New York,United States,41.626667,-73.884162,0,0,Non-Fatal,non-fatal,False
+91674,GAA15CA205,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91674/pdf,7/25/2015,Shelter Island,New York,United States,41.071666,-72.326667,0,0,Non-Fatal,non-fatal,False
+91729,ERA15FA297,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91729/pdf,8/7/2015,Saranac Lake,New York,United States,44.403331,-74.203613,4,0,Fatal,fatal,True
+91869,GAA15CA238,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91869/pdf,8/19/2015,Ronkonkoma,New York,United States,40.791667,-73.103332,0,0,Non-Fatal,non-fatal,False
+91874,ERA15CA329,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91874/pdf,8/26/2015,Lancaster,New York,United States,42.921943,-78.611946,0,0,Non-Fatal,non-fatal,False
+91882,ERA15FA331,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91882/pdf,8/28/2015,Newburgh,New York,United States,41.50111,-74.107498,1,0,Fatal,fatal,True
+92000,ERA15FA362,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92000/pdf,9/20/2015,Morrisville,New York,United States,42.906387,-75.662223,2,0,Fatal,fatal,True
+92026,ERA15LA367,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92026/pdf,9/19/2015,Saratoga Springs,New York,United States,43.050834,-73.861663,0,1,Non-Fatal,non-fatal,False
+92256,GAA16CA033,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92256/pdf,10/23/2015,Millbrook,New York,United States,41.707221,-73.738052,0,0,Non-Fatal,non-fatal,False
+92271,GAA16CA037,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92271/pdf,10/31/2015,Perry,New York,United States,42.741664,-78.05278,0,0,Non-Fatal,non-fatal,False
+92284,ERA16FA031,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92284/pdf,11/4/2015,Queens,New York,United States,40.547222,-73.921386,1,0,Fatal,fatal,True
+92312,GAA16CA044,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92312/pdf,11/9/2015,Newfane,New York,United States,43.320835,-78.729164,0,0,Non-Fatal,non-fatal,False
+92348,ERA16FA044,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92348/pdf,11/19/2015,North Salem,New York,United States,41.324722,-73.637222,2,0,Fatal,fatal,True
+92370,ERA16LA052,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92370/pdf,11/22/2015,Albany,New York,United States,42.748611,-73.805557,0,0,Non-Fatal,non-fatal,False
+92435,ERA16LA065,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92435/pdf,12/12/2015,Modena,New York,United States,41.662776,-74.074447,0,0,Non-Fatal,non-fatal,False
+92643,ERA16LA094,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92643/pdf,1/27/2016,Lindenhurst,New York,United States,40.67139,-73.379165,0,0,Non-Fatal,non-fatal,False
+92712,GAA16CA124,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92712/pdf,2/12/2016,Shirley,New York,United States,40.829166,-72.863052,0,0,Non-Fatal,non-fatal,False
+92748,ERA16LA109,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92748/pdf,2/20/2016,Port Jefferson,New York,United States,40.961112,-73.084442,1,0,Fatal,fatal,True
+92811,ERA16LA124,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92811/pdf,3/5/2016,Hauppauge,New York,United States,40.816665,-73.246391,0,0,Non-Fatal,non-fatal,False
+92905,GAA16CA163,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92905/pdf,3/26/2016,Sodus,New York,United States,43.234722,-77.124725,0,0,Non-Fatal,non-fatal,False
+92981,ERA16LA152,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92981/pdf,4/10/2016,Bayport,New York,United States,40.752777,-73.053611,0,2,Non-Fatal,non-fatal,False
+93027,ERA16FA161,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93027/pdf,4/18/2016,Westmoreland,New York,United States,43.113609,-75.422225,2,0,Fatal,fatal,True
+93083,ERA16LA173,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93083/pdf,4/30/2016,Calverton,New York,United States,40.915,-72.791946,0,0,Non-Fatal,non-fatal,False
+93095,ERA16FA176,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93095/pdf,5/3/2016,Syosset,New York,United States,40.834445,-73.49028,3,0,Fatal,fatal,True
+93223,ERA16LA192,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93223/pdf,5/19/2016,Batavia,New York,United States,43.029167,-78.165,0,0,Non-Fatal,non-fatal,False
+93261,ERA16LA195,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93261/pdf,5/27/2016,New York,New York,United States,40.791667,-73.985275,1,0,Fatal,fatal,True
+93361,ERA16LA210,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93361/pdf,6/10/2016,Nunda,New York,United States,42.587501,-77.948608,1,0,Fatal,fatal,True
+93487,GAA16CA342,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93487/pdf,6/17/2016,Cuddybackville,New York,United States,41.467224,-74.593887,0,0,Non-Fatal,non-fatal,False
+93499,ERA16LA234,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93499/pdf,6/24/2016,Poughkeepsie,New York,United States,41.626667,-73.884162,0,0,Non-Fatal,non-fatal,False
+93533,ERA16CA241,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93533/pdf,7/3/2016,Shirley,New York,United States,40.818332,-72.866668,0,0,Non-Fatal,non-fatal,False
+93596,ERA16LA255,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93596/pdf,7/2/2016,Rhinebeck,New York,United States,41.969722,-73.86444,0,0,Non-Fatal,non-fatal,False
+93610,ERA16FA257,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93610/pdf,7/16/2016,Esperance,New York,United States,42.780555,-74.331947,3,1,Fatal,fatal,True
+93792,ERA16LA286,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93792/pdf,8/8/2016,McDonough,New York,United States,42.443054,-75.803886,0,0,Non-Fatal,non-fatal,False
+93826,GAA16CA427,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93826/pdf,8/10/2016,Hamburg,New York,United States,42.696666,-78.915275,0,0,Non-Fatal,non-fatal,False
+93839,ERA16LA293,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93839/pdf,8/13/2016,Shirley,New York,United States,40.821945,-72.866943,0,0,Non-Fatal,non-fatal,False
+93872,ERA16LA296,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93872/pdf,8/20/2016,Canandaigua,New York,United States,42.908889,-77.325279,0,0,Non-Fatal,non-fatal,False
+94004,ERA16CA313,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94004/pdf,9/1/2016,Rikers Island,New York,United States,40.786388,-73.878608,0,0,Non-Fatal,non-fatal,False
+94072,ERA16FA324,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94072/pdf,9/25/2016,North Collins,New York,United States,42.598888,-78.89167,3,0,Fatal,fatal,True
+94190,GAA17CA017,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94190/pdf,10/6/2016,Keene Valley,New York,United States,44.221111,-73.787498,0,0,Non-Fatal,non-fatal,False
+94193,GAA17CA018,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94193/pdf,10/8/2016,Argyle,New York,United States,43.251667,-73.471389,0,0,Non-Fatal,non-fatal,False
+94327,ERA17LA033,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94327/pdf,10/31/2016,Watertown,New York,United States,43.991943,-76.020553,0,0,Non-Fatal,non-fatal,False
+94355,GAA17CA061,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94355/pdf,11/14/2016,Plattsburgh,New York,United States,44.668334,-73.473609,0,0,Non-Fatal,non-fatal,False
+94377,GAA16CA527,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94377/pdf,6/20/2016,Farmingdale,New York,United States,40.728889,-73.41333,0,0,Non-Fatal,non-fatal,False
+94508,ERA17LA069,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94508/pdf,12/11/2016,Shoreham,New York,United States,40.956943,-72.908607,0,0,Non-Fatal,non-fatal,False
+94775,ERA17FA115,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94775/pdf,2/26/2017,Westhampton Beach,New York,United States,40.843612,-72.631668,2,1,Fatal,fatal,True
+94810,ERA17LA120,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94810/pdf,3/5/2017,Argyle,New York,United States,43.237499,-73.443336,0,0,Non-Fatal,non-fatal,False
+94901,ERA17LA134,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94901/pdf,3/21/2017,Islip,New York,United States,40.795276,-73.10028,0,0,Non-Fatal,non-fatal,False
+94968,GAA17CA219,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94968/pdf,4/2/2017,Millbrook,New York,United States,41.710834,-73.740554,0,0,Non-Fatal,non-fatal,False
+95049,ERA17LA166,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95049/pdf,4/23/2017,Ovid,New York,United States,42.658889,-76.796386,0,0,Non-Fatal,non-fatal,False
+95081,GAA17CA249,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95081/pdf,4/28/2017,Marathon,New York,United States,42.535556,-76.027221,0,0,Non-Fatal,non-fatal,False
+95226,ERA17LA188,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95226/pdf,5/20/2017,Colton,New York,United States,44.540832,-74.925003,0,0,Non-Fatal,non-fatal,False
+95250,GAA17CA307,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95250/pdf,5/17/2017,Diamond Point,New York,United States,43.409999,-73.532501,0,0,Non-Fatal,non-fatal,False
+95349,ERA17LA203,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95349/pdf,6/12/2017,Suffolk,New York,United States,40.750556,-72.948333,0,0,Non-Fatal,non-fatal,False
+95493,ERA17FA226,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95493/pdf,7/4/2017,Remsen,New York,United States,43.355834,-75.188056,1,0,Fatal,fatal,True
+95600,ERA17LA247,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95600/pdf,7/16/2017,Shirley,New York,United States,40.821945,-72.866943,0,0,Non-Fatal,non-fatal,False
+95784,GAA17CA480,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95784/pdf,7/28/2017,Poughkeepsie,New York,United States,41.627498,-73.884162,0,0,Non-Fatal,non-fatal,False
+95887,ERA17LA292,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95887/pdf,8/23/2017,Albion,New York,United States,43.294998,-78.214996,0,0,Non-Fatal,non-fatal,False
+95910,ERA17LA298,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95910/pdf,8/27/2017,Wurtsboro,New York,United States,41.596668,-74.461387,0,0,Non-Fatal,non-fatal,False
+96091,GAA17CA554,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96091/pdf,9/21/2017,Old Forge,New York,United States,43.725276,-74.976112,0,0,Non-Fatal,non-fatal,False
+96102,GAA17CA560,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96102/pdf,9/27/2017,Geneseo,New York,United States,42.79861,-77.842498,0,0,Non-Fatal,non-fatal,False
+96103,ERA17LA338,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96103/pdf,9/15/2017,Southfields,New York,United States,41.284442,-74.144721,0,0,Non-Fatal,non-fatal,False
+96124,GAA17CA567,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96124/pdf,9/6/2017,Dunkirk,New York,United States,42.493888,-79.27111,0,0,Non-Fatal,non-fatal,False
+96214,GAA18CA015,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96214/pdf,10/18/2017,Sidney,New York,United States,42.305278,-75.408889,0,0,Non-Fatal,non-fatal,False
+96268,GAA18CA032,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96268/pdf,10/27/2017,West Seneca,New York,United States,42.861946,-78.716667,0,0,Non-Fatal,non-fatal,False
+96304,GAA17CA576,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96304/pdf,8/30/2017,Montgomery,New York,United States,41.511943,-74.26361,0,0,Non-Fatal,non-fatal,False
+96599,GAA18CA100,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96599/pdf,1/11/2018,Auburn,New York,United States,42.842777,-76.445274,0,0,Non-Fatal,non-fatal,False
+96670,ERA18LA074,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96670/pdf,1/29/2018,Babylon,New York,United States,40.621387,-73.27333,0,0,Non-Fatal,non-fatal,False
+96676,ERA18TA076,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96676/pdf,1/28/2018,Harrisville,New York,United States,44.297779,-75.246948,0,0,Non-Fatal,non-fatal,False
+96850,ERA18MA099,https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR1904.pdf,3/11/2018,New York,New York,United States,40.775554,-73.940002,5,0,Fatal,fatal,True
+96857,GAA18CA158,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96857/pdf,3/11/2018,Altamont,New York,United States,42.736946,-74.066108,0,0,Non-Fatal,non-fatal,False
+97081,GAA18CA222,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97081/pdf,4/22/2018,Saratoga Springs,New York,United States,43.049446,-73.858612,0,0,Non-Fatal,non-fatal,False
+97101,GAA18CA229,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97101/pdf,3/23/2018,Farmingdale,New York,United States,40.729442,-73.414169,0,0,Non-Fatal,non-fatal,False
+97120,ERA18LA135,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97120/pdf,4/24/2018,Albion,New York,United States,43.29639,-78.222503,0,1,Non-Fatal,non-fatal,False
+97172,ERA18FA141,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97172/pdf,5/5/2018,Middletown,New York,United States,41.426109,-74.403892,1,1,Fatal,fatal,True
+97219,GAA18CA267,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97219/pdf,5/5/2018,Fulton,New York,United States,43.351943,-76.385559,0,0,Non-Fatal,non-fatal,False
+97220,GAA18CA268,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97220/pdf,5/5/2018,Fulton,New York,United States,43.350276,-76.387779,0,0,Non-Fatal,non-fatal,False
+97297,GAA18CA291,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97297/pdf,5/21/2018,Farmingdale,New York,United States,40.731945,-73.414443,0,0,Non-Fatal,non-fatal,False
+97357,ERA18LA155,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97357/pdf,5/26/2018,Taghkanic,New York,United States,42.154998,-73.672225,0,0,Non-Fatal,non-fatal,False
+97358,WPR18FA155,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97358/pdf,5/30/2018,Melville,New York,United States,40.768333,-73.390274,1,0,Fatal,fatal,True
+97383,ERA18LA157,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97383/pdf,6/2/2018,Amagansett,New York,United States,40.571945,-72.074722,4,0,Fatal,fatal,True
+97749,GAA18CA416,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97749/pdf,6/30/2018,Malone,New York,United States,44.85361,-74.328887,0,0,Non-Fatal,non-fatal,False
+97750,GAA18CA417,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97750/pdf,6/30/2018,Shelter Island,New York,United States,41.071666,-72.326667,0,0,Non-Fatal,non-fatal,False
+97759,GAA18CA420,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97759/pdf,6/29/2018,Hudson,New York,United States,42.291389,-73.710281,0,0,Non-Fatal,non-fatal,False
+97768,ERA18LA191,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97768/pdf,7/13/2018,Geneseo,New York,United States,42.79861,-77.842498,0,1,Non-Fatal,non-fatal,False
+97785,GAA18CA423,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97785/pdf,7/15/2018,Lowville,New York,United States,43.766944,-75.60028,0,0,Non-Fatal,non-fatal,False
+98135,GAA18CA502,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98135/pdf,8/4/2018,Dansville,New York,United States,42.27222,-77.684722,0,0,Non-Fatal,non-fatal,False
+98180,GAA18CA515,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98180/pdf,8/9/2018,Hunter,New York,United States,42.316665,-74.26667,0,0,Non-Fatal,non-fatal,False
+98309,ERA18LA253,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98309/pdf,9/16/2018,Montauk,New York,United States,41.076667,-71.920555,0,0,Non-Fatal,non-fatal,False
+98321,GAA18CA568,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98321/pdf,9/15/2018,Millbrook,New York,United States,41.7075,-73.738052,0,0,Non-Fatal,non-fatal,False
+98325,GAA18CA561,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98325/pdf,7/19/2018,Chateaugay,New York,United States,44.9197,-74.079154,0,0,Non-Fatal,non-fatal,False
+98366,GAA18CA570,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98366/pdf,9/24/2018,Raquette Lake,New York,United States,43.819999,-74.642219,0,0,Non-Fatal,non-fatal,False
+98483,ERA19LA012,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98483/pdf,10/13/2018,Westhampton Beach,New York,United States,40.470001,-72.36,3,0,Fatal,fatal,True
+98576,ERA19FA035,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98576/pdf,10/30/2018,Beekmantown,New York,United States,44.744167,-73.439163,2,2,Fatal,fatal,True
+98605,GAA19CA050,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98605/pdf,10/20/2018,East Moriches,New York,United States,40.823055,-72.750831,0,0,Non-Fatal,non-fatal,False
+98620,ERA19FA039,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98620/pdf,11/9/2018,Walton,New York,United States,42.076946,-75.214447,1,0,Fatal,fatal,True
+98634,GAA19CA058,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98634/pdf,11/12/2018,Piseco,New York,United States,43.453334,-74.514999,0,0,Non-Fatal,non-fatal,False
+98799,GAA19CA103,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98799/pdf,12/18/2018,Strykersville,New York,United States,42.76889,-78.461112,0,0,Non-Fatal,non-fatal,False
+99237,ERA19LA145,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99237/pdf,3/30/2019,Montgomery,New York,United States,41.539443,-74.306945,0,0,Non-Fatal,non-fatal,False
+99258,ERA19LA150,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99258/pdf,4/14/2019,New York,New York,United States,40.676944,-73.714164,0,0,Non-Fatal,non-fatal,False
+99259,ERA19LA151,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99259/pdf,4/11/2019,Fulton,New York,United States,43.329166,-76.413887,0,1,Non-Fatal,non-fatal,False
+99432,ERA19LA171,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99432/pdf,5/15/2019,New York,New York,United States,40.754444,-74.006942,0,0,Non-Fatal,non-fatal,False
+99517,GAA19CA293,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99517/pdf,5/6/2019,Canandaigua,New York,United States,42.909999,-77.330001,0,0,Non-Fatal,non-fatal,False
+99568,ERA19FA189,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99568/pdf,6/8/2019,Southold,New York,United States,40.987499,-72.580001,2,0,Fatal,fatal,True
+99586,ERA19FA191,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99586/pdf,6/10/2019,New York,New York,United States,40.761665,-73.981941,1,0,Fatal,fatal,True
+99639,ERA19FA196,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99639/pdf,6/17/2019,Endicott,New York,United States,42.084445,-76.094444,1,0,Fatal,fatal,True
+99744,GAA19CA380,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99744/pdf,6/29/2019,Norwich,New York,United States,42.56361,-75.524169,0,0,Non-Fatal,non-fatal,False
+99897,ERA19LA231,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99897/pdf,7/19/2019,Poughkeepsie,New York,United States,41.626667,-73.884162,0,3,Non-Fatal,non-fatal,False
+99969,GAA19CA469,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99969/pdf,7/26/2019,Wurtsboro,New York,United States,41.597221,-74.458335,0,0,Non-Fatal,non-fatal,False
+100002,GAA19CA484,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100002/pdf,8/1/2019,Hume,New York,United States,42.475833,-78.137222,0,1,Non-Fatal,non-fatal,False
+100074,ERA19FA249,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100074/pdf,8/17/2019,Lagrangeville,New York,United States,41.7,-73.729164,2,3,Fatal,fatal,True
+100404,GAA20CA008,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100404/pdf,10/10/2019,Big Flats,New York,United States,42.117221,-76.918334,0,0,Non-Fatal,non-fatal,False
+100500,GAA20CA048,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100500/pdf,10/27/2019,Le Roy,New York,United States,42.981388,-77.935279,0,0,Non-Fatal,non-fatal,False
+100840,ERA20LA082,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100840/pdf,12/28/2019,Farmingdale,New York,United States,40.713054,-73.411941,0,0,Non-Fatal,non-fatal,False
+100951,ERA20CA102,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100951/pdf,2/16/2020,Rochester,New York,United States,43.119167,-77.671943,0,0,Non-Fatal,non-fatal,False
+100988,ERA20CA110,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100988/pdf,12/24/2019,Cortland,New York,United States,42.592777,-76.214996,0,0,Non-Fatal,non-fatal,False
+101189,ERA20CA156,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101189/pdf,4/20/2020,Hamburg,New York,United States,42.700832,-78.914718,0,0,Non-Fatal,non-fatal,False
+101210,ERA20LA163,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101210/pdf,4/25/2020,East Hampton,New York,United States,40.959445,-72.251663,0,0,Non-Fatal,non-fatal,False
+101253,ERA20CA175,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101253/pdf,5/3/2020,Shirley,New York,United States,40.828056,-72.865554,0,0,Non-Fatal,non-fatal,False
+101279,ERA20CA184,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101279/pdf,5/14/2020,Livingston,New York,United States,42.168056,-73.812774,0,0,Non-Fatal,non-fatal,False
+101370,ERA20CA203,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101370/pdf,6/1/2020,Batavia,New York,United States,43.031665,-78.173332,0,0,Non-Fatal,non-fatal,False
+101395,ERA20LA207,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101395/pdf,6/5/2020,Wurtsboro,New York,United States,41.594722,-74.45639,2,0,Fatal,fatal,True
+101418,ERA20CA211,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101418/pdf,6/5/2020,Olean,New York,United States,42.248611,-78.36528,0,0,Non-Fatal,non-fatal,False
+101435,ERA20CA214,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101435/pdf,6/13/2020,Ghent,New York,United States,42.347221,-73.635559,0,0,Non-Fatal,non-fatal,False
+101555,ERA20CA241,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101555/pdf,7/2/2020,Plattsburgh,New York,United States,44.636112,-73.425277,0,0,Non-Fatal,non-fatal,False
+101582,ERA20CA246,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101582/pdf,7/13/2020,Cortland,New York,United States,42.58889,-76.220275,0,0,Non-Fatal,non-fatal,False
+101714,ERA20CA269,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101714/pdf,7/29/2020,Hudson,New York,United States,42.291389,-73.710281,0,0,Non-Fatal,non-fatal,False
+101757,ERA20CA279,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101757/pdf,8/7/2020,Modena,New York,United States,41.657222,-74.077224,0,0,Non-Fatal,non-fatal,False
+101779,ERA20CA282,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101779/pdf,8/10/2020,Montauk,New York,United States,41.075553,-71.921943,0,0,Non-Fatal,non-fatal,False
+102077,ERA21LA003,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102077/pdf,10/2/2020,Corfu,New York,United States,42.971879,-78.382376,2,0,Fatal,fatal,True
+102080,ERA21LA004,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102080/pdf,10/4/2020,Beechhurst,New York,United States,40.796108,-73.803415,1,2,Fatal,fatal,True
+102093,ERA21LA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102093/pdf,10/4/2020,Fulton,New York,United States,43.350778,-76.388056,0,0,Non-Fatal,non-fatal,False
+102183,ERA21LA028,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102183/pdf,10/21/2020,Point Lookout,New York,United States,40.598289,-73.56209,0,0,Non-Fatal,non-fatal,False
+102223,ERA21LA035,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102223/pdf,11/1/2020,Ellicott,New York,United States,42.160556,-79.24,3,0,Fatal,fatal,True
+102301,ERA21LA044,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102301/pdf,11/14/2020,Ellenville,New York,United States,41.727871,-74.377376,0,0,Non-Fatal,non-fatal,False
+102371,ERA21LA060,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102371/pdf,11/29/2020,Northhampton,New York,United States,43.168477,-74.180464,0,0,Non-Fatal,non-fatal,False
+102437,ERA21LA083,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102437/pdf,12/20/2020,Farmingdale,New York,United States,40.7268,-73.410425,0,1,Non-Fatal,non-fatal,False
+102466,ERA21LA091,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102466/pdf,12/27/2020,Pleasant Valley,New York,United States,41.717864,-73.74979,0,0,Non-Fatal,non-fatal,False
+102509,ERA21LA098,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102509/pdf,1/10/2021,Old Bethpage,New York,United States,40.7598,-73.4465,0,1,Non-Fatal,non-fatal,False
+102710,ERA21LA147,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102710/pdf,3/2/2021,Johnstown,New York,United States,42.998194,-74.329555,0,0,Non-Fatal,non-fatal,False
+102740,ERA21LA150,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102740/pdf,11/8/2020,Montgomery,New York,United States,41.511812,-74.263539,0,0,Non-Fatal,non-fatal,False
+102891,ERA21FA178,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102891/pdf,4/7/2021,Great Valley,New York,United States,42.205064,-78.647251,1,1,Fatal,fatal,True
+103004,ERA21LA199,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103004/pdf,4/29/2021,Warwick,New York,United States,41.278003,-74.294983,0,1,Non-Fatal,non-fatal,False
+103143,ERA21LA231,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103143/pdf,5/24/2021,Skaneateles,New York,United States,42.91359,-76.44076,0,0,Non-Fatal,non-fatal,False
+103217,ERA21FA239,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103217/pdf,6/6/2021,Wurtsboro,New York,United States,41.597139,-74.458306,1,0,Fatal,fatal,True
+103222,ERA21LA240,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103222/pdf,6/5/2021,Warwick,New York,United States,41.287594,-74.287095,0,0,Non-Fatal,non-fatal,False
+103258,ERA21LA251,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103258/pdf,6/5/2021,Monticello,New York,United States,41.701639,-74.795028,0,0,Non-Fatal,non-fatal,False
+103300,ERA21LA260,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103300/pdf,6/17/2021,ARGYLE,New York,United States,43.254528,-73.470194,0,1,Non-Fatal,non-fatal,False
+103303,ERA21LA262,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103303/pdf,6/18/2021,SWAN LAKE,New York,United States,41.734462,-74.759441,0,2,Non-Fatal,non-fatal,False
+103375,ERA21LA275,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103375/pdf,6/29/2021,Rome,New York,United States,43.225037,-75.394489,0,0,Non-Fatal,non-fatal,False
+103556,ERA21LA301,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103556/pdf,7/19/2021,Rochester,New York,United States,43.119144,-77.671869,0,0,Non-Fatal,non-fatal,False
+103578,ERA21LA306,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103578/pdf,7/27/2021,Farmingdale,New York,United States,40.728279,-73.414723,0,0,Non-Fatal,non-fatal,False
+103598,ERA21LA310,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103598/pdf,7/31/2021,Middletown,New York,United States,41.431912,-74.391561,0,1,Non-Fatal,non-fatal,False
+103652,ERA21FA317,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103652/pdf,8/7/2021,Argyle,New York,United States,43.210144,-73.506795,2,0,Fatal,fatal,True
+103855,ERA21LA356,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103855/pdf,9/13/2021,Burt,New York,United States,43.306684,-78.745106,0,0,Non-Fatal,non-fatal,False
+104073,ERA22LA007,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104073/pdf,10/6/2021,Batavia,New York,United States,43.034158,-78.167864,0,0,Non-Fatal,non-fatal,False
+104078,ERA22FA010,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104078/pdf,10/10/2021,Cornwall,New York,United States,41.427329,-73.98554,1,0,Fatal,fatal,True
+104108,ERA22LA017,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104108/pdf,10/15/2021,Fire Island,New York,United States,40.646052,-73.143694,0,0,Non-Fatal,non-fatal,False
+104156,ERA22LA029,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104156/pdf,10/23/2021,Westhampton Beach,New York,United States,40.843619,-72.631812,0,0,Non-Fatal,non-fatal,False
+104171,ERA22LA033,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104171/pdf,10/27/2021,Ballston Spa,New York,United States,43.042727,-73.871594,0,0,Non-Fatal,non-fatal,False
+104186,ERA22LA038,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104186/pdf,10/2/2021,Riverhead,New York,United States,40.958372,-72.717385,0,0,Non-Fatal,non-fatal,False
+104277,ERA22LA067,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104277/pdf,11/19/2021,Glens Falls,New York,United States,43.3095,73.644,0,0,Non-Fatal,non-fatal,False
+104433,ERA22LA091,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104433/pdf,12/13/2021,Manhattan,New York,United States,40.701214,-74.009028,0,0,Non-Fatal,non-fatal,False

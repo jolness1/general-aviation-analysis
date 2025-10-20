@@ -1,0 +1,99 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+83122,ERA12LA224,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83122/pdf,3/13/2012,Rabbit Hash,Kentucky,United States,38.942222,-84.784721,0,1,Non-Fatal,non-fatal,False
+83261,ERA12FA262,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83261/pdf,4/1/2012,Calhoun,Kentucky,United States,37.550834,-87.276947,1,0,Fatal,fatal,True
+83366,ERA12CA277,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83366/pdf,4/10/2012,Georgetown,Kentucky,United States,38.234443,-84.434448,0,0,Non-Fatal,non-fatal,False
+83386,ERA12FA280,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83386/pdf,4/14/2012,Hudson,Kentucky,United States,37.685832,-86.335556,1,0,Fatal,fatal,True
+83442,ERA12LA294,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83442/pdf,4/19/2012,Richmond,Kentucky,United States,37.640277,-84.348335,0,0,Non-Fatal,non-fatal,False
+83583,ERA12CA323,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83583/pdf,5/8/2012,Paducah,Kentucky,United States,37.05611,-88.770278,0,0,Non-Fatal,non-fatal,False
+83948,ERA12CA392,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83948/pdf,6/12/2012,Owenton,Kentucky,United States,38.622776,-84.778892,0,0,Non-Fatal,non-fatal,False
+84356,ERA12CA462,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84356/pdf,7/15/2012,Wilmore,Kentucky,United States,37.890556,-84.688613,0,2,Non-Fatal,non-fatal,False
+84735,ERA12CA516,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84735/pdf,8/19/2012,West Liberty,Kentucky,United States,37.908611,-83.251113,0,1,Non-Fatal,non-fatal,False
+84945,ERA12CA546,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84945/pdf,8/30/2012,Bardstown,Kentucky,United States,37.808612,-85.493057,0,0,Non-Fatal,non-fatal,False
+84947,ERA12CA547,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84947/pdf,9/5/2012,Elizabethtown,Kentucky,United States,37.685001,-85.921669,0,0,Non-Fatal,non-fatal,False
+85119,ERA12LA575,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85119/pdf,9/22/2012,Fort Thomas,Kentucky,United States,38.36021,-92.209579,0,0,Non-Fatal,non-fatal,False
+85150,ERA12CA579,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85150/pdf,9/25/2012,Richmond,Kentucky,United States,37.625,-84.32611,0,0,Non-Fatal,non-fatal,False
+85596,ERA13LA058,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85596/pdf,11/14/2012,Lexington,Kentucky,United States,38.035278,-84.605278,0,0,Non-Fatal,non-fatal,False
+85984,ERA13CA107,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85984/pdf,1/7/2013,Bear Branch,Kentucky,United States,37.170555,-83.581947,0,0,Non-Fatal,non-fatal,False
+86353,ERA13CA154,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86353/pdf,3/4/2013,Bardstown,Kentucky,United States,37.808612,-85.493057,0,0,Non-Fatal,non-fatal,False
+86863,ERA13LA236,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86863/pdf,5/10/2013,Hartford,Kentucky,United States,37.503887,-87.000274,0,0,Non-Fatal,non-fatal,False
+87095,ERA13LA269,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87095/pdf,6/4/2013,Elkton,Kentucky,United States,36.802776,-87.176391,0,0,Non-Fatal,non-fatal,False
+87119,ERA13FA273,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87119/pdf,6/6/2013,Manchester,Kentucky,United States,37.132778,-83.756385,3,0,Fatal,fatal,True
+87162,ERA13LA279,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87162/pdf,6/11/2013,Louisville,Kentucky,United States,38.232498,-85.669441,0,4,Non-Fatal,non-fatal,False
+87422,ERA13CA317,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87422/pdf,7/8/2013,Bronston,Kentucky,United States,36.984722,-84.620552,0,0,Non-Fatal,non-fatal,False
+87609,ERA13TA341,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87609/pdf,7/29/2013,Jackson,Kentucky,United States,37.551109,-83.088607,0,2,Non-Fatal,non-fatal,False
+87929,ERA13LA390,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87929/pdf,8/31/2013,Sandy Hook,Kentucky,United States,38.085556,-83.130279,0,0,Non-Fatal,non-fatal,False
+88028,ERA13CA413,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88028/pdf,9/6/2013,Monticello,Kentucky,United States,36.967224,-84.851669,0,0,Non-Fatal,non-fatal,False
+89155,ERA14LA218,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89155/pdf,5/2/2014,Middlesboro,Kentucky,United States,36.606945,-83.738891,0,1,Non-Fatal,non-fatal,False
+89166,ERA14LA222,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89166/pdf,5/4/2014,Bardwell,Kentucky,United States,36.839168,-88.995834,0,0,Non-Fatal,non-fatal,False
+89253,ERA14LA253,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89253/pdf,5/22/2014,Hopkinsville,Kentucky,United States,36.854721,-87.468887,0,1,Non-Fatal,non-fatal,False
+89450,ERA14CA291,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89450/pdf,6/13/2014,Frankfort,Kentucky,United States,38.181667,-84.906669,0,0,Non-Fatal,non-fatal,False
+89954,ERA14CA407,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89954/pdf,8/23/2014,Taylorsville,Kentucky,United States,38.119167,-85.325553,0,0,Non-Fatal,non-fatal,False
+90558,ERA15FA088,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90558/pdf,1/2/2015,Kuttawa,Kentucky,United States,37.033611,-88.168891,4,1,Fatal,fatal,True
+90601,ERA15CA100,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90601/pdf,1/14/2015,Pikeville,Kentucky,United States,37.561943,-82.56639,0,0,Non-Fatal,non-fatal,False
+90768,ERA15LA134,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90768/pdf,2/19/2015,Lexington,Kentucky,United States,38.033332,-84.605552,0,0,Non-Fatal,non-fatal,False
+91105,GAA15CA054,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91105/pdf,4/21/2015,Campbellsville,Kentucky,United States,37.360832,-85.305831,0,0,Non-Fatal,non-fatal,False
+91219,ERA15FA220,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91219/pdf,5/21/2015,Rowdy,Kentucky,United States,37.389167,-83.243331,1,0,Fatal,fatal,True
+91582,ERA15LA271,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91582/pdf,7/16/2015,Corbin,Kentucky,United States,36.975833,-84.251663,0,0,Non-Fatal,non-fatal,False
+91587,ERA15CA272,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91587/pdf,7/18/2015,Junction City,Kentucky,United States,37.577499,-84.769447,0,0,Non-Fatal,non-fatal,False
+91695,ERA15LA293,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91695/pdf,8/1/2015,Georgetown,Kentucky,United States,38.228332,-84.436386,0,2,Non-Fatal,non-fatal,False
+91739,ERA15LA304,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91739/pdf,8/7/2015,Danville,Kentucky,United States,37.577499,-84.769447,0,0,Non-Fatal,non-fatal,False
+91818,GAA15CA229,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91818/pdf,8/15/2015,Augusta,Kentucky,United States,38.7775,-84.003608,0,0,Non-Fatal,non-fatal,False
+91930,ERA15LA341,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91930/pdf,9/4/2015,Russell Springs,Kentucky,United States,37.009723,-85.102775,0,0,Non-Fatal,non-fatal,False
+92088,ERA15LA377,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92088/pdf,9/29/2015,Dawson Springs,Kentucky,United States,37.185832,-87.675003,0,1,Non-Fatal,non-fatal,False
+92407,ERA16LA062,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92407/pdf,12/4/2015,Vine Grove,Kentucky,United States,37.815834,-85.964721,0,0,Non-Fatal,non-fatal,False
+93126,GAA16CA220,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93126/pdf,5/6/2016,Richmond,Kentucky,United States,37.633056,-84.332778,0,0,Non-Fatal,non-fatal,False
+93290,ERA16LA201,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93290/pdf,5/30/2016,Fordsville,Kentucky,United States,37.672222,-86.63639,1,0,Fatal,fatal,True
+93369,ERA16LA212,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93369/pdf,6/12/2016,Taylorsville,Kentucky,United States,38.072223,-85.233886,0,1,Non-Fatal,non-fatal,False
+93579,ERA16FA248,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93579/pdf,7/11/2016,Hickory,Kentucky,United States,36.882778,-88.678886,1,0,Fatal,fatal,True
+93595,ERA16LA254,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93595/pdf,7/10/2016,Hartford,Kentucky,United States,37.45861,-86.849723,0,1,Non-Fatal,non-fatal,False
+93599,GAA16CA373,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93599/pdf,7/11/2016,Somerset,Kentucky,United States,37.054721,-84.61444,0,0,Non-Fatal,non-fatal,False
+93694,ERA16LA274,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93694/pdf,7/24/2016,London,Kentucky,United States,37.093055,-84.067497,0,0,Non-Fatal,non-fatal,False
+93780,ERA16LA281,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93780/pdf,8/7/2016,Shelbyville,Kentucky,United States,38.122776,-85.125831,0,1,Non-Fatal,non-fatal,False
+93831,ERA16CA290,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93831/pdf,8/12/2016,London,Kentucky,United States,37.087776,-84.075279,0,1,Non-Fatal,non-fatal,False
+93965,GAA16CA469,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93965/pdf,9/6/2016,Frankfort,Kentucky,United States,38.188331,-84.927497,0,0,Non-Fatal,non-fatal,False
+94387,GAA17CA069,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94387/pdf,11/4/2016,Danville,Kentucky,United States,37.573612,-84.762222,0,0,Non-Fatal,non-fatal,False
+95091,GAA17CA254,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95091/pdf,4/28/2017,Columbia,Kentucky,United States,37.224998,-85.096389,0,0,Non-Fatal,non-fatal,False
+95124,GAA17CA263,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95124/pdf,5/7/2017,Frankfort,Kentucky,United States,38.181945,-84.906387,0,0,Non-Fatal,non-fatal,False
+95162,ERA17FA180,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95162/pdf,5/12/2017,Hopkinsville,Kentucky,United States,36.926109,-87.608612,2,0,Fatal,fatal,True
+95519,GAA17CA393,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95519/pdf,7/6/2017,Dixon,Kentucky,United States,37.532222,-87.765274,0,0,Non-Fatal,non-fatal,False
+95547,GAA17CA402,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95547/pdf,6/30/2017,Uniontown,Kentucky,United States,37.766387,-88.022224,0,0,Non-Fatal,non-fatal,False
+95757,ERA17LA268,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95757/pdf,8/5/2017,Mount Sterling,Kentucky,United States,38.036109,-83.799446,0,1,Non-Fatal,non-fatal,False
+95820,GAA17CA488,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95820/pdf,8/12/2017,Bowling Green,Kentucky,United States,36.966945,-86.419166,0,0,Non-Fatal,non-fatal,False
+96148,ERA18FA005,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96148/pdf,10/5/2017,Bardstown,Kentucky,United States,37.824443,-85.493331,1,0,Fatal,fatal,True
+96317,ERA18FA022,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96317/pdf,11/12/2017,Fountain Run,Kentucky,United States,36.773334,-85.992225,4,0,Fatal,fatal,True
+96783,GAA18CA139,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96783/pdf,2/17/2018,Mount Sterling,Kentucky,United States,38.058612,-83.980003,0,0,Non-Fatal,non-fatal,False
+97346,GAA18CA307,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97346/pdf,5/27/2018,Butler,Kentucky,United States,38.728889,-84.394996,0,0,Non-Fatal,non-fatal,False
+97393,ERA18LA158,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97393/pdf,6/3/2018,Warsaw,Kentucky,United States,38.792499,-84.774719,0,0,Non-Fatal,non-fatal,False
+97407,WPR18LA164,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97407/pdf,6/5/2018,Sanders,Kentucky,United States,38.660556,-85.053054,0,0,Non-Fatal,non-fatal,False
+98243,GAA18CA532,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98243/pdf,9/3/2018,London,Kentucky,United States,37.087776,-84.075553,0,0,Non-Fatal,non-fatal,False
+98860,ERA19LA083,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98860/pdf,1/26/2019,Lexington,Kentucky,United States,38.05389,-84.57389,0,0,Non-Fatal,non-fatal,False
+99005,ERA19TA105,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99005/pdf,2/21/2019,Frankfort,Kentucky,United States,38.183055,-84.900001,0,0,Non-Fatal,non-fatal,False
+99028,ERA19LA109,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99028/pdf,2/26/2019,Louisville,Kentucky,United States,38.228054,-85.663612,0,0,Non-Fatal,non-fatal,False
+99304,ERA19FA155,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99304/pdf,4/23/2019,Henderson,Kentucky,United States,37.80722,-87.684448,2,0,Fatal,fatal,True
+99696,GAA19CA367,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99696/pdf,6/15/2019,Lebanon,Kentucky,United States,37.633609,-85.241943,0,0,Non-Fatal,non-fatal,False
+99705,CEN19LA184,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99705/pdf,6/23/2019,Vine Grove,Kentucky,United States,37.815834,-85.964721,0,2,Non-Fatal,non-fatal,False
+99756,CEN19LA199,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99756/pdf,6/29/2019,Paducah,Kentucky,United States,36.939235,-88.569545,0,1,Non-Fatal,non-fatal,False
+99789,ERA19TA213,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99789/pdf,7/8/2019,Franklin,Kentucky,United States,36.68111,-86.631111,0,0,Non-Fatal,non-fatal,False
+99975,GAA19CA472,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99975/pdf,7/28/2019,Mt. Sterling,Kentucky,United States,38.058055,-83.979446,0,0,Non-Fatal,non-fatal,False
+100430,GAA20CA023,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100430/pdf,10/15/2019,Louisville,Kentucky,United States,38.227779,-85.664718,0,0,Non-Fatal,non-fatal,False
+100516,ERA20FA026,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100516/pdf,10/31/2019,Paducah,Kentucky,United States,37.103332,-88.817222,1,0,Fatal,fatal,True
+100591,ERA20LA039,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100591/pdf,11/15/2019,West Liberty,Kentucky,United States,38.070835,-83.245002,0,0,Non-Fatal,non-fatal,False
+100681,ERA20LA053,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100681/pdf,12/10/2019,Louisville,Kentucky,United States,38.230834,-85.657775,0,0,Non-Fatal,non-fatal,False
+100775,ERA20LA069,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100775/pdf,1/6/2020,Mount Sterling,Kentucky,United States,38.075,-83.979446,0,1,Non-Fatal,non-fatal,False
+101232,ERA20CA168,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101232/pdf,5/2/2020,Bowling Green,Kentucky,United States,36.964443,-86.419723,0,0,Non-Fatal,non-fatal,False
+101355,WPR20CA160,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101355/pdf,5/28/2020,Vine Grove,Kentucky,United States,37.815834,-85.964721,0,0,Non-Fatal,non-fatal,False
+101554,ERA20CA240,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101554/pdf,7/6/2020,Bardstown,Kentucky,United States,37.814445,-85.499725,0,0,Non-Fatal,non-fatal,False
+101581,ERA20LA245,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101581/pdf,7/12/2020,Falmouth,Kentucky,United States,38.641666,-84.197776,0,0,Non-Fatal,non-fatal,False
+101781,ERA20CA283,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101781/pdf,8/6/2020,Murray,Kentucky,United States,36.664443,-88.372779,0,0,Non-Fatal,non-fatal,False
+102325,ERA21LA050,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102325/pdf,11/19/2020,Cynthiana,Kentucky,United States,38.366164,-84.283344,0,0,Non-Fatal,non-fatal,False
+102659,ERA21FA135,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102659/pdf,2/22/2021,Mayfield,Kentucky,United States,36.779157,-88.584105,1,0,Fatal,fatal,True
+102914,ERA21LA185,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102914/pdf,3/27/2021,Flemingsburg,Kentucky,United States,38.54189,-83.743233,0,0,Non-Fatal,non-fatal,False
+103031,ERA21LA205,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103031/pdf,4/30/2021,Columbia,Kentucky,United States,37.085638,-85.343805,0,0,Non-Fatal,non-fatal,False
+103132,ERA21LA228,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103132/pdf,5/20/2021,Central City,Kentucky,United States,37.2939,-87.1233,0,0,Non-Fatal,non-fatal,False
+103135,ERA21FA229,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103135/pdf,5/24/2021,Van Cleve,Kentucky,United States,37.617145,-83.388906,1,0,Fatal,fatal,True
+103493,ERA21LA292,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103493/pdf,7/16/2021,Lewisburg,Kentucky,United States,37.071389,-87.759722,0,1,Non-Fatal,non-fatal,False
+103572,ERA21LA304,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103572/pdf,7/28/2021,Lexington,Kentucky,United States,37.953781,-84.406687,0,0,Non-Fatal,non-fatal,False
+103726,ERA21LA331,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103726/pdf,8/18/2021,Louisville,Kentucky,United States,38.227984,-85.663749,0,0,Non-Fatal,non-fatal,False
+103758,ERA21LA338,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103758/pdf,8/24/2021,Crittenden,Kentucky,United States,38.808056,-84.559444,0,0,Non-Fatal,non-fatal,False
+104195,ERA22LA042,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104195/pdf,10/27/2021,Flemingsburg,Kentucky,United States,38.541817,-83.743377,0,0,Non-Fatal,non-fatal,False
+104384,ERA22FA085,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104384/pdf,12/10/2021,Crab Orchard,Kentucky,United States,37.429529,-84.560773,2,0,Fatal,fatal,True

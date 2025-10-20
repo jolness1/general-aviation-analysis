@@ -1,0 +1,71 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+82715,WPR12CA082,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82715/pdf,1/26/2012,Honolulu,Hawaii,United States,21.318611,-157.922225,0,0,Non-Fatal,non-fatal,False
+82804,WPR12CA088,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82804/pdf,2/1/2012,Mokuleia,Hawaii,United States,21.574443,-158.191665,0,0,Non-Fatal,non-fatal,False
+83079,WPR12LA125,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83079/pdf,3/2/2012,Makakilo City,Hawaii,United States,21.340114,-158.08023,0,0,Non-Fatal,non-fatal,False
+83128,WPR12CA134,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83128/pdf,2/20/2012,Dillingham,Hawaii,United States,21.57361,-158.19139,0,0,Non-Fatal,non-fatal,False
+83439,WPR12LA176,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83439/pdf,4/19/2012,Ookala,Hawaii,United States,20.002222,-155.301391,0,1,Non-Fatal,non-fatal,False
+83560,WPR12LA195,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83560/pdf,5/2/2012,Kailua-Kona,Hawaii,United States,19.785278,-155.93222,0,1,Non-Fatal,non-fatal,False
+84378,WPR12LA314,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84378/pdf,6/6/2012,Hilo,Hawaii,United States,21.289443,-157.908889,0,0,Non-Fatal,non-fatal,False
+85298,WPR13LA007,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85298/pdf,10/7/2012,Kamuela,Hawaii,United States,20.000833,-155.667495,0,1,Non-Fatal,non-fatal,False
+85452,WPR13CA027,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85452/pdf,10/28/2012,Hanapepe,Hawaii,United States,21.896944,-159.603057,0,0,Non-Fatal,non-fatal,False
+85726,WPR13LA062,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85726/pdf,12/1/2012,Kahului,Hawaii,United States,21.026111,-156.454162,1,0,Fatal,fatal,True
+86113,WPR13CA107,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86113/pdf,1/30/2013,Kona,Hawaii,United States,19.630725,-155.99031,0,0,Non-Fatal,non-fatal,False
+86843,WPR13LA222,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86843/pdf,5/8/2013,Honolulu,Hawaii,United States,21.311111,-157.859161,0,0,Non-Fatal,non-fatal,False
+87216,WPR13LA275,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87216/pdf,6/16/2013,Waihee-Waiehu,Hawaii,United States,20.898611,-156.430282,0,0,Non-Fatal,non-fatal,False
+87898,WPR13LA389,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87898/pdf,8/27/2013,Wahiawa,Hawaii,United States,21.500316,-158.01921,0,1,Non-Fatal,non-fatal,False
+88359,WPR14LA038,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88359/pdf,10/29/2013,Kailua Kona,Hawaii,United States,19.728332,-156.043884,0,0,Non-Fatal,non-fatal,False
+88405,WPR14LA045,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88405/pdf,11/7/2013,Mokuleia,Hawaii,United States,21.572778,-158.197219,0,0,Non-Fatal,non-fatal,False
+88870,WPR14CA129,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88870/pdf,2/27/2014,Molokai,Hawaii,United States,21.311666,-157.916671,0,0,Non-Fatal,non-fatal,False
+88913,WPR14FA135,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88913/pdf,3/11/2014,Kekaha,Hawaii,United States,21.96611,-159.668334,2,0,Fatal,fatal,True
+89176,WPR14CA187,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89176/pdf,5/6/2014,Ho'olehua,Hawaii,United States,21.170093,-157.069335,0,0,Non-Fatal,non-fatal,False
+89788,WPR14CA325,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89788/pdf,8/1/2014,Honolulu,Hawaii,United States,21.349521,-157.87944,0,0,Non-Fatal,non-fatal,False
+90080,WPR14CA375,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90080/pdf,9/13/2014,"Kahului, Maui",Hawaii,United States,20.888334,-156.433609,0,0,Non-Fatal,non-fatal,False
+90139,WPR14CA385,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90139/pdf,9/21/2014,Mokuleia,Hawaii,United States,21.579444,-158.197219,0,0,Non-Fatal,non-fatal,False
+90157,WPR14CA389,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90157/pdf,9/24/2014,Mokuleia,Hawaii,United States,21.300268,-157.850662,0,0,Non-Fatal,non-fatal,False
+90612,WPR15LA086,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90612/pdf,1/16/2015,Ualapue,Hawaii,United States,21.138055,-156.81694,0,1,Non-Fatal,non-fatal,False
+90655,WPR15CA091,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90655/pdf,1/25/2015,Makaha,Hawaii,United States,21.468055,-158.312225,0,0,Non-Fatal,non-fatal,False
+91027,WPR15LA146,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91027/pdf,4/14/2015,Hilo,Hawaii,United States,19.724721,-155.053329,0,3,Non-Fatal,non-fatal,False
+91038,WPR15LA148,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91038/pdf,4/3/2015,Honolulu,Hawaii,United States,21.317777,-157.920272,0,0,Non-Fatal,non-fatal,False
+91463,GAA15CA147,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91463/pdf,6/29/2015,Kailua-Kona,Hawaii,United States,19.688888,-155.86444,0,0,Non-Fatal,non-fatal,False
+91470,WPR15LA202,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91470/pdf,6/29/2015,Kapolei,Hawaii,United States,21.307222,-158.070281,0,0,Non-Fatal,non-fatal,False
+92743,WPR16FA072,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92743/pdf,2/18/2016,Honolulu,Hawaii,United States,21.366666,-157.940277,1,3,Fatal,fatal,True
+93228,WPR16FA116,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93228/pdf,5/23/2016,Hanapepe,Hawaii,United States,21.895833,-159.599716,5,0,Fatal,fatal,True
+93269,WPR16LA119,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93269/pdf,5/23/2016,Waianae,Hawaii,United States,21.463611,-158.21527,0,0,Non-Fatal,non-fatal,False
+93608,WPR16LA140,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93608/pdf,7/14/2016,Kona,Hawaii,United States,19.738889,-156.045562,0,0,Non-Fatal,non-fatal,False
+93894,WPR16LA168,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93894/pdf,8/26/2016,Kailua/Kona,Hawaii,United States,19.743055,-156.032775,0,0,Non-Fatal,non-fatal,False
+93975,GAA16CA472,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93975/pdf,7/10/2016,Kahului,Hawaii,United States,20.897777,-156.429992,0,0,Non-Fatal,non-fatal,False
+93977,WPR16LA175,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93977/pdf,9/2/2016,Honolulu,Hawaii,United States,21.256111,-157.806945,0,1,Non-Fatal,non-fatal,False
+94221,GAA17CA025,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94221/pdf,10/5/2016,Kapolei,Hawaii,United States,21.302778,-158.078613,0,0,Non-Fatal,non-fatal,False
+94386,WPR17FA021,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94386/pdf,11/15/2016,Pukoo,Hawaii,United States,21.099721,-156.792221,2,0,Fatal,fatal,True
+94500,GAA17CA094,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94500/pdf,12/7/2016,Kapolei,Hawaii,United States,21.307222,-158.070281,0,0,Non-Fatal,non-fatal,False
+94561,WPR17FAMS2,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94561/pdf,12/30/2016,Open water,Hawaii,United States,21.230556,-157.185562,3,0,Fatal,fatal,True
+94843,GAA17CA179,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94843/pdf,3/8/2017,Mokuleia,Hawaii,United States,21.579444,-158.202499,0,0,Non-Fatal,non-fatal,False
+95134,GAA17CA268,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95134/pdf,5/3/2017,Kaunakakai,Hawaii,United States,21.152778,-157.096389,0,0,Non-Fatal,non-fatal,False
+95471,WPR17LA138,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95471/pdf,6/30/2017,Honolulu,Hawaii,United States,21.316667,-157.916671,0,3,Non-Fatal,non-fatal,False
+95693,WPR17FA170,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95693/pdf,7/28/2017,Waipi'o,Hawaii,United States,21.427221,-158.084716,4,0,Fatal,fatal,True
+96188,DCA18CA007,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96188/pdf,10/15/2017,Honolulu,Hawaii,United States,21.317777,-157.920272,0,1,Non-Fatal,non-fatal,False
+96202,WPR18LA010,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96202/pdf,10/16/2017,Molokai,Hawaii,United States,21.222778,-157.153335,2,0,Fatal,fatal,True
+96450,ANC18FA012,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96450/pdf,12/10/2017,Maunaloa,Hawaii,United States,21.133054,-157.149719,2,0,Fatal,fatal,True
+96601,WPR18LA065,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96601/pdf,1/13/2018,Kapolei,Hawaii,United States,21.307222,-158.070281,0,0,Non-Fatal,non-fatal,False
+98131,WPR18TA236,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98131/pdf,8/20/2018,Mokuleia,Hawaii,United States,21.578056,-158.181671,0,0,Non-Fatal,non-fatal,False
+98143,WPR18TA239,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98143/pdf,8/19/2018,Hilo,Hawaii,United States,19.643611,-154.984451,0,0,Non-Fatal,non-fatal,False
+98323,WPR18LA269,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98323/pdf,9/18/2018,Wahiawa,Hawaii,United States,21.526666,-158.032226,0,0,Non-Fatal,non-fatal,False
+98394,WPR18LA280,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98394/pdf,9/20/2018,Kapolei,Hawaii,United States,21.307222,-158.070281,0,0,Non-Fatal,non-fatal,False
+98531,WPR19LA013,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98531/pdf,10/22/2018,Kaneohe,Hawaii,United States,21.4675,-157.803894,0,3,Non-Fatal,non-fatal,False
+98635,GAA19CA059,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98635/pdf,11/13/2018,KAILUA/KONA,Hawaii,United States,19.736944,-156.04306,0,0,Non-Fatal,non-fatal,False
+98658,GAA19CA066,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98658/pdf,11/10/2018,Lihue,Hawaii,United States,21.966943,-159.508331,0,0,Non-Fatal,non-fatal,False
+98765,WPR19LA041,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98765/pdf,12/12/2018,Honolulu,Hawaii,United States,21.255277,-157.87889,0,1,Non-Fatal,non-fatal,False
+99024,WPR19LA087,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99024/pdf,2/21/2019,Kukuihaele,Hawaii,United States,20.110834,-155.55416,0,1,Non-Fatal,non-fatal,False
+99184,GAA19CA181,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99184/pdf,3/20/2019,Kailua-Kona,Hawaii,United States,19.808055,-155.998336,0,0,Non-Fatal,non-fatal,False
+99686,WPR19MA177,https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR2102.pdf,6/21/2019,Mokuleia,Hawaii,United States,21.580554,-158.18833,11,0,Fatal,fatal,True
+99798,WPR19LA185,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99798/pdf,7/3/2019,Waikoloa Village,Hawaii,United States,19.911111,-155.8125,0,0,Non-Fatal,non-fatal,False
+100520,ANC20LA003,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100520/pdf,10/31/2019,Honolulu,Hawaii,United States,21.313055,-157.925277,0,0,Non-Fatal,non-fatal,False
+100788,ANC20CA012,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100788/pdf,1/7/2020,Kapolei,Hawaii,United States,21.303888,-158.074172,0,0,Non-Fatal,non-fatal,False
+100980,ANC20FA024,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100980/pdf,2/22/2020,Mokuleia,Hawaii,United States,21.576944,-158.200561,2,0,Fatal,fatal,True
+100997,ANC20CA027,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100997/pdf,2/13/2020,Kahului,Hawaii,United States,20.896944,-156.433059,0,0,Non-Fatal,non-fatal,False
+101090,ANC20CA034,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101090/pdf,3/17/2020,Kahului,Hawaii,United States,20.889722,-156.435836,0,0,Non-Fatal,non-fatal,False
+102204,ANC21LA003,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102204/pdf,10/27/2020,Honolulu,Hawaii,United States,21.345308,-157.8066,0,0,Non-Fatal,non-fatal,False
+102247,ANC21LA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102247/pdf,11/6/2020,Hilo,Hawaii,United States,27.5937,-139.6529,0,0,Non-Fatal,non-fatal,False
+102696,ANC21LA018,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102696/pdf,2/26/2021,Lanai,Hawaii,United States,20.849569,-157.12654,0,1,Non-Fatal,non-fatal,False
+103025,ANC21LA035,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103025/pdf,5/1/2021,Lanai City,Hawaii,United States,20.7906,-156.9499,0,0,Non-Fatal,non-fatal,False
+104544,ANC22LA015,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104544/pdf,12/25/2021,Kahului,Hawaii,United States,20.889414,-156.43325,0,0,Non-Fatal,non-fatal,False

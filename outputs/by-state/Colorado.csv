@@ -1,0 +1,382 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+82648,CEN12LA126,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82648/pdf,1/6/2012,Somerset,Colorado,United States,38.935001,-107.467781,0,0,Non-Fatal,non-fatal,False
+82672,CEN12CA132,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82672/pdf,1/2/2012,Del Norte,Colorado,United States,37.702499,-106.351669,0,0,Non-Fatal,non-fatal,False
+82842,CEN12FA151,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82842/pdf,2/2/2012,Pueblo,Colorado,United States,38.286666,-104.491111,0,0,Non-Fatal,non-fatal,False
+82898,CEN12CA157,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82898/pdf,2/4/2012,Colorado Springs,Colorado,United States,38.803333,-104.700279,0,0,Non-Fatal,non-fatal,False
+82919,CEN12CA160,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82919/pdf,2/18/2012,South Fork,Colorado,United States,37.740276,-106.525558,0,0,Non-Fatal,non-fatal,False
+82920,CEN12FA161,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82920/pdf,2/19/2012,Hayden,Colorado,United States,40.48389,-107.228614,2,4,Fatal,fatal,True
+82983,CEN12LA171,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82983/pdf,2/27/2012,Denver,Colorado,United States,39.785278,-104.543052,0,0,Non-Fatal,non-fatal,False
+83080,CEN12CA183,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83080/pdf,3/8/2012,Fort Collins,Colorado,United States,40.54111,-104.985,0,0,Non-Fatal,non-fatal,False
+83208,CEN12FA199,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83208/pdf,3/23/2012,Longmont,Colorado,United States,40.15361,-105.055274,2,0,Fatal,fatal,True
+83216,CEN12CA200,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83216/pdf,3/24/2012,Colorado Springs,Colorado,United States,38.968334,-104.807777,0,0,Non-Fatal,non-fatal,False
+83225,CEN12CA206,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83225/pdf,3/24/2012,Calhan,Colorado,United States,39.048053,-104.293052,0,1,Non-Fatal,non-fatal,False
+83334,CEN12LA234,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83334/pdf,4/4/2012,Telluride,Colorado,United States,37.953887,-107.908889,0,0,Non-Fatal,non-fatal,False
+83450,CEN12LA252,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83450/pdf,4/21/2012,Englewood,Colorado,United States,39.569999,-104.849166,0,0,Non-Fatal,non-fatal,False
+83520,CEN12CA263,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83520/pdf,5/1/2012,Durango,Colorado,United States,37.203056,-107.869163,0,0,Non-Fatal,non-fatal,False
+83522,CEN12CA264,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83522/pdf,3/15/2012,Cheyenne Wells,Colorado,United States,38.733055,-102.118057,0,0,Non-Fatal,non-fatal,False
+83644,CEN12LA298,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83644/pdf,5/12/2012,Steamboat Springs,Colorado,United States,40.516109,-106.866111,0,0,Non-Fatal,non-fatal,False
+83767,CEN12FA320,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83767/pdf,5/28/2012,Fort Morgan,Colorado,United States,40.333889,-103.802497,1,1,Fatal,fatal,True
+83876,CEN12LA343,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83876/pdf,6/2/2012,Denver,Colorado,United States,39.913333,-105.11,0,0,Non-Fatal,non-fatal,False
+83888,CEN12LA345,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83888/pdf,6/7/2012,Aspen,Colorado,United States,39.220554,-106.867774,0,0,Non-Fatal,non-fatal,False
+83910,CEN12LA350,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83910/pdf,6/10/2012,Kremmling,Colorado,United States,40.053333,-106.368888,0,0,Non-Fatal,non-fatal,False
+83977,CEN12CA370,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83977/pdf,6/14/2012,Erie,Colorado,United States,40.010276,-105.048057,0,0,Non-Fatal,non-fatal,False
+83994,CEN12LA374,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83994/pdf,6/14/2012,Loveland,Colorado,United States,40.451946,-105.01139,0,0,Non-Fatal,non-fatal,False
+84069,CEN12LA389,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84069/pdf,6/23/2012,Pueblo,Colorado,United States,38.289165,-104.496391,0,0,Non-Fatal,non-fatal,False
+84163,CEN12LA414,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84163/pdf,6/30/2012,Glenwood Springs,Colorado,United States,39.605556,-107.271385,0,0,Non-Fatal,non-fatal,False
+84194,CEN12LA420,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84194/pdf,7/19/2012,Colorado Springs,Colorado,United States,44.760688,-85.699981,0,0,Non-Fatal,non-fatal,False
+84320,CEN12CA442,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84320/pdf,7/15/2012,Durango,Colorado,United States,37.15139,-107.753608,0,0,Non-Fatal,non-fatal,False
+84397,CEN12FA462,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84397/pdf,7/21/2012,Walsenburg,Colorado,United States,37.694999,-104.796386,2,0,Fatal,fatal,True
+84432,CEN12LA473,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84432/pdf,7/24/2012,Steamboat Springs,Colorado,United States,40.516387,-106.866386,0,0,Non-Fatal,non-fatal,False
+84472,CEN12LA485,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84472/pdf,7/19/2012,Englewood,Colorado,United States,39.570278,-104.849441,0,0,Non-Fatal,non-fatal,False
+84506,CEN12LA493,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84506/pdf,7/30/2012,Montrose,Colorado,United States,38.509723,-107.894165,0,0,Non-Fatal,non-fatal,False
+84559,CEN12CA511,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84559/pdf,8/2/2012,Colorado Springs,Colorado,United States,38.799999,-104.650001,0,1,Non-Fatal,non-fatal,False
+84561,CEN12LA513,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84561/pdf,8/1/2012,La Salle,Colorado,United States,40.338611,-104.667778,0,0,Non-Fatal,non-fatal,False
+84588,CEN12LA522,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84588/pdf,8/1/2012,Peyton,Colorado,United States,38.945835,-104.569999,0,0,Non-Fatal,non-fatal,False
+84636,CEN12CA537,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84636/pdf,8/11/2012,Erie,Colorado,United States,40.010276,-105.046386,0,0,Non-Fatal,non-fatal,False
+84676,CEN12LA543,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84676/pdf,8/7/2012,Westcliffe,Colorado,United States,38.129795,-105.460655,0,1,Non-Fatal,non-fatal,False
+84761,CEN12CA564,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84761/pdf,8/22/2012,Boulder,Colorado,United States,40.039165,-105.225555,0,0,Non-Fatal,non-fatal,False
+84789,CEN12FA571,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84789/pdf,8/24/2012,Milner,Colorado,United States,40.5125,-107.033889,1,0,Fatal,fatal,True
+84796,CEN12FA572,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84796/pdf,8/26/2012,Parker,Colorado,United States,39.55389,-104.733886,0,1,Non-Fatal,non-fatal,False
+84819,CEN12CA576,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84819/pdf,8/25/2012,Watkins,Colorado,United States,39.766666,-104.525001,0,0,Non-Fatal,non-fatal,False
+84874,CEN12FA594,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84874/pdf,8/31/2012,Rye,Colorado,United States,37.964721,-105.092224,2,0,Fatal,fatal,True
+85018,CEN12CA627,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85018/pdf,9/4/2012,Watkins,Colorado,United States,39.784168,-104.537498,0,0,Non-Fatal,non-fatal,False
+85053,CEN12FA638,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85053/pdf,9/16/2012,Pueblo,Colorado,United States,38.288887,-104.496391,1,0,Fatal,fatal,True
+85054,CEN12FA639,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85054/pdf,9/13/2012,Teddys Peak,Colorado,United States,39.060455,-105.312042,2,0,Fatal,fatal,True
+85066,CEN12CA641,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85066/pdf,9/10/2012,Ft. Morgan,Colorado,United States,40.333889,-103.804168,0,0,Non-Fatal,non-fatal,False
+85111,CEN12FA653,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85111/pdf,9/18/2012,Kiowa,Colorado,United States,39.243888,-104.36972,0,0,Non-Fatal,non-fatal,False
+85136,CEN12LA655,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85136/pdf,9/1/2012,Longmont,Colorado,United States,40.217777,-105.010276,0,0,Non-Fatal,non-fatal,False
+85219,CEN12LA668,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85219/pdf,9/20/2012,Pagosa Springs,Colorado,United States,37.286388,-107.055831,0,0,Non-Fatal,non-fatal,False
+85267,CEN13CA005,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85267/pdf,10/5/2012,Colorado Springs,Colorado,United States,38.945556,-104.569725,0,0,Non-Fatal,non-fatal,False
+85402,CEN12LA675,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85402/pdf,9/26/2012,Greeley,Colorado,United States,40.437221,-104.633056,0,0,Non-Fatal,non-fatal,False
+85404,CEN13CA026,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85404/pdf,10/9/2012,Durango,Colorado,United States,37.209999,-107.866668,0,0,Non-Fatal,non-fatal,False
+85645,CEN13FA066,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85645/pdf,11/21/2012,Watkins,Colorado,United States,39.784168,-104.538055,1,0,Fatal,fatal,True
+85703,CEN13CA079,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85703/pdf,11/29/2012,Boulder,Colorado,United States,40.063331,-105.455833,0,0,Non-Fatal,non-fatal,False
+85714,CEN13CA083,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85714/pdf,12/2/2012,Durango,Colorado,United States,37.201946,-107.868057,0,0,Non-Fatal,non-fatal,False
+86060,CEN13CA138,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86060/pdf,1/20/2013,Erie,Colorado,United States,40.009998,-105.047775,0,0,Non-Fatal,non-fatal,False
+86255,CEN13LA166,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86255/pdf,2/16/2013,Akron,Colorado,United States,40.175556,-103.219718,0,0,Non-Fatal,non-fatal,False
+86335,CEN13FA182,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86335/pdf,3/1/2013,Broomfield,Colorado,United States,39.921665,-105.135002,0,0,Non-Fatal,non-fatal,False
+86448,CEN13LA199,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86448/pdf,3/15/2013,Broomfield,Colorado,United States,39.908889,-105.117225,0,0,Non-Fatal,non-fatal,False
+86463,CEN13CA200,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86463/pdf,3/16/2013,Kremmling,Colorado,United States,40.053333,-106.368888,0,0,Non-Fatal,non-fatal,False
+86594,CEN13FA219,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86594/pdf,3/30/2013,Castle Rock,Colorado,United States,39.302501,-104.758331,1,0,Fatal,fatal,True
+86700,CEN13CA236,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86700/pdf,4/21/2013,Colorado Springs,Colorado,United States,38.805557,-104.700553,0,0,Non-Fatal,non-fatal,False
+86825,CEN13LA258,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86825/pdf,5/2/2013,Delta,Colorado,United States,38.762779,-108.099166,0,0,Non-Fatal,non-fatal,False
+86849,CEN13CA266,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86849/pdf,5/7/2013,Glenwood Springs,Colorado,United States,39.506111,-107.308891,0,0,Non-Fatal,non-fatal,False
+86971,CEN13LA291,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86971/pdf,5/22/2013,Englewood,Colorado,United States,39.570278,-104.849441,0,0,Non-Fatal,non-fatal,False
+86973,CEN13CA292,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86973/pdf,5/22/2013,Erie,Colorado,United States,40.010276,-105.048057,0,0,Non-Fatal,non-fatal,False
+87008,CEN13LA298,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87008/pdf,5/22/2013,Greeley,Colorado,United States,40.40361,-104.64167,0,0,Non-Fatal,non-fatal,False
+87044,CEN13LA310,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87044/pdf,5/7/2013,La Junta,Colorado,United States,37.960277,-103.470275,0,0,Non-Fatal,non-fatal,False
+87127,CEN13FA327,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87127/pdf,6/8/2013,Mosca,Colorado,United States,37.850276,-105.435279,2,1,Fatal,fatal,True
+87146,CEN13CA334,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87146/pdf,6/9/2013,Peyton,Colorado,United States,38.945835,-104.569725,0,0,Non-Fatal,non-fatal,False
+87184,CEN13LA347,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87184/pdf,6/8/2013,Arvada,Colorado,United States,39.8675,-105.239723,0,1,Non-Fatal,non-fatal,False
+87231,CEN13LA356,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87231/pdf,6/8/2013,Golden,Colorado,United States,39.887222,-105.218887,0,1,Non-Fatal,non-fatal,False
+87235,CEN13LA358,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87235/pdf,6/18/2013,Durango,Colorado,United States,37.15139,-107.753608,0,0,Non-Fatal,non-fatal,False
+87251,CEN13LA362,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87251/pdf,6/28/2013,Eagle,Colorado,United States,39.641109,-106.935554,0,2,Non-Fatal,non-fatal,False
+87272,CEN13LA368,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87272/pdf,6/23/2013,Wolcott,Colorado,United States,39.805557,-106.714447,2,0,Fatal,fatal,True
+87304,CEN13CA372,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87304/pdf,6/24/2013,Windsor,Colorado,United States,40.439445,-104.976387,0,2,Non-Fatal,non-fatal,False
+87363,CEN13LA388,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87363/pdf,6/28/2013,Hudson,Colorado,United States,39.999443,-104.554168,0,1,Non-Fatal,non-fatal,False
+87475,CEN13CA410,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87475/pdf,6/16/2013,Elbert,Colorado,United States,39.221389,-104.637222,0,0,Non-Fatal,non-fatal,False
+87494,CEN13FA415,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87494/pdf,7/16/2013,Dove Creek,Colorado,United States,37.756111,-108.773056,1,0,Fatal,fatal,True
+87509,CEN13CA419,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87509/pdf,7/17/2013,Broomfield,Colorado,United States,39.908889,-105.117225,0,0,Non-Fatal,non-fatal,False
+87573,CEN13CA435,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87573/pdf,7/23/2013,Steamboat Springs,Colorado,United States,40.509723,-106.859725,0,0,Non-Fatal,non-fatal,False
+87600,CEN13LA443,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87600/pdf,7/29/2013,Monte Vista,Colorado,United States,37.581665,-106.053054,0,0,Non-Fatal,non-fatal,False
+87778,CEN13LA488,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87778/pdf,8/12/2013,Nucla,Colorado,United States,38.238887,-108.563331,0,0,Non-Fatal,non-fatal,False
+87974,CEN13LA525,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87974/pdf,9/1/2013,Boulder,Colorado,United States,39.908889,-105.117225,0,0,Non-Fatal,non-fatal,False
+87994,CEN13CA532,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87994/pdf,9/6/2013,Denver,Colorado,United States,39.569999,-104.849166,0,0,Non-Fatal,non-fatal,False
+88019,CEN13LA539,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88019/pdf,9/4/2013,Colorado Springs,Colorado,United States,38.805831,-104.700836,0,0,Non-Fatal,non-fatal,False
+88133,CEN13LA562,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88133/pdf,9/23/2013,Mack,Colorado,United States,39.268054,-108.864166,0,0,Non-Fatal,non-fatal,False
+88148,CEN13CA564,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88148/pdf,9/26/2013,Watkins,Colorado,United States,39.793888,-104.5475,0,1,Non-Fatal,non-fatal,False
+88242,CEN14LA011,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88242/pdf,10/19/2013,Boulder,Colorado,United States,40.039443,-105.22583,0,0,Non-Fatal,non-fatal,False
+88300,CEN14CA018,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88300/pdf,10/13/2013,Telluride,Colorado,United States,37.953887,-107.908607,0,0,Non-Fatal,non-fatal,False
+88356,CEN14FA032,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88356/pdf,10/28/2013,Castle Rock,Colorado,United States,39.424167,-104.845558,0,1,Non-Fatal,non-fatal,False
+88378,CEN14CA037,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88378/pdf,11/3/2013,Hayden,Colorado,United States,40.481388,-107.217781,0,0,Non-Fatal,non-fatal,False
+88416,CEN14CA049,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88416/pdf,11/7/2013,Fort Collins,Colorado,United States,40.451667,-105.011108,0,0,Non-Fatal,non-fatal,False
+88431,CEN14LA054,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88431/pdf,11/14/2013,Erie,Colorado,United States,40.020942,-105.039306,0,0,Non-Fatal,non-fatal,False
+88432,CEN14CA055,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88432/pdf,11/2/2013,Loveland,Colorado,United States,40.45111,-105.011108,0,0,Non-Fatal,non-fatal,False
+88450,CEN14FA064,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88450/pdf,11/19/2013,Cedaredge,Colorado,United States,38.889656,-107.920448,1,0,Fatal,fatal,True
+88488,CEN14FA071,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88488/pdf,11/29/2013,Delta,Colorado,United States,38.739139,-108.070312,1,0,Fatal,fatal,True
+88498,CEN14FA072,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88498/pdf,11/27/2013,Boulder,Colorado,United States,40.01979,-105.249259,1,0,Fatal,fatal,True
+88547,CEN14FA084,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88547/pdf,12/12/2013,Collbran,Colorado,United States,39.228889,-107.67694,3,0,Fatal,fatal,True
+88631,CEN14FA099,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88631/pdf,1/5/2014,Aspen,Colorado,United States,39.221942,-106.868331,1,2,Fatal,fatal,True
+88651,CEN14CA106,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88651/pdf,1/8/2014,Pagosa Springs,Colorado,United States,37.239479,-107.029067,0,0,Non-Fatal,non-fatal,False
+88722,CEN14CA123,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88722/pdf,1/25/2014,Boulder,Colorado,United States,40.039165,-105.216941,0,0,Non-Fatal,non-fatal,False
+88732,CEN14CA125,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88732/pdf,1/28/2014,Aurora,Colorado,United States,39.34,-104.419998,0,0,Non-Fatal,non-fatal,False
+88739,CEN14TA126,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88739/pdf,1/29/2014,Fort Carson,Colorado,United States,38.678611,-104.754997,0,0,Non-Fatal,non-fatal,False
+88805,CEN14FA141,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88805/pdf,2/16/2014,Telluride,Colorado,United States,37.960277,-107.929725,3,0,Fatal,fatal,True
+88925,CEN14CA160,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88925/pdf,3/14/2014,De Beque,Colorado,United States,39.449722,-108.61,0,0,Non-Fatal,non-fatal,False
+88937,CEN14FA163,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88937/pdf,3/19/2014,Aurora,Colorado,United States,39.670731,-104.70057,1,0,Fatal,fatal,True
+88940,CEN14CA166,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88940/pdf,3/19/2014,Hudson,Colorado,United States,40.102779,-104.70111,0,0,Non-Fatal,non-fatal,False
+88953,CEN14FA167,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88953/pdf,3/22/2014,Ridgway,Colorado,United States,38.218055,-107.745277,5,0,Fatal,fatal,True
+88955,CEN14LA168,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88955/pdf,3/21/2014,Evans,Colorado,United States,40.384445,-104.639167,0,0,Non-Fatal,non-fatal,False
+88982,CEN14FA173,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88982/pdf,3/29/2014,Highlands Ranch,Colorado,United States,39.552223,-105.003051,1,0,Fatal,fatal,True
+89004,CEN14CA183,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89004/pdf,3/14/2014,Broomfield,Colorado,United States,39.912223,-105.12889,0,0,Non-Fatal,non-fatal,False
+89109,CEN14CA215,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89109/pdf,4/19/2014,Security,Colorado,United States,38.75111,-104.711387,0,1,Non-Fatal,non-fatal,False
+89128,CEN14LA221,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89128/pdf,4/21/2014,Peyton,Colorado,United States,39.029926,-104.479949,0,0,Non-Fatal,non-fatal,False
+89168,CEN14FA230,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89168/pdf,5/5/2014,Northglenn,Colorado,United States,39.896945,-105.000831,0,0,Non-Fatal,non-fatal,False
+89234,CEN14LA245,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89234/pdf,5/19/2014,Yuma,Colorado,United States,40.104167,-102.713058,0,0,Non-Fatal,non-fatal,False
+89298,CEN14LA261,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89298/pdf,5/28/2014,Boulder,Colorado,United States,40.040279,-105.248336,0,0,Non-Fatal,non-fatal,False
+89319,CEN14FA265,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89319/pdf,5/31/2014,Watkins,Colorado,United States,39.800556,-104.594444,2,0,Fatal,fatal,True
+89327,CEN14LA267,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89327/pdf,6/1/2014,Longmont,Colorado,United States,40.16909,-105.209907,0,0,Non-Fatal,non-fatal,False
+89377,CEN14LA277,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89377/pdf,6/1/2014,Durango,Colorado,United States,37.198612,-107.871665,0,0,Non-Fatal,non-fatal,False
+89538,CEN14CA318,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89538/pdf,6/16/2014,Wolcott,Colorado,United States,39.77917,-106.460746,0,0,Non-Fatal,non-fatal,False
+89568,CEN14FA328,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89568/pdf,6/30/2014,Georgetown,Colorado,United States,39.709583,-105.689254,3,0,Fatal,fatal,True
+89606,CEN14FA339,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89606/pdf,7/4/2014,Durango,Colorado,United States,37.165554,-107.745277,2,0,Fatal,fatal,True
+89656,CEN14CA360,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89656/pdf,7/11/2014,Englewood,Colorado,United States,39.609554,-104.949775,0,0,Non-Fatal,non-fatal,False
+89659,CEN14LA361,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89659/pdf,7/11/2014,Monte Vista,Colorado,United States,37.658332,-106.033889,0,0,Non-Fatal,non-fatal,False
+89665,CEN14CA364,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89665/pdf,7/14/2014,Durango,Colorado,United States,37.15139,-107.75389,0,0,Non-Fatal,non-fatal,False
+89753,CEN14LA393,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89753/pdf,7/27/2014,Pueblo,Colorado,United States,38.289165,-104.496665,0,1,Non-Fatal,non-fatal,False
+89833,CEN14FA414,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89833/pdf,8/9/2014,Steamboat Springs,Colorado,United States,40.34111,-106.712776,2,0,Fatal,fatal,True
+89906,CEN14LA439,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89906/pdf,8/19/2014,Wray,Colorado,United States,40.100276,-102.240837,0,0,Non-Fatal,non-fatal,False
+89916,CEN14CA440,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89916/pdf,3/19/2014,Lamar,Colorado,United States,38.211387,-102.60083,0,1,Non-Fatal,non-fatal,False
+89963,CEN14CA460,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89963/pdf,8/1/2014,Steamboat Springs,Colorado,United States,40.485,-106.831665,0,0,Non-Fatal,non-fatal,False
+89992,CEN14FA467,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89992/pdf,8/31/2014,Erie,Colorado,United States,40.011943,-105.05278,5,0,Fatal,fatal,True
+89995,CEN14CA469,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89995/pdf,8/29/2014,Granby,Colorado,United States,40.090278,-105.916389,0,0,Non-Fatal,non-fatal,False
+90011,CEN14LA476,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90011/pdf,9/3/2014,Cortez,Colorado,United States,37.303054,-108.628051,0,0,Non-Fatal,non-fatal,False
+90022,CEN14CA483,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90022/pdf,9/3/2014,Longmont,Colorado,United States,40.164722,-105.16333,0,0,Non-Fatal,non-fatal,False
+90213,CEN15LA004,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90213/pdf,10/4/2014,Loma,Colorado,United States,39.195835,-108.813056,2,0,Fatal,fatal,True
+90308,CEN15FA030,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90308/pdf,10/27/2014,Boulder,Colorado,United States,40.040279,-105.225555,1,0,Fatal,fatal,True
+90406,CEN15FA051,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90406/pdf,11/14/2014,Pagosa Springs,Colorado,United States,37.14611,-106.827774,2,0,Fatal,fatal,True
+90417,CEN15CA055,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90417/pdf,11/20/2014,Strasburg,Colorado,United States,39.774166,-104.300552,0,0,Non-Fatal,non-fatal,False
+90438,CEN15CA061,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90438/pdf,11/28/2014,Colorado Springs,Colorado,United States,38.805557,-104.700553,0,0,Non-Fatal,non-fatal,False
+90472,CEN15LA069,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90472/pdf,12/5/2014,Fort Collins,Colorado,United States,40.451946,-105.01139,0,1,Non-Fatal,non-fatal,False
+90521,CEN15LA084,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90521/pdf,12/8/2014,Fort Lupton,Colorado,United States,40.079448,-104.800788,0,0,Non-Fatal,non-fatal,False
+90549,CEN15FA090,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90549/pdf,12/30/2014,Englewood,Colorado,United States,39.595275,-104.82611,1,0,Fatal,fatal,True
+90593,CEN15FA101,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90593/pdf,1/11/2015,Brighton,Colorado,United States,39.99139,-104.59333,1,0,Fatal,fatal,True
+90651,CEN15LA122,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90651/pdf,1/25/2015,Routt County,Colorado,United States,40.299167,-106.671386,0,1,Non-Fatal,non-fatal,False
+90659,CEN15CA125,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90659/pdf,1/26/2015,Fort Morgan,Colorado,United States,40.109165,-103.763053,0,0,Non-Fatal,non-fatal,False
+90662,CEN15FA126,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90662/pdf,1/26/2015,Erie,Colorado,United States,40.015556,-105.049446,2,0,Fatal,fatal,True
+90664,CEN15CA128,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90664/pdf,1/6/2015,Grand Junction,Colorado,United States,39.080554,-108.559165,0,1,Non-Fatal,non-fatal,False
+90715,CEN15FA141,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90715/pdf,2/11/2015,Kersey,Colorado,United States,40.341667,-104.559165,2,0,Fatal,fatal,True
+90806,CEN15CA159,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90806/pdf,2/27/2015,Greeley,Colorado,United States,40.4375,-104.633331,0,0,Non-Fatal,non-fatal,False
+90898,GAA15CA011,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90898/pdf,3/16/2015,Boulder,Colorado,United States,40.038612,-105.229721,0,0,Non-Fatal,non-fatal,False
+91024,CEN15CA197,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91024/pdf,4/10/2015,Longmont,Colorado,United States,40.162223,-105.160835,0,0,Non-Fatal,non-fatal,False
+91101,GAA15CA053,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91101/pdf,4/29/2015,Colorado Springs,Colorado,United States,38.945835,-104.569999,0,0,Non-Fatal,non-fatal,False
+91102,CEN15FA211,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91102/pdf,4/30/2015,Trinidad,Colorado,United States,37.207778,-104.502502,1,0,Fatal,fatal,True
+91198,CEN15CA236,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91198/pdf,5/17/2015,Durango,Colorado,United States,37.336666,-107.867774,0,0,Non-Fatal,non-fatal,False
+91257,GAA15CA096,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91257/pdf,5/28/2015,Grand Junction,Colorado,United States,39.122501,-108.526664,0,0,Non-Fatal,non-fatal,False
+91317,CEN15FA257,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91317/pdf,6/5/2015,"Eagle, CO",Colorado,United States,39.641387,-106.904167,1,1,Fatal,fatal,True
+91385,CEN15LA275,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91385/pdf,6/10/2015,Pueblo,Colorado,United States,38.299167,-104.50389,0,0,Non-Fatal,non-fatal,False
+91503,CEN15LA295,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91503/pdf,6/3/2015,Montrose,Colorado,United States,38.299888,-107.900581,0,1,Non-Fatal,non-fatal,False
+91518,GAA15CA167,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91518/pdf,6/28/2015,Durango,Colorado,United States,37.203056,-107.869163,0,0,Non-Fatal,non-fatal,False
+91522,CEN15LA300,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91522/pdf,7/2/2015,Fort Carson,Colorado,United States,38.697223,-104.726112,0,2,Non-Fatal,non-fatal,False
+91610,GAA15CA194,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91610/pdf,7/22/2015,Monte Vista,Colorado,United States,37.52861,-106.045829,0,0,Non-Fatal,non-fatal,False
+91934,CEN15FA400,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91934/pdf,9/5/2015,Silverton,Colorado,United States,37.761943,-107.845558,4,0,Fatal,fatal,True
+92060,CEN15FA424,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92060/pdf,9/25/2015,Pagosa Springs,Colorado,United States,37.11,-106.569999,2,0,Fatal,fatal,True
+92073,CEN15LA430,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92073/pdf,9/27/2015,Glenwood Springs,Colorado,United States,39.490001,-107.29972,0,1,Non-Fatal,non-fatal,False
+92090,GAA15CA286,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92090/pdf,9/30/2015,Springfield,Colorado,United States,37.463333,-102.618057,0,0,Non-Fatal,non-fatal,False
+92098,GAA15CA292,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92098/pdf,9/29/2015,Lake City,Colorado,United States,37.908332,-107.351669,0,0,Non-Fatal,non-fatal,False
+92099,GAA15CA293,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92099/pdf,9/29/2015,Lake City,Colorado,United States,37.908054,-107.352218,0,0,Non-Fatal,non-fatal,False
+92102,GAA15CA294,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92102/pdf,9/25/2015,Englewood,Colorado,United States,39.559722,-104.85028,0,0,Non-Fatal,non-fatal,False
+92167,CEN16FA011,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92167/pdf,10/13/2015,Eaton,Colorado,United States,40.566112,-104.654441,2,0,Fatal,fatal,True
+92309,CEN16FA034,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92309/pdf,11/9/2015,Colorado Springs,Colorado,United States,38.830833,-104.71833,2,0,Fatal,fatal,True
+92355,GAA16CA058,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92355/pdf,11/15/2015,Greeley,Colorado,United States,40.4375,-104.633331,0,0,Non-Fatal,non-fatal,False
+92369,GAA16CA060,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92369/pdf,11/22/2015,Hudson,Colorado,United States,40.104167,-104.701942,0,0,Non-Fatal,non-fatal,False
+92371,GAA16CA061,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92371/pdf,11/24/2015,Fort Morgan,Colorado,United States,40.248054,-103.918334,0,0,Non-Fatal,non-fatal,False
+92402,CEN16LA053,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92402/pdf,12/1/2015,Englewood,Colorado,United States,39.570278,-104.821945,0,0,Non-Fatal,non-fatal,False
+92577,CEN16FA086,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92577/pdf,1/14/2016,Meeker,Colorado,United States,40.052223,-108.27861,1,0,Fatal,fatal,True
+92670,GAA16CA115,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92670/pdf,1/30/2016,Las Animas,Colorado,United States,38.051666,-103.120277,0,0,Non-Fatal,non-fatal,False
+92762,CEN16LA108,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92762/pdf,2/23/2016,Grand Junction,Colorado,United States,39.122501,-108.526664,0,0,Non-Fatal,non-fatal,False
+92796,CEN16FA116,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92796/pdf,3/2/2016,Palmer Lake,Colorado,United States,39.1175,-104.910003,2,0,Fatal,fatal,True
+92830,GAA16CA146,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92830/pdf,3/11/2016,Brighton,Colorado,United States,39.982776,-104.702224,0,0,Non-Fatal,non-fatal,False
+92852,GAA16CA150,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92852/pdf,1/30/2016,La Junta,Colorado,United States,38.048053,-103.512779,0,0,Non-Fatal,non-fatal,False
+93068,GAA16CA201,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93068/pdf,4/22/2016,Denver,Colorado,United States,39.784168,-104.537498,0,0,Non-Fatal,non-fatal,False
+93099,GAA16CA214,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93099/pdf,5/4/2016,Durango,Colorado,United States,37.203056,-107.869163,0,0,Non-Fatal,non-fatal,False
+93192,CEN16FA188,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93192/pdf,5/18/2016,Sheridan Lake,Colorado,United States,38.494998,-102.29,1,0,Fatal,fatal,True
+93222,GAA16CA250,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93222/pdf,5/21/2016,Calhan,Colorado,United States,39.045555,-104.293052,0,0,Non-Fatal,non-fatal,False
+93291,GAA16CA270,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93291/pdf,5/29/2016,Mack,Colorado,United States,39.268333,-108.86444,0,0,Non-Fatal,non-fatal,False
+93408,CEN16LA223,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93408/pdf,6/18/2016,Colorado Springs,Colorado,United States,38.797779,-104.461387,0,0,Non-Fatal,non-fatal,False
+93411,CEN16FA224,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93411/pdf,6/15/2016,Creede,Colorado,United States,37.822223,-106.906112,3,0,Fatal,fatal,True
+93443,GAA16CA327,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93443/pdf,6/17/2016,Craig,Colorado,United States,40.494998,-107.523056,0,0,Non-Fatal,non-fatal,False
+93473,GAA16CA336,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93473/pdf,6/25/2016,Delta,Colorado,United States,38.76139,-108.141113,0,0,Non-Fatal,non-fatal,False
+93474,GAA16CA337,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93474/pdf,6/9/2016,Buena Vista,Colorado,United States,38.816665,-106.121665,0,0,Non-Fatal,non-fatal,False
+93510,CEN16LA239,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93510/pdf,6/26/2016,Strasburg,Colorado,United States,39.73611,-104.328613,0,0,Non-Fatal,non-fatal,False
+93522,CEN16FA241,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93522/pdf,7/4/2016,Buena Vista,Colorado,United States,38.862499,-106.156944,1,0,Fatal,fatal,True
+93546,CEN16LA247,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93546/pdf,6/26/2016,Longmont,Colorado,United States,40.162776,-105.163612,0,1,Non-Fatal,non-fatal,False
+93613,CEN16LA267,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93613/pdf,7/16/2016,Longmont,Colorado,United States,40.164443,-105.163612,0,0,Non-Fatal,non-fatal,False
+93617,GAA16CA378,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93617/pdf,7/14/2016,Denver,Colorado,United States,39.784168,-104.537498,0,0,Non-Fatal,non-fatal,False
+93695,GAA16CA394,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93695/pdf,7/27/2016,Alamosa,Colorado,United States,37.479167,-105.632225,0,0,Non-Fatal,non-fatal,False
+93860,CEN16FA328,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93860/pdf,8/19/2016,Center,Colorado,United States,37.744998,-106.025833,1,0,Fatal,fatal,True
+93883,CEN16FA331,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93883/pdf,8/24/2016,Telluride,Colorado,United States,37.893333,-107.833335,2,0,Fatal,fatal,True
+93944,CEN16LA348,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93944/pdf,8/25/2016,Colorado Springs,Colorado,United States,38.973331,-104.819999,0,0,Non-Fatal,non-fatal,False
+94184,GAA17CA015,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94184/pdf,10/6/2016,Rifle,Colorado,United States,39.526943,-107.719444,0,0,Non-Fatal,non-fatal,False
+94185,GAA17CA016,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94185/pdf,10/7/2016,Calhan,Colorado,United States,39.049999,-104.293052,0,0,Non-Fatal,non-fatal,False
+94351,GAA17CA060,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94351/pdf,11/6/2016,Englewood,Colorado,United States,39.649444,-105.043052,0,0,Non-Fatal,non-fatal,False
+94456,CEN17LA047,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94456/pdf,12/4/2016,Gunnison,Colorado,United States,38.534442,-106.931663,0,0,Non-Fatal,non-fatal,False
+94583,CEN17LA073,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94583/pdf,1/7/2017,Meeker,Colorado,United States,40.042778,-107.183052,0,0,Non-Fatal,non-fatal,False
+94664,GAA17CA125,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94664/pdf,1/28/2017,Canon City,Colorado,United States,38.429443,-105.107498,0,0,Non-Fatal,non-fatal,False
+94669,CEN17LA091,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94669/pdf,1/18/2017,Delta,Colorado,United States,38.786388,-108.063613,0,0,Non-Fatal,non-fatal,False
+94694,GAA17CA131,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94694/pdf,2/5/2017,Loveland,Colorado,United States,40.451946,-105.01139,0,0,Non-Fatal,non-fatal,False
+94777,CEN17FA111,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94777/pdf,2/27/2017,Berthoud,Colorado,United States,40.267223,-105.154167,2,0,Fatal,fatal,True
+94830,CEN17LA122,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94830/pdf,2/18/2017,Centennial,Colorado,United States,39.569999,-104.849441,0,1,Non-Fatal,non-fatal,False
+94896,GAA17CA197,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94896/pdf,3/18/2017,Colorado Springs,Colorado,United States,38.820556,-104.715835,0,0,Non-Fatal,non-fatal,False
+94978,GAA17CA221,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94978/pdf,4/6/2017,Granby,Colorado,United States,40.09,-105.916664,0,0,Non-Fatal,non-fatal,False
+95033,CEN17LA162,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95033/pdf,4/19/2017,Salida,Colorado,United States,38.545555,-106.033058,0,0,Non-Fatal,non-fatal,False
+95110,GAA17CA257,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95110/pdf,5/4/2017,Englewood,Colorado,United States,39.569999,-104.849441,0,0,Non-Fatal,non-fatal,False
+95179,CEN17LA185,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95179/pdf,5/12/2017,Grandby,Colorado,United States,40.09,-105.916664,0,0,Non-Fatal,non-fatal,False
+95202,CEN17LA192,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95202/pdf,5/20/2017,Canon City,Colorado,United States,38.29,-105.190002,0,0,Non-Fatal,non-fatal,False
+95338,CEN17LA220,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95338/pdf,6/8/2017,Watkins,Colorado,United States,39.809722,-104.4925,0,2,Non-Fatal,non-fatal,False
+95397,CEN17LA236,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95397/pdf,6/18/2017,Canon City,Colorado,United States,38.428611,-105.106941,0,0,Non-Fatal,non-fatal,False
+95470,CEN17LA247,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95470/pdf,6/30/2017,Eagle,Colorado,United States,39.64611,-106.893058,0,0,Non-Fatal,non-fatal,False
+95604,CEN17LA274,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95604/pdf,7/15/2017,Colorado Springs,Colorado,United States,38.945835,-104.569999,0,0,Non-Fatal,non-fatal,False
+95744,CEN17LA301,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95744/pdf,8/3/2017,Colorado Springs,Colorado,United States,38.802776,-104.715553,0,0,Non-Fatal,non-fatal,False
+95771,CEN17LA306,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95771/pdf,7/31/2017,Denver,Colorado,United States,39.571945,-104.848052,0,0,Non-Fatal,non-fatal,False
+95801,CEN17LA314,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95801/pdf,8/10/2017,Villa Grove,Colorado,United States,38.254444,-105.947776,0,1,Non-Fatal,non-fatal,False
+95878,CEN17LA327,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95878/pdf,8/21/2017,Erie,Colorado,United States,40.010276,-105.048057,0,0,Non-Fatal,non-fatal,False
+95959,CEN17LA340,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95959/pdf,9/1/2017,Broomfield,Colorado,United States,39.908889,-105.117225,0,0,Non-Fatal,non-fatal,False
+95983,GAA17CA528,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95983/pdf,9/9/2017,Broomfield,Colorado,United States,39.909442,-105.11972,0,0,Non-Fatal,non-fatal,False
+96023,CEN17FA354,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96023/pdf,9/15/2017,Glenwood Springs,Colorado,United States,39.409999,-107.209999,4,0,Fatal,fatal,True
+96088,CEN17LA367,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96088/pdf,9/13/2017,Elbert,Colorado,United States,39.224723,-104.639999,0,2,Non-Fatal,non-fatal,False
+96198,CEN18LA013,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96198/pdf,10/12/2017,Fort Collins,Colorado,United States,40.639999,-105.129997,0,0,Non-Fatal,non-fatal,False
+96251,CEN18CA021,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96251/pdf,10/23/2017,Eagle,Colorado,United States,39.635555,-106.946945,0,0,Non-Fatal,non-fatal,False
+96347,CEN18LA034,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96347/pdf,11/20/2017,Aurora,Colorado,United States,39.565834,-104.657775,0,0,Non-Fatal,non-fatal,False
+96397,CEN18LA042,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96397/pdf,11/27/2017,Louviers,Colorado,United States,39.462223,-105.007774,0,0,Non-Fatal,non-fatal,False
+96442,GAA18CA075,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96442/pdf,12/7/2017,Limon,Colorado,United States,39.275001,-103.665832,0,0,Non-Fatal,non-fatal,False
+96525,CEN18LA059,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96525/pdf,12/20/2017,Longmont,Colorado,United States,40.165832,-105.166114,0,0,Non-Fatal,non-fatal,False
+96576,CEN18LA068,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96576/pdf,1/4/2018,Montrose,Colorado,United States,38.505554,-107.729446,0,0,Non-Fatal,non-fatal,False
+96612,CEN18LA076,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96612/pdf,1/13/2018,Longmont,Colorado,United States,40.168888,-105.172775,0,1,Non-Fatal,non-fatal,False
+96632,CEN18LA080,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96632/pdf,1/18/2018,Erie,Colorado,United States,40.010276,-105.048057,0,0,Non-Fatal,non-fatal,False
+96677,CEN18LA087,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96677/pdf,1/26/2018,Loveland,Colorado,United States,40.439998,-105.007225,0,0,Non-Fatal,non-fatal,False
+96754,CEN18LA102,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96754/pdf,2/16/2018,Longmont,Colorado,United States,40.164443,-105.163612,0,2,Non-Fatal,non-fatal,False
+96764,GAA18CA135,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96764/pdf,2/16/2018,Broomfield,Colorado,United States,39.908889,-105.117225,0,0,Non-Fatal,non-fatal,False
+97001,CEN18FA266,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97001/pdf,4/2/2018,Alma,Colorado,United States,39.459999,-105.66333,1,0,Fatal,fatal,True
+97044,CEN18LA142,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97044/pdf,4/15/2018,Colorado Springs,Colorado,United States,38.810592,-104.709716,0,0,Non-Fatal,non-fatal,False
+97192,CEN18LA162,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97192/pdf,5/7/2018,Broomfield,Colorado,United States,39.908889,-105.117225,0,0,Non-Fatal,non-fatal,False
+97239,CEN18FA168,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97239/pdf,5/11/2018,Lone Tree,Colorado,United States,39.516109,-104.833885,1,0,Fatal,fatal,True
+97274,CEN18LA180,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97274/pdf,5/16/2018,Broomfield,Colorado,United States,39.908889,-105.117225,0,0,Non-Fatal,non-fatal,False
+97663,GAA18CA389,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97663/pdf,6/27/2018,Boulder,Colorado,United States,40.039165,-105.226387,0,0,Non-Fatal,non-fatal,False
+97853,GAA18CA433,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97853/pdf,7/22/2018,Colorado Springs,Colorado,United States,38.940555,-104.568611,0,0,Non-Fatal,non-fatal,False
+97955,CEN18LA303,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97955/pdf,7/31/2018,Loma,Colorado,United States,39.135276,-109.025558,0,0,Non-Fatal,non-fatal,False
+97986,CEN18LA309,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97986/pdf,8/3/2018,Hartsel,Colorado,United States,39.005832,-105.576942,1,1,Fatal,fatal,True
+97997,CEN18LA316,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97997/pdf,8/5/2018,Wiley,Colorado,United States,38.197776,-102.774719,0,1,Non-Fatal,non-fatal,False
+98009,GAA18CA473,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98009/pdf,8/4/2018,Greeley,Colorado,United States,40.429721,-104.641387,0,1,Non-Fatal,non-fatal,False
+98025,CEN18CA323,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98025/pdf,8/8/2018,Greeley,Colorado,United States,40.428611,-104.631942,0,0,Non-Fatal,non-fatal,False
+98059,GAA18CA486,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98059/pdf,8/11/2018,Akron,Colorado,United States,40.2425,-103.096107,0,0,Non-Fatal,non-fatal,False
+98087,CEN18LA335,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98087/pdf,8/16/2018,Colorado Springs,Colorado,United States,38.973331,-104.819999,0,0,Non-Fatal,non-fatal,False
+98144,CEN18LA348,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98144/pdf,8/23/2018,Falcon,Colorado,United States,38.961666,-104.575279,0,0,Non-Fatal,non-fatal,False
+98276,GAA18CA544,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98276/pdf,9/9/2018,Denver,Colorado,United States,39.908889,-105.117225,0,0,Non-Fatal,non-fatal,False
+98322,CEN18LA381,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98322/pdf,9/19/2018,Pagosa Springs,Colorado,United States,37.230278,-106.967224,0,0,Non-Fatal,non-fatal,False
+98471,CEN19LA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98471/pdf,10/13/2018,Hudson,Colorado,United States,40.110832,-104.700836,0,0,Non-Fatal,non-fatal,False
+98490,GAA19CA023,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98490/pdf,10/13/2018,Monte Vista,Colorado,United States,37.531387,-106.044166,0,0,Non-Fatal,non-fatal,False
+98498,GAA19CA026,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98498/pdf,10/15/2018,Denver,Colorado,United States,39.793609,-104.541389,0,0,Non-Fatal,non-fatal,False
+98549,ERA19LA027,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98549/pdf,10/26/2018,Parker,Colorado,United States,39.535556,-104.861663,0,0,Non-Fatal,non-fatal,False
+98583,GAA19CA045,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98583/pdf,10/27/2018,Denver,Colorado,United States,39.569999,-104.849441,0,0,Non-Fatal,non-fatal,False
+98588,CEN19FA022,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98588/pdf,11/2/2018,Broomfield,Colorado,United States,39.997501,-105.045829,2,0,Fatal,fatal,True
+98714,WPR19TA034,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98714/pdf,11/20/2018,Colorado Springs,Colorado,United States,38.940555,-104.568611,0,0,Non-Fatal,non-fatal,False
+98801,CEN19LA048,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98801/pdf,12/25/2018,Watkins,Colorado,United States,39.784194,-104.53763,0,0,Non-Fatal,non-fatal,False
+98879,CEN19LA061,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98879/pdf,12/23/2018,Norwood,Colorado,United States,38.165832,-108.305831,0,0,Non-Fatal,non-fatal,False
+98921,GAA19CA117,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98921/pdf,1/3/2019,Longmont,Colorado,United States,40.164165,-105.163612,0,0,Non-Fatal,non-fatal,False
+99017,CEN19LA085,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99017/pdf,2/21/2019,ENGLEWOOD,Colorado,United States,39.563888,-104.843887,0,1,Non-Fatal,non-fatal,False
+99103,GAA19CA165,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99103/pdf,3/12/2019,Akron,Colorado,United States,40.175556,-103.221946,0,0,Non-Fatal,non-fatal,False
+99171,CEN19LA107,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99171/pdf,3/23/2019,Loveland,Colorado,United States,40.451946,-105.01139,0,1,Non-Fatal,non-fatal,False
+99273,GAA19CA208,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99273/pdf,4/15/2019,Elizabeth,Colorado,United States,39.385276,-104.605003,0,1,Non-Fatal,non-fatal,False
+99280,GAA19CA211,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99280/pdf,4/16/2019,Denver,Colorado,United States,39.569999,-104.849441,0,0,Non-Fatal,non-fatal,False
+99416,GAA19CA257,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99416/pdf,5/11/2019,Glades Park,Colorado,United States,39.019165,-108.767776,0,0,Non-Fatal,non-fatal,False
+99422,GAA19CA262,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99422/pdf,5/11/2019,Grand Junction,Colorado,United States,38.964443,-108.652778,0,0,Non-Fatal,non-fatal,False
+99441,CEN19FA143,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99441/pdf,5/15/2019,Loveland,Colorado,United States,40.464721,-105.085556,1,0,Fatal,fatal,True
+99519,GAA19CA295,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99519/pdf,5/29/2019,Salida,Colorado,United States,38.529998,-106.066665,0,0,Non-Fatal,non-fatal,False
+99528,GAA19CA302,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99528/pdf,6/2/2019,Gunnison,Colorado,United States,38.545833,-106.925277,0,0,Non-Fatal,non-fatal,False
+99534,GAA19CA306,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99534/pdf,6/2/2019,Denver,Colorado,United States,39.569999,-104.849441,0,0,Non-Fatal,non-fatal,False
+99593,CEN19LA162,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99593/pdf,6/8/2019,Last Chance,Colorado,United States,39.787498,-103.770553,0,0,Non-Fatal,non-fatal,False
+99626,CEN19LA169,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99626/pdf,5/14/2019,Las Animas,Colorado,United States,38.085277,-103.200836,0,1,Non-Fatal,non-fatal,False
+99704,CEN19LA183,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99704/pdf,6/24/2019,Greeley,Colorado,United States,40.4375,-104.633331,0,0,Non-Fatal,non-fatal,False
+99839,GAA19CA409,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99839/pdf,7/13/2019,Denver,Colorado,United States,39.904998,-105.114166,0,0,Non-Fatal,non-fatal,False
+99887,GAA19CA440,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99887/pdf,7/19/2019,Denver,Colorado,United States,39.578609,-104.851112,0,0,Non-Fatal,non-fatal,False
+99974,GAA19CA471,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99974/pdf,7/31/2019,Falcon,Colorado,United States,38.943611,-104.570274,0,0,Non-Fatal,non-fatal,False
+100026,CEN19LA260,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100026/pdf,8/7/2019,Cortez,Colorado,United States,37.340232,-108.289253,0,0,Non-Fatal,non-fatal,False
+100036,GAA19CA490,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100036/pdf,8/7/2019,Pueblo,Colorado,United States,38.29,-104.498054,0,0,Non-Fatal,non-fatal,False
+100104,CEN19TA280,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100104/pdf,8/20/2019,Montrose,Colorado,United States,38.0,-107.0,0,1,Non-Fatal,non-fatal,False
+100165,CEN19LA292,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100165/pdf,8/28/2019,Denver,Colorado,United States,39.750331,-104.99974,0,0,Non-Fatal,non-fatal,False
+100232,CEN19LA313,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100232/pdf,9/3/2019,Mack,Colorado,United States,39.268054,-108.864166,0,0,Non-Fatal,non-fatal,False
+100234,CEN19LA314,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100234/pdf,9/11/2019,Colorado Springs,Colorado,United States,38.805831,-104.700836,0,0,Non-Fatal,non-fatal,False
+100311,CEN19TA330,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100311/pdf,8/25/2019,GLENWOOD SPRINGS,Colorado,United States,39.506668,-107.309448,0,0,Non-Fatal,non-fatal,False
+100336,GAA19CA572,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100336/pdf,9/23/2019,Boulder,Colorado,United States,40.039443,-105.226112,0,0,Non-Fatal,non-fatal,False
+100413,GAA20CA014,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100413/pdf,10/15/2019,Colorado Springs,Colorado,United States,38.942779,-104.569999,0,0,Non-Fatal,non-fatal,False
+100557,GAA20CA071,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100557/pdf,11/11/2019,San Luis,Colorado,United States,37.064998,-105.463607,0,0,Non-Fatal,non-fatal,False
+100565,GAA20CA075,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100565/pdf,11/6/2019,Broomfield,Colorado,United States,39.908889,-105.117225,0,0,Non-Fatal,non-fatal,False
+100594,GAA20CA084,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100594/pdf,11/9/2019,Broomfield,Colorado,United States,39.908889,-105.117225,0,0,Non-Fatal,non-fatal,False
+100622,GAA20CA092,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100622/pdf,11/23/2019,Lamar,Colorado,United States,38.069721,-102.688613,0,0,Non-Fatal,non-fatal,False
+100879,CEN20LA069,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100879/pdf,1/27/2020,Woody Creek,Colorado,United States,39.267223,-106.81027,0,0,Non-Fatal,non-fatal,False
+100891,CEN20FA072,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100891/pdf,2/2/2020,Florence,Colorado,United States,38.430831,-105.118057,1,2,Fatal,fatal,True
+100930,CEN20CA079,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100930/pdf,2/8/2020,Fort Morgan,Colorado,United States,40.335556,-103.804168,0,0,Non-Fatal,non-fatal,False
+100945,CEN20LA083,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100945/pdf,2/12/2020,Broomfield,Colorado,United States,39.93111,-105.120002,0,0,Non-Fatal,non-fatal,False
+100973,CEN20CA094,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100973/pdf,2/20/2020,Boulder,Colorado,United States,40.04,-105.230003,0,0,Non-Fatal,non-fatal,False
+101055,CEN20CA116,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101055/pdf,3/7/2020,Mack,Colorado,United States,39.264999,-108.950279,0,0,Non-Fatal,non-fatal,False
+101096,CEN20CA128,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101096/pdf,3/18/2020,Denver,Colorado,United States,39.908889,-105.117225,0,0,Non-Fatal,non-fatal,False
+101180,CEN20CA151,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101180/pdf,4/18/2020,Hudson,Colorado,United States,40.102779,-104.70111,0,0,Non-Fatal,non-fatal,False
+101200,CEN20LA160,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101200/pdf,4/23/2020,Craig,Colorado,United States,40.951946,-108.340278,1,0,Fatal,fatal,True
+101211,CEN20CA161,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101211/pdf,4/26/2020,Colorado Springs,Colorado,United States,38.864444,-104.768608,0,0,Non-Fatal,non-fatal,False
+101219,CEN20CA163,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101219/pdf,4/27/2020,Longmont,Colorado,United States,40.163612,-105.162223,0,0,Non-Fatal,non-fatal,False
+101229,CEN20LA169,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101229/pdf,5/3/2020,Delta,Colorado,United States,38.785556,-108.061943,1,0,Fatal,fatal,True
+101357,CEN20CA204,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101357/pdf,6/1/2020,Denver,Colorado,United States,39.794166,-104.55055,0,0,Non-Fatal,non-fatal,False
+101460,CEN20CA235,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101460/pdf,6/17/2020,Gypsom,Colorado,United States,39.640556,-106.909721,0,0,Non-Fatal,non-fatal,False
+101506,CEN20LA252,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101506/pdf,6/27/2020,Denver,Colorado,United States,39.749023,-105.00098,0,0,Non-Fatal,non-fatal,False
+101576,CEN20LA273,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101576/pdf,7/11/2020,Rifle,Colorado,United States,39.524166,-107.72721,0,2,Non-Fatal,non-fatal,False
+101585,CEN20CA277,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101585/pdf,7/12/2020,Rand,Colorado,United States,40.543334,-106.193885,0,0,Non-Fatal,non-fatal,False
+101587,CEN20LA278,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101587/pdf,7/10/2020,Springfield,Colorado,United States,37.443054,-102.61444,1,0,Fatal,fatal,True
+101621,CEN20CA289,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101621/pdf,7/17/2020,Glenwood Springs,Colorado,United States,39.506111,-107.309165,0,0,Non-Fatal,non-fatal,False
+101682,CEN20CA311,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101682/pdf,7/27/2020,Burlington,Colorado,United States,39.2994,-102.2708,0,0,Non-Fatal,non-fatal,False
+101769,CEN20CA332,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101769/pdf,8/8/2020,Englewood,Colorado,United States,39.574443,-104.852218,0,0,Non-Fatal,non-fatal,False
+101803,CEN20CA340,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101803/pdf,8/8/2020,Englewood,Colorado,United States,39.580028,-104.86059,0,0,Non-Fatal,non-fatal,False
+101809,CEN20LA345,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101809/pdf,8/12/2020,Glenwood Springs,Colorado,United States,39.508335,-107.31055,0,0,Non-Fatal,non-fatal,False
+101867,CEN20LA365,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101867/pdf,8/26/2020,Peyton,Colorado,United States,38.920276,-104.55805,1,0,Fatal,fatal,True
+101872,CEN20CA366,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101872/pdf,8/27/2020,Brighton,Colorado,United States,39.983333,-104.70444,0,0,Non-Fatal,non-fatal,False
+101907,CEN20LA375,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101907/pdf,9/2/2020,Brighton,Colorado,United States,39.99472,-104.71389,1,0,Fatal,fatal,True
+101978,CEN20CA394,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101978/pdf,9/15/2020,Englewood,Colorado,United States,39.558612,-104.849998,0,0,Non-Fatal,non-fatal,False
+102004,CEN20CA404,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102004/pdf,9/18/2020,Larkspur,Colorado,United States,39.2,-104.84,0,0,Non-Fatal,non-fatal,False
+102055,CEN20LA424,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102055/pdf,9/24/2020,Leadville,Colorado,United States,39.2508,-106.2925,0,1,Non-Fatal,non-fatal,False
+102079,CEN21LA001,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102079/pdf,10/4/2020,Cedaredge,Colorado,United States,39.037641,-107.98924,0,2,Non-Fatal,non-fatal,False
+102081,CEN21LA002,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102081/pdf,10/3/2020,Byers,Colorado,United States,39.713593,-104.19384,0,0,Non-Fatal,non-fatal,False
+102092,CEN21LA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102092/pdf,10/5/2020,Salida,Colorado,United States,38.538278,-106.04861,0,0,Non-Fatal,non-fatal,False
+102094,CEN21FA007,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102094/pdf,10/5/2020,Telluride,Colorado,United States,37.914608,-107.75278,2,0,Fatal,fatal,True
+102105,CEN21LA009,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102105/pdf,10/2/2020,Denver,Colorado,United States,39.58,-104.85,0,0,Non-Fatal,non-fatal,False
+102170,CEN21LA023,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102170/pdf,10/4/2020,Durango,Colorado,United States,37.142654,-107.76223,0,0,Non-Fatal,non-fatal,False
+102191,CEN21LA027,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102191/pdf,10/24/2020,Longmont,Colorado,United States,40.164389,-105.16363,0,1,Non-Fatal,non-fatal,False
+102265,CEN21LA051,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102265/pdf,11/6/2020,Denver,Colorado,United States,39.57,-104.849,0,0,Non-Fatal,non-fatal,False
+102334,CEN21LA065,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102334/pdf,11/19/2020,Canon City,Colorado,United States,38.42856,-105.10685,0,0,Non-Fatal,non-fatal,False
+102340,CEN21LA067,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102340/pdf,11/26/2020,Telluride,Colorado,United States,37.94909,-107.88862,2,0,Fatal,fatal,True
+102415,CEN21LA086,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102415/pdf,12/13/2020,Leadville,Colorado,United States,39.2242,-106.3152,0,0,Non-Fatal,non-fatal,False
+102460,CEN21LA099,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102460/pdf,12/21/2020,Peyton,Colorado,United States,38.945668,-104.57116,0,0,Non-Fatal,non-fatal,False
+102580,CEN21LA119,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102580/pdf,1/31/2021,Silt,Colorado,United States,39.5198,-107.6667,0,3,Non-Fatal,non-fatal,False
+102721,CEN21LA149,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102721/pdf,3/6/2021,Loveland,Colorado,United States,40.451827,-105.01133,0,0,Non-Fatal,non-fatal,False
+102731,CEN21LA152,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102731/pdf,3/7/2021,Pueblo,Colorado,United States,38.287329,-104.49905,0,0,Non-Fatal,non-fatal,False
+102781,CEN21LA159,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102781/pdf,3/17/2021,Erie,Colorado,United States,40.01025,-105.04808,0,0,Non-Fatal,non-fatal,False
+102785,CEN21LA160,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102785/pdf,3/17/2021,Watkins,Colorado,United States,39.793705,-104.54734,0,0,Non-Fatal,non-fatal,False
+102862,CEN21FA177,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102862/pdf,4/3/2021,Conifer,Colorado,United States,39.26315,-105.37451,1,0,Fatal,fatal,True
+102877,CEN21LA182,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102877/pdf,4/2/2021,Denver,Colorado,United States,40.109153,-104.71384,0,0,Non-Fatal,non-fatal,False
+102898,CEN21LA186,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102898/pdf,2/28/2021,Aspen,Colorado,United States,39.225069,-106.86936,0,0,Non-Fatal,non-fatal,False
+102920,DCA21LA120,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102920/pdf,4/9/2021,Boulder,Colorado,United States,39.9,-105.57194,0,0,Non-Fatal,non-fatal,False
+102925,CEN21LA190,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102925/pdf,4/15/2021,Colorado Springs,Colorado,United States,38.805813,-104.70077,0,0,Non-Fatal,non-fatal,False
+102969,CEN21LA196,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102969/pdf,4/23/2021,Loveland,Colorado,United States,40.449088,-105.0097,0,0,Non-Fatal,non-fatal,False
+102987,CEN21LA202,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102987/pdf,4/26/2021,Denver,Colorado,United States,39.57011,-104.8492,0,0,Non-Fatal,non-fatal,False
+103037,CEN21LA210,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103037/pdf,4/20/2021,Pagosa Springs,Colorado,United States,37.272272,-107.08694,0,1,Non-Fatal,non-fatal,False
+103073,CEN21FA215,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103073/pdf,5/12/2021,Englewood,Colorado,United States,39.585036,-104.85469,0,0,Non-Fatal,non-fatal,False
+103112,CEN21LA227,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103112/pdf,5/12/2021,Watkins,Colorado,United States,39.775485,-104.59433,0,0,Non-Fatal,non-fatal,False
+103155,CEN21LA236,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103155/pdf,5/24/2021,Longmont,Colorado,United States,40.16438,-105.16363,0,0,Non-Fatal,non-fatal,False
+103177,CEN21LA241,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103177/pdf,5/28/2021,Fort Collins,Colorado,United States,40.4518,-105.01134,0,1,Non-Fatal,non-fatal,False
+103215,CEN21LA251,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103215/pdf,6/5/2021,Montrose,Colorado,United States,38.4783,-107.8762,0,0,Non-Fatal,non-fatal,False
+103244,CEN21LA259,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103244/pdf,6/4/2021,Aspen,Colorado,United States,39.217535,-106.86625,0,0,Non-Fatal,non-fatal,False
+103248,CEN21LA261,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103248/pdf,6/10/2021,Lafayette,Colorado,United States,40.03063,-105.1037,0,0,Non-Fatal,non-fatal,False
+103271,CEN21LA271,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103271/pdf,6/14/2021,Buena Vista,Colorado,United States,38.8422,-106.1311,0,0,Non-Fatal,non-fatal,False
+103276,CEN21FA272,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103276/pdf,6/16/2021,Parker,Colorado,United States,39.507794,-104.85518,2,0,Fatal,fatal,True
+103298,CEN21LA281,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103298/pdf,6/20/2021,Wellington,Colorado,United States,40.7039,-105.0086,0,0,Non-Fatal,non-fatal,False
+103342,CEN21LA289,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103342/pdf,6/21/2021,Watkins,Colorado,United States,39.793786,-104.5511,0,0,Non-Fatal,non-fatal,False
+103345,CEN21LA291,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103345/pdf,6/24/2021,Loveland,Colorado,United States,40.451827,-105.01133,0,0,Non-Fatal,non-fatal,False
+103351,CEN21LA292,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103351/pdf,6/27/2021,Ellicott,Colorado,United States,38.914,-104.443,0,0,Non-Fatal,non-fatal,False
+103412,CEN21FA305,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103412/pdf,7/3/2021,Aspen,Colorado,United States,39.1679,-106.65509,2,0,Fatal,fatal,True
+103460,CEN21LA315,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103460/pdf,7/10/2021,Longmont,Colorado,United States,40.16726,-105.16927,0,0,Non-Fatal,non-fatal,False
+103498,CEN21LA325,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103498/pdf,7/18/2021,Longmont,Colorado,United States,40.17058,-105.17705,0,1,Non-Fatal,non-fatal,False
+103579,CEN21LA341,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103579/pdf,7/27/2021,Peyton,Colorado,United States,38.9427,-104.56992,0,0,Non-Fatal,non-fatal,False
+103748,CEN21LA383,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103748/pdf,8/24/2021,Gypsum,Colorado,United States,39.623148,-106.93823,0,0,Non-Fatal,non-fatal,False
+103808,CEN21LA403,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103808/pdf,9/6/2021,Gunnison,Colorado,United States,38.528213,-106.93972,0,0,Non-Fatal,non-fatal,False
+103811,CEN21LA404,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103811/pdf,9/3/2021,Delta,Colorado,United States,38.774961,-108.08222,0,0,Non-Fatal,non-fatal,False
+103843,CEN21LA414,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103843/pdf,9/10/2021,Lasalle,Colorado,United States,40.353333,-104.69194,0,0,Non-Fatal,non-fatal,False
+103896,CEN21FA424,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103896/pdf,9/17/2021,Delta,Colorado,United States,38.83478,-108.02654,1,0,Fatal,fatal,True
+103901,CEN21LA425,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103901/pdf,9/13/2021,Steamboat Springs,Colorado,United States,40.49427,-106.98277,0,1,Non-Fatal,non-fatal,False
+103953,CEN21LA449,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103953/pdf,8/27/2021,Granby,Colorado,United States,40.089829,-105.91598,0,0,Non-Fatal,non-fatal,False
+104042,CEN22LA004,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104042/pdf,10/4/2021,Watkins,Colorado,United States,39.793859,-104.55175,0,0,Non-Fatal,non-fatal,False
+104068,CEN22LA010,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104068/pdf,10/7/2021,Loveland,Colorado,United States,40.435654,-105.00072,0,0,Non-Fatal,non-fatal,False
+104079,CEN22FA011,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104079/pdf,10/11/2021,Mesa,Colorado,United States,39.206496,-108.12369,1,0,Fatal,fatal,True
+104206,CEN22LA028,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104206/pdf,10/29/2021,Greeley,Colorado,United States,40.437417,-104.63322,0,0,Non-Fatal,non-fatal,False
+104254,CEN22FA035,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104254/pdf,11/16/2021,Estes Park,Colorado,United States,40.3351,-105.4774,1,0,Fatal,fatal,True
+104374,CEN22FA064,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104374/pdf,12/8/2021,Walsenburg,Colorado,United States,37.792822,-104.57616,1,0,Fatal,fatal,True
+104376,CEN22LA065,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104376/pdf,12/8/2021,Delta,Colorado,United States,38.785603,-108.06201,0,0,Non-Fatal,non-fatal,False
+104385,CEN22FA069,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104385/pdf,12/10/2021,Steamboat Springs,Colorado,United States,40.459893,-106.85728,1,0,Fatal,fatal,True

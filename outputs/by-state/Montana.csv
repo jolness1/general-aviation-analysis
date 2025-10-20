@@ -1,0 +1,174 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+82814,WPR12LA092,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82814/pdf,2/4/2012,Kalispell,Montana,United States,48.178611,-114.303611,0,0,Non-Fatal,non-fatal,False
+82928,WPR12LA111,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82928/pdf,2/20/2012,Kalispell,Montana,United States,48.310554,-114.256111,0,0,Non-Fatal,non-fatal,False
+83042,WPR12FA123,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83042/pdf,3/5/2012,Brockton,Montana,United States,47.989723,-104.71833,1,1,Fatal,fatal,True
+83205,WPR12CA145,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83205/pdf,3/23/2012,Conrad,Montana,United States,48.168056,-111.976387,0,0,Non-Fatal,non-fatal,False
+83659,WPR12CA209,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83659/pdf,6/8/2012,Sula,Montana,United States,45.716945,-113.920555,0,0,Non-Fatal,non-fatal,False
+83676,WPR12CA213,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83676/pdf,5/17/2012,Darby,Montana,United States,45.988334,-114.167221,0,0,Non-Fatal,non-fatal,False
+83991,WPR12CA266,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83991/pdf,6/16/2012,Meadow Creek,Montana,United States,47.849166,-113.417221,0,0,Non-Fatal,non-fatal,False
+84154,WPR12CA284,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84154/pdf,7/2/2012,West Glacier,Montana,United States,48.479442,-113.959999,0,0,Non-Fatal,non-fatal,False
+84197,WPR12CA293,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84197/pdf,7/4/2012,Stevensville,Montana,United States,46.525001,-114.05278,0,0,Non-Fatal,non-fatal,False
+84398,WPR12LA317,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84398/pdf,7/21/2012,Bridger,Montana,United States,45.291389,-108.925552,0,1,Non-Fatal,non-fatal,False
+84619,WPR12LA348,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84619/pdf,8/8/2012,Ronan,Montana,United States,47.566944,-114.10083,0,0,Non-Fatal,non-fatal,False
+84752,WPR12TA364,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84752/pdf,8/18/2012,Sunburst,Montana,United States,48.885833,-111.89611,0,0,Non-Fatal,non-fatal,False
+85376,WPR13CA018,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85376/pdf,10/18/2012,Twin Bridges,Montana,United States,45.533611,-112.302497,0,0,Non-Fatal,non-fatal,False
+85756,WPR13LA063,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85756/pdf,12/2/2012,Billings,Montana,United States,45.807498,-108.542778,0,0,Non-Fatal,non-fatal,False
+85821,WPR13LA069,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85821/pdf,12/14/2012,Dell,Montana,United States,44.70222,-113.050834,0,1,Non-Fatal,non-fatal,False
+85852,WPR13FA073,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85852/pdf,12/19/2012,Libby,Montana,United States,48.320556,-115.475555,2,0,Fatal,fatal,True
+86165,WPR13CA117,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86165/pdf,2/6/2013,Sunburst,Montana,United States,48.886665,-111.921669,0,0,Non-Fatal,non-fatal,False
+86582,WPR13LA178,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86582/pdf,4/2/2013,Darby,Montana,United States,45.932498,-114.120552,0,1,Non-Fatal,non-fatal,False
+86599,WPR13FA183,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86599/pdf,4/6/2013,Circle,Montana,United States,47.738609,-105.928054,1,0,Fatal,fatal,True
+86704,WPR13TA205,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86704/pdf,4/25/2013,Big Fork,Montana,United States,48.153057,-113.923889,0,0,Non-Fatal,non-fatal,False
+86743,WPR13FA208,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86743/pdf,4/27/2013,Shepherd,Montana,United States,46.088611,-108.246391,1,0,Fatal,fatal,True
+86791,WPR13CA213,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86791/pdf,7/2/2013,Fort Smith,Montana,United States,45.302501,-108.136947,0,1,Non-Fatal,non-fatal,False
+87040,WPR13CA253,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87040/pdf,5/1/2013,Hamilton,Montana,United States,46.251388,-114.125556,0,0,Non-Fatal,non-fatal,False
+87286,WPR13FA288,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87286/pdf,6/24/2013,Helena,Montana,United States,46.747776,-112.003051,1,0,Fatal,fatal,True
+87347,WPR13LA302,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87347/pdf,7/1/2013,Hamilton,Montana,United States,46.248332,-113.860832,0,0,Non-Fatal,non-fatal,False
+87361,WPR13LA303,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87361/pdf,6/28/2013,Missoula,Montana,United States,46.979972,-114.119834,0,1,Non-Fatal,non-fatal,False
+87473,WPR13CA325,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87473/pdf,7/14/2013,Bozeman,Montana,United States,45.7775,-111.151947,0,0,Non-Fatal,non-fatal,False
+87586,WPR13FA343,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87586/pdf,7/27/2013,Thompson Falls,Montana,United States,47.546665,-115.520278,1,1,Fatal,fatal,True
+87635,WPR13LA349,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87635/pdf,7/30/2013,Billings,Montana,United States,45.807498,-108.542778,0,0,Non-Fatal,non-fatal,False
+87651,WPR13CA352,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87651/pdf,7/26/2013,Hungry Horse,Montana,United States,48.087501,-113.250831,0,0,Non-Fatal,non-fatal,False
+87656,WPR13CA355,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87656/pdf,8/2/2013,Helena,Montana,United States,46.606666,-111.982498,0,0,Non-Fatal,non-fatal,False
+87704,WPR13CA362,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87704/pdf,8/1/2013,West Yellowstone,Montana,United States,44.521667,-111.1175,0,0,Non-Fatal,non-fatal,False
+87760,WPR13FA368,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87760/pdf,8/12/2013,West Yellowstone,Montana,United States,44.702777,-111.108055,1,1,Fatal,fatal,True
+88020,WPR13CA403,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88020/pdf,9/8/2013,Nashua,Montana,United States,48.298332,-106.258331,0,0,Non-Fatal,non-fatal,False
+88048,WPR13CA409,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88048/pdf,9/14/2013,Meadow Creek,Montana,United States,47.842777,-113.25,0,0,Non-Fatal,non-fatal,False
+88059,WPR13CA412,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88059/pdf,9/16/2013,Bozeman,Montana,United States,45.779167,-111.155555,0,0,Non-Fatal,non-fatal,False
+88149,WPR13CA427,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88149/pdf,9/27/2013,Dell,Montana,United States,44.723331,-112.698333,0,0,Non-Fatal,non-fatal,False
+88251,WPR14LA023,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88251/pdf,10/21/2013,Hardin,Montana,United States,45.724998,-107.600555,0,0,Non-Fatal,non-fatal,False
+88296,WPR14CA028,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88296/pdf,10/21/2013,Butte,Montana,United States,39.209922,-120.790954,0,0,Non-Fatal,non-fatal,False
+88375,WPR14CA041,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88375/pdf,11/2/2013,Superior,Montana,United States,47.316665,-115.483329,0,0,Non-Fatal,non-fatal,False
+88481,WPR14CA058,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88481/pdf,11/26/2013,Kalispell,Montana,United States,48.171665,-114.298332,0,0,Non-Fatal,non-fatal,False
+88537,WPR14CA067,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88537/pdf,12/9/2013,Kalispell,Montana,United States,48.30611,-114.253608,0,1,Non-Fatal,non-fatal,False
+88586,WPR14CA075,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88586/pdf,12/24/2013,St. Ignatius,Montana,United States,47.325,-114.080833,0,1,Non-Fatal,non-fatal,False
+88592,WPR14CA076,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88592/pdf,12/24/2013,Laural,Montana,United States,45.705833,-108.756668,0,0,Non-Fatal,non-fatal,False
+88607,WPR14CA082,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88607/pdf,12/29/2013,Roberts,Montana,United States,45.443332,-109.241668,0,0,Non-Fatal,non-fatal,False
+89007,WPR14CA157,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89007/pdf,4/2/2014,Roundup,Montana,United States,46.474998,-108.543052,0,0,Non-Fatal,non-fatal,False
+89021,WPR14LA159,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89021/pdf,4/4/2014,Missoula,Montana,United States,46.916389,-114.090553,0,0,Non-Fatal,non-fatal,False
+89107,WPR14CA170,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89107/pdf,4/13/2014,Browning,Montana,United States,48.601112,-113.11528,0,0,Non-Fatal,non-fatal,False
+89248,WPR14LA198,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89248/pdf,5/21/2014,Medicine Lake,Montana,United States,48.513332,-104.385276,0,0,Non-Fatal,non-fatal,False
+89292,WPR14CA214,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89292/pdf,5/23/2014,Helena,Montana,United States,46.605834,-111.989166,0,0,Non-Fatal,non-fatal,False
+89341,WPR14LA220,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89341/pdf,6/2/2014,Gardiner,Montana,United States,45.04972,-110.746665,0,1,Non-Fatal,non-fatal,False
+89376,WPR14FA231,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89376/pdf,6/17/2014,Sula,Montana,United States,45.692501,-113.951667,1,0,Fatal,fatal,True
+89379,WPR14LA232,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89379/pdf,6/6/2014,Ronan,Montana,United States,47.567222,-114.101112,0,0,Non-Fatal,non-fatal,False
+89380,WPR14LA233,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89380/pdf,6/7/2014,Polson,Montana,United States,47.695835,-114.177497,1,0,Fatal,fatal,True
+89396,WPR14LA238,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89396/pdf,6/7/2014,Helena,Montana,United States,46.703334,-112.068336,0,0,Non-Fatal,non-fatal,False
+89444,WPR14CA246,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89444/pdf,6/13/2014,Jackson,Montana,United States,45.362499,-113.413887,0,0,Non-Fatal,non-fatal,False
+89541,WPR14LA269,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89541/pdf,6/25/2014,Kalispell,Montana,United States,48.310554,-114.256111,0,0,Non-Fatal,non-fatal,False
+89596,WPR14CA277,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89596/pdf,7/1/2014,Hysham,Montana,United States,46.293334,-107.193336,0,0,Non-Fatal,non-fatal,False
+89707,WPR14LA305,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89707/pdf,7/21/2014,Russian Flat,Montana,United States,46.725276,-110.419441,1,0,Fatal,fatal,True
+90006,WPR14FA362,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90006/pdf,9/2/2014,Neihart,Montana,United States,46.858612,-110.678886,1,1,Fatal,fatal,True
+90131,WPR14CA384,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90131/pdf,9/20/2014,Meadow Creek,Montana,United States,47.849445,-113.417503,0,0,Non-Fatal,non-fatal,False
+90247,WPR15CA012,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90247/pdf,10/2/2014,Marion,Montana,United States,48.074165,-114.678054,0,0,Non-Fatal,non-fatal,False
+90370,WPR15LA036,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90370/pdf,11/7/2014,Darby,Montana,United States,45.978054,-114.154998,0,2,Non-Fatal,non-fatal,False
+90434,WPR15FA049,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90434/pdf,11/28/2014,Alzada,Montana,United States,45.20222,-104.225555,1,0,Fatal,fatal,True
+90503,WPR15FA062,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90503/pdf,12/16/2014,Ronan,Montana,United States,47.600833,-114.210281,1,1,Fatal,fatal,True
+90622,WPR15LA087,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90622/pdf,1/20/2015,Helena,Montana,United States,46.603332,-112.010559,0,0,Non-Fatal,non-fatal,False
+90761,WPR14CA401,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90761/pdf,5/23/2014,Roundup,Montana,United States,46.432498,-108.453613,0,0,Non-Fatal,non-fatal,False
+90888,WPR15CA128,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90888/pdf,3/13/2015,Shelby,Montana,United States,48.44889,-111.971946,0,0,Non-Fatal,non-fatal,False
+91081,GAA15CA050,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91081/pdf,4/17/2015,DEER LODGE,Montana,United States,46.383056,-112.760276,0,0,Non-Fatal,non-fatal,False
+91217,ANC15LA076,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91217/pdf,5/4/2015,Hamilton,Montana,United States,46.251667,-114.12555,0,0,Non-Fatal,non-fatal,False
+91239,GAA15CA089,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91239/pdf,5/26/2015,Polson,Montana,United States,47.691112,-114.37722,0,0,Non-Fatal,non-fatal,False
+91281,WPR15CA173,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91281/pdf,5/31/2015,Ismay,Montana,United States,46.5,-104.800003,0,0,Non-Fatal,non-fatal,False
+91367,GAA15CA121,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91367/pdf,6/13/2015,Bozeman,Montana,United States,45.0,-111.0,0,0,Non-Fatal,non-fatal,False
+91402,WPR15LA191,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91402/pdf,6/19/2015,Polson,Montana,United States,47.705276,-114.191665,0,0,Non-Fatal,non-fatal,False
+91532,GAA15CA174,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91532/pdf,7/8/2015,Belgrade,Montana,United States,45.785831,-111.163612,0,0,Non-Fatal,non-fatal,False
+91690,WPR15LA229,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91690/pdf,8/3/2015,Saint Ignatius,Montana,United States,47.299999,-114.116668,0,0,Non-Fatal,non-fatal,False
+91723,GAA15LA217,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91723/pdf,8/4/2015,Whitefish,Montana,United States,48.433612,-114.418334,0,0,Non-Fatal,non-fatal,False
+91819,WPR15LA246,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91819/pdf,8/16/2015,Libby,Montana,United States,48.283889,-115.49028,0,0,Non-Fatal,non-fatal,False
+91830,WPR15FA247,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91830/pdf,8/19/2015,Townsend,Montana,United States,46.655277,-111.558609,2,0,Fatal,fatal,True
+91847,GAA15CA235,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91847/pdf,8/19/2015,Kalispell,Montana,United States,48.178611,-114.303611,0,0,Non-Fatal,non-fatal,False
+92175,WPR16FA012,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92175/pdf,10/14/2015,Missoula,Montana,United States,46.916389,-114.090553,1,0,Fatal,fatal,True
+92210,GAA16CA023,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92210/pdf,10/20/2015,FORT BENTON,Montana,United States,47.846111,-110.634162,0,1,Non-Fatal,non-fatal,False
+92451,GAA16CA080,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92451/pdf,12/13/2015,Broadus,Montana,United States,45.119998,-105.434165,0,0,Non-Fatal,non-fatal,False
+92544,GAA16CA097,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92544/pdf,1/4/2016,Seeley Lake,Montana,United States,47.18,-113.445274,0,0,Non-Fatal,non-fatal,False
+92749,WPR16LA073,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92749/pdf,2/8/2016,Billings,Montana,United States,45.804721,-108.538887,0,0,Non-Fatal,non-fatal,False
+93272,GAA16CA265,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93272/pdf,5/30/2016,Laurel,Montana,United States,45.704444,-108.759445,0,0,Non-Fatal,non-fatal,False
+93327,GAA16CA284,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93327/pdf,6/5/2016,Ferndale,Montana,United States,48.060554,-114.001113,0,0,Non-Fatal,non-fatal,False
+93328,GAA16CA285,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93328/pdf,6/5/2016,Hamilton,Montana,United States,46.255832,-114.125556,0,0,Non-Fatal,non-fatal,False
+93397,GAA16CA319,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93397/pdf,6/12/2016,Denton,Montana,United States,47.320835,-109.941947,0,0,Non-Fatal,non-fatal,False
+93517,GAA16CA353,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93517/pdf,7/2/2016,Hungry Horse,Montana,United States,48.079723,-113.245002,0,0,Non-Fatal,non-fatal,False
+93585,GAA16CA369,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93585/pdf,7/8/2016,Red Lodge,Montana,United States,45.186111,-109.257774,0,0,Non-Fatal,non-fatal,False
+93605,GAA16CA376,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93605/pdf,7/15/2016,Stevensville,Montana,United States,46.461666,-114.07833,0,0,Non-Fatal,non-fatal,False
+93622,WPR16CA145,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93622/pdf,7/18/2016,Helena,Montana,United States,46.606945,-111.98278,0,0,Non-Fatal,non-fatal,False
+93737,GAA16CA406,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93737/pdf,7/31/2016,Kalispell,Montana,United States,48.079723,-113.244445,0,0,Non-Fatal,non-fatal,False
+93775,GAA16CA419,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93775/pdf,8/2/2016,Lewiston,Montana,United States,47.116943,-109.376388,0,0,Non-Fatal,non-fatal,False
+93899,WPR16FA170,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93899/pdf,8/28/2016,Clinton,Montana,United States,46.727779,-113.652778,2,0,Fatal,fatal,True
+93921,WPR16LA171,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93921/pdf,6/26/2016,Schafer Meadows,Montana,United States,48.074443,-113.24028,0,0,Non-Fatal,non-fatal,False
+94024,WPR16FA182,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94024/pdf,9/17/2016,Broadus,Montana,United States,45.119167,-105.035835,3,0,Fatal,fatal,True
+94031,GAA16CA492,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94031/pdf,9/10/2016,Sidney,Montana,United States,47.706943,-104.192497,0,0,Non-Fatal,non-fatal,False
+94465,WPR17LA031,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94465/pdf,12/5/2016,Missoula,Montana,United States,46.875831,-113.996948,0,0,Non-Fatal,non-fatal,False
+94555,WPR17LA046,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94555/pdf,1/3/2017,Paradise,Montana,United States,47.398334,-114.816947,0,2,Non-Fatal,non-fatal,False
+94772,WPR17LA064,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94772/pdf,2/23/2017,Stevensville,Montana,United States,46.521389,-114.048889,0,0,Non-Fatal,non-fatal,False
+94904,WPR17LA080,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94904/pdf,3/22/2017,Bozeman,Montana,United States,45.7775,-111.151947,0,0,Non-Fatal,non-fatal,False
+94943,GAA17CA212,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94943/pdf,3/28/2017,Stevensville,Montana,United States,46.525554,-114.05278,0,0,Non-Fatal,non-fatal,False
+94988,GAA17CA225,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94988/pdf,4/10/2017,LEWISTOWN,Montana,United States,47.033611,-109.463333,0,0,Non-Fatal,non-fatal,False
+95520,WPR17LA143,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95520/pdf,7/6/2017,Ronan,Montana,United States,47.476387,-114.055274,0,1,Non-Fatal,non-fatal,False
+95525,WPR17LA145,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95525/pdf,7/8/2017,Big Timber,Montana,United States,45.841945,-109.894165,0,2,Non-Fatal,non-fatal,False
+95648,GAA17CA434,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95648/pdf,7/21/2017,Bozeman,Montana,United States,45.7775,-111.151947,0,0,Non-Fatal,non-fatal,False
+95675,WPR17LA168,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95675/pdf,7/24/2017,Lake Sutherlin,Montana,United States,46.635276,-110.735275,0,0,Non-Fatal,non-fatal,False
+95987,GAA17CA529,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95987/pdf,9/6/2017,Fairfield,Montana,United States,47.639999,-111.966392,0,0,Non-Fatal,non-fatal,False
+96169,GAA17CA572,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96169/pdf,9/27/2017,Kalispell,Montana,United States,48.310554,-114.256111,0,0,Non-Fatal,non-fatal,False
+96673,WPR18LA076,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96673/pdf,1/19/2018,Chester,Montana,United States,48.495277,-110.96389,0,1,Non-Fatal,non-fatal,False
+97004,WPR18LA118,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97004/pdf,4/4/2018,Bozeman,Montana,United States,45.77861,-111.156112,0,0,Non-Fatal,non-fatal,False
+97069,GAA18CA220,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97069/pdf,4/19/2018,Shelby,Montana,United States,48.540832,-111.871109,0,0,Non-Fatal,non-fatal,False
+97134,GAA18CA240,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97134/pdf,4/24/2018,Kalispell,Montana,United States,47.846668,-113.416946,0,0,Non-Fatal,non-fatal,False
+97307,WPR18LA145,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97307/pdf,5/22/2018,Lookout Pass,Montana,United States,47.456111,-115.697219,0,0,Non-Fatal,non-fatal,False
+97555,GAA18CA372,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97555/pdf,6/22/2018,Hamilton,Montana,United States,46.254165,-114.125556,0,0,Non-Fatal,non-fatal,False
+97720,GAA18CA404,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97720/pdf,7/9/2018,Cut Bank,Montana,United States,48.608333,-112.376113,0,0,Non-Fatal,non-fatal,False
+97880,GAA18CA437,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97880/pdf,7/19/2018,Bozeman,Montana,United States,45.777221,-111.150276,0,0,Non-Fatal,non-fatal,False
+97881,GAA18CA438,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97881/pdf,7/22/2018,Great Falls,Montana,United States,47.482498,-111.356666,0,0,Non-Fatal,non-fatal,False
+98045,GAA18CA481,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98045/pdf,8/11/2018,Great Falls,Montana,United States,47.485279,-111.36,0,0,Non-Fatal,non-fatal,False
+98046,GAA18CA482,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98046/pdf,8/11/2018,helena,Montana,United States,46.606666,-111.983329,0,0,Non-Fatal,non-fatal,False
+98244,GAA18CA533,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98244/pdf,9/4/2018,Cut Bank,Montana,United States,48.659721,-112.496109,0,0,Non-Fatal,non-fatal,False
+98287,WPR18FA260,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98287/pdf,9/12/2018,Billings,Montana,United States,45.0,-108.0,1,0,Fatal,fatal,True
+98825,WPR19LA055,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98825/pdf,1/2/2019,Townsend,Montana,United States,46.289165,-111.519447,0,2,Non-Fatal,non-fatal,False
+98843,WPR19CA069,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98843/pdf,1/16/2019,Townsend,Montana,United States,46.308055,-111.53778,0,0,Non-Fatal,non-fatal,False
+99359,GAA19CA238,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99359/pdf,4/30/2019,Sula,Montana,United States,45.859443,-113.968055,0,0,Non-Fatal,non-fatal,False
+99386,WPR19LA134,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99386/pdf,5/4/2019,Kalispell,Montana,United States,48.310554,-114.256111,0,0,Non-Fatal,non-fatal,False
+99421,GAA19CA261,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99421/pdf,5/13/2019,Belgrade,Montana,United States,45.783889,-111.160835,0,0,Non-Fatal,non-fatal,False
+99765,WPR19LA184,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99765/pdf,6/30/2019,Lincoln,Montana,United States,47.159805,-112.67959,0,0,Non-Fatal,non-fatal,False
+99828,GAA19CA408,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99828/pdf,7/12/2019,Hamilton,Montana,United States,46.251388,-114.125556,0,0,Non-Fatal,non-fatal,False
+99890,WPR19LA194,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99890/pdf,7/13/2019,Mosby,Montana,United States,47.040832,-107.66055,0,2,Non-Fatal,non-fatal,False
+99978,GAA19CA475,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99978/pdf,7/30/2019,Thompson Falls,Montana,United States,47.776668,-115.476112,0,2,Non-Fatal,non-fatal,False
+99999,WPR19FA209,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99999/pdf,8/5/2019,Wolf Point,Montana,United States,48.435832,-105.760833,2,0,Fatal,fatal,True
+100173,WPR19FA246,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100173/pdf,8/29/2019,St. Ignatious,Montana,United States,47.275833,-114.12416,3,0,Fatal,fatal,True
+100556,GAA20CA070,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100556/pdf,11/11/2019,Kalispell,Montana,United States,48.178611,-114.303611,0,0,Non-Fatal,non-fatal,False
+100746,WPR20CA053,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100746/pdf,12/28/2019,Missoula,Montana,United States,46.915832,-114.089447,0,0,Non-Fatal,non-fatal,False
+100799,WPR20FA063,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100799/pdf,1/11/2020,Billings,Montana,United States,46.232498,-108.36555,4,0,Fatal,fatal,True
+100820,WPR20CA066,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100820/pdf,1/8/2020,Helena,Montana,United States,46.606945,-111.983055,0,0,Non-Fatal,non-fatal,False
+100841,WPR20LA068,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100841/pdf,1/16/2020,Big Timber,Montana,United States,45.810001,-109.980003,0,0,Non-Fatal,non-fatal,False
+101175,WPR20CA124,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101175/pdf,4/16/2020,Marion,Montana,United States,48.07389,-114.67778,0,0,Non-Fatal,non-fatal,False
+101183,WPR20LA128,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101183/pdf,4/20/2020,Billings,Montana,United States,45.816944,-108.589164,1,0,Fatal,fatal,True
+101287,WPR20CA149,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101287/pdf,5/17/2020,Winifred,Montana,United States,47.885276,-109.022781,0,0,Non-Fatal,non-fatal,False
+101384,WPR20CA166,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101384/pdf,6/3/2020,Glendive,Montana,United States,47.13861,-104.80722,0,0,Non-Fatal,non-fatal,False
+101407,WPR20CA173,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101407/pdf,6/2/2020,Butte,Montana,United States,45.954723,-112.497497,0,0,Non-Fatal,non-fatal,False
+101452,WPR20CA183,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101452/pdf,6/15/2020,Butte,Montana,United States,45.954723,-112.497497,0,0,Non-Fatal,non-fatal,False
+101566,WPR20CA214,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101566/pdf,7/6/2020,Marion,Montana,United States,48.094722,-114.851669,0,0,Non-Fatal,non-fatal,False
+101584,WPR20CA217,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101584/pdf,7/8/2020,Absarokee,Montana,United States,45.499168,-109.435279,0,0,Non-Fatal,non-fatal,False
+101660,WPR20LA235,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101660/pdf,7/21/2020,Thompson Falls,Montana,United States,47.559688,-115.43952,0,0,Non-Fatal,non-fatal,False
+101709,WPR20LA245,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101709/pdf,7/30/2020,Ennis,Montana,United States,45.389999,-111.558052,1,2,Fatal,fatal,True
+101728,WPR20CA250,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101728/pdf,8/3/2020,Kalispell,Montana,United States,48.167221,-114.214996,0,0,Non-Fatal,non-fatal,False
+101825,WPR20LA278,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101825/pdf,8/14/2020,Harlowton,Montana,United States,46.448612,-109.85277,0,0,Non-Fatal,non-fatal,False
+101955,WPR20LA304,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101955/pdf,9/12/2020,Seeley Lake,Montana,United States,47.197223,-113.44555,2,1,Fatal,fatal,True
+101981,WPR20LA308,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101981/pdf,9/12/2020,Billings,Montana,United States,45.649333,-108.38076,0,1,Non-Fatal,non-fatal,False
+102218,WPR21LA032,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102218/pdf,10/30/2020,Billings,Montana,United States,45.812369,-108.52004,1,0,Fatal,fatal,True
+102387,WPR21LA067,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102387/pdf,12/8/2020,Dillon,Montana,United States,45.264859,-112.55151,0,1,Non-Fatal,non-fatal,False
+102559,WPR21LA096,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102559/pdf,1/24/2021,Spotted Bear,Montana,United States,47.997177,-113.58001,0,0,Non-Fatal,non-fatal,False
+102784,WPR21LA137,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102784/pdf,3/17/2021,Three Forks,Montana,United States,45.878388,-111.56889,0,0,Non-Fatal,non-fatal,False
+102787,WPR21LA138,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102787/pdf,3/17/2021,Shepherd,Montana,United States,46.082263,-108.48105,0,0,Non-Fatal,non-fatal,False
+102938,WPR21LA163,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102938/pdf,4/18/2021,Wilsall ,Montana,United States,,,0,0,Non-Fatal,non-fatal,False
+103195,WPR21LA219,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103195/pdf,5/29/2021,Darby,Montana,United States,45.953056,-114.14222,0,2,Non-Fatal,non-fatal,False
+103252,WPR21LA226,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103252/pdf,6/11/2021,Miles City,Montana,United States,46.41905,-105.32086,0,0,Non-Fatal,non-fatal,False
+103312,WPR21LA236,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103312/pdf,6/15/2021,Townsend,Montana,United States,46.3245,-111.291,0,0,Non-Fatal,non-fatal,False
+103320,WPR21LA239,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103320/pdf,6/20/2021,West Glacier,Montana,United States,48.48,-113.96,0,0,Non-Fatal,non-fatal,False
+103359,WPR21LA249,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103359/pdf,6/27/2021,Marion,Montana,United States,48.083111,-114.67182,0,0,Non-Fatal,non-fatal,False
+103399,WPR21FA258,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103399/pdf,7/1/2021,Missoula,Montana,United States,46.840465,-114.2859,2,0,Fatal,fatal,True
+103566,WPR21LA289,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103566/pdf,7/25/2021,Bozeman,Montana,United States,45.777236,-111.15026,0,0,Non-Fatal,non-fatal,False
+103681,WPR21LA313,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103681/pdf,8/11/2021,Helena,Montana,United States,46.740278,-111.94416,0,3,Non-Fatal,non-fatal,False
+103692,WPR21LA315,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103692/pdf,8/10/2021,Whitefish,Montana,United States,48.40802,-114.29957,0,0,Non-Fatal,non-fatal,False
+103962,WPR21FA353,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103962/pdf,9/26/2021,Billings,Montana,United States,45.715875,-108.57725,2,1,Fatal,fatal,True
+104134,WPR22LA016,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104134/pdf,10/12/2021,Kalispell,Montana,United States,48.177404,-114.30419,0,0,Non-Fatal,non-fatal,False
+104193,WPR22LA024,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104193/pdf,10/24/2021,St Ignatius,Montana,United States,47.325,-114.08083,0,1,Non-Fatal,non-fatal,False
+104351,WPR22LA056,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104351/pdf,12/5/2021,Hamilton,Montana,United States,46.1517,-114.0728,0,0,Non-Fatal,non-fatal,False

@@ -1,0 +1,20 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+83949,ERA12CA393,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83949/pdf,6/11/2012,Delmar,Delaware,United States,38.461112,-75.61444,0,0,Non-Fatal,non-fatal,False
+84540,ERA12LA493,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84540/pdf,8/1/2012,Middletown,Delaware,United States,39.442222,-75.731391,0,0,Non-Fatal,non-fatal,False
+86014,ERA13LA111,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86014/pdf,1/13/2013,Dover,Delaware,United States,39.1725,-75.49028,1,0,Fatal,fatal,True
+87889,ERA13CA384,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87889/pdf,8/18/2013,Middletown,Delaware,United States,39.866664,-75.986946,0,0,Non-Fatal,non-fatal,False
+89225,ERA14LA242,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89225/pdf,5/18/2014,Georgetown,Delaware,United States,38.687778,-75.358329,0,1,Non-Fatal,non-fatal,False
+89580,ERA14LA321,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89580/pdf,6/18/2014,Farmington,Delaware,United States,38.843055,-75.60778,0,0,Non-Fatal,non-fatal,False
+92396,ERA16CA057,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92396/pdf,11/27/2015,Farmington,Delaware,United States,38.849445,-75.612777,0,0,Non-Fatal,non-fatal,False
+93535,ERA16LA242,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93535/pdf,7/2/2016,Laurel,Delaware,United States,38.570278,-75.464447,0,0,Non-Fatal,non-fatal,False
+93594,ERA16LA253,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93594/pdf,7/11/2016,Georgetown,Delaware,United States,38.6875,-75.359169,1,0,Fatal,fatal,True
+94660,ERA17LA097,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94660/pdf,1/28/2017,Georgetown,Delaware,United States,38.6875,-75.359169,0,0,Non-Fatal,non-fatal,False
+95234,ERA17FA190,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95234/pdf,5/25/2017,New Castle,Delaware,United States,39.659168,-75.601112,1,0,Fatal,fatal,True
+95608,ERA17LA249,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95608/pdf,7/19/2017,Marydel,Delaware,United States,39.0,-75.0,0,1,Non-Fatal,non-fatal,False
+95958,GAA17CA520,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95958/pdf,9/3/2017,Wilmington,Delaware,United States,39.678611,-75.606666,0,1,Non-Fatal,non-fatal,False
+98419,ERA19TA005,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98419/pdf,10/7/2018,Bridgeville,Delaware,United States,38.715278,-75.570556,0,0,Non-Fatal,non-fatal,False
+100075,ERA19FA250,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100075/pdf,8/18/2019,Wilmington,Delaware,United States,39.690555,-75.638336,2,0,Fatal,fatal,True
+101023,ERA20CA117,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101023/pdf,2/29/2020,Wilmington,Delaware,United States,39.678611,-75.606666,0,1,Non-Fatal,non-fatal,False
+101878,ERA20CA298,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101878/pdf,8/27/2020,Milton,Delaware,United States,38.810276,-75.237777,0,0,Non-Fatal,non-fatal,False
+101970,ERA20CA318,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101970/pdf,9/7/2020,Wilmington,Delaware,United States,39.67652,-75.603042,0,0,Non-Fatal,non-fatal,False
+102353,ERA21LA058,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102353/pdf,11/28/2020,Georgetown,Delaware,United States,38.686587,-75.360774,0,0,Non-Fatal,non-fatal,False

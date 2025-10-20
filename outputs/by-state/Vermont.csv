@@ -1,0 +1,43 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+82758,ERA12CA162,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82758/pdf,1/28/2012,Grand Isle,Vermont,United States,44.754444,-73.273887,0,0,Non-Fatal,non-fatal,False
+83114,ERA12CA222,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83114/pdf,3/10/2012,Orleans,Vermont,United States,37.809791,-81.120178,0,0,Non-Fatal,non-fatal,False
+83572,ERA12CA322,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83572/pdf,5/6/2012,Newport,Vermont,United States,44.883056,-72.224441,0,0,Non-Fatal,non-fatal,False
+83681,ERA12CA342,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83681/pdf,5/17/2012,Springfield,Vermont,United States,43.343612,-72.516944,0,0,Non-Fatal,non-fatal,False
+85239,ERA13LA005,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85239/pdf,10/2/2012,Burlington,Vermont,United States,44.471668,-73.153053,0,0,Non-Fatal,non-fatal,False
+85921,ERA13CA100,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85921/pdf,12/31/2012,Rutland,Vermont,United States,43.684722,-72.950279,0,0,Non-Fatal,non-fatal,False
+87356,ERA13LA311,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87356/pdf,6/19/2013,Burlington,Vermont,United States,44.471942,-73.153053,0,0,Non-Fatal,non-fatal,False
+87977,ERA13LA397,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87977/pdf,9/1/2013,Hardwick,Vermont,United States,44.529998,-72.300003,0,2,Non-Fatal,non-fatal,False
+88106,ERA13CA427,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88106/pdf,9/21/2013,Middletown Springs,Vermont,United States,43.798053,-73.214721,0,0,Non-Fatal,non-fatal,False
+89082,ERA14LA202,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89082/pdf,4/18/2014,Saint Albans,Vermont,United States,44.946109,-73.113609,0,0,Non-Fatal,non-fatal,False
+89406,ERA14LA285,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89406/pdf,6/7/2014,Newport,Vermont,United States,44.88639,-72.224166,0,0,Non-Fatal,non-fatal,False
+90280,ERA15LA022,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90280/pdf,10/20/2014,Warren,Vermont,United States,44.109722,-72.823608,0,0,Non-Fatal,non-fatal,False
+90341,ERA15CA037,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90341/pdf,10/28/2014,Rutland,Vermont,United States,43.606109,-72.973892,0,0,Non-Fatal,non-fatal,False
+91221,GAA15CA084,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91221/pdf,5/20/2015,Morrisville,Vermont,United States,44.533054,-72.613609,0,0,Non-Fatal,non-fatal,False
+92305,ERA15LA381,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92305/pdf,8/7/2015,Charlotte,Vermont,United States,44.316665,-73.25,0,0,Non-Fatal,non-fatal,False
+92836,ERA16CA128,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92836/pdf,3/13/2016,South Burlington,Vermont,United States,44.466388,-73.151664,0,1,Non-Fatal,non-fatal,False
+93676,GAA16CA388,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93676/pdf,7/29/2016,Island Pond,Vermont,United States,44.79,-71.826385,0,0,Non-Fatal,non-fatal,False
+94048,GAA16CA495,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94048/pdf,9/19/2016,Grand Isle,Vermont,United States,44.705554,-73.245552,0,0,Non-Fatal,non-fatal,False
+94529,ERA17FA072,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94529/pdf,12/23/2016,Middlebury,Vermont,United States,43.981388,-73.094444,1,0,Fatal,fatal,True
+95221,GAA17CA298,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95221/pdf,5/20/2017,Springfield,Vermont,United States,43.343612,-72.517219,0,0,Non-Fatal,non-fatal,False
+95952,ERA17LA312,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95952/pdf,9/2/2017,Lyndonville,Vermont,United States,44.569168,-72.018058,0,0,Non-Fatal,non-fatal,False
+95956,GAA17CA519,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95956/pdf,8/27/2017,Springfield,Vermont,United States,43.343612,-72.517219,0,0,Non-Fatal,non-fatal,False
+96362,CEN18FA037,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96362/pdf,11/22/2017,Pittsford,Vermont,United States,43.755554,-73.04,1,0,Fatal,fatal,True
+96906,ERA18LA111,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96906/pdf,3/16/2018,Shelburne,Vermont,United States,44.380554,-73.2275,0,0,Non-Fatal,non-fatal,False
+97206,GAA18CA263,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97206/pdf,5/5/2018,Springfield,Vermont,United States,43.343612,-72.517219,0,0,Non-Fatal,non-fatal,False
+97269,GAA18CA283,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97269/pdf,5/13/2018,Tunbridge,Vermont,United States,43.895832,-72.440002,0,0,Non-Fatal,non-fatal,False
+97285,ERA18FA148,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97285/pdf,5/20/2018,Bennington,Vermont,United States,42.923889,-73.139167,1,0,Fatal,fatal,True
+97686,GAA18CA392,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97686/pdf,7/3/2018,Pomfret,Vermont,United States,44.046859,-72.711669,0,0,Non-Fatal,non-fatal,False
+98154,ERA18FA232,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98154/pdf,8/25/2018,Island Pond,Vermont,United States,44.79,-71.826385,1,0,Fatal,fatal,True
+98162,GAA18CA510,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98162/pdf,8/24/2018,Post Mills,Vermont,United States,43.883609,-72.251945,0,0,Non-Fatal,non-fatal,False
+98199,ERA18FA238,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98199/pdf,8/29/2018,Morrisville,Vermont,United States,44.592777,-72.745834,3,0,Fatal,fatal,True
+98274,GAA18CA543,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98274/pdf,9/8/2018,Highgate,Vermont,United States,44.933612,-73.094444,0,0,Non-Fatal,non-fatal,False
+98280,GAA18CA547,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98280/pdf,8/20/2018,Burlington,Vermont,United States,44.472499,-73.152778,0,0,Non-Fatal,non-fatal,False
+98492,GAA19CA024,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98492/pdf,10/14/2018,Vergennes,Vermont,United States,44.195835,-73.349441,0,0,Non-Fatal,non-fatal,False
+100353,GAA19CA577,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100353/pdf,9/28/2019,Morrisville,Vermont,United States,44.534442,-72.613891,0,0,Non-Fatal,non-fatal,False
+101206,ERA20CA159,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101206/pdf,4/25/2020,Enosburg,Vermont,United States,44.923053,-72.75389,0,0,Non-Fatal,non-fatal,False
+101477,ERA20CA224,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101477/pdf,6/22/2020,Burlington,Vermont,United States,44.470832,-73.151664,0,0,Non-Fatal,non-fatal,False
+101916,ERA20CA307,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101916/pdf,9/3/2020,Morrisville,Vermont,United States,44.536945,-72.613891,0,2,Non-Fatal,non-fatal,False
+103041,ERA21LA211,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103041/pdf,3/24/2021,Burlington,Vermont,United States,44.471955,-73.153276,0,0,Non-Fatal,non-fatal,False
+103595,ERA21LA309,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103595/pdf,7/30/2021,Colchester,Vermont,United States,44.568671,-73.313212,0,1,Non-Fatal,non-fatal,False
+103723,ERA21LA330,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103723/pdf,8/15/2021,North Springfield,Vermont,United States,43.352998,-72.506206,0,0,Non-Fatal,non-fatal,False
+103890,ERA21LA366,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103890/pdf,9/12/2021,Ryegate,Vermont,United States,44.187864,-72.151031,0,0,Non-Fatal,non-fatal,False

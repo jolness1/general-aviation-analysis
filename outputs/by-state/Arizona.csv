@@ -1,0 +1,464 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+82623,WPR12LA074,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82623/pdf,1/6/2012,Glendale,Arizona,United States,33.526943,-112.29528,0,0,Non-Fatal,non-fatal,False
+82645,WPR12LA076,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82645/pdf,1/6/2012,Phoenix,Arizona,United States,33.688331,-112.082496,0,0,Non-Fatal,non-fatal,False
+82771,WPR12CA084,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82771/pdf,1/28/2012,Peoria,Arizona,United States,33.792778,-112.265274,0,0,Non-Fatal,non-fatal,False
+82813,WPR12FA091,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82813/pdf,2/4/2012,Show Low,Arizona,United States,34.269443,-110.016944,2,2,Fatal,fatal,True
+82915,WPR12LA107,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82915/pdf,3/1/2012,Coolidge,Arizona,United States,32.934722,-111.4225,0,0,Non-Fatal,non-fatal,False
+83130,WPR12LA135,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83130/pdf,3/13/2012,St. Johns,Arizona,United States,34.518333,-109.378608,0,0,Non-Fatal,non-fatal,False
+83146,WPR12LA138,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83146/pdf,3/16/2012,Avra Valley,Arizona,United States,46.039871,-122.980056,0,0,Non-Fatal,non-fatal,False
+83269,WPR12CA150,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83269/pdf,3/30/2012,Casa Grande,Arizona,United States,32.953056,-111.766944,0,0,Non-Fatal,non-fatal,False
+83270,WPR12CA151,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83270/pdf,4/1/2012,Lake Havasu City,Arizona,United States,34.440277,-114.361946,0,0,Non-Fatal,non-fatal,False
+83285,WPR12LA152,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83285/pdf,4/3/2012,Mesa,Arizona,United States,33.460834,-111.728332,2,0,Fatal,fatal,True
+83375,WPR12CA163,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83375/pdf,4/10/2012,Sedona,Arizona,United States,34.848331,-111.78833,0,0,Non-Fatal,non-fatal,False
+83383,WPR12LA165,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83383/pdf,4/13/2012,San Manuel,Arizona,United States,32.63639,-110.647224,0,0,Non-Fatal,non-fatal,False
+83413,WPR12CA168,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83413/pdf,4/17/2012,Oro Valley,Arizona,United States,32.446945,-111.002777,0,0,Non-Fatal,non-fatal,False
+83423,WPR12CA171,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83423/pdf,4/12/2012,Prescott,Arizona,United States,35.783332,-110.416664,0,0,Non-Fatal,non-fatal,False
+83437,WPR12CA175,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83437/pdf,4/16/2012,Winslow,Arizona,United States,35.021667,-110.722778,0,0,Non-Fatal,non-fatal,False
+83499,WPR12CA187,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83499/pdf,4/27/2012,Coolidge,Arizona,United States,32.935832,-111.426391,0,0,Non-Fatal,non-fatal,False
+83539,WPR12FA191,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83539/pdf,5/2/2012,Phoenix,Arizona,United States,33.500278,-112.041946,0,1,Non-Fatal,non-fatal,False
+83562,WPR12CA196,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83562/pdf,5/5/2012,Heber-Overgaard,Arizona,United States,34.400001,-110.529167,0,0,Non-Fatal,non-fatal,False
+83673,WPR12LA211,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83673/pdf,5/13/2012,Mobile,Arizona,United States,33.111946,-112.269165,0,0,Non-Fatal,non-fatal,False
+83761,WPR12CA232,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83761/pdf,5/27/2012,Page,Arizona,United States,36.922222,-111.442222,0,0,Non-Fatal,non-fatal,False
+83867,WPR12LA247,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83867/pdf,5/29/2012,Peoria,Arizona,United States,33.800556,-112.249725,0,0,Non-Fatal,non-fatal,False
+83999,WPR12LA267,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83999/pdf,6/17/2012,Scottsdale,Arizona,United States,33.670555,-111.670829,0,0,Non-Fatal,non-fatal,False
+84134,WPR12FA282,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84134/pdf,6/30/2012,Camp Verde,Arizona,United States,34.444442,-111.789443,4,0,Fatal,fatal,True
+84167,WPR12CA287,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84167/pdf,6/27/2012,Paulden,Arizona,United States,34.909999,-112.533889,0,0,Non-Fatal,non-fatal,False
+84230,WPR12FA297,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84230/pdf,7/9/2012,Scottsdale,Arizona,United States,33.625556,-111.907218,0,1,Non-Fatal,non-fatal,False
+84246,WPR12CA300,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84246/pdf,7/5/2012,Flagstaff,Arizona,United States,35.140277,-111.669166,0,0,Non-Fatal,non-fatal,False
+84279,WPR12LA302,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84279/pdf,7/11/2012,Winslow,Arizona,United States,35.032222,-110.730003,1,1,Fatal,fatal,True
+84460,WPR12FA326,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84460/pdf,7/26/2012,Sedona,Arizona,United States,34.842224,-111.796669,3,0,Fatal,fatal,True
+84514,WPR12CA337,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84514/pdf,7/28/2012,Grand Canyon,Arizona,United States,35.95222,-112.146942,0,0,Non-Fatal,non-fatal,False
+84564,WPR12CA342,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84564/pdf,8/2/2012,McNeal,Arizona,United States,31.637777,-109.533058,0,1,Non-Fatal,non-fatal,False
+84822,WPR12CA372,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84822/pdf,8/18/2012,Mesa,Arizona,United States,33.460834,-111.728332,0,0,Non-Fatal,non-fatal,False
+84878,WPR12CA380,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84878/pdf,8/30/2012,Wickenburg,Arizona,United States,33.970554,-112.794998,0,0,Non-Fatal,non-fatal,False
+84882,WPR12LA384,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84882/pdf,8/31/2012,St. Johns,Arizona,United States,34.513053,-109.372497,0,0,Non-Fatal,non-fatal,False
+84974,WPR12LA408,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84974/pdf,9/9/2012,Grand Canyon,Arizona,United States,35.801944,-112.068054,0,0,Non-Fatal,non-fatal,False
+84991,WPR12CA412,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84991/pdf,9/10/2012,Mobile,Arizona,United States,33.111946,-112.269165,0,0,Non-Fatal,non-fatal,False
+85042,WPR12FA420,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85042/pdf,9/13/2012,Strawberry,Arizona,United States,34.4575,-111.483612,3,0,Fatal,fatal,True
+85074,WPR12LA423,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85074/pdf,9/17/2012,Chandler,Arizona,United States,33.26889,-111.811111,0,0,Non-Fatal,non-fatal,False
+85085,WPR12CA425,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85085/pdf,9/15/2012,Eloy,Arizona,United States,32.806667,-111.586669,0,0,Non-Fatal,non-fatal,False
+85152,WPR12CA438,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85152/pdf,9/25/2012,St Johns,Arizona,United States,34.866943,-109.51667,0,0,Non-Fatal,non-fatal,False
+85174,WPR12LA442,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85174/pdf,9/30/2012,Safford,Arizona,United States,33.339168,-109.954444,1,0,Fatal,fatal,True
+85243,WPR13LA002,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85243/pdf,10/4/2012,San Manuel,Arizona,United States,32.635276,-110.64167,1,0,Fatal,fatal,True
+85265,WPR13LA004,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85265/pdf,10/5/2012,Chandler,Arizona,United States,33.103054,-112.054168,0,0,Non-Fatal,non-fatal,False
+85319,WPR13FA010,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85319/pdf,10/14/2012,Marana,Arizona,United States,32.32389,-111.45417,1,0,Fatal,fatal,True
+85332,WPR13LA011,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85332/pdf,10/15/2012,Parker,Arizona,United States,34.110553,-114.627502,0,0,Non-Fatal,non-fatal,False
+85357,WPR13LA015,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85357/pdf,10/18/2012,Phoenix,Arizona,United States,33.799999,-112.199996,0,0,Non-Fatal,non-fatal,False
+85361,WPR13FA017,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85361/pdf,10/18/2012,Yucca,Arizona,United States,34.800277,-114.161941,1,0,Fatal,fatal,True
+85448,WPR13LA025,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85448/pdf,10/27/2012,Lake Havasu,Arizona,United States,34.423889,-114.2975,0,0,Non-Fatal,non-fatal,False
+85456,WPR13CA028,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85456/pdf,10/24/2012,Casa Grande,Arizona,United States,32.954723,-111.76667,0,0,Non-Fatal,non-fatal,False
+85527,WPR13LA034,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85527/pdf,10/27/2012,Payson,Arizona,United States,34.256668,-111.339164,0,0,Non-Fatal,non-fatal,False
+85554,WPR13LA038,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85554/pdf,11/11/2012,Maricopa,Arizona,United States,33.011112,-112.281669,0,0,Non-Fatal,non-fatal,False
+85559,WPR12LA444,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85559/pdf,4/26/2012,Glendale,Arizona,United States,33.526668,-112.294998,0,0,Non-Fatal,non-fatal,False
+85611,WPR13LA043,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85611/pdf,11/16/2012,Show Low,Arizona,United States,34.218887,-109.873886,0,0,Non-Fatal,non-fatal,False
+85651,WPR13TA051,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85651/pdf,11/23/2012,Newfield,Arizona,United States,31.543056,-111.692497,0,0,Non-Fatal,non-fatal,False
+85683,WPR13FA058,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85683/pdf,11/23/2012,Tacna,Arizona,United States,32.338054,-113.663612,1,0,Fatal,fatal,True
+85704,WPR13LA060,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85704/pdf,11/24/2012,Phoenix,Arizona,United States,33.688331,-112.082496,0,0,Non-Fatal,non-fatal,False
+85761,WPR13CA064,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85761/pdf,12/7/2012,Roosevelt Lake,Arizona,United States,33.736667,-111.201667,0,1,Non-Fatal,non-fatal,False
+85875,WPR13FA074,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85875/pdf,12/23/2012,Wellton,Arizona,United States,32.658889,-114.007225,1,0,Fatal,fatal,True
+85918,WPR13LA078,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85918/pdf,12/31/2012,Chandler,Arizona,United States,33.26889,-111.811111,0,0,Non-Fatal,non-fatal,False
+86032,WPR13CA092,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86032/pdf,1/10/2013,Lake Pleasant,Arizona,United States,33.923889,-112.234443,0,0,Non-Fatal,non-fatal,False
+86053,WPR13CA097,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86053/pdf,1/21/2013,Tucson,Arizona,United States,32.141944,-111.174446,0,0,Non-Fatal,non-fatal,False
+86062,WPR13LA099,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86062/pdf,1/22/2013,Mesa,Arizona,United States,33.45639,-111.723609,0,0,Non-Fatal,non-fatal,False
+86127,WPR13LA113,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86127/pdf,2/2/2013,Wilcox,Arizona,United States,32.746944,-110.238609,0,0,Non-Fatal,non-fatal,False
+86158,WPR13FA115,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86158/pdf,2/6/2013,Casa Grande,Arizona,United States,32.955833,-111.766113,2,0,Fatal,fatal,True
+86171,WPR13FA118,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86171/pdf,2/8/2013,Tucson,Arizona,United States,32.123332,-111.198059,1,0,Fatal,fatal,True
+86297,WPR13LA134,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86297/pdf,2/26/2013,Peoria,Arizona,United States,33.799999,-112.25,0,0,Non-Fatal,non-fatal,False
+86312,WPR13LA135,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86312/pdf,2/25/2013,Quartzsite,Arizona,United States,33.744445,-114.476943,0,2,Non-Fatal,non-fatal,False
+86443,WPR13CA152,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86443/pdf,3/17/2013,Gila Bend,Arizona,United States,32.956111,-112.670829,0,0,Non-Fatal,non-fatal,False
+86461,WPR13CA155,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86461/pdf,3/17/2013,Chino Valley,Arizona,United States,34.852222,-112.413887,0,0,Non-Fatal,non-fatal,False
+86489,WPR13CA158,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86489/pdf,3/20/2013,Gila Bend,Arizona,United States,32.959999,-112.673614,0,0,Non-Fatal,non-fatal,False
+86501,WPR13LA161,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86501/pdf,3/25/2013,Maricopa,Arizona,United States,33.044166,-111.983612,0,0,Non-Fatal,non-fatal,False
+86502,WPR13CA162,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86502/pdf,3/19/2013,Mesa,Arizona,United States,33.45639,-111.723609,0,0,Non-Fatal,non-fatal,False
+86539,WPR13FA169,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86539/pdf,3/28/2013,Wikieup,Arizona,United States,34.605556,-113.491111,1,2,Fatal,fatal,True
+86587,WPR13LA180,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86587/pdf,4/4/2013,Phoenix,Arizona,United States,33.686668,-112.091667,0,0,Non-Fatal,non-fatal,False
+86642,WPR13LA190,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86642/pdf,4/13/2013,San Manuel,Arizona,United States,32.630832,-110.634162,0,1,Non-Fatal,non-fatal,False
+86658,WPR13TA198,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86658/pdf,4/12/2013,Phoenix,Arizona,United States,33.688056,-112.082496,0,0,Non-Fatal,non-fatal,False
+86674,WPR13CA202,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86674/pdf,4/19/2013,Mesa,Arizona,United States,33.45639,-111.723609,0,0,Non-Fatal,non-fatal,False
+86688,WPR13LA203,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86688/pdf,4/20/2013,Bullhead City,Arizona,United States,35.161666,-114.558891,1,0,Fatal,fatal,True
+86705,WPR13CA206,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86705/pdf,4/23/2013,Grand Canyon,Arizona,United States,35.855278,-112.075553,0,0,Non-Fatal,non-fatal,False
+86804,WPR13LA215,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86804/pdf,5/4/2013,Somerton,Arizona,United States,32.596389,-114.722221,0,0,Non-Fatal,non-fatal,False
+86824,WPR13CA219,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86824/pdf,5/6/2013,Cottonwood,Arizona,United States,34.729999,-112.035003,0,1,Non-Fatal,non-fatal,False
+86943,WPR13LA237,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86943/pdf,5/19/2013,Chandler,Arizona,United States,33.26889,-111.811111,0,0,Non-Fatal,non-fatal,False
+86972,WPR13CA240,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86972/pdf,5/19/2013,Tucson,Arizona,United States,32.142223,-111.17472,0,0,Non-Fatal,non-fatal,False
+87011,WPR13FA244,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87011/pdf,5/28/2013,Mountainaire,Arizona,United States,35.082778,-111.667778,2,0,Fatal,fatal,True
+87014,WPR13CA245,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87014/pdf,5/28/2013,Page,Arizona,United States,36.899166,-111.457221,0,0,Non-Fatal,non-fatal,False
+87046,WPR13FA254,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87046/pdf,5/31/2013,Anthem,Arizona,United States,33.864723,-112.201385,4,0,Fatal,fatal,True
+87062,WPR13CA256,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87062/pdf,6/1/2013,Payson,Arizona,United States,34.156112,-111.722778,0,0,Non-Fatal,non-fatal,False
+87147,WPR13LA266,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87147/pdf,6/8/2013,Grand Canyon,Arizona,United States,35.650554,-112.147781,0,0,Non-Fatal,non-fatal,False
+87292,WPR13LA290,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87292/pdf,6/25/2013,Casa Grande,Arizona,United States,32.838054,-111.724723,0,0,Non-Fatal,non-fatal,False
+87420,WPR13CA316,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87420/pdf,7/5/2013,Casa Grande,Arizona,United States,32.955276,-111.766113,0,0,Non-Fatal,non-fatal,False
+87434,WPR13LA319,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87434/pdf,7/3/2013,Phoenix,Arizona,United States,33.301944,-111.655281,0,0,Non-Fatal,non-fatal,False
+87485,WPR13CA330,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87485/pdf,7/13/2013,San Simon,Arizona,United States,32.265556,-109.183891,0,1,Non-Fatal,non-fatal,False
+87496,WPR13LA331,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87496/pdf,7/13/2013,Mesa,Arizona,United States,33.45639,-111.723609,0,0,Non-Fatal,non-fatal,False
+87626,WPR13CA348,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87626/pdf,7/26/2013,Phoenix,Arizona,United States,33.307777,-111.655281,0,0,Non-Fatal,non-fatal,False
+87638,WPR13LA351,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87638/pdf,7/31/2013,San Manuel,Arizona,United States,32.63639,-110.647224,0,0,Non-Fatal,non-fatal,False
+87752,WPR13LA366,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87752/pdf,8/10/2013,Overgaard,Arizona,United States,34.394443,-110.529724,0,0,Non-Fatal,non-fatal,False
+87790,WPR13CA375,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87790/pdf,8/10/2013,Prescott,Arizona,United States,34.663333,-112.423614,0,0,Non-Fatal,non-fatal,False
+87976,WPR13CA397,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87976/pdf,9/1/2013,Deer Valley,Arizona,United States,33.688331,-112.080833,0,0,Non-Fatal,non-fatal,False
+88039,WPR13LA408,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88039/pdf,9/14/2013,Casa Grande,Arizona,United States,32.955276,-111.768058,0,0,Non-Fatal,non-fatal,False
+88096,WPR13FA417,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88096/pdf,9/21/2013,Cordes Lakes,Arizona,United States,34.395278,-112.046943,2,0,Fatal,fatal,True
+88172,WPR14CA003,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88172/pdf,10/1/2013,Wellton,Arizona,United States,32.720001,-114.287498,0,0,Non-Fatal,non-fatal,False
+88174,WPR14LA005,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88174/pdf,10/4/2013,Paulden,Arizona,United States,34.865276,-112.522781,4,0,Fatal,fatal,True
+88182,WPR14CA011,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88182/pdf,10/8/2013,Sedona,Arizona,United States,34.848331,-111.78833,0,2,Non-Fatal,non-fatal,False
+88191,WPR14CA015,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88191/pdf,10/12/2013,Rio Verde,Arizona,United States,34.159999,-111.726669,0,0,Non-Fatal,non-fatal,False
+88240,WPR14CA021,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88240/pdf,10/19/2013,Tucson,Arizona,United States,32.05968,-111.420448,0,0,Non-Fatal,non-fatal,False
+88289,WPR14LA027,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88289/pdf,10/23/2013,Tucson,Arizona,United States,32.11222,-110.933334,0,1,Non-Fatal,non-fatal,False
+88383,WPR14LA042,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88383/pdf,11/3/2013,St. Johns,Arizona,United States,34.5,-109.370002,0,0,Non-Fatal,non-fatal,False
+88406,WPR14LA046,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88406/pdf,11/2/2013,Wickenburg,Arizona,United States,33.970554,-112.694999,0,0,Non-Fatal,non-fatal,False
+88425,WPR14LA050,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88425/pdf,11/7/2013,Carefree,Arizona,United States,33.818054,-111.898056,0,0,Non-Fatal,non-fatal,False
+88533,WPR14LA065,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88533/pdf,12/9/2013,Chandler,Arizona,United States,33.319057,-111.870407,0,0,Non-Fatal,non-fatal,False
+88656,WPR14CA090,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88656/pdf,1/4/2014,Marana,Arizona,United States,32.409442,-111.21833,0,0,Non-Fatal,non-fatal,False
+88663,WPR14CA093,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88663/pdf,1/10/2014,Lake Havasu,Arizona,United States,34.571109,-114.358055,0,0,Non-Fatal,non-fatal,False
+88697,WPR14CA101,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88697/pdf,1/21/2014,Showlow,Arizona,United States,34.264446,-110.007774,0,0,Non-Fatal,non-fatal,False
+88737,WPR14CA107,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88737/pdf,1/26/2014,Wikieup,Arizona,United States,34.439167,-113.488891,0,0,Non-Fatal,non-fatal,False
+88745,WPR14CA109,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88745/pdf,1/25/2014,Willcox,Arizona,United States,32.415554,-110.151107,0,0,Non-Fatal,non-fatal,False
+88750,WPR14CA110,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88750/pdf,2/1/2014,Globe,Arizona,United States,33.350555,-110.653335,0,0,Non-Fatal,non-fatal,False
+88768,WPR14FA111,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88768/pdf,2/4/2014,Phoenix,Arizona,United States,33.688331,-112.082496,0,2,Non-Fatal,non-fatal,False
+88816,WPR14CA116,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88816/pdf,2/15/2014,Glendale,Arizona,United States,33.530597,-112.310256,0,0,Non-Fatal,non-fatal,False
+88831,WPR14LA119,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88831/pdf,2/23/2014,Maricopa,Arizona,United States,32.987777,-111.918052,1,0,Fatal,fatal,True
+88945,WPR14CA140,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88945/pdf,3/20/2014,Coolidge,Arizona,United States,32.933612,-111.424163,0,0,Non-Fatal,non-fatal,False
+88948,WPR14CA143,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88948/pdf,3/17/2014,Glendale,Arizona,United States,33.5275,-112.294998,0,0,Non-Fatal,non-fatal,False
+88983,WPR14CA151,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88983/pdf,3/29/2014,Eloy,Arizona,United States,32.80389,-111.585281,0,0,Non-Fatal,non-fatal,False
+89006,WPR14CA156,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89006/pdf,3/23/2014,Mesa,Arizona,United States,33.458057,-111.734725,0,0,Non-Fatal,non-fatal,False
+89063,WPR14CA168,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89063/pdf,4/14/2014,Mayer,Arizona,United States,34.340156,-112.030967,0,0,Non-Fatal,non-fatal,False
+89090,WPR14LA169,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89090/pdf,4/21/2014,Bullhead City,Arizona,United States,35.000934,-114.560142,0,0,Non-Fatal,non-fatal,False
+89117,WPR14FA172,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89117/pdf,4/26/2014,Young,Arizona,United States,33.92889,-110.663887,1,0,Fatal,fatal,True
+89157,WPR14FA181,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89157/pdf,5/3/2014,Aguila,Arizona,United States,33.922779,-113.181388,1,0,Fatal,fatal,True
+89190,WPR14FA186,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89190/pdf,5/10/2014,Page,Arizona,United States,36.933887,-111.449722,1,1,Fatal,fatal,True
+89221,WPR14CA193,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89221/pdf,5/15/2014,Grand Canyon,Arizona,United States,35.95222,-112.146942,0,0,Non-Fatal,non-fatal,False
+89222,WPR14FA194,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89222/pdf,5/17/2014,Fort Huachuca,Arizona,United States,31.586389,-110.339996,1,1,Fatal,fatal,True
+89223,WPR14FA195,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89223/pdf,5/18/2014,Peach Springs,Arizona,United States,35.9925,-113.781112,1,0,Fatal,fatal,True
+89251,WPR14LA199,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89251/pdf,5/22/2014,Parker,Arizona,United States,34.133335,-114.26889,0,0,Non-Fatal,non-fatal,False
+89256,WPR14CA202,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89256/pdf,5/16/2014,Tucson,Arizona,United States,32.13861,-111.171386,0,0,Non-Fatal,non-fatal,False
+89321,WPR14CA216,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89321/pdf,5/31/2014,San Manuel,Arizona,United States,32.625,-110.563888,0,0,Non-Fatal,non-fatal,False
+89361,WPR14CA224,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89361/pdf,5/29/2014,La Cholla,Arizona,United States,32.460281,-110.970779,0,0,Non-Fatal,non-fatal,False
+89365,WPR14CA227,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89365/pdf,6/4/2014,Prescott,Arizona,United States,34.674999,-112.427497,0,0,Non-Fatal,non-fatal,False
+89384,WPR14TA236,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89384/pdf,6/8/2014,Mesa,Arizona,United States,33.377223,-111.79528,0,0,Non-Fatal,non-fatal,False
+89423,WPR14LA242,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89423/pdf,6/12/2014,Mesa,Arizona,United States,33.474998,-111.709724,0,0,Non-Fatal,non-fatal,False
+89502,WPR14CA259,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89502/pdf,6/21/2014,Sedona,Arizona,United States,34.840557,-111.786392,0,0,Non-Fatal,non-fatal,False
+89503,WPR14CA260,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89503/pdf,6/20/2014,Scottsdale,Arizona,United States,33.703056,-112.07611,0,0,Non-Fatal,non-fatal,False
+89508,WPR14FA262,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89508/pdf,6/20/2014,Page,Arizona,United States,36.809165,-110.803611,2,0,Fatal,fatal,True
+89517,WPR14CA266,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89517/pdf,6/23/2014,Tucson,Arizona,United States,32.109443,-110.937774,0,0,Non-Fatal,non-fatal,False
+89574,WPR14CA274,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89574/pdf,5/19/2014,Buckeye,Arizona,United States,33.3805,-112.549865,0,0,Non-Fatal,non-fatal,False
+89597,WPR14TA278,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89597/pdf,7/2/2014,Willcox,Arizona,United States,32.245555,-109.894721,0,0,Non-Fatal,non-fatal,False
+89647,WPR14CA289,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89647/pdf,7/11/2014,Chandler,Arizona,United States,33.239929,-111.779174,0,0,Non-Fatal,non-fatal,False
+89699,WPR14FA302,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89699/pdf,7/20/2014,Littlefield,Arizona,United States,36.549999,-113.25,2,0,Fatal,fatal,True
+89700,WPR14FA303,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89700/pdf,7/20/2014,Sedona,Arizona,United States,34.907501,-111.86222,4,0,Fatal,fatal,True
+89863,WPR14CA342,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89863/pdf,7/21/2014,Phoenix,Arizona,United States,34.650554,-111.786109,0,0,Non-Fatal,non-fatal,False
+89864,WPR14LA343,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89864/pdf,8/13/2014,Rimrock,Arizona,United States,34.650554,-111.786109,0,1,Non-Fatal,non-fatal,False
+89917,WPR14CA350,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89917/pdf,8/19/2014,Marana,Arizona,United States,32.426944,-111.389442,0,0,Non-Fatal,non-fatal,False
+90036,WPR14LA368,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90036/pdf,9/6/2014,Mesa,Arizona,United States,33.460834,-111.728614,0,0,Non-Fatal,non-fatal,False
+90052,WPR14LA371,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90052/pdf,9/9/2014,Buckeye,Arizona,United States,33.18,-113.050003,0,0,Non-Fatal,non-fatal,False
+90081,WPR14CA376,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90081/pdf,6/28/2014,Mesa,Arizona,United States,33.460834,-111.728332,0,0,Non-Fatal,non-fatal,False
+90158,WPR14CA390,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90158/pdf,9/25/2014,Sedona,Arizona,United States,34.848609,-111.78833,0,0,Non-Fatal,non-fatal,False
+90179,WPR14CA396,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90179/pdf,9/13/2014,Phoenix,Arizona,United States,33.29,-112.237503,0,0,Non-Fatal,non-fatal,False
+90221,WPR15CA004,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90221/pdf,10/5/2014,Sedona,Arizona,United States,34.848609,-111.78833,0,0,Non-Fatal,non-fatal,False
+90273,WPR15LA015,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90273/pdf,10/18/2014,Bullhead City,Arizona,United States,35.0,-114.550003,0,0,Non-Fatal,non-fatal,False
+90292,WPR15CA018,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90292/pdf,10/23/2014,Lake Havasu,Arizona,United States,34.609504,-114.299911,0,0,Non-Fatal,non-fatal,False
+90296,WPR15LA020,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90296/pdf,10/24/2014,Globe,Arizona,United States,33.620311,-110.699874,0,1,Non-Fatal,non-fatal,False
+90314,WPR15TA027,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90314/pdf,10/27/2014,Bisbee,Arizona,United States,31.398332,-109.801666,0,1,Non-Fatal,non-fatal,False
+90357,WPR15CA033,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90357/pdf,11/5/2014,Havasu City,Arizona,United States,34.48389,-113.921386,0,0,Non-Fatal,non-fatal,False
+90372,WPR15LA038,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90372/pdf,11/7/2014,Bullhead City,Arizona,United States,35.155834,-114.559448,0,0,Non-Fatal,non-fatal,False
+90393,WPR15CA043,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90393/pdf,11/15/2014,Prescott,Arizona,United States,34.538333,-112.46833,0,0,Non-Fatal,non-fatal,False
+90403,WPR15CA044,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90403/pdf,11/17/2014,Wittman,Arizona,United States,33.753334,-112.585281,0,1,Non-Fatal,non-fatal,False
+90433,WPR15LA048,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90433/pdf,11/30/2014,Somerton,Arizona,United States,32.556388,-114.690002,1,0,Fatal,fatal,True
+90454,WPR15LA052,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90454/pdf,12/2/2014,Mesa,Arizona,United States,33.460834,-111.728332,0,0,Non-Fatal,non-fatal,False
+90465,WPR15LA055,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90465/pdf,12/6/2014,Lake Havasu City,Arizona,United States,34.566665,-114.349998,0,0,Non-Fatal,non-fatal,False
+90554,WPR15FA072,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90554/pdf,12/31/2014,Benson,Arizona,United States,31.956111,-110.409446,2,0,Fatal,fatal,True
+90556,WPR15CA073,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90556/pdf,1/1/2015,Yuma,Arizona,United States,32.439998,-114.279998,0,0,Non-Fatal,non-fatal,False
+90566,WPR15CA078,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90566/pdf,1/4/2015,Sedona,Arizona,United States,34.810001,-111.800003,0,0,Non-Fatal,non-fatal,False
+90700,WPR15LA099,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90700/pdf,1/18/2015,Flagstaff,Arizona,United States,35.140277,-111.669166,0,0,Non-Fatal,non-fatal,False
+90785,WPR15CA115,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90785/pdf,2/24/2015,Phoenix,Arizona,United States,33.68861,-112.081947,0,0,Non-Fatal,non-fatal,False
+90839,GAA15CA003,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90839/pdf,3/7/2015,San Manuel,Arizona,United States,32.63972,-110.652778,0,0,Non-Fatal,non-fatal,False
+90860,WPR15FA125,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90860/pdf,3/11/2015,Yuma,Arizona,United States,32.649723,-114.615554,1,0,Fatal,fatal,True
+90903,WPR15LA130,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90903/pdf,3/21/2015,Green Valley,Arizona,United States,31.911111,-111.117774,0,0,Non-Fatal,non-fatal,False
+90905,WPR15LA131,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90905/pdf,3/21/2015,Sedona,Arizona,United States,34.832778,-111.800277,0,2,Non-Fatal,non-fatal,False
+90907,WPR15LA132,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90907/pdf,3/22/2015,Flagstaff,Arizona,United States,35.140277,-111.669166,0,0,Non-Fatal,non-fatal,False
+90913,GAA15LA015,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90913/pdf,3/14/2015,Peoria,Arizona,United States,33.750556,-112.262779,0,1,Non-Fatal,non-fatal,False
+90961,WPR15LA139,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90961/pdf,3/30/2015,Tucson,Arizona,United States,32.113334,-110.939163,0,0,Non-Fatal,non-fatal,False
+91006,GAA15CA037,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91006/pdf,4/4/2015,Surprise,Arizona,United States,33.593887,-112.421112,0,0,Non-Fatal,non-fatal,False
+91010,WPR15FA144,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91010/pdf,4/11/2015,Prescott Valley,Arizona,United States,34.680831,-112.296943,1,0,Fatal,fatal,True
+91304,WPR15LA177,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91304/pdf,6/1/2015,Dewey,Arizona,United States,34.310001,-112.120002,0,0,Non-Fatal,non-fatal,False
+91316,WPR15LA179,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91316/pdf,5/29/2015,Glendale,Arizona,United States,33.522777,-112.290557,0,0,Non-Fatal,non-fatal,False
+91328,GAA15CA110,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91328/pdf,5/24/2015,Wickenburg,Arizona,United States,33.970554,-112.794998,0,0,Non-Fatal,non-fatal,False
+91359,WPR15LA183,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91359/pdf,6/11/2015,Tucson,Arizona,United States,32.446666,-111.002777,0,0,Non-Fatal,non-fatal,False
+91537,WPR15LA209,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91537/pdf,7/10/2015,Phoenix,Arizona,United States,33.686389,-112.07611,0,0,Non-Fatal,non-fatal,False
+91570,GAA15CA187,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91570/pdf,6/26/2015,Show Low,Arizona,United States,34.266944,-109.998886,0,0,Non-Fatal,non-fatal,False
+91673,GAA15CA204,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91673/pdf,7/29/2015,Tucson,Arizona,United States,32.142223,-111.174446,0,0,Non-Fatal,non-fatal,False
+91799,GAA15LA225,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91799/pdf,7/31/2015,Peoria,Arizona,United States,33.753334,-112.255836,0,1,Non-Fatal,non-fatal,False
+91828,GAA15CA233,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91828/pdf,8/18/2015,Prescott,Arizona,United States,34.65361,-112.419441,0,0,Non-Fatal,non-fatal,False
+91854,WPR15LA249,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91854/pdf,8/23/2015,Mesa,Arizona,United States,33.460834,-111.728332,0,0,Non-Fatal,non-fatal,False
+91905,WPR15LA254,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91905/pdf,9/1/2015,Winkelman,Arizona,United States,33.015556,-110.654441,0,0,Non-Fatal,non-fatal,False
+91921,GAA15CA249,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91921/pdf,8/20/2015,Tucson,Arizona,United States,32.113609,-110.936668,0,0,Non-Fatal,non-fatal,False
+92038,GAA15CA271,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92038/pdf,9/23/2015,Show Low,Arizona,United States,34.265277,-110.006668,0,0,Non-Fatal,non-fatal,False
+92173,GAA16CA013,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92173/pdf,10/12/2015,Marana,Arizona,United States,32.409442,-111.21833,0,0,Non-Fatal,non-fatal,False
+92208,WPR16LA015,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92208/pdf,10/10/2015,Tucson,Arizona,United States,32.109443,-110.937774,0,0,Non-Fatal,non-fatal,False
+92226,WPR16LA017,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92226/pdf,10/24/2015,Prescott,Arizona,United States,34.654724,-112.419166,0,0,Non-Fatal,non-fatal,False
+92260,GAA16CA035,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92260/pdf,10/24/2015,BUCKEYE,Arizona,United States,33.415554,-112.686386,0,0,Non-Fatal,non-fatal,False
+92293,GAA16CA043,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92293/pdf,11/2/2015,DOUGLAS BISBEE,Arizona,United States,31.466388,-109.604721,0,0,Non-Fatal,non-fatal,False
+92328,GAA16CA048,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92328/pdf,11/7/2015,Mesa,Arizona,United States,33.45639,-111.733329,0,0,Non-Fatal,non-fatal,False
+92373,WPR16LA033,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92373/pdf,11/25/2015,Wickenburg,Arizona,United States,33.964168,-112.809448,0,0,Non-Fatal,non-fatal,False
+92445,GAA16CA079,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92445/pdf,12/13/2015,Rimrock,Arizona,United States,34.651111,-111.787498,0,0,Non-Fatal,non-fatal,False
+92501,WPR16LA043,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92501/pdf,12/26/2015,Nogales,Arizona,United States,31.43111,-110.841392,0,4,Non-Fatal,non-fatal,False
+92636,WPR16LA057,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92636/pdf,1/24/2016,Phoenix,Arizona,United States,33.416667,-112.02111,0,0,Non-Fatal,non-fatal,False
+92639,GAA16CA113,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92639/pdf,1/23/2016,Prescott,Arizona,United States,34.655555,-112.418609,0,0,Non-Fatal,non-fatal,False
+92689,WPR16FA064,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92689/pdf,2/5/2016,Maricopa,Arizona,United States,33.0,-112.121948,2,0,Fatal,fatal,True
+92733,WPR16LA071,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92733/pdf,2/16/2016,Buckeye,Arizona,United States,33.420555,-112.686111,1,0,Fatal,fatal,True
+92801,WPR16LA079,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92801/pdf,3/2/2016,Fountain Hills,Arizona,United States,33.599998,-111.603057,0,0,Non-Fatal,non-fatal,False
+92808,WPR16LA080,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92808/pdf,3/5/2016,Queen Creek,Arizona,United States,33.271667,-111.573608,0,1,Non-Fatal,non-fatal,False
+92861,GAA16CA152,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92861/pdf,3/13/2016,Chandler,Arizona,United States,33.269721,-111.811111,0,0,Non-Fatal,non-fatal,False
+92906,WPR16LA088,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92906/pdf,3/10/2016,Prescott,Arizona,United States,34.571388,-112.419166,0,0,Non-Fatal,non-fatal,False
+92971,GAA16CA179,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92971/pdf,4/6/2016,Supai,Arizona,United States,36.146389,-112.758613,0,0,Non-Fatal,non-fatal,False
+92994,GAA16CA187,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92994/pdf,3/6/2016,Scottsdale,Arizona,United States,33.619998,-111.913887,0,0,Non-Fatal,non-fatal,False
+92997,GAA16CA188,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92997/pdf,4/6/2016,Payson,Arizona,United States,34.256942,-111.339164,0,0,Non-Fatal,non-fatal,False
+93002,GAA16CA190,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93002/pdf,4/12/2016,Chandler,Arizona,United States,33.269165,-111.811111,0,0,Non-Fatal,non-fatal,False
+93075,GAA16CA205,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93075/pdf,4/24/2016,Marana,Arizona,United States,32.264999,-111.123611,0,0,Non-Fatal,non-fatal,False
+93117,WPR16FA102,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93117/pdf,5/7/2016,Surprise,Arizona,United States,33.640277,-112.363052,1,1,Fatal,fatal,True
+93122,GAA16CA219,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93122/pdf,5/2/2016,Mesa,Arizona,United States,33.304164,-111.656387,0,0,Non-Fatal,non-fatal,False
+93153,WPR16LA106,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93153/pdf,5/11/2016,Winslow,Arizona,United States,35.021667,-110.731941,0,0,Non-Fatal,non-fatal,False
+93185,GAA16CA237,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93185/pdf,5/12/2016,Wickenburg,Arizona,United States,33.971111,-112.794441,0,0,Non-Fatal,non-fatal,False
+93189,WPR16FA112,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93189/pdf,5/17/2016,Mesa,Arizona,United States,33.460834,-111.728332,2,0,Fatal,fatal,True
+93390,GAA16CA318,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93390/pdf,6/13/2016,Ajo,Arizona,United States,32.129165,-113.485832,0,0,Non-Fatal,non-fatal,False
+93420,WPR16LA128,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93420/pdf,6/18/2016,Prescott,Arizona,United States,34.668888,-112.404441,0,0,Non-Fatal,non-fatal,False
+93446,WPR16FA130,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93446/pdf,6/23/2016,Wikieup,Arizona,United States,34.461112,-113.683334,2,0,Fatal,fatal,True
+93514,DCA16CA197,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93514/pdf,6/28/2016,Yuma,Arizona,United States,33.099998,-114.400001,0,0,Non-Fatal,non-fatal,False
+93597,GAA16CA372,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93597/pdf,7/10/2016,Surprise,Arizona,United States,33.579166,-112.415275,0,0,Non-Fatal,non-fatal,False
+93725,GAA16CA404,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93725/pdf,7/29/2016,Wickenburg,Arizona,United States,33.971111,-112.794441,0,0,Non-Fatal,non-fatal,False
+93744,WPR16LA156,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93744/pdf,8/2/2016,Prescott,Arizona,United States,34.660831,-112.416389,0,0,Non-Fatal,non-fatal,False
+93746,WPR16FA158,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93746/pdf,8/2/2016,Flagstaff,Arizona,United States,35.106388,-111.724166,1,0,Fatal,fatal,True
+93936,GAA16CA461,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93936/pdf,8/30/2016,Sedona,Arizona,United States,34.509166,-111.473052,0,0,Non-Fatal,non-fatal,False
+93979,WPR16FA176,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93979/pdf,9/9/2016,Wickenburg,Arizona,United States,33.965831,-112.813056,0,4,Non-Fatal,non-fatal,False
+93998,WPR16LA179,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93998/pdf,9/10/2016,Bisbee,Arizona,United States,31.358333,-109.876388,0,0,Non-Fatal,non-fatal,False
+94030,WPR16FA183,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94030/pdf,9/17/2016,Gilbert,Arizona,United States,33.324722,-111.780281,0,1,Non-Fatal,non-fatal,False
+94148,WPR17LA002,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94148/pdf,10/5/2016,Gila Bend,Arizona,United States,32.975555,-112.728614,0,0,Non-Fatal,non-fatal,False
+94183,GAA17CA014,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94183/pdf,10/6/2016,Phoenix,Arizona,United States,33.307777,-111.655555,0,0,Non-Fatal,non-fatal,False
+94195,WPR17LA004,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94195/pdf,10/12/2016,Phoenix,Arizona,United States,33.697776,-112.152778,0,2,Non-Fatal,non-fatal,False
+94325,WPR17LA015,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94325/pdf,10/21/2016,Mesa,Arizona,United States,33.460834,-111.728332,0,0,Non-Fatal,non-fatal,False
+94361,WPR17LA019,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94361/pdf,11/10/2016,Yuma,Arizona,United States,32.655834,-114.606941,0,1,Non-Fatal,non-fatal,False
+94368,WPR17LA020,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94368/pdf,11/12/2016,Taylor,Arizona,United States,34.454723,-110.057502,0,0,Non-Fatal,non-fatal,False
+94462,WPR17LA030,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94462/pdf,11/30/2016,Scottsdale,Arizona,United States,33.613609,-111.921386,0,0,Non-Fatal,non-fatal,False
+94502,WPR17LA038,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94502/pdf,11/24/2016,Safford,Arizona,United States,32.871665,-109.635276,0,0,Non-Fatal,non-fatal,False
+94553,WPR17FA045,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94553/pdf,1/2/2017,Payson,Arizona,United States,34.429721,-111.277778,4,0,Fatal,fatal,True
+94574,WPR17LA050,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94574/pdf,12/29/2016,Kingman,Arizona,United States,35.067222,-114.11888,0,0,Non-Fatal,non-fatal,False
+94580,GAA17CA108,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94580/pdf,12/31/2016,Casa Grande,Arizona,United States,32.95639,-111.763885,0,0,Non-Fatal,non-fatal,False
+94609,WPR17LA053,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94609/pdf,1/14/2017,Buckeye,Arizona,United States,33.423053,-112.685554,0,1,Non-Fatal,non-fatal,False
+94637,WPR17FA057,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94637/pdf,1/23/2017,Tucson,Arizona,United States,32.116111,-110.941108,2,0,Fatal,fatal,True
+94665,GAA17CA126,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94665/pdf,1/26/2017,Fort Mohave,Arizona,United States,35.005554,-114.565002,0,0,Non-Fatal,non-fatal,False
+94787,WPR17LA068,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94787/pdf,2/18/2017,Holbrook,Arizona,United States,34.900001,-110.150001,0,0,Non-Fatal,non-fatal,False
+94790,GAA17CA161,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94790/pdf,2/20/2017,Phoenix,Arizona,United States,33.849445,-112.228057,0,0,Non-Fatal,non-fatal,False
+94801,GAA17CA166,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94801/pdf,2/27/2017,Phoenix,Arizona,United States,33.686943,-112.091667,0,0,Non-Fatal,non-fatal,False
+94875,GAA17CA189,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94875/pdf,3/11/2017,Gila Bend,Arizona,United States,32.960277,-112.673614,0,0,Non-Fatal,non-fatal,False
+94956,GAA17CA214,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94956/pdf,4/1/2017,Willcox,Arizona,United States,32.244445,-109.895553,0,0,Non-Fatal,non-fatal,False
+95082,WPR17LA093,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95082/pdf,4/27/2017,Coolidge,Arizona,United States,32.977779,-111.517501,0,0,Non-Fatal,non-fatal,False
+95120,WPR17LA099,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95120/pdf,4/20/2017,Goodyear,Arizona,United States,33.405834,-112.408607,0,0,Non-Fatal,non-fatal,False
+95193,GAA17CA290,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95193/pdf,5/4/2017,Prescott,Arizona,United States,34.659168,-112.414443,0,0,Non-Fatal,non-fatal,False
+95204,GAA17CA292,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95204/pdf,5/20/2017,Casa Grande,Arizona,United States,32.955001,-111.766944,0,0,Non-Fatal,non-fatal,False
+95297,GAA17CA318,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95297/pdf,6/4/2017,Payson,Arizona,United States,34.266944,-111.366943,0,0,Non-Fatal,non-fatal,False
+95301,WPR17LA121,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95301/pdf,6/4/2017,Goodyear,Arizona,United States,33.433887,-112.366943,0,0,Non-Fatal,non-fatal,False
+95387,GAA17CA344,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95387/pdf,5/25/2017,Peach Springs,Arizona,United States,35.984722,-113.817222,0,0,Non-Fatal,non-fatal,False
+95444,GAA17CA370,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95444/pdf,6/26/2017,Cottonwood,Arizona,United States,34.731109,-112.035552,0,0,Non-Fatal,non-fatal,False
+95449,WPR17FA134,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95449/pdf,6/27/2017,Arlington,Arizona,United States,33.229442,-112.900001,2,0,Fatal,fatal,True
+95488,GAA17CA380,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95488/pdf,7/2/2017,Tucson,Arizona,United States,32.144443,-111.172225,0,0,Non-Fatal,non-fatal,False
+95509,WPR17LA141,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95509/pdf,7/4/2017,Marana,Arizona,United States,32.409442,-111.21833,0,0,Non-Fatal,non-fatal,False
+95542,WPR17LA148,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95542/pdf,7/10/2017,New River,Arizona,United States,33.929164,-112.140556,0,0,Non-Fatal,non-fatal,False
+95594,WPR17FA155,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95594/pdf,7/17/2017,Mesa,Arizona,United States,33.469165,-111.713058,2,0,Fatal,fatal,True
+95720,WPR17LA175,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95720/pdf,8/1/2017,Phoenix,Arizona,United States,33.686668,-112.099723,0,2,Non-Fatal,non-fatal,False
+95819,GAA17CA487,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95819/pdf,8/14/2017,Chandler,Arizona,United States,33.269165,-111.811111,0,0,Non-Fatal,non-fatal,False
+95868,GAA17CA503,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95868/pdf,8/19/2017,Mohave,Arizona,United States,35.005554,-114.565002,0,0,Non-Fatal,non-fatal,False
+95907,WPR17LA190,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95907/pdf,8/29/2017,Lake Havasu City,Arizona,United States,34.571109,-114.358329,0,0,Non-Fatal,non-fatal,False
+95932,GAA17CA516,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95932/pdf,9/2/2017,Goodyear,Arizona,United States,33.429721,-112.369445,0,0,Non-Fatal,non-fatal,False
+96061,WPR17FA213,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96061/pdf,9/22/2017,Perkinsville,Arizona,United States,34.884166,-112.156387,2,0,Fatal,fatal,True
+96153,WPR18LA003,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96153/pdf,10/7/2017,Tucson,Arizona,United States,32.142223,-111.174446,0,0,Non-Fatal,non-fatal,False
+96165,WPR18LA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96165/pdf,10/9/2017,Buckeye,Arizona,United States,33.65889,-112.63695,0,1,Non-Fatal,non-fatal,False
+96216,WPR18FA011,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96216/pdf,10/19/2017,Bowie,Arizona,United States,32.36861,-109.566108,1,0,Fatal,fatal,True
+96224,WPR18LA014,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96224/pdf,10/21/2017,Maricopa,Arizona,United States,33.052223,-112.140556,0,2,Non-Fatal,non-fatal,False
+96309,WPR18CA028,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96309/pdf,10/28/2017,Chandler,Arizona,United States,33.264167,-111.819999,0,0,Non-Fatal,non-fatal,False
+96316,WPR18LA030,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96316/pdf,11/12/2017,Sun Lakes,Arizona,United States,33.242778,-111.926391,0,0,Non-Fatal,non-fatal,False
+96319,WPR18LA031,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96319/pdf,11/11/2017,Page,Arizona,United States,36.922222,-111.442222,0,0,Non-Fatal,non-fatal,False
+96340,GAA18CA049,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96340/pdf,11/18/2017,Casa Grande,Arizona,United States,32.953609,-111.769447,0,0,Non-Fatal,non-fatal,False
+96348,GAA18CA051,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96348/pdf,11/12/2017,Tucson,Arizona,United States,32.114444,-110.939163,0,0,Non-Fatal,non-fatal,False
+96373,GAA18CA056,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96373/pdf,11/23/2017,Overgaard,Arizona,United States,34.399444,-110.529441,0,0,Non-Fatal,non-fatal,False
+96382,GAA18CA059,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96382/pdf,11/26/2017,Tucson,Arizona,United States,32.141666,-111.183334,0,0,Non-Fatal,non-fatal,False
+96385,WPR18LA037,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96385/pdf,11/27/2017,Oro Valley,Arizona,United States,32.389999,-110.96749,0,0,Non-Fatal,non-fatal,False
+96390,GAA18LA062,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96390/pdf,10/13/2017,Mesa,Arizona,United States,33.307777,-111.655555,0,0,Non-Fatal,non-fatal,False
+96434,GAA18CA070,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96434/pdf,12/6/2017,Santa Rosa,Arizona,United States,32.233612,-112.183609,0,0,Non-Fatal,non-fatal,False
+96439,WPR18LA044,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96439/pdf,12/5/2017,Glendale,Arizona,United States,33.526943,-112.29528,0,0,Non-Fatal,non-fatal,False
+96516,GAA18CA091,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96516/pdf,12/19/2017,Phoenix,Arizona,United States,33.688331,-112.082496,0,0,Non-Fatal,non-fatal,False
+96744,GAA18CA130,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96744/pdf,2/13/2018,Phoenix,Arizona,United States,33.688331,-112.082496,0,0,Non-Fatal,non-fatal,False
+96789,GAA18CA141,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96789/pdf,2/23/2018,Show Low,Arizona,United States,34.264446,-110.012779,0,0,Non-Fatal,non-fatal,False
+96860,GAA18CA161,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96860/pdf,3/12/2018,Green Valley,Arizona,United States,31.909166,-111.120834,0,0,Non-Fatal,non-fatal,False
+96937,GAA18CA180,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96937/pdf,3/26/2018,Tucson,Arizona,United States,32.142223,-111.174446,0,0,Non-Fatal,non-fatal,False
+96945,GAA18CA185,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96945/pdf,3/28/2018,Cave Creek,Arizona,United States,33.798053,-112.006385,0,0,Non-Fatal,non-fatal,False
+96961,GAA18CA189,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96961/pdf,3/30/2018,Gila Bend,Arizona,United States,32.958889,-112.679443,0,0,Non-Fatal,non-fatal,False
+96964,GAA18CA192,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96964/pdf,3/31/2018,Prescott,Arizona,United States,34.650001,-112.427497,0,0,Non-Fatal,non-fatal,False
+96965,GAA18CA193,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96965/pdf,4/1/2018,Phoenix,Arizona,United States,33.688888,-112.081947,0,0,Non-Fatal,non-fatal,False
+97006,WPR18FA119,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97006/pdf,4/9/2018,Scottsdale,Arizona,United States,33.635555,-111.897781,6,0,Fatal,fatal,True
+97013,GAA18CA208,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97013/pdf,4/8/2018,Tucson,Arizona,United States,32.139167,-111.173332,0,0,Non-Fatal,non-fatal,False
+97055,WPR18LA121,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97055/pdf,4/15/2018,Peoria,Arizona,United States,33.805278,-112.239723,0,0,Non-Fatal,non-fatal,False
+97099,GAA18CA227,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97099/pdf,4/21/2018,Tucson,Arizona,United States,32.139167,-111.173614,0,0,Non-Fatal,non-fatal,False
+97114,GAA18CA234,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97114/pdf,4/24/2018,Wickenburg,Arizona,United States,33.970275,-112.794998,0,0,Non-Fatal,non-fatal,False
+97153,GAA18CA246,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97153/pdf,4/29/2018,Page,Arizona,United States,36.93,-111.449996,0,0,Non-Fatal,non-fatal,False
+97181,GAA18CA253,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97181/pdf,5/4/2018,Glendale,Arizona,United States,33.528057,-112.294441,0,0,Non-Fatal,non-fatal,False
+97185,GAA18CA256,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97185/pdf,5/5/2018,Chandler,Arizona,United States,33.271667,-111.813331,0,0,Non-Fatal,non-fatal,False
+97198,ANC18LA034,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97198/pdf,5/6/2018,Fort Apache,Arizona,United States,33.770057,-109.980171,0,2,Non-Fatal,non-fatal,False
+97229,GAA18CA272,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97229/pdf,5/10/2018,Mesa,Arizona,United States,33.460834,-111.728332,0,0,Non-Fatal,non-fatal,False
+97232,GAA18CA274,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97232/pdf,5/10/2018,Wickenburg,Arizona,United States,33.968887,-112.798889,0,0,Non-Fatal,non-fatal,False
+97238,GAA18CA275,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97238/pdf,5/11/2018,Chandler,Arizona,United States,33.269165,-111.811111,0,0,Non-Fatal,non-fatal,False
+97242,WPR18LA140,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97242/pdf,5/11/2018,Yuma,Arizona,United States,32.686111,-114.723892,0,0,Non-Fatal,non-fatal,False
+97276,GAA18CA285,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97276/pdf,5/18/2018,Wickenburg,Arizona,United States,33.968612,-112.798889,0,0,Non-Fatal,non-fatal,False
+97320,GAA18CA298,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97320/pdf,5/23/2018,St. Johns,Arizona,United States,34.519165,-109.377777,0,0,Non-Fatal,non-fatal,False
+97354,WPR18LA152,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97354/pdf,5/29/2018,Wikieup,Arizona,United States,34.740554,-113.603889,0,0,Non-Fatal,non-fatal,False
+97366,GAA18CA312,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97366/pdf,5/29/2018,Prescott,Arizona,United States,34.340557,-112.294166,0,0,Non-Fatal,non-fatal,False
+97367,GAA18CA313,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97367/pdf,5/30/2018,Payson,Arizona,United States,34.257499,-111.336387,0,0,Non-Fatal,non-fatal,False
+97369,WPR18LA158,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97369/pdf,5/21/2018,San Manuel,Arizona,United States,32.635276,-110.64167,0,0,Non-Fatal,non-fatal,False
+97455,GAA18CA338,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97455/pdf,6/12/2018,Phoenix,Arizona,United States,33.689723,-112.07917,0,0,Non-Fatal,non-fatal,False
+97456,GAA18CA339,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97456/pdf,6/10/2018,Benson,Arizona,United States,31.999444,-110.358055,0,0,Non-Fatal,non-fatal,False
+97531,WPR18LA174,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97531/pdf,6/19/2018,Aguila,Arizona,United States,34.067779,-113.2061,0,1,Non-Fatal,non-fatal,False
+97558,WPR18FA178,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97558/pdf,6/23/2018,Aguila,Arizona,United States,33.930831,-113.178054,1,0,Fatal,fatal,True
+97613,GAA18CA381,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97613/pdf,6/22/2018,Goodyear,Arizona,United States,33.42472,-112.373054,0,0,Non-Fatal,non-fatal,False
+97625,WPR18LA181,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97625/pdf,6/26/2018,Phoenix,Arizona,United States,33.784168,-112.137779,0,0,Non-Fatal,non-fatal,False
+97639,WPR18LA184,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97639/pdf,6/16/2018,Page,Arizona,United States,36.926109,-111.448333,0,0,Non-Fatal,non-fatal,False
+97772,WPR18LA197,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97772/pdf,7/12/2018,Tolani Lake,Arizona,United States,35.318054,-110.660003,0,0,Non-Fatal,non-fatal,False
+98100,WPR18FA228,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98100/pdf,8/18/2018,Camp Verde,Arizona,United States,34.601112,-111.82833,2,0,Fatal,fatal,True
+98105,WPR18FA229,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98105/pdf,8/20/2018,Phoenix,Arizona,United States,33.683612,-112.065551,2,0,Fatal,fatal,True
+98190,WPR18FA245,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98190/pdf,8/29/2018,Prescott,Arizona,United States,34.669998,-112.40583,1,0,Fatal,fatal,True
+98208,WPR18LA248,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98208/pdf,8/29/2018,Tat Momoli,Arizona,United States,32.644721,-111.868057,0,0,Non-Fatal,non-fatal,False
+98220,WPR18LA250,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98220/pdf,8/27/2018,Yuma,Arizona,United States,32.669998,-114.59333,0,0,Non-Fatal,non-fatal,False
+98294,GAA18CA552,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98294/pdf,9/11/2018,Page,Arizona,United States,36.926109,-111.448333,0,0,Non-Fatal,non-fatal,False
+98301,WPR18LA262,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98301/pdf,9/15/2018,St. Johns,Arizona,United States,34.51361,-109.370277,0,3,Non-Fatal,non-fatal,False
+98311,WPR18LA263,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98311/pdf,9/15/2018,Bullhead City,Arizona,United States,35.124168,-114.530555,0,1,Non-Fatal,non-fatal,False
+98317,WPR18FA266,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98317/pdf,9/17/2018,Cottonwood,Arizona,United States,34.723056,-112.02889,1,0,Fatal,fatal,True
+98470,WPR19FA007,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98470/pdf,10/13/2018,Payson,Arizona,United States,34.261665,-111.310554,2,0,Fatal,fatal,True
+98557,GAA19CA038,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98557/pdf,10/27/2018,Marana,Arizona,United States,32.412776,-111.220832,0,0,Non-Fatal,non-fatal,False
+98633,GAA19CA057,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98633/pdf,11/3/2018,Red Creek,Arizona,United States,34.160278,-111.72583,0,0,Non-Fatal,non-fatal,False
+98638,GAA19CA060,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98638/pdf,11/14/2018,Williams,Arizona,United States,35.305557,-112.194442,0,0,Non-Fatal,non-fatal,False
+98647,WPR19FA026,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98647/pdf,11/16/2018,Overgaard,Arizona,United States,34.405834,-110.52416,2,0,Fatal,fatal,True
+98676,WPR19TA031,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98676/pdf,11/5/2018,Chandler,Arizona,United States,33.269165,-111.811111,0,0,Non-Fatal,non-fatal,False
+98677,GAA19CA072,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98677/pdf,11/23/2018,Benson,Arizona,United States,31.999166,-110.355834,0,0,Non-Fatal,non-fatal,False
+98699,GAA19CA079,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98699/pdf,11/28/2018,Mesa,Arizona,United States,33.307777,-111.655555,0,0,Non-Fatal,non-fatal,False
+98723,GAA19CA084,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98723/pdf,11/27/2018,Casa Grande,Arizona,United States,32.955001,-111.766944,0,1,Non-Fatal,non-fatal,False
+98730,WPR19TA037,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98730/pdf,11/17/2018,Lake Pleasant,Arizona,United States,33.903331,-112.300552,0,0,Non-Fatal,non-fatal,False
+98792,GAA19CA102,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98792/pdf,12/19/2018,Sedona,Arizona,United States,34.848609,-111.78833,0,0,Non-Fatal,non-fatal,False
+98826,GAA19CA112,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98826/pdf,1/3/2019,Prescott,Arizona,United States,34.653331,-112.419998,0,0,Non-Fatal,non-fatal,False
+98827,GAA19CA127,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98827/pdf,1/5/2019,Casa Grande,Arizona,United States,32.954444,-111.765556,0,1,Non-Fatal,non-fatal,False
+98832,WPR19TA061,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98832/pdf,1/11/2019,Yuma,Arizona,United States,32.619445,-114.645553,0,1,Non-Fatal,non-fatal,False
+98834,WPR19LA063,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98834/pdf,1/13/2019,Kingman,Arizona,United States,35.101943,-113.886108,1,1,Fatal,fatal,True
+98844,WPR19LA070,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98844/pdf,1/19/2019,Roll,Arizona,United States,32.829166,-113.990554,0,0,Non-Fatal,non-fatal,False
+98966,GAA19CA133,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98966/pdf,2/8/2019,Page,Arizona,United States,36.735832,-111.395553,0,0,Non-Fatal,non-fatal,False
+99048,GAA19CA162,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99048/pdf,3/2/2019,Scottsdale,Arizona,United States,33.626388,-111.90583,0,0,Non-Fatal,non-fatal,False
+99140,GAA19CA171,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99140/pdf,3/9/2019,Chandler,Arizona,United States,33.270832,-111.806945,0,0,Non-Fatal,non-fatal,False
+99264,WPR19FA109,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99264/pdf,4/16/2019,Fort McDowell,Arizona,United States,33.623611,-111.67555,2,0,Fatal,fatal,True
+99281,GAA19CA212,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99281/pdf,4/17/2019,Wickenburg,Arizona,United States,33.970554,-112.794998,0,0,Non-Fatal,non-fatal,False
+99308,GAA19CA220,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99308/pdf,4/23/2019,Prescott,Arizona,United States,34.654724,-112.419166,0,0,Non-Fatal,non-fatal,False
+99321,GAA19CA225,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99321/pdf,4/20/2019,Scottsdale,Arizona,United States,33.620277,-111.915275,0,0,Non-Fatal,non-fatal,False
+99358,WPR19LA128,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99358/pdf,5/1/2019,Sedona,Arizona,United States,34.848609,-111.78833,0,0,Non-Fatal,non-fatal,False
+99396,GAA19CA253,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99396/pdf,4/26/2019,Gila Bend,Arizona,United States,32.960277,-112.673614,0,0,Non-Fatal,non-fatal,False
+99402,WPR19LA140,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99402/pdf,5/5/2019,Red Rock,Arizona,United States,32.538333,-111.423614,0,0,Non-Fatal,non-fatal,False
+99429,WPR19LA144,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99429/pdf,5/13/2019,Gila Bend,Arizona,United States,32.959999,-112.669998,0,0,Non-Fatal,non-fatal,False
+99541,GAA19CA309,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99541/pdf,6/2/2019,Sedona,Arizona,United States,34.848609,-111.78833,0,0,Non-Fatal,non-fatal,False
+99548,GAA19CA312,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99548/pdf,5/23/2019,Nogalas,Arizona,United States,31.417778,-110.847778,0,0,Non-Fatal,non-fatal,False
+99554,GAA19CA314,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99554/pdf,6/5/2019,Sedona,Arizona,United States,34.82389,-111.907501,0,1,Non-Fatal,non-fatal,False
+99594,WPR19LA167,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99594/pdf,6/11/2019,Phoenix,Arizona,United States,33.683612,-112.126945,0,1,Non-Fatal,non-fatal,False
+99725,GAA19CA375,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99725/pdf,6/28/2019,Phoenix,Arizona,United States,33.688331,-112.082496,0,0,Non-Fatal,non-fatal,False
+99730,WPR19LA180,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99730/pdf,6/29/2019,Chandler,Arizona,United States,33.269111,-111.81111,0,0,Non-Fatal,non-fatal,False
+99861,GAA19CA424,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99861/pdf,7/16/2019,Grand Canyon,Arizona,United States,35.946666,-112.153335,0,0,Non-Fatal,non-fatal,False
+99905,GAA19CA445,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99905/pdf,7/19/2019,Phoenix,Arizona,United States,33.688331,-112.082496,0,0,Non-Fatal,non-fatal,False
+100001,GAA19CA483,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100001/pdf,8/4/2019,Paulden,Arizona,United States,34.931667,-112.517501,0,1,Non-Fatal,non-fatal,False
+100051,WPR19LA218,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100051/pdf,8/14/2019,Mesa,Arizona,United States,33.283332,-111.5736,0,0,Non-Fatal,non-fatal,False
+100058,WPR19LA220,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100058/pdf,8/8/2019,Phoenix,Arizona,United States,33.314998,-111.658058,0,0,Non-Fatal,non-fatal,False
+100141,GAA19CA511,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100141/pdf,8/25/2019,Cottonwood,Arizona,United States,34.729999,-112.035278,0,0,Non-Fatal,non-fatal,False
+100228,WPR19LA253,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100228/pdf,9/10/2019,Maricopa,Arizona,United States,32.990554,-111.917221,0,2,Non-Fatal,non-fatal,False
+100256,GAA19CA542,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100256/pdf,9/12/2019,Phoenix,Arizona,United States,33.688331,-112.082496,0,0,Non-Fatal,non-fatal,False
+100260,GAA19CA546,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100260/pdf,9/14/2019,Chandler,Arizona,United States,33.269721,-111.814163,0,0,Non-Fatal,non-fatal,False
+100261,WPR19LA259,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100261/pdf,9/13/2019,Marana,Arizona,United States,32.403888,-111.219718,0,0,Non-Fatal,non-fatal,False
+100305,GAA19CA559,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100305/pdf,9/20/2019,Sedona,Arizona,United States,34.848609,-111.78833,0,0,Non-Fatal,non-fatal,False
+100331,GAA19CA568,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100331/pdf,8/30/2019,Prescott,Arizona,United States,34.654724,-112.419166,0,0,Non-Fatal,non-fatal,False
+100370,GAA19CA582,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100370/pdf,9/27/2019,Mesa,Arizona,United States,33.460834,-111.728332,0,0,Non-Fatal,non-fatal,False
+100381,WPR20LA004,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100381/pdf,10/6/2019,Marana,Arizona,United States,32.43,-111.38999,0,0,Non-Fatal,non-fatal,False
+100453,GAA20CA036,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100453/pdf,10/18/2019,Marble Canyon,Arizona,United States,36.810832,-111.644447,0,0,Non-Fatal,non-fatal,False
+100458,GAA20CA039,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100458/pdf,10/19/2019,Safford,Arizona,United States,32.693889,-109.690277,0,0,Non-Fatal,non-fatal,False
+100484,GAA20CA045,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100484/pdf,10/14/2019,Buckeye,Arizona,United States,33.420555,-112.686111,0,0,Non-Fatal,non-fatal,False
+100510,WPR20LA017,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100510/pdf,10/24/2019,Red Creek,Arizona,United States,34.158332,-111.73166,0,0,Non-Fatal,non-fatal,False
+100567,WPR20LA022,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100567/pdf,11/13/2019,Red Rock,Arizona,United States,32.476112,-111.337776,0,0,Non-Fatal,non-fatal,False
+100682,WPR20LA038,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100682/pdf,12/11/2019,Phoenix,Arizona,United States,33.683612,-112.110275,0,0,Non-Fatal,non-fatal,False
+100685,WPR20LA040,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100685/pdf,12/5/2019,Pima,Arizona,United States,32.901943,-109.786666,0,0,Non-Fatal,non-fatal,False
+100687,CEN20FA034,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100687/pdf,12/8/2019,Flower Pot,Arizona,United States,34.479442,-111.989166,1,0,Fatal,fatal,True
+100718,WPR20FA049,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100718/pdf,12/21/2019,Goodyear,Arizona,United States,33.39722,-112.39833,1,0,Fatal,fatal,True
+100745,WPR20CA052,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100745/pdf,12/23/2019,Chandler,Arizona,United States,33.269165,-111.811111,0,0,Non-Fatal,non-fatal,False
+100758,WPR20CA056,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100758/pdf,12/22/2019,Lake Havasu,Arizona,United States,34.439998,-114.345558,0,1,Non-Fatal,non-fatal,False
+100843,WPR20CA070,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100843/pdf,1/18/2020,Gold Canyon,Arizona,United States,33.306945,-111.406944,0,1,Non-Fatal,non-fatal,False
+100858,WPR20FA079,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100858/pdf,1/24/2020,Payson,Arizona,United States,34.158889,-111.493888,1,2,Fatal,fatal,True
+100864,WPR20CA080,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100864/pdf,1/25/2020,Goodyear,Arizona,United States,33.423332,-112.375274,0,0,Non-Fatal,non-fatal,False
+100873,WPR20CA084,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100873/pdf,1/25/2020,Prescott,Arizona,United States,34.652778,-112.421112,0,0,Non-Fatal,non-fatal,False
+100874,WPR20CA085,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100874/pdf,1/27/2020,Eloy,Arizona,United States,32.80389,-111.58889,0,0,Non-Fatal,non-fatal,False
+100909,WPR20CA088,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100909/pdf,2/4/2020,Mesa,Arizona,United States,33.461112,-111.723892,0,0,Non-Fatal,non-fatal,False
+101077,WPR20LA109,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101077/pdf,3/14/2020,Scottsdale,Arizona,United States,33.622776,-111.910552,0,0,Non-Fatal,non-fatal,False
+101131,WPR20LA115,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101131/pdf,3/29/2020,Sedona,Arizona,United States,34.848888,-111.78805,0,0,Non-Fatal,non-fatal,False
+101204,WPR20LA130,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101204/pdf,4/24/2020,Mesa,Arizona,United States,33.386112,-111.805831,1,1,Fatal,fatal,True
+101241,WPR20CA138,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101241/pdf,3/13/2020,Tucson,Arizona,United States,32.142223,-111.174446,0,0,Non-Fatal,non-fatal,False
+101272,WPR20LA144,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101272/pdf,5/13/2020,Phoenix,Arizona,United States,33.685554,-112.065551,0,0,Non-Fatal,non-fatal,False
+101275,WPR20LA147,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101275/pdf,5/14/2020,Tucson,Arizona,United States,32.251388,-110.705558,0,0,Non-Fatal,non-fatal,False
+101291,WPR20CA150,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101291/pdf,5/16/2020,Buckeye,Arizona,United States,33.420555,-112.686111,0,1,Non-Fatal,non-fatal,False
+101382,WPR20LA165,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101382/pdf,6/2/2020,Glendale,Arizona,United States,33.529998,-112.3,0,0,Non-Fatal,non-fatal,False
+101422,WPR20LA176,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101422/pdf,6/9/2020,Safford,Arizona,United States,32.840742,-109.62299,1,0,Fatal,fatal,True
+101423,WPR20LA177,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101423/pdf,6/9/2020,Maricopa,Arizona,United States,33.001667,-111.88055,1,0,Fatal,fatal,True
+101455,WPR20CA184,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101455/pdf,6/16/2020,Maricopa,Arizona,United States,32.987777,-111.918052,0,0,Non-Fatal,non-fatal,False
+101531,WPR20CA205,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101531/pdf,7/5/2020,Sedona,Arizona,United States,34.863887,-111.791946,0,0,Non-Fatal,non-fatal,False
+101560,WPR20LA211,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101560/pdf,7/7/2020,Payson,Arizona,United States,34.271945,-111.52749,1,0,Fatal,fatal,True
+101880,WPR20LA290,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101880/pdf,8/19/2020,Benson,Arizona,United States,31.999444,-110.36,0,0,Non-Fatal,non-fatal,False
+101887,WPR20LA291,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101887/pdf,8/28/2020,Tusayan,Arizona,United States,35.936111,-112.13138,0,0,Non-Fatal,non-fatal,False
+101894,WPR20CA293,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101894/pdf,8/18/2020,Phoenix,Arizona,United States,33.688331,-112.082496,0,0,Non-Fatal,non-fatal,False
+102003,WPR20CA313,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102003/pdf,9/19/2020,Somerton,Arizona,United States,32.55722,-114.68416,0,0,Non-Fatal,non-fatal,False
+102090,WPR21LA005,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102090/pdf,10/4/2020,Rimrock,Arizona,United States,34.650856,-111.7882,0,0,Non-Fatal,non-fatal,False
+102177,WPR21LA020,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102177/pdf,10/21/2020,Show Low,Arizona,United States,34.265472,-110.00566,0,0,Non-Fatal,non-fatal,False
+102190,WPR21LA023,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102190/pdf,10/24/2020,Carefree,Arizona,United States,33.816762,-111.90487,0,0,Non-Fatal,non-fatal,False
+102195,WPR21FA025,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102195/pdf,10/24/2020,Cordes Lakes,Arizona,United States,34.298231,-112.01611,2,0,Fatal,fatal,True
+102241,WPR21LA037,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102241/pdf,11/4/2020,Glendale,Arizona,United States,33.526917,-112.29513,0,0,Non-Fatal,non-fatal,False
+102244,WPR21LA038,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102244/pdf,11/6/2020,Chandler,Arizona,United States,33.268884,-111.80974,0,0,Non-Fatal,non-fatal,False
+102257,WPR21LA042,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102257/pdf,11/9/2020,Mesa,Arizona,United States,33.460841,-111.72832,0,0,Non-Fatal,non-fatal,False
+102285,WPR21LA053,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102285/pdf,11/13/2020,Benson,Arizona,United States,31.999444,-110.35797,0,0,Non-Fatal,non-fatal,False
+102286,WPR21LA054,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102286/pdf,11/13/2020,Sierra Vista,Arizona,United States,31.588472,-110.34438,0,0,Non-Fatal,non-fatal,False
+102418,WPR20LA333,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102418/pdf,9/18/2020,Peoria,Arizona,United States,33.797271,-112.24089,0,2,Non-Fatal,non-fatal,False
+102455,WPR21LA074,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102455/pdf,12/25/2020,Peoria ,Arizona,United States,33.5705,-112.2503,0,0,Non-Fatal,non-fatal,False
+102484,WPR21LA077,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102484/pdf,1/1/2021,Marana,Arizona,United States,32.409556,-111.21838,0,0,Non-Fatal,non-fatal,False
+102546,WPR21LA093,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102546/pdf,1/22/2021,Queen Creek,Arizona,United States,33.32,-111.48,0,0,Non-Fatal,non-fatal,False
+102626,WPR21LA109,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102626/pdf,2/8/2021,Mesa,Arizona,United States,33.461769,-111.73046,0,0,Non-Fatal,non-fatal,False
+102645,WPR21LA113,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102645/pdf,2/16/2021,Quartzite,Arizona,United States,33.57,-114.25,0,0,Non-Fatal,non-fatal,False
+102677,WPR21LA118,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102677/pdf,2/24/2021,St Johns,Arizona,United States,34.518556,-109.37875,0,0,Non-Fatal,non-fatal,False
+102746,WPR21LA127,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102746/pdf,2/27/2021,Marana,Arizona,United States,32.48843,-111.2924,0,0,Non-Fatal,non-fatal,False
+102755,WPR21LA129,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102755/pdf,3/11/2021,Arlington,Arizona,United States,33.19686,-112.77101,0,1,Non-Fatal,non-fatal,False
+102765,WPR21LA134,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102765/pdf,2/26/2021,Tucson,Arizona,United States,32.116069,-110.94101,0,0,Non-Fatal,non-fatal,False
+102778,WPR21LA135,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102778/pdf,2/18/2021,Carefree,Arizona,United States,33.818095,-111.89792,0,0,Non-Fatal,non-fatal,False
+102803,WPR21LA142,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102803/pdf,3/18/2021,Phoenix,Arizona,United States,33.274105,-112.32525,0,0,Non-Fatal,non-fatal,False
+102822,WPR21LA145,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102822/pdf,3/28/2021,Marana,Arizona,United States,32.45,-111.2,0,0,Non-Fatal,non-fatal,False
+102833,WPR21LA150,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102833/pdf,3/26/2021,Marana,Arizona,United States,32.509833,-111.32533,0,0,Non-Fatal,non-fatal,False
+102924,WPR21LA160,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102924/pdf,4/15/2021,Cottonwood,Arizona,United States,34.730729,-112.03502,0,0,Non-Fatal,non-fatal,False
+102952,WPR21LA166,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102952/pdf,4/15/2021,Williams,Arizona,United States,35.312778,-112.1878,2,0,Fatal,fatal,True
+102957,WPR21LA168,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102957/pdf,4/20/2021,Maricopa,Arizona,United States,32.990549,-111.9189,0,0,Non-Fatal,non-fatal,False
+102972,WPR21FA175,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102972/pdf,4/23/2021,Winslow,Arizona,United States,35.015706,-110.63785,2,0,Fatal,fatal,True
+102979,WPR21LA177,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102979/pdf,4/25/2021,Sedona,Arizona,United States,34.848814,-111.78996,0,0,Non-Fatal,non-fatal,False
+103042,WPR21LA183,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103042/pdf,5/5/2021,Mesa,Arizona,United States,33.460833,-111.72833,0,0,Non-Fatal,non-fatal,False
+103052,WPR21LA186,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103052/pdf,5/8/2021,Tucson,Arizona,United States,32.142211,-111.17457,0,0,Non-Fatal,non-fatal,False
+103069,WPR21LA191,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103069/pdf,5/2/2021,Phoenix,Arizona,United States,33.827448,-112.10134,0,1,Non-Fatal,non-fatal,False
+103083,WPR21LA193,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103083/pdf,5/10/2021,Chandler,Arizona,United States,33.298771,-111.91578,0,1,Non-Fatal,non-fatal,False
+103159,WPR21LA209,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103159/pdf,5/27/2021,Prescott,Arizona,United States,34.654833,-112.41922,0,0,Non-Fatal,non-fatal,False
+103267,WPR21FA227,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103267/pdf,6/15/2021,Gila Bend,Arizona,United States,32.944636,-112.71357,1,1,Fatal,fatal,True
+103452,WPR21FA266,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103452/pdf,7/10/2021,Wikieup,Arizona,United States,34.824722,-113.39138,2,0,Fatal,fatal,True
+103555,WPR21LA287,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103555/pdf,7/10/2021,Chandler,Arizona,United States,33.265377,-111.82106,0,1,Non-Fatal,non-fatal,False
+103562,WPR21FA288,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103562/pdf,7/27/2021,Tucson,Arizona,United States,32.139081,-111.18254,1,1,Fatal,fatal,True
+103608,WPR21LA301,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103608/pdf,8/2/2021,Amado,Arizona,United States,31.65156,-111.04788,0,0,Non-Fatal,non-fatal,False
+103705,WPR21LA322,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103705/pdf,8/3/2021,Tucson,Arizona,United States,32.125275,-110.9467,0,0,Non-Fatal,non-fatal,False
+103838,WPR21FA340,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103838/pdf,9/12/2021,Lake Havasu City,Arizona,United States,34.557952,-114.34983,1,0,Fatal,fatal,True
+103849,WPR21LA341,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103849/pdf,8/27/2021,Camp Verde,Arizona,United States,34.296111,-111.79194,0,0,Non-Fatal,non-fatal,False
+103948,WPR21FA352,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103948/pdf,9/22/2021,Page,Arizona,United States,36.905783,-111.68978,1,1,Fatal,fatal,True
+103991,WPR21LA357,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103991/pdf,9/18/2021,Buckeye,Arizona,United States,33.19457,-112.81179,0,1,Non-Fatal,non-fatal,False
+104018,WPR22FA001,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104018/pdf,10/1/2021,Chandler,Arizona,United States,33.269096,-111.81112,2,0,Fatal,fatal,True
+104030,WPR21LA359,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104030/pdf,9/30/2021,Phoenix,Arizona,United States,33.756482,-112.03545,0,0,Non-Fatal,non-fatal,False
+104111,WPR22FA012,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104111/pdf,10/17/2021,Three Points,Arizona,United States,31.913075,-111.42966,1,0,Fatal,fatal,True
+104244,WPR22LA035,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104244/pdf,11/15/2021,Laveen Village,Arizona,United States,33.349191,-112.12963,0,0,Non-Fatal,non-fatal,False
+104353,WPR22LA058,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104353/pdf,12/1/2021,Havasu,Arizona,United States,34.3401,-114.2132,0,0,Non-Fatal,non-fatal,False
+104429,WPR22LA066,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104429/pdf,12/20/2021,Phoenix,Arizona,United States,33.800746,-112.14323,0,2,Non-Fatal,non-fatal,False
+104437,WPR22FA067,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104437/pdf,12/22/2021,Show Low,Arizona,United States,34.272778,-109.99888,2,0,Fatal,fatal,True
+104482,WPR22FA073,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104482/pdf,12/31/2021,Marana,Arizona,United States,32.691664,-112.12789,1,0,Fatal,fatal,True
+104520,WPR22LA078,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104520/pdf,12/21/2021,Strawberry,Arizona,United States,34.391639,-111.60708,0,0,Non-Fatal,non-fatal,False

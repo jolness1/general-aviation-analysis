@@ -1,0 +1,17 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+84428,ERA12LA474,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84428/pdf,7/23/2012,Westerly,Rhode Island,United States,41.284168,-71.667221,0,0,Non-Fatal,non-fatal,False
+90076,ERA14CA438,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90076/pdf,8/10/2014,Block Island,Rhode Island,United States,41.168056,-71.577774,0,0,Non-Fatal,non-fatal,False
+90854,ERA15CA153,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90854/pdf,3/8/2015,Newport,Rhode Island,United States,41.532501,-71.281669,0,0,Non-Fatal,non-fatal,False
+91065,GAA15CA045,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91065/pdf,4/18/2015,Newport,Rhode Island,United States,41.533332,-71.281944,0,0,Non-Fatal,non-fatal,False
+92719,GAA16CA126,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92719/pdf,2/4/2016,Newport,Rhode Island,United States,41.523887,-71.285003,0,0,Non-Fatal,non-fatal,False
+93404,ERA16LA217,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93404/pdf,6/18/2016,Westerly,Rhode Island,United States,41.319442,-71.809165,0,0,Non-Fatal,non-fatal,False
+93407,ERA16CA218,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93407/pdf,6/19/2016,Block Island,Rhode Island,United States,41.167778,-71.58361,0,0,Non-Fatal,non-fatal,False
+93558,ERA16LA244,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93558/pdf,7/4/2016,Narragansett,Rhode Island,United States,41.469722,-71.426109,0,0,Non-Fatal,non-fatal,False
+94201,ERA17LA014,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94201/pdf,10/13/2016,Pawtucket,Rhode Island,United States,41.929164,-71.485275,0,0,Non-Fatal,non-fatal,False
+94354,ERA17LA040,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94354/pdf,11/8/2016,Hopkinton,Rhode Island,United States,41.537223,-71.758613,0,0,Non-Fatal,non-fatal,False
+96235,GAA18CA021,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96235/pdf,10/1/2017,Block Island,Rhode Island,United States,41.167499,-71.584999,0,0,Non-Fatal,non-fatal,False
+96344,GAA17CA577,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96344/pdf,9/2/2017,Newport,Rhode Island,United States,41.533054,-71.279724,0,0,Non-Fatal,non-fatal,False
+99787,CEN19LA213,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99787/pdf,6/22/2019,Smithfield,Rhode Island,United States,41.913055,-71.485275,0,0,Non-Fatal,non-fatal,False
+101698,ERA20CA264,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101698/pdf,7/18/2020,Block Island,Rhode Island,United States,41.168056,-71.577774,0,0,Non-Fatal,non-fatal,False
+102009,ERA20LA325,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102009/pdf,9/21/2020,West Kingston,Rhode Island,United States,41.499164,-71.590423,0,0,Non-Fatal,non-fatal,False
+103913,ERA21LA371,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103913/pdf,7/27/2021,New Shoreham,Rhode Island,United States,41.17,-71.58,0,0,Non-Fatal,non-fatal,False

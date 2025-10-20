@@ -1,0 +1,232 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+82624,WPR12LA075,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82624/pdf,1/5/2012,Las Vegas,Nevada,United States,36.20861,-115.195274,0,0,Non-Fatal,non-fatal,False
+82867,WPR12CA100,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82867/pdf,2/11/2012,Las Vegas,Nevada,United States,36.295833,-115.338333,0,0,Non-Fatal,non-fatal,False
+83057,DCA12PA049,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83057/pdf,3/6/2012,Fallon,Nevada,United States,39.417778,-118.698608,1,0,Fatal,fatal,True
+83191,WPR12CA142,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83191/pdf,3/21/2012,Jean,Nevada,United States,35.767776,-115.324447,0,0,Non-Fatal,non-fatal,False
+83325,WPR12CA162,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83325/pdf,4/8/2012,Henderson,Nevada,United States,35.972778,-115.134445,0,0,Non-Fatal,non-fatal,False
+83686,WPR12FA216,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83686/pdf,5/18/2012,Boulder City,Nevada,United States,35.954166,-114.881942,2,0,Fatal,fatal,True
+83689,WPR12LA218,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83689/pdf,5/19/2012,Kingston,Nevada,United States,39.206111,-117.039718,1,0,Fatal,fatal,True
+83894,WPR12LA250,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83894/pdf,6/7/2012,Sparks,Nevada,United States,39.885555,-119.780555,0,0,Non-Fatal,non-fatal,False
+83962,WPR12LA262,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83962/pdf,6/8/2012,Smith Valley,Nevada,United States,38.833332,-119.395553,0,0,Non-Fatal,non-fatal,False
+84376,WPR12LA313,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84376/pdf,7/19/2012,Wells,Nevada,United States,41.117221,-114.922225,0,0,Non-Fatal,non-fatal,False
+84427,WPR12TA323,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84427/pdf,7/23/2012,Elko,Nevada,United States,40.760833,-115.687225,0,0,Non-Fatal,non-fatal,False
+84879,WPR12CA381,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84879/pdf,8/31/2012,Gerlach,Nevada,United States,40.990833,-118.961944,0,0,Non-Fatal,non-fatal,False
+85006,WPR12CA415,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85006/pdf,9/8/2012,Elko,Nevada,United States,40.824722,-115.791664,0,0,Non-Fatal,non-fatal,False
+85044,WPR12FA421,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85044/pdf,9/14/2012,Reno,Nevada,United States,39.668056,-119.548614,0,0,Non-Fatal,non-fatal,False
+85067,WPR12LA422,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85067/pdf,9/11/2012,Reno,Nevada,United States,39.668056,-119.876388,0,0,Non-Fatal,non-fatal,False
+85138,WPR12TA436,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85138/pdf,9/24/2012,Las Vegas,Nevada,United States,36.207221,-115.184448,0,0,Non-Fatal,non-fatal,False
+85225,WPR13FA001,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85225/pdf,10/2/2012,Beatty,Nevada,United States,36.856666,-116.785278,0,1,Non-Fatal,non-fatal,False
+85822,WPR13FA070,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85822/pdf,12/15/2012,Ely,Nevada,United States,39.087223,-114.58361,2,0,Fatal,fatal,True
+85939,WPR13LA082,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85939/pdf,1/2/2013,North Las Vegas,Nevada,United States,36.210556,-115.194442,0,0,Non-Fatal,non-fatal,False
+86039,WPR13LA093,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86039/pdf,12/31/2012,Las Vegas,Nevada,United States,36.210556,-115.194442,0,0,Non-Fatal,non-fatal,False
+86164,WPR13FA116,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86164/pdf,2/6/2013,Minden,Nevada,United States,38.981388,-119.492774,1,0,Fatal,fatal,True
+86245,WPR13GA128,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86245/pdf,2/18/2013,Eureka,Nevada,United States,39.481388,-115.839164,1,0,Fatal,fatal,True
+86407,WPR13CA148,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86407/pdf,3/12/2013,Minden,Nevada,United States,38.998054,-119.752502,0,0,Non-Fatal,non-fatal,False
+86627,WPR13LA186,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86627/pdf,4/10/2013,Silver Peak,Nevada,United States,37.903331,-117.679443,0,1,Non-Fatal,non-fatal,False
+86645,WPR13LA191,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86645/pdf,4/14/2013,Mesquite,Nevada,United States,36.89611,-114.049446,0,0,Non-Fatal,non-fatal,False
+86673,WPR13FA201,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86673/pdf,4/14/2013,Wellington,Nevada,United States,38.794445,-119.4775,2,0,Fatal,fatal,True
+86698,WPR13CA204,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86698/pdf,4/20/2013,Wells,Nevada,United States,41.365833,-114.998336,0,0,Non-Fatal,non-fatal,False
+86748,WPR13LA209,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86748/pdf,4/28/2013,Henderson,Nevada,United States,35.970275,-115.133888,0,0,Non-Fatal,non-fatal,False
+86896,WPR13CA228,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86896/pdf,4/6/2013,Sandy Valley,Nevada,United States,35.761665,-115.650558,0,0,Non-Fatal,non-fatal,False
+86908,WPR13CA231,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86908/pdf,5/15/2013,Carson City,Nevada,United States,39.136943,-119.867225,0,0,Non-Fatal,non-fatal,False
+87199,WPR13LA270,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87199/pdf,6/13/2013,Reno,Nevada,United States,39.668056,-119.876388,0,0,Non-Fatal,non-fatal,False
+87274,WPR13FA284,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87274/pdf,6/23/2013,Boulder City,Nevada,United States,35.966667,-114.883331,2,0,Fatal,fatal,True
+87385,WPR13CA306,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87385/pdf,6/30/2013,Elko,Nevada,United States,40.827499,-115.791664,0,0,Non-Fatal,non-fatal,False
+87529,WPR13LA334,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87529/pdf,7/22/2013,Las Vegas,Nevada,United States,36.074722,-115.15139,0,0,Non-Fatal,non-fatal,False
+87555,WPR13GA338,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87555/pdf,7/22/2013,Mount Charleston,Nevada,United States,36.278331,-115.670829,1,0,Fatal,fatal,True
+87784,WPR13CA373,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87784/pdf,8/14/2013,Las Vegas,Nevada,United States,36.705276,-116.221946,0,0,Non-Fatal,non-fatal,False
+87799,WPR13FA376,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87799/pdf,8/16/2013,Carson City,Nevada,United States,39.180278,-119.277496,2,0,Fatal,fatal,True
+88038,WPR13LA407,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88038/pdf,9/15/2013,Lund,Nevada,United States,38.771945,-115.01361,0,0,Non-Fatal,non-fatal,False
+88196,WPR14CA018,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88196/pdf,10/16/2013,Las Vegas,Nevada,United States,35.972778,-115.134445,0,0,Non-Fatal,non-fatal,False
+88374,WPR14LA040,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88374/pdf,11/1/2013,Reno,Nevada,United States,39.660278,-119.866668,0,1,Non-Fatal,non-fatal,False
+88549,WPR14CA069,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88549/pdf,12/13/2013,Henderson,Nevada,United States,35.980525,-115.110755,0,0,Non-Fatal,non-fatal,False
+88580,WPR14CA073,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88580/pdf,12/22/2013,Carson City,Nevada,United States,39.192222,-119.732498,0,0,Non-Fatal,non-fatal,False
+88613,WPR14LA084,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88613/pdf,1/1/2014,Boulder City,Nevada,United States,35.946945,-114.86,0,0,Non-Fatal,non-fatal,False
+88891,WPR14FA132,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88891/pdf,3/8/2014,Carson City,Nevada,United States,39.098056,-119.665,1,0,Fatal,fatal,True
+88963,WPR14CA145,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88963/pdf,3/24/2014,Fallon,Nevada,United States,39.499443,-118.748886,0,0,Non-Fatal,non-fatal,False
+89050,WPR14FA167,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89050/pdf,4/13/2014,Reno,Nevada,United States,39.668056,-119.8675,1,0,Fatal,fatal,True
+89259,WPR14CA204,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89259/pdf,5/22/2014,Wellington,Nevada,United States,38.516109,-119.214721,0,0,Non-Fatal,non-fatal,False
+89359,WPR14LA222,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89359/pdf,6/3/2014,Dayton,Nevada,United States,39.238609,-119.631111,1,0,Fatal,fatal,True
+89433,WPR14FA243,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89433/pdf,6/12/2014,Echo Bay,Nevada,United States,36.312221,-114.457496,2,0,Fatal,fatal,True
+89605,WPR14GA281,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89605/pdf,7/3/2014,Fallon,Nevada,United States,39.374443,-117.780281,0,0,Non-Fatal,non-fatal,False
+89740,WPR14LA312,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89740/pdf,7/26/2014,Spanish Springs,Nevada,United States,39.649166,-119.707496,0,0,Non-Fatal,non-fatal,False
+89936,WPR14LA353,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89936/pdf,8/24/2014,Pahrump,Nevada,United States,36.218055,-116.175277,0,0,Non-Fatal,non-fatal,False
+89970,WPR14LA356,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89970/pdf,8/27/2014,Gardnerville,Nevada,United States,38.750953,-119.609176,0,1,Non-Fatal,non-fatal,False
+90033,WPR14CA366,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90033/pdf,9/5/2014,Black Rock City,Nevada,United States,40.766666,-119.207778,0,0,Non-Fatal,non-fatal,False
+90047,WPR14FA369,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90047/pdf,9/8/2014,Reno,Nevada,United States,39.706665,-119.890274,1,0,Fatal,fatal,True
+90153,WPR14CA387,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90153/pdf,9/21/2014,Las Vegas,Nevada,United States,36.210556,-115.194442,0,0,Non-Fatal,non-fatal,False
+90160,WPR14CA392,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90160/pdf,9/25/2014,Elko,Nevada,United States,40.949523,-115.79074,0,0,Non-Fatal,non-fatal,False
+90171,WPR14LA394,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90171/pdf,9/13/2014,Reno,Nevada,United States,39.668056,-119.876388,0,0,Non-Fatal,non-fatal,False
+90242,WPR15FA010,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90242/pdf,10/12/2014,Yerington,Nevada,United States,39.154724,-119.298057,2,0,Fatal,fatal,True
+90316,WPR15LA024,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90316/pdf,10/26/2014,Las Vegas,Nevada,United States,36.080001,-115.152221,0,0,Non-Fatal,non-fatal,False
+90358,WPR15LA034,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90358/pdf,11/5/2014,Las Vegas,Nevada,United States,35.972778,-115.134445,0,0,Non-Fatal,non-fatal,False
+90552,WPR15TA071,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90552/pdf,12/31/2014,Las Vegas,Nevada,United States,36.176387,-115.118888,0,2,Non-Fatal,non-fatal,False
+90654,WPR15LA090,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90654/pdf,1/24/2015,Silver Springs,Nevada,United States,39.397777,-119.268608,0,0,Non-Fatal,non-fatal,False
+90716,WPR15CA102,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90716/pdf,2/11/2015,Carson City,Nevada,United States,39.193332,-119.737777,0,0,Non-Fatal,non-fatal,False
+90862,WPR15LA127,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90862/pdf,3/8/2015,Dayton,Nevada,United States,39.236389,-119.553054,0,0,Non-Fatal,non-fatal,False
+90993,WPR15LA142,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90993/pdf,4/5/2015,Reno,Nevada,United States,39.525554,-119.809448,0,1,Non-Fatal,non-fatal,False
+91132,GAA15CA060,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91132/pdf,5/4/2015,Carson City,Nevada,United States,39.192222,-119.732498,0,0,Non-Fatal,non-fatal,False
+91181,WPR15FA163,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91181/pdf,5/17/2015,Laughlin,Nevada,United States,35.116664,-114.639167,3,1,Fatal,fatal,True
+91329,WPR15LA180,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91329/pdf,6/8/2015,Reno,Nevada,United States,39.679164,-119.866668,0,0,Non-Fatal,non-fatal,False
+91415,WPR15LA196,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91415/pdf,6/22/2015,Boulder City,Nevada,United States,35.97861,-114.834724,0,0,Non-Fatal,non-fatal,False
+91529,GAA15CA172,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91529/pdf,7/8/2015,Silver Springs,Nevada,United States,39.404998,-119.251945,0,0,Non-Fatal,non-fatal,False
+91586,WPR15LA217,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91586/pdf,7/19/2015,Las Vegas,Nevada,United States,35.933334,-115.133331,0,4,Non-Fatal,non-fatal,False
+91635,WPR15LA223,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91635/pdf,7/25/2015,North Las Vegas,Nevada,United States,36.20639,-115.190002,0,0,Non-Fatal,non-fatal,False
+91699,GAA15CA210,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91699/pdf,7/29/2015,Jackpot,Nevada,United States,41.974723,-114.657775,0,0,Non-Fatal,non-fatal,False
+91817,WPR15LA245,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91817/pdf,8/18/2015,Las Vegas,Nevada,United States,36.285831,-115.338333,0,0,Non-Fatal,non-fatal,False
+91887,WPR15LA253,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91887/pdf,8/28/2015,Las Vegas,Nevada,United States,36.099445,-115.162498,0,0,Non-Fatal,non-fatal,False
+92031,GAA15CA270,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92031/pdf,9/21/2015,Jackpot,Nevada,United States,41.976387,-114.657501,0,0,Non-Fatal,non-fatal,False
+92037,WPR15LA266,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92037/pdf,9/23/2015,Elko,Nevada,United States,40.822223,-115.777496,0,1,Non-Fatal,non-fatal,False
+92086,GAA15CA285,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92086/pdf,9/24/2015,Ely,Nevada,United States,39.301387,-114.838607,0,0,Non-Fatal,non-fatal,False
+92217,GAA16CA026,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92217/pdf,10/21/2015,Gerlach,Nevada,United States,40.391944,-119.213333,0,0,Non-Fatal,non-fatal,False
+92220,WPR16LA016,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92220/pdf,10/23/2015,Primm,Nevada,United States,35.587223,-115.463607,0,0,Non-Fatal,non-fatal,False
+92342,GAA16CA055,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92342/pdf,10/18/2015,Searchlight,Nevada,United States,35.488609,-115.0,0,0,Non-Fatal,non-fatal,False
+92534,WPR16LA048,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92534/pdf,1/4/2016,Henderson,Nevada,United States,35.990833,-115.133056,0,0,Non-Fatal,non-fatal,False
+92626,WPR16LA056,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92626/pdf,1/22/2016,Las Vegas,Nevada,United States,36.267223,-115.34111,0,0,Non-Fatal,non-fatal,False
+92715,WPR16LA069,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92715/pdf,2/13/2016,Carson City,Nevada,United States,39.195278,-119.74028,0,0,Non-Fatal,non-fatal,False
+93080,WPR16FA097,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93080/pdf,4/30/2016,Henderson,Nevada,United States,35.979721,-115.110321,2,0,Fatal,fatal,True
+93161,WPR16LA109,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93161/pdf,5/13/2016,Las Vegas,Nevada,United States,36.210556,-115.193611,0,0,Non-Fatal,non-fatal,False
+93244,GAA16CA259,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93244/pdf,5/24/2016,Reno,Nevada,United States,39.29,-119.510002,0,0,Non-Fatal,non-fatal,False
+93257,WPR16LA117,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93257/pdf,5/27/2016,Minden,Nevada,United States,39.000556,-119.751113,0,0,Non-Fatal,non-fatal,False
+93317,GAA16CA279,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93317/pdf,6/2/2016,Las Vegas,Nevada,United States,36.209167,-115.195274,0,0,Non-Fatal,non-fatal,False
+93322,GAA16CA282,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93322/pdf,5/30/2016,Gerlach,Nevada,United States,40.757221,-119.212776,0,0,Non-Fatal,non-fatal,False
+93511,GAA16CA349,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93511/pdf,6/26/2016,Reno,Nevada,United States,39.663333,-119.877502,0,0,Non-Fatal,non-fatal,False
+93543,GAA16CA362,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93543/pdf,6/30/2016,Ely,Nevada,United States,39.299446,-114.838607,0,0,Non-Fatal,non-fatal,False
+93611,WPR16LA141,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93611/pdf,7/17/2016,Minden,Nevada,United States,39.000278,-119.751945,0,0,Non-Fatal,non-fatal,False
+93723,GAA16CA402,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93723/pdf,7/28/2016,Henderson,Nevada,United States,35.978889,-115.133056,0,0,Non-Fatal,non-fatal,False
+93768,WPR16FA160,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93768/pdf,8/7/2016,Minden,Nevada,United States,39.027221,-119.603332,1,0,Fatal,fatal,True
+93830,GAA16CA428,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93830/pdf,8/12/2016,Reno,Nevada,United States,40.134723,-119.734169,0,0,Non-Fatal,non-fatal,False
+93855,WPR16FA166,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93855/pdf,8/18/2016,Las Vegas,Nevada,United States,36.235,-115.033889,0,0,Non-Fatal,non-fatal,False
+93878,GAA16CA444,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93878/pdf,8/21/2016,Austin,Nevada,United States,39.467777,-117.197502,0,0,Non-Fatal,non-fatal,False
+93924,WPR16FA172,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93924/pdf,8/30/2016,Sparks,Nevada,United States,39.52111,-119.765556,2,0,Fatal,fatal,True
+93987,WPR16FA178,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93987/pdf,9/11/2016,Reno,Nevada,United States,39.503887,-119.776664,3,0,Fatal,fatal,True
+94023,WPR16LA181,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94023/pdf,9/16/2016,Reno,Nevada,United States,39.702777,-119.889442,0,0,Non-Fatal,non-fatal,False
+94037,WPR16LA184,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94037/pdf,9/17/2016,Reno,Nevada,United States,39.677223,-119.877777,0,0,Non-Fatal,non-fatal,False
+94038,WPR16LA185,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94038/pdf,9/18/2016,Reno,Nevada,United States,39.664443,-119.891113,0,0,Non-Fatal,non-fatal,False
+94059,GAA16CA500,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94059/pdf,9/17/2016,Reno,Nevada,United States,39.668056,-119.876388,0,0,Non-Fatal,non-fatal,False
+94089,GAA16CA513,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94089/pdf,9/25/2016,Minden,Nevada,United States,39.000278,-119.752502,0,0,Non-Fatal,non-fatal,False
+94100,GAA16CA517,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94100/pdf,9/18/2016,Reno,Nevada,United States,39.662498,-119.868331,0,0,Non-Fatal,non-fatal,False
+94251,GAA17CA033,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94251/pdf,10/19/2016,Boulder City,Nevada,United States,35.946666,-114.860832,0,0,Non-Fatal,non-fatal,False
+94270,GAA17CA039,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94270/pdf,10/20/2016,Carson City,Nevada,United States,39.195556,-119.735,0,0,Non-Fatal,non-fatal,False
+94280,WPR17LA012,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94280/pdf,10/20/2016,Lovelock,Nevada,United States,40.05611,-118.577774,0,0,Non-Fatal,non-fatal,False
+94329,GAA17CA054,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94329/pdf,10/25/2016,Winnemucca,Nevada,United States,40.896667,-117.805831,0,0,Non-Fatal,non-fatal,False
+94695,GAA17CA132,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94695/pdf,2/1/2017,Carson City,Nevada,United States,39.192222,-119.732498,0,0,Non-Fatal,non-fatal,False
+94699,WPR17LA062,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94699/pdf,1/27/2017,Jiggs,Nevada,United States,40.705276,-115.610275,0,0,Non-Fatal,non-fatal,False
+94804,WPR17LA072,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94804/pdf,3/1/2017,Carson City,Nevada,United States,39.192222,-119.73278,0,1,Non-Fatal,non-fatal,False
+94827,GAA17CA174,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94827/pdf,3/5/2017,Henderson,Nevada,United States,35.972778,-115.134445,0,0,Non-Fatal,non-fatal,False
+94852,WPR17LA076,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94852/pdf,3/11/2017,Reno,Nevada,United States,39.499168,-119.768058,0,0,Non-Fatal,non-fatal,False
+94882,GAA17CA190,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94882/pdf,3/11/2017,Minden,Nevada,United States,38.999168,-119.751945,0,0,Non-Fatal,non-fatal,False
+95031,GAA17CA239,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95031/pdf,4/19/2017,Fallon,Nevada,United States,39.453056,-118.866386,0,0,Non-Fatal,non-fatal,False
+95080,GAA17CA248,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95080/pdf,4/28/2017,Jean,Nevada,United States,35.767223,-115.330833,0,0,Non-Fatal,non-fatal,False
+95084,GAA17CA250,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95084/pdf,4/30/2017,Boulder City,Nevada,United States,35.866664,-114.943885,0,0,Non-Fatal,non-fatal,False
+95189,GAA17CA287,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95189/pdf,5/12/2017,Austin,Nevada,United States,39.468055,-117.197502,0,0,Non-Fatal,non-fatal,False
+95203,GAA17CA291,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95203/pdf,5/19/2017,Carson City,Nevada,United States,39.192222,-119.732498,0,0,Non-Fatal,non-fatal,False
+95375,GAA17CA340,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95375/pdf,6/14/2017,Reno,Nevada,United States,39.868888,-119.702774,0,0,Non-Fatal,non-fatal,False
+95427,GAA17CA362,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95427/pdf,6/23/2017,Henderson,Nevada,United States,35.974166,-115.135276,0,0,Non-Fatal,non-fatal,False
+95505,GAA17CA386,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95505/pdf,7/5/2017,Ely,Nevada,United States,39.314998,-114.756942,0,0,Non-Fatal,non-fatal,False
+95653,WPR17LA163,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95653/pdf,7/24/2017,Henderson,Nevada,United States,35.95863,-115.13608,0,0,Non-Fatal,non-fatal,False
+95730,WPR17LA177,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95730/pdf,7/31/2017,Wells,Nevada,United States,41.116943,-114.919723,0,0,Non-Fatal,non-fatal,False
+95778,GAA17CA478,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95778/pdf,8/8/2017,Reno,Nevada,United States,39.668056,-119.876388,0,0,Non-Fatal,non-fatal,False
+95836,GAA17CA493,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95836/pdf,8/17/2017,Yerington,Nevada,United States,39.003612,-119.157775,0,0,Non-Fatal,non-fatal,False
+95841,GAA17CA495,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95841/pdf,8/20/2017,Minden,Nevada,United States,38.998332,-119.757225,0,0,Non-Fatal,non-fatal,False
+95924,WPR17LA193,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95924/pdf,8/30/2017,Empire,Nevada,United States,40.462776,-119.366668,0,0,Non-Fatal,non-fatal,False
+95931,GAA17CA515,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95931/pdf,9/2/2017,Winnemucca,Nevada,United States,40.896667,-117.805831,0,0,Non-Fatal,non-fatal,False
+95997,GAA17CA533,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95997/pdf,9/12/2017,Silver Springs,Nevada,United States,39.406387,-119.240837,0,0,Non-Fatal,non-fatal,False
+96037,WPR17LA209,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96037/pdf,9/17/2017,Reno,Nevada,United States,39.65139,-119.858612,0,0,Non-Fatal,non-fatal,False
+96136,WPR18LA002,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96136/pdf,10/2/2017,Tonopah,Nevada,United States,38.509998,-115.620002,0,0,Non-Fatal,non-fatal,False
+96248,GAA18CA025,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96248/pdf,10/21/2017,Gerlach,Nevada,United States,40.761665,-119.211944,0,0,Non-Fatal,non-fatal,False
+96258,GAA18CA030,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96258/pdf,10/6/2017,Las Vegas,Nevada,United States,36.209445,-115.192779,0,0,Non-Fatal,non-fatal,False
+96280,WPR18LA023,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96280/pdf,11/2/2017,Las Vegas,Nevada,United States,36.210556,-115.19444,0,0,Non-Fatal,non-fatal,False
+96497,GAA18CA086,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96497/pdf,12/17/2017,North Las Vegas,Nevada,United States,36.210556,-115.194442,0,0,Non-Fatal,non-fatal,False
+96603,GAA18CA101,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96603/pdf,1/12/2018,Winnimucca,Nevada,United States,40.890556,-117.806663,0,0,Non-Fatal,non-fatal,False
+96615,WPR18FA073,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96615/pdf,1/11/2018,Elko,Nevada,United States,40.231388,-115.533332,1,0,Fatal,fatal,True
+96628,WPR18LA070,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96628/pdf,1/17/2018,Reno,Nevada,United States,39.499721,-119.768058,0,0,Non-Fatal,non-fatal,False
+96690,WPR18LA082,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96690/pdf,2/2/2018,North Las Vegas,Nevada,United States,36.210556,-115.19444,0,0,Non-Fatal,non-fatal,False
+96728,GAA18CA123,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96728/pdf,2/11/2018,Carson City,Nevada,United States,39.192222,-119.731666,0,0,Non-Fatal,non-fatal,False
+96731,GAA18CA125,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96731/pdf,2/9/2018,Carson City,Nevada,United States,39.192222,-119.732498,0,1,Non-Fatal,non-fatal,False
+96749,GAA18CA132,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96749/pdf,2/10/2018,Carson City,Nevada,United States,39.191112,-119.72583,0,0,Non-Fatal,non-fatal,False
+96756,WPR18FA091,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96756/pdf,2/19/2018,Minden,Nevada,United States,39.04972,-119.794166,1,0,Fatal,fatal,True
+96779,WPR18LA094,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96779/pdf,2/21/2018,Elko,Nevada,United States,40.823333,-115.788612,0,1,Non-Fatal,non-fatal,False
+97110,ANC18LA033,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97110/pdf,4/25/2018,Pahrump,Nevada,United States,36.271945,-115.995277,0,1,Non-Fatal,non-fatal,False
+97148,WPR18FA131,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97148/pdf,5/1/2018,Reno,Nevada,United States,39.661388,-119.867774,1,0,Fatal,fatal,True
+97359,WPR18LA156,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97359/pdf,5/30/2018,Tonopah,Nevada,United States,38.077499,-117.042221,0,0,Non-Fatal,non-fatal,False
+97377,ANC18LA039,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97377/pdf,5/28/2018,Yerington,Nevada,United States,39.005554,-119.156669,0,0,Non-Fatal,non-fatal,False
+97479,WPR18LA170,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97479/pdf,6/13/2018,Las Vegas,Nevada,United States,36.210556,-115.194442,0,0,Non-Fatal,non-fatal,False
+97748,WPR18TA192,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97748/pdf,7/10/2018,Goldfield,Nevada,United States,37.64389,-117.364997,0,1,Non-Fatal,non-fatal,False
+98000,GAA18CA468,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98000/pdf,8/5/2018,Lovelock,Nevada,United States,40.167778,-118.533332,0,0,Non-Fatal,non-fatal,False
+98112,GAA18CA512,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98112/pdf,8/18/2018,Battle Mountain,Nevada,United States,40.785831,-116.84333,0,0,Non-Fatal,non-fatal,False
+98207,WPR18FA247,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98207/pdf,9/2/2018,New Washoe City,Nevada,United States,39.304169,-119.86096,2,0,Fatal,fatal,True
+98250,WPR18FA253,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98250/pdf,9/5/2018,Jean,Nevada,United States,35.790832,-115.319442,1,0,Fatal,fatal,True
+98283,GAA18CA548,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98283/pdf,9/11/2018,Carson,Nevada,United States,39.192222,-119.732498,0,0,Non-Fatal,non-fatal,False
+98316,WPR18LA267,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98316/pdf,9/14/2018,Reno,Nevada,United States,39.71389,-119.866386,0,0,Non-Fatal,non-fatal,False
+98527,GAA19CA031,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98527/pdf,10/21/2018,Carson City,Nevada,United States,39.192222,-119.732498,0,0,Non-Fatal,non-fatal,False
+98546,GAA19CA036,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98546/pdf,10/25/2018,Carson City,Nevada,United States,39.192779,-119.735275,0,0,Non-Fatal,non-fatal,False
+98559,GAA19CA039,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98559/pdf,10/27/2018,Carson City,Nevada,United States,39.208889,-119.804725,0,0,Non-Fatal,non-fatal,False
+98590,WPR19TA018,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98590/pdf,11/3/2018,Flanigan,Nevada,United States,40.106388,-119.872779,0,1,Non-Fatal,non-fatal,False
+98731,GAA19CA086,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98731/pdf,12/3/2018,Reno,Nevada,United States,39.658889,-119.865837,0,0,Non-Fatal,non-fatal,False
+98917,GAA19CA113,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98917/pdf,1/29/2019,Reno,Nevada,United States,39.000556,-119.751113,0,0,Non-Fatal,non-fatal,False
+98991,WPR19FA084,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98991/pdf,2/15/2019,Ely,Nevada,United States,39.334167,-114.78055,2,0,Fatal,fatal,True
+99141,WPR19LA098,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99141/pdf,3/17/2019,Reno,Nevada,United States,39.669998,-119.879997,0,0,Non-Fatal,non-fatal,False
+99377,GAA19CA242,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99377/pdf,5/5/2019,Sandy Valley,Nevada,United States,35.793609,-115.626663,0,0,Non-Fatal,non-fatal,False
+99399,WPR19LA138,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99399/pdf,5/4/2019,Reno,Nevada,United States,39.499168,-119.768058,0,0,Non-Fatal,non-fatal,False
+99400,WPR19LA139,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99400/pdf,5/5/2019,Minden,Nevada,United States,39.000556,-119.751113,0,0,Non-Fatal,non-fatal,False
+99403,WPR19LA141,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99403/pdf,5/7/2019,Boulder City,Nevada,United States,35.936389,-114.85444,0,1,Non-Fatal,non-fatal,False
+99415,GAA19CA256,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99415/pdf,5/10/2019,Logandale,Nevada,United States,36.240833,-114.175003,0,0,Non-Fatal,non-fatal,False
+99490,GAA19CA281,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99490/pdf,5/3/2019,Carvers,Nevada,United States,38.966945,-117.182777,0,0,Non-Fatal,non-fatal,False
+99689,GAA19CA366,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99689/pdf,6/21/2019,Yerington,Nevada,United States,39.005554,-119.156669,0,0,Non-Fatal,non-fatal,False
+99882,WPR19TA193,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99882/pdf,7/17/2019,Mesquite,Nevada,United States,36.8325,-114.05722,0,0,Non-Fatal,non-fatal,False
+99914,GAA19CA447,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99914/pdf,7/14/2019,Sparks,Nevada,United States,39.868057,-119.710281,0,0,Non-Fatal,non-fatal,False
+100145,WPR19LA243,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100145/pdf,8/26/2019,Reno,Nevada,United States,39.656944,-119.857498,0,2,Non-Fatal,non-fatal,False
+100164,WPR19TA245,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100164/pdf,8/27/2019,North Las Vegas,Nevada,United States,36.206943,-115.20055,0,0,Non-Fatal,non-fatal,False
+100207,WPR19FA252,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100207/pdf,9/7/2019,Las Vegas,Nevada,United States,35.971389,-115.13388,2,2,Fatal,fatal,True
+100249,WPR19LA257,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100249/pdf,9/12/2019,Goodsprings,Nevada,United States,35.908054,-115.43499,0,3,Non-Fatal,non-fatal,False
+100275,GAA19CA550,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100275/pdf,9/16/2019,Reno,Nevada,United States,39.668056,-119.876388,0,0,Non-Fatal,non-fatal,False
+100288,WPR19LA261,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100288/pdf,9/9/2019,Reno,Nevada,United States,39.667499,-119.872497,0,0,Non-Fatal,non-fatal,False
+100297,WPR19FA263,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100297/pdf,9/19/2019,Nixon,Nevada,United States,47.230861,-122.360084,2,0,Fatal,fatal,True
+100407,GAA20CA010,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100407/pdf,10/7/2019,Fallon,Nevada,United States,39.499168,-118.748886,0,0,Non-Fatal,non-fatal,False
+100446,GAA20CA029,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100446/pdf,10/15/2019,Flannigan,Nevada,United States,40.130001,-119.910003,0,0,Non-Fatal,non-fatal,False
+100447,GAA20CA030,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100447/pdf,10/16/2019,Gerlach,Nevada,United States,40.334999,-119.908058,0,0,Non-Fatal,non-fatal,False
+100452,GAA20CA035,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100452/pdf,10/17/2019,Overton,Nevada,United States,36.509998,-114.375831,0,0,Non-Fatal,non-fatal,False
+100481,WPR20FA013,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100481/pdf,10/23/2019,Las Vegas,Nevada,United States,36.146945,-115.381668,2,0,Fatal,fatal,True
+100603,WPR20FA031,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100603/pdf,11/22/2019,Jackpot,Nevada,United States,41.967777,-114.64611,2,0,Fatal,fatal,True
+100631,WPR20FA034,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100631/pdf,11/26/2019,North Las Vegas,Nevada,United States,36.400001,-115.18083,3,0,Fatal,fatal,True
+100633,GAA19CA596,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100633/pdf,9/11/2019,Reno,Nevada,United States,39.668056,-119.876388,0,0,Non-Fatal,non-fatal,False
+100851,WPR20CA074,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100851/pdf,1/22/2020,Jean,Nevada,United States,36.349998,-115.190002,0,0,Non-Fatal,non-fatal,False
+101049,WPR20CA102,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101049/pdf,2/14/2020,Minden,Nevada,United States,38.998332,-119.75222,0,0,Non-Fatal,non-fatal,False
+101095,WPR20CA112,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101095/pdf,3/6/2020,Boulder City,Nevada,United States,35.947223,-114.864723,0,0,Non-Fatal,non-fatal,False
+101205,WPR20LA131,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101205/pdf,4/24/2020,Currie,Nevada,United States,40.533889,-114.41388,3,0,Fatal,fatal,True
+101366,WPR20CA162,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101366/pdf,5/30/2020,Elko,Nevada,United States,40.828334,-115.785278,0,0,Non-Fatal,non-fatal,False
+101387,WPR20CA167,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101387/pdf,6/3/2020,Las Vegas,Nevada,United States,36.210277,-115.195556,0,0,Non-Fatal,non-fatal,False
+101470,WPR20LA189,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101470/pdf,6/21/2020,Minden,Nevada,United States,38.996944,-119.75499,0,0,Non-Fatal,non-fatal,False
+101479,WPR20LA190,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101479/pdf,6/23/2020,North Las Vegas,Nevada,United States,36.11861,-115.331108,0,0,Non-Fatal,non-fatal,False
+101499,WPR20CA197,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101499/pdf,6/27/2020,Pioche,Nevada,United States,37.981109,-114.604721,0,0,Non-Fatal,non-fatal,False
+101577,WPR20LA216,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101577/pdf,7/11/2020,Ely,Nevada,United States,39.2975,-114.748054,1,0,Fatal,fatal,True
+101645,WPR20CA230,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101645/pdf,7/18/2020,Reno,Nevada,United States,39.663055,-119.881668,0,0,Non-Fatal,non-fatal,False
+101701,WPR20LA244,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101701/pdf,7/29/2020,Pioche,Nevada,United States,37.919998,-114.54,2,0,Fatal,fatal,True
+101711,WPR20LA246,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101711/pdf,7/30/2020,Elgin,Nevada,United States,37.361667,-114.56639,2,0,Fatal,fatal,True
+101770,WPR20CA260,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101770/pdf,8/9/2020,Las Vegas,Nevada,United States,36.210834,-115.194442,0,0,Non-Fatal,non-fatal,False
+101861,WPR20CA286,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101861/pdf,8/24/2020,Reno,Nevada,United States,39.680831,-119.879997,0,0,Non-Fatal,non-fatal,False
+102058,WPR20LA322,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102058/pdf,9/25/2020,Silver Springs,Nevada,United States,39.401847,-119.25412,0,0,Non-Fatal,non-fatal,False
+102178,WPR21LA021,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102178/pdf,10/16/2020,Pahrump,Nevada,United States,36.165812,-115.90381,0,0,Non-Fatal,non-fatal,False
+102215,WPR21LA030,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102215/pdf,10/29/2020,Las Vegas,Nevada,United States,36.026127,-115.19351,2,0,Fatal,fatal,True
+102222,WPR21LA033,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102222/pdf,10/6/2020,Minden,Nevada,United States,39.0005,-119.75111,0,0,Non-Fatal,non-fatal,False
+102224,WPR21LA034,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102224/pdf,11/2/2020,Minden,Nevada,United States,38.999671,-119.7524,0,0,Non-Fatal,non-fatal,False
+102313,WPR21LA058,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102313/pdf,11/15/2020,Pahrump,Nevada,United States,36.271549,-115.9949,0,0,Non-Fatal,non-fatal,False
+102542,WPR21LA092,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102542/pdf,1/16/2021,Elko,Nevada,United States,40.934666,-115.60009,0,0,Non-Fatal,non-fatal,False
+103043,WPR21LA184,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103043/pdf,3/18/2021,Las Vegas,Nevada,United States,36.216047,-115.20444,0,0,Non-Fatal,non-fatal,False
+103046,WPR21LA185,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103046/pdf,5/6/2021,Palm Gardens,Nevada,United States,35.026444,-114.8735,0,0,Non-Fatal,non-fatal,False
+103111,WPR21LA201,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103111/pdf,5/18/2021,Minden,Nevada,United States,39.0005,-119.75111,0,0,Non-Fatal,non-fatal,False
+103137,WPR21FA203,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103137/pdf,5/24/2021,Las Vegas,Nevada,United States,36.200883,-115.05419,1,0,Fatal,fatal,True
+103149,WPR21LA206,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103149/pdf,5/23/2021,Mesquite,Nevada,United States,36.833139,-114.05588,0,0,Non-Fatal,non-fatal,False
+103187,WPR21LA215,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103187/pdf,5/30/2021,Minden,Nevada,United States,39.0005,-119.75111,0,0,Non-Fatal,non-fatal,False
+103205,WPR21LA222,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103205/pdf,5/15/2021,Las Vegas,Nevada,United States,35.972861,-115.13444,0,0,Non-Fatal,non-fatal,False
+103227,WPR21LA225,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103227/pdf,5/28/2021,Dayton,Nevada,United States,39.296208,-119.55791,0,1,Non-Fatal,non-fatal,False
+103356,WPR21LA246,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103356/pdf,6/24/2021,Carson City,Nevada,United States,39.192306,-119.73258,0,0,Non-Fatal,non-fatal,False
+103357,WPR21LA247,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103357/pdf,6/25/2021,Las Vegas,Nevada,United States,36.080044,-115.15223,0,0,Non-Fatal,non-fatal,False
+103426,WPR21LA260,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103426/pdf,7/5/2021,Wells,Nevada,United States,41.117111,-114.92213,0,0,Non-Fatal,non-fatal,False
+103428,WPR21LA261,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103428/pdf,6/29/2021,North Las Vegas,Nevada,United States,36.210109,-115.19467,0,0,Non-Fatal,non-fatal,False
+103581,WPR21LA294,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103581/pdf,7/28/2021,Indian Springs,Nevada,United States,36.563494,-115.61577,0,0,Non-Fatal,non-fatal,False
+103661,WPR21LA308,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103661/pdf,8/9/2021,Reno,Nevada,United States,39.429325,-119.66219,0,0,Non-Fatal,non-fatal,False
+104012,WPR21LA358,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104012/pdf,9/11/2021,Baker,Nevada,United States,39.083333,-114.06666,0,0,Non-Fatal,non-fatal,False
+104272,WPR22LA039,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104272/pdf,11/14/2021,North Las Vegas,Nevada,United States,36.201579,-115.11868,0,0,Non-Fatal,non-fatal,False
+104273,WPR22LA040,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104273/pdf,11/14/2021,Boulder City,Nevada,United States,35.94869,-114.85555,0,0,Non-Fatal,non-fatal,False

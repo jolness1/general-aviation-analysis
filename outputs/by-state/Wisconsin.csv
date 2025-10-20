@@ -1,0 +1,232 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+82661,CEN12LA129,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82661/pdf,1/6/2012,Chetek,Wisconsin,United States,45.306388,-91.636665,0,0,Non-Fatal,non-fatal,False
+82677,CEN12LA133,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82677/pdf,1/11/2012,Denmark,Wisconsin,United States,44.339359,-87.820869,0,1,Non-Fatal,non-fatal,False
+82860,CEN12LA153,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82860/pdf,2/10/2012,Madison,Wisconsin,United States,43.141109,-89.334167,0,0,Non-Fatal,non-fatal,False
+82944,CEN12CA165,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82944/pdf,2/17/2012,Lancaster,Wisconsin,United States,42.796112,-90.680274,0,0,Non-Fatal,non-fatal,False
+83069,CEN12LA182,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83069/pdf,3/5/2012,East Troy,Wisconsin,United States,42.780593,-88.390747,0,0,Non-Fatal,non-fatal,False
+83422,CEN12LA248,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83422/pdf,4/12/2012,Janesville,Wisconsin,United States,42.67472,-89.039718,0,0,Non-Fatal,non-fatal,False
+84019,CEN12CA380,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84019/pdf,6/15/2012,Sheboygan,Wisconsin,United States,43.769721,-87.851669,0,0,Non-Fatal,non-fatal,False
+84133,CEN12CA406,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84133/pdf,7/1/2012,Watertown,Wisconsin,United States,43.169445,-88.723052,0,0,Non-Fatal,non-fatal,False
+84145,CEN12CA409,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84145/pdf,7/1/2012,Oshkosh,Wisconsin,United States,43.984443,-88.556945,0,0,Non-Fatal,non-fatal,False
+84401,CEN12CA464,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84401/pdf,7/21/2012,Shiocton,Wisconsin,United States,44.454444,-88.561668,0,1,Non-Fatal,non-fatal,False
+84402,CEN12CA465,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84402/pdf,7/21/2012,Oshkosh,Wisconsin,United States,43.985,-88.561668,0,1,Non-Fatal,non-fatal,False
+84412,CEN12CA468,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84412/pdf,7/20/2012,Neilsville,Wisconsin,United States,44.554721,-90.507225,0,0,Non-Fatal,non-fatal,False
+84421,CEN12CA469,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84421/pdf,7/22/2012,Broadhead,Wisconsin,United States,42.588333,-89.371665,0,1,Non-Fatal,non-fatal,False
+84549,CEN12LA507,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84549/pdf,7/31/2012,Cottage Grove,Wisconsin,United States,43.104721,-89.186111,0,0,Non-Fatal,non-fatal,False
+84554,CEN12LA508,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84554/pdf,7/10/2012,South Wayne,Wisconsin,United States,42.566665,-90.116668,0,1,Non-Fatal,non-fatal,False
+84556,CEN12CA509,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84556/pdf,7/31/2012,Three Lakes,Wisconsin,United States,45.792221,-89.122222,0,0,Non-Fatal,non-fatal,False
+84557,CEN12CA510,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84557/pdf,8/1/2012,Oshkosh,Wisconsin,United States,43.984443,-88.556663,0,0,Non-Fatal,non-fatal,False
+84610,CEN12LA530,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84610/pdf,8/7/2012,Oshkosh,Wisconsin,United States,43.985,-88.561668,0,1,Non-Fatal,non-fatal,False
+84654,CEN12LA539,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84654/pdf,8/11/2012,Burlington,Wisconsin,United States,42.670261,-88.270797,0,0,Non-Fatal,non-fatal,False
+84769,CEN12CA567,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84769/pdf,8/17/2012,Bear Creek,Wisconsin,United States,44.531112,-88.726387,0,0,Non-Fatal,non-fatal,False
+84811,CEN12LA573,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84811/pdf,8/10/2012,Belgium,Wisconsin,United States,43.524723,-87.800277,0,0,Non-Fatal,non-fatal,False
+84835,CEN12LA582,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84835/pdf,8/27/2012,Jim Falls,Wisconsin,United States,45.043334,-91.270835,0,0,Non-Fatal,non-fatal,False
+84857,CEN12CA590,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84857/pdf,8/14/2012,Wausau,Wisconsin,United States,44.926109,-89.626945,0,0,Non-Fatal,non-fatal,False
+84859,CEN12LA591,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84859/pdf,8/3/2012,Prairie du Sac,Wisconsin,United States,43.314445,-89.759162,0,1,Non-Fatal,non-fatal,False
+84907,CEN12CA596,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84907/pdf,9/1/2012,Colfax,Wisconsin,United States,45.031387,-91.732498,0,0,Non-Fatal,non-fatal,False
+84915,CEN12CA598,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84915/pdf,8/17/2012,Gresham,Wisconsin,United States,44.852779,-88.788055,0,0,Non-Fatal,non-fatal,False
+84975,CEN12FA617,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84975/pdf,9/9/2012,Kansasville,Wisconsin,United States,42.698612,-88.136947,1,0,Fatal,fatal,True
+85162,CEN12LA661,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85162/pdf,9/27/2012,Kenosha,Wisconsin,United States,42.620178,-87.919387,0,0,Non-Fatal,non-fatal,False
+85367,CEN13LA016,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85367/pdf,10/17/2012,Wausau,Wisconsin,United States,44.926387,-89.626945,0,1,Non-Fatal,non-fatal,False
+85397,CEN13LA023,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85397/pdf,10/22/2012,Sturtevant,Wisconsin,United States,42.703334,-87.958885,0,0,Non-Fatal,non-fatal,False
+85498,CEN13CA042,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85498/pdf,11/3/2012,West Bend,Wisconsin,United States,43.416942,-89.804168,0,0,Non-Fatal,non-fatal,False
+85618,CEN13FA060,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85618/pdf,11/18/2012,Burlington,Wisconsin,United States,42.669242,-88.270988,2,0,Fatal,fatal,True
+85663,CEN13LA071,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85663/pdf,11/24/2012,East Troy,Wisconsin,United States,42.805278,-88.33361,0,0,Non-Fatal,non-fatal,False
+86281,CEN13CA175,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86281/pdf,2/17/2013,Elcho,Wisconsin,United States,45.424167,-89.178886,0,0,Non-Fatal,non-fatal,False
+86371,CEN13CA187,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86371/pdf,2/2/2013,Oshkosh,Wisconsin,United States,43.984443,-88.556663,0,0,Non-Fatal,non-fatal,False
+86558,CEN13LA216,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86558/pdf,4/1/2013,Wonewoc,Wisconsin,United States,43.669998,-90.232498,0,0,Non-Fatal,non-fatal,False
+87092,CEN13CA316,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87092/pdf,6/4/2013,Brookfield,Wisconsin,United States,43.09,-88.178054,0,0,Non-Fatal,non-fatal,False
+87136,CEN13LA330,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87136/pdf,6/1/2013,Sturgeon Bay,Wisconsin,United States,44.843612,-87.421669,0,0,Non-Fatal,non-fatal,False
+87200,CEN13FA351,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87200/pdf,6/15/2013,La Pointe,Wisconsin,United States,46.787223,-90.766113,2,0,Fatal,fatal,True
+87400,CEN13LA395,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87400/pdf,7/6/2013,Plover,Wisconsin,United States,44.431945,-89.558891,0,0,Non-Fatal,non-fatal,False
+87588,CEN13FA438,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87588/pdf,7/27/2013,Lake Michigan,Wisconsin,United States,42.943611,-87.771942,2,0,Fatal,fatal,True
+87592,CEN13FA440,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87592/pdf,7/28/2013,Oshkosh,Wisconsin,United States,43.955276,-88.68222,0,0,Non-Fatal,non-fatal,False
+87672,CEN13CA457,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87672/pdf,8/1/2013,Appleton,Wisconsin,United States,44.258056,-88.51889,0,0,Non-Fatal,non-fatal,False
+87675,CEN13LA460,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87675/pdf,8/3/2013,Wild Rose,Wisconsin,United States,44.197498,-89.217781,0,1,Non-Fatal,non-fatal,False
+87856,CEN13LA502,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87856/pdf,8/24/2013,New Franken,Wisconsin,United States,44.503334,-87.866111,0,0,Non-Fatal,non-fatal,False
+87858,CEN13LA503,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87858/pdf,8/24/2013,Concord,Wisconsin,United States,43.169723,-88.723052,0,0,Non-Fatal,non-fatal,False
+87987,CEN13CA528,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87987/pdf,9/6/2013,Delavan,Wisconsin,United States,42.633888,-88.601112,0,0,Non-Fatal,non-fatal,False
+88027,CEN13CA543,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88027/pdf,9/8/2013,Chippewa Falls,Wisconsin,United States,45.015834,-91.4375,0,1,Non-Fatal,non-fatal,False
+88164,CEN13CA569,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88164/pdf,9/29/2013,Hatley,Wisconsin,United States,44.88034,-89.33036,0,0,Non-Fatal,non-fatal,False
+88377,CEN14LA036,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88377/pdf,11/2/2013,Superior,Wisconsin,United States,46.689723,-92.094718,0,0,Non-Fatal,non-fatal,False
+88778,CEN14CA132,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88778/pdf,2/8/2014,Hartford,Wisconsin,United States,43.349166,-88.391387,0,0,Non-Fatal,non-fatal,False
+89213,CEN14LA241,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89213/pdf,5/6/2014,Crivitz,Wisconsin,United States,45.214443,-88.07389,0,1,Non-Fatal,non-fatal,False
+89293,CEN14CA257,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89293/pdf,5/24/2014,La Pointe,Wisconsin,United States,46.788887,-90.758331,0,0,Non-Fatal,non-fatal,False
+89326,CEN14FA266,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89326/pdf,6/1/2014,Stevens Point,Wisconsin,United States,44.543334,-89.52111,1,0,Fatal,fatal,True
+89446,CEN14CA291,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89446/pdf,6/5/2014,Middleton,Wisconsin,United States,43.113609,-89.532775,0,0,Non-Fatal,non-fatal,False
+89594,CEN14LA336,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89594/pdf,7/2/2014,Omro,Wisconsin,United States,44.044445,-88.749443,1,0,Fatal,fatal,True
+89619,CEN14CA344,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89619/pdf,7/3/2014,Rhinelander,Wisconsin,United States,45.744998,-89.275001,0,0,Non-Fatal,non-fatal,False
+89661,CEN14CA362,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89661/pdf,7/12/2014,Pulaski,Wisconsin,United States,44.641944,-88.215835,0,0,Non-Fatal,non-fatal,False
+89767,CEN14FA396,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89767/pdf,7/30/2014,Oshkosh,Wisconsin,United States,44.066944,-88.557777,0,2,Non-Fatal,non-fatal,False
+89776,CEN14FA399,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89776/pdf,7/31/2014,Oshkosh,Wisconsin,United States,43.972221,-88.554168,1,1,Fatal,fatal,True
+89828,CEN14LA412,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89828/pdf,8/7/2014,Tomah,Wisconsin,United States,43.980323,-90.500907,0,1,Non-Fatal,non-fatal,False
+89869,CEN14CA426,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89869/pdf,8/13/2014,Lancaster,Wisconsin,United States,42.7625,-90.659721,0,0,Non-Fatal,non-fatal,False
+89881,CEN14LA431,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89881/pdf,8/10/2014,Boulder Junction,Wisconsin,United States,46.1375,-89.64611,0,1,Non-Fatal,non-fatal,False
+89922,CEN14LA443,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89922/pdf,7/13/2014,Waukesha,Wisconsin,United States,43.04111,-88.236946,0,0,Non-Fatal,non-fatal,False
+90073,CEN14CA496,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90073/pdf,9/11/2014,Oxford,Wisconsin,United States,43.742221,-89.71611,0,0,Non-Fatal,non-fatal,False
+90135,CEN14CA515,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90135/pdf,9/22/2014,Brookfield,Wisconsin,United States,43.090278,-88.178054,0,0,Non-Fatal,non-fatal,False
+90279,CEN15LA020,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90279/pdf,10/9/2014,Richland Center,Wisconsin,United States,43.283332,-90.298057,0,0,Non-Fatal,non-fatal,False
+90301,CEN15FA027,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90301/pdf,10/24/2014,Bay City,Wisconsin,United States,44.588054,-92.414718,1,0,Fatal,fatal,True
+90475,CEN15CA071,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90475/pdf,12/7/2014,Minocqua,Wisconsin,United States,45.928054,-89.730834,0,0,Non-Fatal,non-fatal,False
+90476,CEN15CA072,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90476/pdf,12/6/2014,Middleton,Wisconsin,United States,43.139999,-89.339996,0,0,Non-Fatal,non-fatal,False
+90647,CEN15FA119,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90647/pdf,1/26/2015,Owen,Wisconsin,United States,44.988056,-90.527496,1,1,Fatal,fatal,True
+90881,GAA15CA009,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90881/pdf,3/16/2015,JUDA,Wisconsin,United States,33.75909,-87.190429,0,0,Non-Fatal,non-fatal,False
+90980,GAA15CA033,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90980/pdf,4/1/2015,Middleton,Wisconsin,United States,43.113334,-89.533332,0,0,Non-Fatal,non-fatal,False
+91015,CEN15LA195,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91015/pdf,4/11/2015,Chippewa Falls,Wisconsin,United States,45.0,-91.383613,1,0,Fatal,fatal,True
+91123,CEN15LA217,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91123/pdf,5/2/2015,Neillsville,Wisconsin,United States,44.575279,-90.506668,0,0,Non-Fatal,non-fatal,False
+91250,CEN15LA242,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91250/pdf,5/27/2015,Superior,Wisconsin,United States,46.689723,-92.094718,0,0,Non-Fatal,non-fatal,False
+91294,CEN15FA249,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91294/pdf,6/2/2015,Oshkosh,Wisconsin,United States,43.9925,-88.545829,2,0,Fatal,fatal,True
+91371,GAA15CA122,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91371/pdf,6/14/2015,Elk Mound,Wisconsin,United States,44.77639,-91.741943,0,0,Non-Fatal,non-fatal,False
+91414,CEN15LA279,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91414/pdf,6/21/2015,Sheboygan,Wisconsin,United States,43.769721,-87.851669,0,0,Non-Fatal,non-fatal,False
+91504,GAA15CA159,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91504/pdf,6/20/2015,Oshkosh,Wisconsin,United States,43.984443,-88.575279,0,0,Non-Fatal,non-fatal,False
+91548,GAA15CA177,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91548/pdf,7/3/2015,Hartford,Wisconsin,United States,43.346942,-88.389442,0,0,Non-Fatal,non-fatal,False
+91554,GAA15CA180,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91554/pdf,7/9/2015,Burlington,Wisconsin,United States,42.691387,-88.304443,0,0,Non-Fatal,non-fatal,False
+91607,CEN15FA311,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91607/pdf,7/22/2015,Oshkosh,Wisconsin,United States,43.99139,-88.548614,0,3,Non-Fatal,non-fatal,False
+91630,CEN15FA315,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91630/pdf,7/25/2015,Bristol,Wisconsin,United States,42.58139,-88.011665,2,0,Fatal,fatal,True
+91646,CEN15FA320,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91646/pdf,7/27/2015,Amery,Wisconsin,United States,45.253887,-92.464164,4,0,Fatal,fatal,True
+91666,CEN15FA328,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91666/pdf,7/29/2015,Milwaukee,Wisconsin,United States,43.11222,-88.039443,2,0,Fatal,fatal,True
+91694,CEN15LA333,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91694/pdf,8/1/2015,Watertown,Wisconsin,United States,43.165832,-88.719444,0,1,Non-Fatal,non-fatal,False
+91750,CEN15LA345,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91750/pdf,8/5/2015,Nekoosa,Wisconsin,United States,44.318054,-89.968612,0,0,Non-Fatal,non-fatal,False
+91755,CEN15CA348,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91755/pdf,8/7/2015,Kansasville,Wisconsin,United States,42.731109,-88.111663,0,0,Non-Fatal,non-fatal,False
+91761,CEN15LA351,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91761/pdf,7/19/2015,Land O' Lakes,Wisconsin,United States,46.154167,-89.211944,0,0,Non-Fatal,non-fatal,False
+91924,CEN15LA399,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91924/pdf,8/26/2015,Hancock,Wisconsin,United States,44.098331,-89.591392,1,0,Fatal,fatal,True
+91983,CEN15LA413,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91983/pdf,9/5/2015,PORT WING,Wisconsin,United States,46.768611,-91.38861,0,0,Non-Fatal,non-fatal,False
+92032,CEN15LA418,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92032/pdf,9/21/2015,Platteville,Wisconsin,United States,42.689445,-90.444442,0,0,Non-Fatal,non-fatal,False
+92078,GAA15CA279,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92078/pdf,9/22/2015,Pelican Lake,Wisconsin,United States,45.503055,-89.196388,0,0,Non-Fatal,non-fatal,False
+92092,GAA15CA287,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92092/pdf,9/26/2015,West Bend,Wisconsin,United States,43.422222,-88.128051,0,0,Non-Fatal,non-fatal,False
+92095,GAA15CA290,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92095/pdf,9/19/2015,Shiocton,Wisconsin,United States,44.457221,-88.561111,0,0,Non-Fatal,non-fatal,False
+92233,CEN16LA021,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92233/pdf,10/24/2015,Winneconne,Wisconsin,United States,44.106945,-88.683891,0,0,Non-Fatal,non-fatal,False
+92334,CEN16LA043,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92334/pdf,11/15/2015,Shawano,Wisconsin,United States,44.712776,-88.549163,0,0,Non-Fatal,non-fatal,False
+92390,CEN14LA537,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92390/pdf,6/10/2014,Hudson,Wisconsin,United States,44.961387,-92.74472,0,0,Non-Fatal,non-fatal,False
+92391,GAA16CA067,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92391/pdf,11/2/2015,New Lisbon,Wisconsin,United States,43.83889,-90.137779,0,0,Non-Fatal,non-fatal,False
+92499,CEN16LA069,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92499/pdf,12/27/2015,Watertown,Wisconsin,United States,43.122501,-88.656669,0,1,Non-Fatal,non-fatal,False
+92680,CEN16LA097,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92680/pdf,2/1/2016,Sturtevant,Wisconsin,United States,42.703609,-87.953887,0,0,Non-Fatal,non-fatal,False
+92835,CEN16LA123,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92835/pdf,3/12/2016,Neshkoro,Wisconsin,United States,44.001667,-89.200279,0,1,Non-Fatal,non-fatal,False
+93097,CEN16FA171,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93097/pdf,5/4/2016,Reedsville,Wisconsin,United States,44.213333,-87.960281,1,0,Fatal,fatal,True
+93304,CEN16LA206,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93304/pdf,5/30/2016,Clintonville,Wisconsin,United States,44.613334,-88.730834,0,0,Non-Fatal,non-fatal,False
+93344,GAA16CA292,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93344/pdf,6/8/2016,Rochester,Wisconsin,United States,42.75111,-88.251113,0,0,Non-Fatal,non-fatal,False
+93417,GAA16CA322,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93417/pdf,6/18/2016,Marion,Wisconsin,United States,44.670833,-88.889167,0,1,Non-Fatal,non-fatal,False
+93428,GAA16CA323,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93428/pdf,6/17/2016,Reedsburg,Wisconsin,United States,43.531665,-89.982223,0,0,Non-Fatal,non-fatal,False
+93562,CEN16LA255,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93562/pdf,7/3/2016,Arlington,Wisconsin,United States,43.333332,-89.520835,0,0,Non-Fatal,non-fatal,False
+93566,CEN16CA258,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93566/pdf,7/6/2016,Ephraim,Wisconsin,United States,45.13639,-87.187225,0,0,Non-Fatal,non-fatal,False
+93635,CEN16LA273,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93635/pdf,7/18/2016,Lodi,Wisconsin,United States,43.333332,-89.520835,0,0,Non-Fatal,non-fatal,False
+93639,CEN16LA274,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93639/pdf,7/19/2016,East Troy,Wisconsin,United States,42.796943,-88.374443,0,0,Non-Fatal,non-fatal,False
+93668,CEN16LA283,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93668/pdf,7/24/2016,Oshkosh,Wisconsin,United States,43.961112,-88.556945,0,1,Non-Fatal,non-fatal,False
+93696,CEN16LA288,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93696/pdf,7/21/2016,Baldwin,Wisconsin,United States,44.966388,-92.387496,0,0,Non-Fatal,non-fatal,False
+93704,CEN16FA290,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93704/pdf,7/28/2016,Fond du Lac,Wisconsin,United States,43.779998,-88.488891,1,1,Fatal,fatal,True
+93716,CEN16LA293,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93716/pdf,7/30/2016,Oshkosh,Wisconsin,United States,43.980278,-88.557502,0,0,Non-Fatal,non-fatal,False
+93717,CEN16LA294,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93717/pdf,7/30/2016,Oshkosh,Wisconsin,United States,43.99139,-88.559722,0,0,Non-Fatal,non-fatal,False
+93720,CEN16FA295,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93720/pdf,7/28/2016,Holmen,Wisconsin,United States,43.978889,-91.213607,1,0,Fatal,fatal,True
+93728,CEN16LA296,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93728/pdf,7/30/2016,Manitowoc,Wisconsin,United States,44.129722,-87.682502,0,0,Non-Fatal,non-fatal,False
+93754,CEN16LA302,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93754/pdf,8/3/2016,Fond du Lac,Wisconsin,United States,43.770278,-88.501388,0,2,Non-Fatal,non-fatal,False
+93785,CEN16LA309,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93785/pdf,8/2/2016,Neenah,Wisconsin,United States,44.217777,-88.549446,0,0,Non-Fatal,non-fatal,False
+93994,GAA16CA476,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93994/pdf,9/10/2016,Juneau,Wisconsin,United States,43.426387,-88.700836,0,0,Non-Fatal,non-fatal,False
+94027,CEN16FA373,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94027/pdf,9/18/2016,Ephraim,Wisconsin,United States,45.145832,-87.197219,2,0,Fatal,fatal,True
+94084,CEN16CA383,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94084/pdf,9/11/2016,Brodhead,Wisconsin,United States,42.591667,-89.375,0,0,Non-Fatal,non-fatal,False
+94142,CEN17LA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94142/pdf,10/4/2016,Wilmot,Wisconsin,United States,42.511665,-88.208885,0,0,Non-Fatal,non-fatal,False
+94346,CEN17LA037,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94346/pdf,11/6/2016,Royalton,Wisconsin,United States,44.383335,-88.8525,0,0,Non-Fatal,non-fatal,False
+94388,GAA17CA070,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94388/pdf,11/12/2016,Stone Lake,Wisconsin,United States,45.77861,-91.623886,0,0,Non-Fatal,non-fatal,False
+94471,GAA17LA090,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94471/pdf,11/5/2016,Watertown,Wisconsin,United States,43.170555,-88.720832,0,0,Non-Fatal,non-fatal,False
+94562,CEN17FA067,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94562/pdf,1/4/2017,Brookfield,Wisconsin,United States,43.090278,-88.178054,1,1,Fatal,fatal,True
+94666,CEN17LA090,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94666/pdf,12/28/2016,Prairie Du Sac,Wisconsin,United States,43.297779,-89.755836,0,0,Non-Fatal,non-fatal,False
+94793,CEN17CA114,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94793/pdf,2/24/2017,Waukesha,Wisconsin,United States,43.04111,-88.236946,0,0,Non-Fatal,non-fatal,False
+94986,GAA17CA224,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94986/pdf,4/7/2017,Woodruff,Wisconsin,United States,45.928054,-89.730834,0,0,Non-Fatal,non-fatal,False
+95065,GAA17CA244,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95065/pdf,4/24/2017,Waukesha,Wisconsin,United States,43.04111,-88.236946,0,0,Non-Fatal,non-fatal,False
+95169,GAA17CA278,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95169/pdf,5/13/2017,De Pere,Wisconsin,United States,44.368331,-88.158607,0,0,Non-Fatal,non-fatal,False
+95230,CEN17FA196,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95230/pdf,5/24/2017,Chetek,Wisconsin,United States,45.279445,-91.709167,1,1,Fatal,fatal,True
+95239,CEN17FA197,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95239/pdf,5/26/2017,Sheboygan Falls,Wisconsin,United States,43.765277,-87.916946,2,0,Fatal,fatal,True
+95266,CEN17LA204,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95266/pdf,5/26/2017,Tomahawk Lake,Wisconsin,United States,45.832778,-89.65139,0,0,Non-Fatal,non-fatal,False
+95295,CEN17LA210,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95295/pdf,6/4/2017,Kenosha,Wisconsin,United States,42.594444,-87.926666,0,1,Non-Fatal,non-fatal,False
+95361,CEN17LA224,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95361/pdf,6/7/2017,Juneau,Wisconsin,United States,43.426387,-88.703887,0,0,Non-Fatal,non-fatal,False
+95473,CEN17FA248,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95473/pdf,7/1/2017,Catawba,Wisconsin,United States,45.555278,-90.495002,6,0,Fatal,fatal,True
+95591,GAA17CA412,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95591/pdf,7/15/2017,Washington Island,Wisconsin,United States,45.387779,-86.922775,0,0,Non-Fatal,non-fatal,False
+95615,GAA17CA420,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95615/pdf,7/17/2017,Lone Rock,Wisconsin,United States,43.211944,-90.179725,0,0,Non-Fatal,non-fatal,False
+95685,CEN17FA287,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95685/pdf,7/27/2017,Oshkosh,Wisconsin,United States,43.955833,-88.498886,2,0,Fatal,fatal,True
+95706,GAA17CA451,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95706/pdf,7/28/2017,Oshkosh,Wisconsin,United States,43.984443,-88.556945,0,0,Non-Fatal,non-fatal,False
+95777,CEN17LA307,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95777/pdf,8/8/2017,Fort Atkinson,Wisconsin,United States,42.967777,-88.809722,2,0,Fatal,fatal,True
+95833,GAA17CA491,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95833/pdf,8/14/2017,Westby,Wisconsin,United States,43.660278,-90.861114,0,0,Non-Fatal,non-fatal,False
+95975,GAA17CA523,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95975/pdf,9/7/2017,Redgranite,Wisconsin,United States,44.02222,-89.098335,0,0,Non-Fatal,non-fatal,False
+95976,GAA17CA524,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95976/pdf,9/3/2017,Oshkosh,Wisconsin,United States,43.985279,-88.576667,0,0,Non-Fatal,non-fatal,False
+95982,CEN17LA344,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95982/pdf,9/9/2017,Prairie du Chien,Wisconsin,United States,43.021945,-91.124443,0,0,Non-Fatal,non-fatal,False
+96161,GAA18CA005,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96161/pdf,10/8/2017,Black River Falls,Wisconsin,United States,44.251945,-90.851387,0,0,Non-Fatal,non-fatal,False
+96366,CEN18LA038,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96366/pdf,11/26/2017,Palmyra,Wisconsin,United States,42.883888,-88.584999,0,2,Non-Fatal,non-fatal,False
+96378,GAA18CA058,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96378/pdf,11/27/2017,Black River Falls,Wisconsin,United States,44.251388,-90.855552,0,0,Non-Fatal,non-fatal,False
+96883,CEN18LA121,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96883/pdf,3/7/2018,Blair,Wisconsin,United States,44.304443,-91.0,0,1,Non-Fatal,non-fatal,False
+96900,GAA18CA171,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96900/pdf,3/9/2018,Oshkosh,Wisconsin,United States,43.984443,-88.556945,0,0,Non-Fatal,non-fatal,False
+97073,GAA18CA221,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97073/pdf,4/21/2018,Iola,Wisconsin,United States,44.505554,-89.025001,0,0,Non-Fatal,non-fatal,False
+97118,CEN18FA149,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97118/pdf,4/26/2018,Hazelhurst,Wisconsin,United States,45.754444,-89.695831,3,0,Fatal,fatal,True
+97173,CEN18LA158,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97173/pdf,5/4/2018,East Troy,Wisconsin,United States,42.796943,-88.372497,0,0,Non-Fatal,non-fatal,False
+97174,CEN18LA159,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97174/pdf,5/4/2018,Shullsburg,Wisconsin,United States,42.573055,-90.232223,0,0,Non-Fatal,non-fatal,False
+97344,CEN18LA200,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97344/pdf,5/28/2018,Somerset,Wisconsin,United States,45.141666,-92.702499,0,0,Non-Fatal,non-fatal,False
+97418,GAA18CA329,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97418/pdf,6/6/2018,Malone,Wisconsin,United States,44.0475,-88.440277,0,0,Non-Fatal,non-fatal,False
+97430,CEN18FA216,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97430/pdf,6/10/2018,Monroe,Wisconsin,United States,42.627777,-89.597503,4,0,Fatal,fatal,True
+97714,GAA18CA400,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97714/pdf,7/6/2018,WAUNAKEE,Wisconsin,United States,43.169998,-88.470001,0,0,Non-Fatal,non-fatal,False
+97842,WPR18FA200,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97842/pdf,7/20/2018,Sheboygan,Wisconsin,United States,43.760833,-87.834999,1,2,Fatal,fatal,True
+97852,GAA18CA432,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97852/pdf,7/19/2018,Oregon,Wisconsin,United States,42.927501,-89.418052,0,0,Non-Fatal,non-fatal,False
+97856,CEN18CA291,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97856/pdf,7/23/2018,Oshkosh,Wisconsin,United States,43.966945,-88.560836,0,0,Non-Fatal,non-fatal,False
+97871,CEN18CA293,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97871/pdf,7/24/2018,Oshkosh,Wisconsin,United States,43.969722,-88.562774,0,0,Non-Fatal,non-fatal,False
+97897,CEN18TA296,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97897/pdf,7/26/2018,Oshkosh,Wisconsin,United States,43.969722,-88.567779,0,0,Non-Fatal,non-fatal,False
+98074,GAA18CA490,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98074/pdf,8/14/2018,DePere,Wisconsin,United States,44.355834,-88.059722,0,1,Non-Fatal,non-fatal,False
+98209,CEN18LA360,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98209/pdf,8/30/2018,Kenosha,Wisconsin,United States,42.597221,-87.929443,0,0,Non-Fatal,non-fatal,False
+98210,CEN18LA361,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98210/pdf,8/31/2018,Waupaca,Wisconsin,United States,44.342777,-89.025276,0,1,Non-Fatal,non-fatal,False
+98278,GAA18CA546,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98278/pdf,9/7/2018,De Pere,Wisconsin,United States,44.367778,-88.158607,0,0,Non-Fatal,non-fatal,False
+98568,CEN19FA018,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98568/pdf,10/29/2018,Odanah,Wisconsin,United States,46.527221,-90.6025,1,0,Fatal,fatal,True
+98684,GAA19CA074,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98684/pdf,11/21/2018,Sand Creek,Wisconsin,United States,45.204723,-91.691665,0,0,Non-Fatal,non-fatal,False
+98771,GAA19CA096,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98771/pdf,12/11/2018,Hartford,Wisconsin,United States,43.330276,-88.32611,0,0,Non-Fatal,non-fatal,False
+98773,CEN19LA045,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98773/pdf,12/15/2018,Lodi,Wisconsin,United States,43.326667,-89.529441,0,1,Non-Fatal,non-fatal,False
+98878,CEN19LA060,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98878/pdf,1/19/2019,Keshena,Wisconsin,United States,44.996387,-88.603614,0,1,Non-Fatal,non-fatal,False
+98893,CEN19LA071,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98893/pdf,1/18/2019,Beechwood,Wisconsin,United States,45.606388,-88.109169,0,0,Non-Fatal,non-fatal,False
+99008,GAA19CA143,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99008/pdf,2/10/2019,Woodruff,Wisconsin,United States,45.928054,-89.730834,0,0,Non-Fatal,non-fatal,False
+99082,GAA19CA157,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99082/pdf,3/7/2019,Superior,Wisconsin,United States,46.694999,-92.095001,0,0,Non-Fatal,non-fatal,False
+99104,GAA19CA166,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99104/pdf,3/9/2019,Land O' Lakes,Wisconsin,United States,46.189167,-89.250556,0,0,Non-Fatal,non-fatal,False
+99302,GAA19CA218,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99302/pdf,4/20/2019,Reedsburg,Wisconsin,United States,43.525833,-89.983329,0,0,Non-Fatal,non-fatal,False
+99383,GAA19CA245,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99383/pdf,5/6/2019,Rosendale,Wisconsin,United States,43.880554,-88.710556,0,0,Non-Fatal,non-fatal,False
+99621,GAA19CA338,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99621/pdf,6/10/2019,Independence,Wisconsin,United States,44.36222,-91.391387,0,0,Non-Fatal,non-fatal,False
+99726,CEN19LA188,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99726/pdf,6/27/2019,Janesville,Wisconsin,United States,42.644165,-88.960556,0,1,Non-Fatal,non-fatal,False
+99834,CEN19LA224,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99834/pdf,7/14/2019,Osceola,Wisconsin,United States,45.310001,-92.690002,0,0,Non-Fatal,non-fatal,False
+99889,CEN19CA227,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99889/pdf,7/20/2019,Oshkosh,Wisconsin,United States,43.984443,-88.556663,0,0,Non-Fatal,non-fatal,False
+99942,CEN19CA237,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99942/pdf,7/24/2019,Oshkosh,Wisconsin,United States,43.99139,-88.559997,0,0,Non-Fatal,non-fatal,False
+99944,CEN19CA239,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99944/pdf,7/28/2019,Oshkosh,Wisconsin,United States,43.954723,-88.664169,0,0,Non-Fatal,non-fatal,False
+99950,CEN19LA243,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99950/pdf,7/25/2019,Viroqua,Wisconsin,United States,43.556945,-90.88861,0,1,Non-Fatal,non-fatal,False
+100089,CEN19FA276,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100089/pdf,8/19/2019,Viroqua,Wisconsin,United States,43.582778,-90.914443,1,0,Fatal,fatal,True
+100154,CEN19LA290,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100154/pdf,8/27/2019,Monroe,Wisconsin,United States,42.663055,-89.529724,0,1,Non-Fatal,non-fatal,False
+100402,CEN20LA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100402/pdf,10/8/2019,Waukesha,Wisconsin,United States,43.032775,-88.234725,0,0,Non-Fatal,non-fatal,False
+100435,CEN20FA008,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100435/pdf,10/17/2019,Green Bay,Wisconsin,United States,44.422762,-87.935946,2,0,Fatal,fatal,True
+101087,CEN20LA125,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101087/pdf,1/29/2020,Chilton,Wisconsin,United States,44.061111,-88.194999,0,0,Non-Fatal,non-fatal,False
+101280,CEN20LA179,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101280/pdf,5/15/2020,Burlington,Wisconsin,United States,42.688331,-88.291114,1,0,Fatal,fatal,True
+101327,CEN20CA194,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101327/pdf,5/26/2020,Appleton,Wisconsin,United States,44.256389,-88.519996,0,0,Non-Fatal,non-fatal,False
+101402,CEN20CA217,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101402/pdf,6/7/2020,Bristol,Wisconsin,United States,42.51889,-88.025276,0,0,Non-Fatal,non-fatal,False
+101523,CEN20CA257,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101523/pdf,6/12/2020,Reedsburg,Wisconsin,United States,43.528888,-89.983055,0,0,Non-Fatal,non-fatal,False
+101550,WPR20CA208,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101550/pdf,7/4/2020,Neenah,Wisconsin,United States,44.159999,-88.559448,0,0,Non-Fatal,non-fatal,False
+101580,CEN20CA275,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101580/pdf,7/4/2020,Freedom,Wisconsin,United States,44.376388,-88.271385,0,0,Non-Fatal,non-fatal,False
+101652,CEN20CA300,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101652/pdf,7/20/2020,Dickeyville,Wisconsin,United States,42.625278,-90.587776,0,0,Non-Fatal,non-fatal,False
+101700,CEN20CA317,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101700/pdf,7/17/2020,Osceola,Wisconsin,United States,45.309444,-92.690002,0,0,Non-Fatal,non-fatal,False
+101762,CEN20LA329,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101762/pdf,8/9/2020,Burlington,Wisconsin,United States,42.680278,-88.302223,0,1,Non-Fatal,non-fatal,False
+102125,CEN21LA012,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102125/pdf,10/7/2020,New Richmond,Wisconsin,United States,45.147778,-92.539167,0,0,Non-Fatal,non-fatal,False
+102165,CEN21LA021,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102165/pdf,10/18/2020,Washington,Wisconsin,United States,45.389097,-86.924557,0,0,Non-Fatal,non-fatal,False
+102358,CEN20LA436,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102358/pdf,8/30/2020,Hartford,Wisconsin,United States,43.348876,-88.390265,0,0,Non-Fatal,non-fatal,False
+102632,CEN21LA127,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102632/pdf,2/12/2021,Prairie du Sac,Wisconsin,United States,43.297731,-89.755693,0,0,Non-Fatal,non-fatal,False
+102636,CEN21FA130,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102636/pdf,2/16/2021,Janesville,Wisconsin,United States,42.595377,-89.030245,2,0,Fatal,fatal,True
+102715,CEN21LA147,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102715/pdf,2/27/2021,Oshkosh,Wisconsin,United States,43.984491,-88.556934,0,0,Non-Fatal,non-fatal,False
+102875,CEN21LA180,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102875/pdf,4/3/2021,Delavan,Wisconsin,United States,42.67052,-88.716932,0,0,Non-Fatal,non-fatal,False
+103071,CEN21LA213,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103071/pdf,5/11/2021,Merrill,Wisconsin,United States,45.242042,-89.613289,0,0,Non-Fatal,non-fatal,False
+103095,CEN21LA222,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103095/pdf,5/17/2021,Racine,Wisconsin,United States,42.753705,-87.804785,0,0,Non-Fatal,non-fatal,False
+103136,CEN21LA232,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103136/pdf,5/15/2021,Whitewater,Wisconsin,United States,42.787917,-88.684086,0,0,Non-Fatal,non-fatal,False
+103297,CEN21LA280,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103297/pdf,6/18/2021,Hayward,Wisconsin,United States,46.028601,-91.445696,0,0,Non-Fatal,non-fatal,False
+103391,CEN21FA297,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103391/pdf,6/30/2021,Curtiss,Wisconsin,United States,44.984025,-90.461475,1,0,Fatal,fatal,True
+103497,CEN21LA324,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103497/pdf,7/15/2021,Rhinelander,Wisconsin,United States,45.630271,-89.470576,0,0,Non-Fatal,non-fatal,False
+103529,CEN21LA333,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103529/pdf,7/22/2021,Baraboo,Wisconsin,United States,43.524428,-89.777409,0,0,Non-Fatal,non-fatal,False
+103541,CEN21LA336,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103541/pdf,7/23/2021,Oshkosh,Wisconsin,United States,43.984491,-88.556935,0,0,Non-Fatal,non-fatal,False
+103589,CEN21LA343,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103589/pdf,7/29/2021,Ripon,Wisconsin,United States,43.861263,-88.803719,0,0,Non-Fatal,non-fatal,False
+103593,CEN21LA344,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103593/pdf,7/30/2021,Oshkosh,Wisconsin,United States,43.969906,-88.562572,0,0,Non-Fatal,non-fatal,False
+103599,CEN21FA345,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103599/pdf,7/31/2021,Hartford,Wisconsin,United States,43.350781,-88.400281,1,1,Fatal,fatal,True
+103607,CEN21LA349,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103607/pdf,7/31/2021,Randolph,Wisconsin,United States,43.55696,-89.03637,0,1,Non-Fatal,non-fatal,False
+103666,CEN21LA367,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103666/pdf,8/9/2021,Osceola,Wisconsin,United States,45.307962,-92.683907,0,0,Non-Fatal,non-fatal,False
+103801,CEN21LA398,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103801/pdf,9/1/2021,Grantsburg,Wisconsin,United States,45.774231,-92.680506,0,0,Non-Fatal,non-fatal,False
+103823,CEN21LA407,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103823/pdf,9/7/2021,Menomonie,Wisconsin,United States,44.892333,-91.867806,0,0,Non-Fatal,non-fatal,False
+103963,CEN21LA452,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103963/pdf,7/20/2021,Mineral Point,Wisconsin,United States,42.874434,-90.208609,0,0,Non-Fatal,non-fatal,False
+103984,CEN21FA459,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103984/pdf,9/28/2021,Hiles,Wisconsin,United States,45.910776,-89.018627,3,0,Fatal,fatal,True
+104086,CEN22FA013,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104086/pdf,10/12/2021,Waukesha,Wisconsin,United States,42.936229,-88.230919,2,0,Fatal,fatal,True
+104152,CEN22FA019,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104152/pdf,10/23/2021,Marengo,Wisconsin,United States,46.406685,-90.898016,2,0,Fatal,fatal,True
+104163,CEN21LA474,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104163/pdf,9/16/2021,Burlington,Wisconsin,United States,42.690717,-88.304682,0,0,Non-Fatal,non-fatal,False
+104170,CEN22FA021,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104170/pdf,10/27/2021,Lena,Wisconsin,United States,44.99211,-88.24405,1,0,Fatal,fatal,True

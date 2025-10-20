@@ -1,0 +1,176 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+82708,ERA12FA149,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82708/pdf,1/20/2012,Rainbow City,Alabama,United States,33.95222,-86.101387,1,0,Fatal,fatal,True
+82713,ERA12LA150,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82713/pdf,1/19/2012,Bayou La Batre,Alabama,United States,30.454999,-88.211112,0,0,Non-Fatal,non-fatal,False
+82924,ERA12CA185,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82924/pdf,2/13/2012,Eufaula,Alabama,United States,31.951665,-85.117774,0,0,Non-Fatal,non-fatal,False
+82972,ERA12FA194,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82972/pdf,2/26/2012,Laceys Spring,Alabama,United States,34.570278,-86.594444,2,0,Fatal,fatal,True
+83005,ERA12CA199,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83005/pdf,3/1/2012,Eufaula,Alabama,United States,31.95111,-85.127777,0,0,Non-Fatal,non-fatal,False
+83209,ERA12LA253,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83209/pdf,3/24/2012,Margaret,Alabama,United States,33.670276,-86.486389,0,1,Non-Fatal,non-fatal,False
+83332,ERA12LA273,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83332/pdf,3/24/2012,Dothan,Alabama,United States,31.321111,-85.449447,0,0,Non-Fatal,non-fatal,False
+83496,ERA12LA305,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83496/pdf,4/27/2012,Sylacauga,Alabama,United States,33.159442,-86.449722,0,1,Non-Fatal,non-fatal,False
+83670,ERA12CA339,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83670/pdf,5/16/2012,Gulf Shores,Alabama,United States,30.69,-87.858329,0,0,Non-Fatal,non-fatal,False
+83855,ERA12CA381,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83855/pdf,5/26/2012,Foley,Alabama,United States,30.427778,-87.701667,0,0,Non-Fatal,non-fatal,False
+83935,ERA12CA390,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83935/pdf,6/9/2012,Alabaster,Alabama,United States,33.177776,-86.783058,0,0,Non-Fatal,non-fatal,False
+83982,ERA12CA396,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83982/pdf,6/14/2012,Gulf Shores,Alabama,United States,30.289443,-87.671669,0,0,Non-Fatal,non-fatal,False
+84259,ERA12CA437,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84259/pdf,6/22/2012,Meridianville,Alabama,United States,34.861389,-86.557502,0,0,Non-Fatal,non-fatal,False
+84275,ERA12LA441,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84275/pdf,7/6/2012,Auburn,Alabama,United States,32.615276,-85.433891,0,0,Non-Fatal,non-fatal,False
+84659,ERA12LA505,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84659/pdf,8/12/2012,Bay Minette,Alabama,United States,30.870277,-87.819168,0,0,Non-Fatal,non-fatal,False
+85045,ERA12LA562,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85045/pdf,9/15/2012,Cedar Bluff,Alabama,United States,34.210277,-85.547775,1,0,Fatal,fatal,True
+85048,ERA12FA565,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85048/pdf,9/16/2012,Brownsboro,Alabama,United States,34.743888,-86.45861,2,0,Fatal,fatal,True
+85057,ERA12FA566,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85057/pdf,9/17/2012,Crane Hill,Alabama,United States,33.976387,-87.117225,2,0,Fatal,fatal,True
+85154,ERA12CA580,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85154/pdf,9/24/2012,Theodore,Alabama,United States,30.43361,-88.176391,0,0,Non-Fatal,non-fatal,False
+85272,ERA13LA012,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85272/pdf,10/6/2012,Birmingham,Alabama,United States,33.563888,-86.75222,0,1,Non-Fatal,non-fatal,False
+85331,ERA12LA589,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85331/pdf,9/29/2012,Selma,Alabama,United States,32.283332,-86.949996,0,0,Non-Fatal,non-fatal,False
+85356,ERA13CA028,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85356/pdf,10/11/2012,Mobile,Alabama,United States,30.6375,-88.073608,0,0,Non-Fatal,non-fatal,False
+85446,ERA13LA041,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85446/pdf,10/26/2012,Fairhope,Alabama,United States,30.456111,-87.872779,0,0,Non-Fatal,non-fatal,False
+85492,ERA13LA045,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85492/pdf,11/1/2012,Alexander City,Alabama,United States,32.908889,-85.957778,0,1,Non-Fatal,non-fatal,False
+85556,ERA13LA052,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85556/pdf,11/10/2012,Gordon,Alabama,United States,31.133333,-86.900001,0,0,Non-Fatal,non-fatal,False
+85922,ERA13FA101,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85922/pdf,1/1/2013,Jasper,Alabama,United States,33.886112,-87.316665,3,0,Fatal,fatal,True
+86403,ERA13CA163,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86403/pdf,2/24/2013,Greenbrier,Alabama,United States,34.670833,-86.843055,0,0,Non-Fatal,non-fatal,False
+87186,ERA13CA284,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87186/pdf,6/8/2013,Ozark,Alabama,United States,31.431943,-85.620552,0,0,Non-Fatal,non-fatal,False
+87333,ERA13LA308,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87333/pdf,6/29/2013,Florence,Alabama,United States,34.893054,-87.584167,0,1,Non-Fatal,non-fatal,False
+88012,ERA13LA407,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88012/pdf,9/8/2013,Guntersville,Alabama,United States,34.404445,-86.267219,0,0,Non-Fatal,non-fatal,False
+88472,ERA14LA048,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88472/pdf,11/25/2013,Hopewell,Alabama,United States,33.356945,-86.947776,0,0,Non-Fatal,non-fatal,False
+88486,ERA14LA052,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88486/pdf,11/28/2013,Trussville,Alabama,United States,33.630519,-86.590324,0,0,Non-Fatal,non-fatal,False
+88494,ERA14LA057,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88494/pdf,11/30/2013,Elkmont,Alabama,United States,34.926109,-86.970275,1,0,Fatal,fatal,True
+88614,ERA14LA083,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88614/pdf,1/1/2014,Alabaster,Alabama,United States,33.220256,-86.820137,0,0,Non-Fatal,non-fatal,False
+88679,ERA14LA094,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88679/pdf,10/26/2013,Livingston,Alabama,United States,32.58889,-88.174446,0,0,Non-Fatal,non-fatal,False
+88695,ERA14LA099,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88695/pdf,1/21/2014,Pell City,Alabama,United States,33.565277,-86.303337,0,0,Non-Fatal,non-fatal,False
+88843,ERA14CA134,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88843/pdf,2/25/2014,Gulf Shores,Alabama,United States,30.269203,-87.700897,0,0,Non-Fatal,non-fatal,False
+88889,ERA14LA147,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88889/pdf,3/8/2014,Fairhope,Alabama,United States,30.460556,-87.876945,0,1,Non-Fatal,non-fatal,False
+88894,ERA14LA149,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88894/pdf,2/22/2014,Alabaster,Alabama,United States,33.177776,-86.783332,0,0,Non-Fatal,non-fatal,False
+88987,ERA14CA177,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88987/pdf,3/27/2014,Dadeville,Alabama,United States,32.830566,-85.759147,0,0,Non-Fatal,non-fatal,False
+89008,ERA14LA179,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89008/pdf,4/3/2014,Clayton,Alabama,United States,31.910278,-85.370834,0,0,Non-Fatal,non-fatal,False
+89098,ERA14CA206,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89098/pdf,4/21/2014,Huntsville,Alabama,United States,34.639999,-86.779998,0,0,Non-Fatal,non-fatal,False
+89270,ERA14LA257,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89270/pdf,5/22/2014,Gulf Shores,Alabama,United States,30.285833,-87.675552,0,1,Non-Fatal,non-fatal,False
+89471,ERA14FA300,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89471/pdf,6/18/2014,Huntsville,Alabama,United States,34.631668,-86.785835,3,0,Fatal,fatal,True
+89592,ERA14LA324,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89592/pdf,6/26/2014,Gulf Shores,Alabama,United States,30.289722,-87.671669,0,0,Non-Fatal,non-fatal,False
+89601,ERA14LA325,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89601/pdf,7/3/2014,Monroeville,Alabama,United States,31.454721,-87.361663,0,0,Non-Fatal,non-fatal,False
+89604,ERA14TA326,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89604/pdf,7/3/2014,Mobile,Alabama,United States,30.664167,-88.03833,0,1,Non-Fatal,non-fatal,False
+89725,ERA14FA350,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89725/pdf,7/23/2014,Lillian,Alabama,United States,30.446388,-87.437225,2,0,Fatal,fatal,True
+89777,ERA14LA369,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89777/pdf,7/31/2014,Helena,Alabama,United States,33.3125,-86.926391,0,4,Non-Fatal,non-fatal,False
+89811,ERA14CA376,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89811/pdf,8/6/2014,Gulf Shores,Alabama,United States,30.287221,-87.668334,0,0,Non-Fatal,non-fatal,False
+89899,ERA14LA391,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89899/pdf,8/17/2014,Sylacauga,Alabama,United States,33.170326,-86.260833,0,1,Non-Fatal,non-fatal,False
+89911,ERA14FA396,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89911/pdf,8/19/2014,Northport,Alabama,United States,33.45111,-87.387496,2,0,Fatal,fatal,True
+90057,ERA14CA431,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90057/pdf,9/6/2014,Gunthersville,Alabama,United States,34.381668,-86.249168,0,0,Non-Fatal,non-fatal,False
+90265,ERA15CA018,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90265/pdf,10/16/2014,Prattville,Alabama,United States,32.43861,-86.512779,0,0,Non-Fatal,non-fatal,False
+90332,ERA15CA035,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90332/pdf,10/25/2014,Montevallo,Alabama,United States,33.084999,-86.839164,0,1,Non-Fatal,non-fatal,False
+90405,ERA15CA055,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90405/pdf,11/18/2014,Decatur,Alabama,United States,34.714443,-87.156112,0,0,Non-Fatal,non-fatal,False
+90437,ERA15CA064,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90437/pdf,11/30/2014,Athens,Alabama,United States,34.820556,-87.043891,0,2,Non-Fatal,non-fatal,False
+90594,ERA15LA097,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90594/pdf,1/10/2015,Cullman,Alabama,United States,34.200553,-86.804725,0,0,Non-Fatal,non-fatal,False
+90620,ERA15CA107,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90620/pdf,1/18/2015,Alexander City,Alabama,United States,32.914722,-85.962776,0,0,Non-Fatal,non-fatal,False
+90946,ERA15LA172,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90946/pdf,3/29/2015,Tuscaloosa,Alabama,United States,33.220554,-87.611389,0,0,Non-Fatal,non-fatal,False
+90988,ERA15CA176,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90988/pdf,4/3/2015,Wetumpka,Alabama,United States,32.527221,-86.331108,0,1,Non-Fatal,non-fatal,False
+91003,ERA15FA178,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91003/pdf,4/6/2015,Cherokee,Alabama,United States,34.842777,-87.934448,1,0,Fatal,fatal,True
+91042,ERA15CA188,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91042/pdf,4/16/2015,Gulf Shores,Alabama,United States,30.289443,-87.671669,0,0,Non-Fatal,non-fatal,False
+91092,ERA15LA200,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91092/pdf,4/27/2015,Sylacauga,Alabama,United States,33.175556,-86.292221,0,0,Non-Fatal,non-fatal,False
+91290,ERA15LA232,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91290/pdf,6/1/2015,Grove Hill,Alabama,United States,31.70861,-87.776947,0,0,Non-Fatal,non-fatal,False
+91378,ERA15LA240,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91378/pdf,6/14/2015,Pell City,Alabama,United States,33.558887,-86.249168,0,0,Non-Fatal,non-fatal,False
+91462,GAA15CA146,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91462/pdf,6/28/2015,Huntsville,Alabama,United States,34.859443,-86.557502,0,0,Non-Fatal,non-fatal,False
+91634,GAA15CA198,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91634/pdf,7/26/2015,Eufaula,Alabama,United States,31.950277,-85.129165,0,0,Non-Fatal,non-fatal,False
+91707,ERA15LA296,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91707/pdf,8/3/2015,Camden,Alabama,United States,31.8875,-87.055831,0,0,Non-Fatal,non-fatal,False
+91710,GAA15CA213,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91710/pdf,7/11/2015,Dauphin Island,Alabama,United States,30.260555,-88.127777,0,0,Non-Fatal,non-fatal,False
+91762,GAA15CA221,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91762/pdf,8/11/2015,Clanton,Alabama,United States,32.851112,-86.608055,0,0,Non-Fatal,non-fatal,False
+91879,ERA15FA330,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91879/pdf,8/27/2015,Alabaster,Alabama,United States,33.166942,-86.778053,1,0,Fatal,fatal,True
+91944,ERA15LA345,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91944/pdf,9/7/2015,Atmore,Alabama,United States,31.016111,-87.446662,0,0,Non-Fatal,non-fatal,False
+92002,ERA15CA364,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92002/pdf,9/19/2015,Hartford,Alabama,United States,31.129444,-85.653892,0,0,Non-Fatal,non-fatal,False
+92136,GAA15LA296,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92136/pdf,9/24/2015,Ozark,Alabama,United States,31.432222,-85.571662,0,0,Non-Fatal,non-fatal,False
+92181,ERA16LA014,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92181/pdf,10/14/2015,Eufala,Alabama,United States,31.951389,-85.12889,0,0,Non-Fatal,non-fatal,False
+92184,ERA16LA015,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92184/pdf,10/15/2015,Dickinson,Alabama,United States,31.759166,-87.699447,0,0,Non-Fatal,non-fatal,False
+92351,GAA16CA057,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92351/pdf,11/16/2015,Eufaula,Alabama,United States,31.951389,-85.12889,0,0,Non-Fatal,non-fatal,False
+92408,GAA16CA068,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92408/pdf,12/6/2015,Hurtsboro,Alabama,United States,32.165832,-85.393333,0,0,Non-Fatal,non-fatal,False
+92443,GAA16CA078,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92443/pdf,11/6/2015,Monroeville,Alabama,United States,31.45861,-87.350555,0,0,Non-Fatal,non-fatal,False
+92600,GAA16CA104,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92600/pdf,1/12/2016,Dothan,Alabama,United States,31.321666,-85.451385,0,0,Non-Fatal,non-fatal,False
+92676,ERA16FA100,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92676/pdf,2/1/2016,Mobile,Alabama,United States,30.678611,-88.26361,2,0,Fatal,fatal,True
+92885,GAA16CA161,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92885/pdf,3/18/2016,Huntsville,Alabama,United States,34.637222,-86.775001,0,0,Non-Fatal,non-fatal,False
+93076,ERA16LA171,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93076/pdf,4/26/2016,Foley,Alabama,United States,30.416389,-87.700279,0,0,Non-Fatal,non-fatal,False
+93108,ERA16CA178,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93108/pdf,4/23/2016,Jasper,Alabama,United States,33.901943,-87.313888,0,0,Non-Fatal,non-fatal,False
+93287,ERA16LA199,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93287/pdf,5/31/2016,Elberta,Alabama,United States,30.424444,-87.535278,0,0,Non-Fatal,non-fatal,False
+93552,GAA16CA363,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93552/pdf,7/1/2016,Cullman,Alabama,United States,34.267501,-86.858612,0,0,Non-Fatal,non-fatal,False
+93824,ERA16FA289,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93824/pdf,8/14/2016,Northport,Alabama,United States,33.222778,-87.599723,6,0,Fatal,fatal,True
+94074,ERA16LA326,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94074/pdf,9/22/2016,Ozark,Alabama,United States,31.431943,-85.620552,0,0,Non-Fatal,non-fatal,False
+94169,ERA17LA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94169/pdf,10/6/2016,Hollywood,Alabama,United States,34.692222,-86.010002,0,0,Non-Fatal,non-fatal,False
+94536,ERA17LA075,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94536/pdf,12/27/2016,Bridgeport,Alabama,United States,34.985832,-85.722778,0,1,Non-Fatal,non-fatal,False
+94601,ERA17CA087,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94601/pdf,1/12/2017,Hayden,Alabama,United States,33.846942,-86.898887,0,1,Non-Fatal,non-fatal,False
+94611,ERA17CA089,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94611/pdf,1/14/2017,Mobile,Alabama,United States,30.626667,-88.068054,0,0,Non-Fatal,non-fatal,False
+94719,ERA17LA105,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94719/pdf,2/1/2017,St. Elmo,Alabama,United States,30.501943,-88.275001,0,0,Non-Fatal,non-fatal,False
+94842,ERA17LA125,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94842/pdf,3/8/2017,Abbeville,Alabama,United States,31.594165,-85.237777,0,2,Non-Fatal,non-fatal,False
+94911,ERA17FA136,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94911/pdf,3/25/2017,Hayden,Alabama,United States,33.909168,-86.73278,4,0,Fatal,fatal,True
+94924,ERA17FA140,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94924/pdf,3/28/2017,Dadeville,Alabama,United States,32.830833,-85.712219,2,0,Fatal,fatal,True
+94977,GAA17CA220,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94977/pdf,4/7/2017,Bessimer,Alabama,United States,33.313331,-86.925277,0,0,Non-Fatal,non-fatal,False
+95635,GAA17CA427,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95635/pdf,7/21/2017,Deatsville,Alabama,United States,32.512779,-86.399719,0,0,Non-Fatal,non-fatal,False
+95844,ERA17LA282,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95844/pdf,8/18/2017,Fairhope,Alabama,United States,30.523056,-87.903335,0,0,Non-Fatal,non-fatal,False
+95891,ERA17LA293,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95891/pdf,8/21/2017,Guntersville,Alabama,United States,34.406112,-86.260833,0,0,Non-Fatal,non-fatal,False
+95925,ERA17LA302,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95925/pdf,8/28/2017,Harvest,Alabama,United States,34.86,-86.757499,0,0,Non-Fatal,non-fatal,False
+95949,GAA17CA545,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95949/pdf,9/2/2017,Elba,Alabama,United States,31.455833,-86.098335,0,0,Non-Fatal,non-fatal,False
+95990,ERA17LA319,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95990/pdf,8/23/2017,Gulf Shores,Alabama,United States,30.24611,-87.700836,0,0,Non-Fatal,non-fatal,False
+96020,GAA17CA537,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96020/pdf,8/23/2017,Foley,Alabama,United States,30.444444,-87.659721,0,0,Non-Fatal,non-fatal,False
+96104,GAA17CA561,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96104/pdf,9/27/2017,Bessemer,Alabama,United States,33.311668,-86.926109,0,0,Non-Fatal,non-fatal,False
+96113,ERA17LA341,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96113/pdf,9/28/2017,Huntsville,Alabama,United States,34.89722,-86.55722,0,0,Non-Fatal,non-fatal,False
+96208,ANC18LA004,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96208/pdf,10/15/2017,Tuskegee,Alabama,United States,32.460556,-85.68,0,0,Non-Fatal,non-fatal,False
+96325,ANC18LA008,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96325/pdf,11/11/2017,EUFAULA,Alabama,United States,31.95861,-85.128334,0,0,Non-Fatal,non-fatal,False
+96422,ERA18LA041,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96422/pdf,12/5/2017,Brewton,Alabama,United States,31.010833,-87.037223,0,0,Non-Fatal,non-fatal,False
+96669,ERA18LA073,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96669/pdf,1/27/2018,Lapine,Alabama,United States,31.0,-86.0,0,0,Non-Fatal,non-fatal,False
+96927,GAA18CA178,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96927/pdf,3/23/2018,Hartselle,Alabama,United States,34.407222,-86.933052,0,0,Non-Fatal,non-fatal,False
+96955,ERA18FA118,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96955/pdf,3/28/2018,Ashville,Alabama,United States,33.895557,-86.161392,1,0,Fatal,fatal,True
+97130,CEN18LA151,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97130/pdf,4/25/2018,Cullman,Alabama,United States,34.152778,-86.634719,0,0,Non-Fatal,non-fatal,False
+97240,ERA18FA146,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97240/pdf,5/12/2018,Jacksonville,Alabama,United States,33.798053,-85.72528,1,1,Fatal,fatal,True
+97254,WPR18LA142,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97254/pdf,5/11/2018,Atmore,Alabama,United States,31.016111,-87.446662,0,1,Non-Fatal,non-fatal,False
+97275,GAA18CA284,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97275/pdf,5/5/2018,Bayou La Batre,Alabama,United States,30.455278,-88.211112,0,0,Non-Fatal,non-fatal,False
+97292,WPR18LA144,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97292/pdf,5/21/2018,Jasper,Alabama,United States,33.871944,-87.259719,0,0,Non-Fatal,non-fatal,False
+97428,ERA18LA161,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97428/pdf,6/7/2018,FORT MORGAN,Alabama,United States,30.222221,-88.018058,0,0,Non-Fatal,non-fatal,False
+97444,GAA18CA332,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97444/pdf,6/8/2018,Fairhope,Alabama,United States,30.460832,-87.876945,0,0,Non-Fatal,non-fatal,False
+97563,ERA18LA177,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97563/pdf,6/24/2018,Alexander City,Alabama,United States,32.92889,-85.969444,0,0,Non-Fatal,non-fatal,False
+97656,ERA18LA182,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97656/pdf,6/30/2018,Flat Rock,Alabama,United States,34.74472,-85.68972,0,0,Non-Fatal,non-fatal,False
+97705,ERA18LA186,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97705/pdf,7/7/2018,Gulf Shores,Alabama,United States,30.289722,-87.671669,0,0,Non-Fatal,non-fatal,False
+97729,ERA18LA188,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97729/pdf,7/9/2018,Section,Alabama,United States,34.52222,-85.986389,1,0,Fatal,fatal,True
+97838,ERA18LA195,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97838/pdf,7/18/2018,Ider,Alabama,United States,34.714168,-85.680831,0,0,Non-Fatal,non-fatal,False
+97987,ERA18FA208,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97987/pdf,8/4/2018,Foley,Alabama,United States,30.374166,-87.726387,2,0,Fatal,fatal,True
+98136,GAA18CA503,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98136/pdf,8/22/2018,Elberta,Alabama,United States,30.411111,-87.578887,0,0,Non-Fatal,non-fatal,False
+98503,ERA19LA017,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98503/pdf,10/16/2018,Opelika,Alabama,United States,32.633335,-85.368331,0,1,Non-Fatal,non-fatal,False
+98566,ERA19LA031,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98566/pdf,10/28/2018,Elba,Alabama,United States,31.410833,-86.089996,0,0,Non-Fatal,non-fatal,False
+98646,ERA19FA047,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98646/pdf,11/16/2018,Verbena,Alabama,United States,32.822223,-86.459167,2,0,Fatal,fatal,True
+99319,GAA19CA224,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99319/pdf,4/20/2019,Bremen,Alabama,United States,33.983612,-87.059448,0,0,Non-Fatal,non-fatal,False
+99387,ERA19FA164,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99387/pdf,5/6/2019,Foley,Alabama,United States,30.432777,-87.702224,1,1,Fatal,fatal,True
+99545,ERA19TA185,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99545/pdf,6/4/2019,Robertsdale,Alabama,United States,30.543333,-87.56472,0,0,Non-Fatal,non-fatal,False
+99720,ERA19LA202,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99720/pdf,6/21/2019,Jasper,Alabama,United States,33.901111,-87.304168,0,0,Non-Fatal,non-fatal,False
+100043,CEN19LA265,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100043/pdf,7/30/2019,Fairhope,Alabama,United States,30.514722,-87.871948,0,0,Non-Fatal,non-fatal,False
+100117,ERA19TA254,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100117/pdf,8/17/2019,Talladega,Alabama,United States,33.496112,-86.221664,0,0,Non-Fatal,non-fatal,False
+100149,ERA19LA260,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100149/pdf,8/24/2019,Robertsdale,Alabama,United States,30.543611,-87.555831,0,2,Non-Fatal,non-fatal,False
+100179,ERA19LA263,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100179/pdf,9/2/2019,Russellville,Alabama,United States,34.539443,-87.53083,1,0,Fatal,fatal,True
+100180,ERA19LA264,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100180/pdf,9/1/2019,Foley,Alabama,United States,30.36861,-87.687774,0,0,Non-Fatal,non-fatal,False
+100239,GAA19CA539,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100239/pdf,9/4/2019,Winfield,Alabama,United States,33.863334,-87.845275,0,0,Non-Fatal,non-fatal,False
+100456,CEN20FA009,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100456/pdf,10/20/2019,White Plains,Alabama,United States,33.749721,-85.723335,1,0,Fatal,fatal,True
+100511,ERA20LA023,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100511/pdf,10/27/2019,Grand Bay,Alabama,United States,30.568889,-88.37722,0,0,Non-Fatal,non-fatal,False
+100632,GAA20CA095,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100632/pdf,10/23/2019,Marion,Alabama,United States,32.510555,-87.384719,0,0,Non-Fatal,non-fatal,False
+100763,ERA20FA063,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100763/pdf,1/5/2020,Cullman,Alabama,United States,34.272777,-86.858055,2,0,Fatal,fatal,True
+101021,ERA20CA116,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101021/pdf,3/1/2020,Huntsville,Alabama,United States,34.747222,-86.46083,0,2,Non-Fatal,non-fatal,False
+101208,ERA20LA161,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101208/pdf,4/24/2020,Coden,Alabama,United States,30.376943,-88.157501,0,0,Non-Fatal,non-fatal,False
+101214,ERA20LA164,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101214/pdf,4/27/2020,Meridianville,Alabama,United States,34.845832,-86.557777,0,0,Non-Fatal,non-fatal,False
+101297,ERA20CA187,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101297/pdf,5/15/2020,Guntersville,Alabama,United States,34.554721,-86.123054,0,0,Non-Fatal,non-fatal,False
+101320,ERA20LA194,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101320/pdf,5/21/2020,Rainbow City,Alabama,United States,33.882221,-86.072776,0,0,Non-Fatal,non-fatal,False
+101340,ERA20LA197,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101340/pdf,5/30/2020,Ozark,Alabama,United States,31.441389,-85.638336,1,0,Fatal,fatal,True
+101427,ERA20LA212,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101427/pdf,6/10/2020,Selma,Alabama,United States,32.326946,-87.05722,2,0,Fatal,fatal,True
+101442,ERA20LA217,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101442/pdf,6/16/2020,Atmore,Alabama,United States,31.101388,-87.538887,1,0,Fatal,fatal,True
+101664,ERA20LA259,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101664/pdf,7/22/2020,Montgomery,Alabama,United States,32.301387,-86.395278,0,0,Non-Fatal,non-fatal,False
+101696,ERA20LA262,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101696/pdf,7/28/2020,Malbis,Alabama,United States,30.713333,-87.705001,2,0,Fatal,fatal,True
+101697,ERA20CA263,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101697/pdf,7/5/2020,Prattville,Alabama,United States,32.43861,-86.517776,0,0,Non-Fatal,non-fatal,False
+101725,ERA20LA272,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101725/pdf,8/2/2020,Alabaster,Alabama,United States,33.178333,-86.783332,0,0,Non-Fatal,non-fatal,False
+101844,ERA20CA293,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101844/pdf,8/6/2020,Pell City,Alabama,United States,33.558887,-86.249168,0,0,Non-Fatal,non-fatal,False
+101954,ERA20LA314,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101954/pdf,9/10/2020,Boaz,Alabama,United States,34.166942,-86.134445,1,0,Fatal,fatal,True
+102113,ERA21FA010,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102113/pdf,10/7/2020,Waterloo,Alabama,United States,34.973518,-88.156303,1,0,Fatal,fatal,True
+102405,ERA21LA068,https://www.ntsb.gov/investigations/AccidentReports/Reports/.pdf,12/12/2020,Attalla,Alabama,United States,34.093008,-86.086574,1,0,Fatal,fatal,True
+102532,ERA21LA107,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102532/pdf,1/13/2021,Pell City,Alabama,United States,33.581338,-86.241358,0,0,Non-Fatal,non-fatal,False
+102653,ERA21FA133,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102653/pdf,2/20/2021,Vinemont,Alabama,United States,34.266174,-86.864702,2,0,Fatal,fatal,True
+102809,ERA21LA162,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102809/pdf,3/26/2021,Bessemer,Alabama,United States,33.312611,-86.926306,0,1,Non-Fatal,non-fatal,False
+102915,ERA21LA186,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102915/pdf,4/11/2021,Troy,Alabama,United States,31.86,-86.013889,0,0,Non-Fatal,non-fatal,False
+102955,ERA21LA190,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102955/pdf,4/20/2021,Eufaula,Alabama,United States,31.798644,-85.172931,0,0,Non-Fatal,non-fatal,False
+103085,ERA21LA216,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103085/pdf,5/13/2021,Gulf Shores,Alabama,United States,30.291095,-87.675045,0,0,Non-Fatal,non-fatal,False
+103086,ERA21LA217,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103086/pdf,5/15/2021,Brewton,Alabama,United States,31.050711,-87.067267,0,0,Non-Fatal,non-fatal,False
+103274,ERA21LA254,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103274/pdf,6/15/2021,Ozark,Alabama,United States,31.432919,-85.622618,0,0,Non-Fatal,non-fatal,False
+103346,ERA21LA269,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103346/pdf,6/25/2021,Alpine,Alabama,United States,33.256369,-86.251594,1,0,Fatal,fatal,True
+103454,ERA21LA284,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103454/pdf,7/10/2021,Elba,Alabama,United States,31.410042,-86.090336,0,0,Non-Fatal,non-fatal,False
+103580,ERA21LA307,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103580/pdf,7/1/2021,Carrollton,Alabama,United States,33.289956,-88.151754,0,0,Non-Fatal,non-fatal,False
+103774,ERA21LA345,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103774/pdf,8/28/2021,Troy,Alabama,United States,31.867308,-85.969686,0,0,Non-Fatal,non-fatal,False
+103793,ERA21LA347,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103793/pdf,9/1/2021,Geneva,Alabama,United States,31.052625,-85.868944,0,0,Non-Fatal,non-fatal,False
+104288,ERA22LA071,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104288/pdf,11/21/2021,Brent,Alabama,United States,32.8566,-87.3747,0,0,Non-Fatal,non-fatal,False
+104435,ERA22LA092,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104435/pdf,12/21/2021,Hamilton,Alabama,United States,34.093752,-88.00355,0,1,Non-Fatal,non-fatal,False

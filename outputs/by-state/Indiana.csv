@@ -1,0 +1,197 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+82730,CEN12FA143,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82730/pdf,1/21/2012,North Vernon,Indiana,United States,38.895832,-85.555557,2,0,Fatal,fatal,True
+83186,CEN12LA195,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83186/pdf,3/20/2012,Indianapolis,Indiana,United States,39.830833,-86.294441,0,0,Non-Fatal,non-fatal,False
+83203,CEN12LA198,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83203/pdf,3/23/2012,Bloomfield,Indiana,United States,39.038887,-87.001388,0,2,Non-Fatal,non-fatal,False
+83582,CEN12LA282,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83582/pdf,5/9/2012,Flora,Indiana,United States,40.485553,-86.54528,0,0,Non-Fatal,non-fatal,False
+83802,CEN12LA332,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83802/pdf,5/26/2012,Greenfield,Indiana,United States,39.790279,-85.736114,0,0,Non-Fatal,non-fatal,False
+83890,CEN12CA347,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83890/pdf,6/6/2012,Sellersburg,Indiana,United States,38.433334,-85.866668,0,1,Non-Fatal,non-fatal,False
+83923,CEN12CA355,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83923/pdf,6/9/2012,Rockville,Indiana,United States,39.738887,-87.219444,0,0,Non-Fatal,non-fatal,False
+83926,CEN12CA356,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83926/pdf,6/11/2012,Indianapolis,Indiana,United States,39.627498,-86.088058,0,0,Non-Fatal,non-fatal,False
+83937,CEN12CA360,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83937/pdf,6/9/2012,Kokomo,Indiana,United States,40.521945,-86.054725,0,0,Non-Fatal,non-fatal,False
+84099,CEN12CA396,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84099/pdf,6/26/2012,Valparaiso,Indiana,United States,41.453887,-87.006942,0,0,Non-Fatal,non-fatal,False
+84143,CEN12LA407,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84143/pdf,6/29/2012,Evansville,Indiana,United States,38.016666,-87.591667,0,1,Non-Fatal,non-fatal,False
+84164,CEN12CA415,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84164/pdf,6/24/2012,Richmond,Indiana,United States,39.756111,-84.842781,0,0,Non-Fatal,non-fatal,False
+84235,CEN12LA424,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84235/pdf,7/8/2012,Bedford,Indiana,United States,38.837223,-86.440551,0,1,Non-Fatal,non-fatal,False
+84471,CEN12CA484,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84471/pdf,7/27/2012,Austin,Indiana,United States,38.736389,-85.639999,0,1,Non-Fatal,non-fatal,False
+84515,CEN12LA494,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84515/pdf,7/28/2012,Columbus,Indiana,United States,39.261665,-85.89611,0,0,Non-Fatal,non-fatal,False
+84616,CEN12LA532,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84616/pdf,8/7/2012,Evansville,Indiana,United States,38.038612,-87.53083,0,0,Non-Fatal,non-fatal,False
+84658,CEN12LA540,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84658/pdf,8/11/2012,Westfield,Indiana,United States,40.048889,-86.157775,0,0,Non-Fatal,non-fatal,False
+85101,CEN12LA649,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85101/pdf,9/19/2012,Tell City,Indiana,United States,38.01889,-86.692497,0,0,Non-Fatal,non-fatal,False
+85107,CEN12LA651,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85107/pdf,9/10/2012,Boonville,Indiana,United States,38.042499,-87.317779,0,0,Non-Fatal,non-fatal,False
+85170,CEN12CA663,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85170/pdf,9/29/2012,Goshen,Indiana,United States,41.526111,-85.794166,0,1,Non-Fatal,non-fatal,False
+85230,CEN13FA002,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85230/pdf,10/3/2012,Gary,Indiana,United States,41.616111,-87.41278,2,0,Fatal,fatal,True
+85365,CEN13LA015,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85365/pdf,10/16/2012,Cloverdale,Indiana,United States,39.515277,-86.802497,0,1,Non-Fatal,non-fatal,False
+85454,CEN13CA033,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85454/pdf,10/27/2012,Beechgrove,Indiana,United States,39.707778,-86.157501,0,1,Non-Fatal,non-fatal,False
+85716,CEN13FA085,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85716/pdf,12/2/2012,Greensburg,Indiana,United States,39.340515,-85.480461,4,0,Fatal,fatal,True
+85928,CEN13CA120,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85928/pdf,12/30/2012,Hobart,Indiana,United States,41.552501,-87.257499,0,0,Non-Fatal,non-fatal,False
+86001,CEN13LA127,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86001/pdf,1/2/2013,Elkhart,Indiana,United States,41.656944,-86.034721,0,0,Non-Fatal,non-fatal,False
+86094,CEN13CA144,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86094/pdf,1/27/2013,Warsaw,Indiana,United States,41.271389,-85.837219,0,0,Non-Fatal,non-fatal,False
+86442,CEN13FA196,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86442/pdf,3/17/2013,South Bend,Indiana,United States,41.695835,-86.296112,2,3,Fatal,fatal,True
+86666,CEN13LA231,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86666/pdf,4/14/2013,Bloomington,Indiana,United States,39.14611,-86.616668,0,0,Non-Fatal,non-fatal,False
+86784,CEN13CA250,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86784/pdf,5/1/2013,Ingalls,Indiana,United States,39.953334,-85.786666,0,0,Non-Fatal,non-fatal,False
+87035,CEN13CA306,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87035/pdf,5/22/2013,Danville,Indiana,United States,39.746665,-86.47528,0,0,Non-Fatal,non-fatal,False
+87093,CEN13CA317,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87093/pdf,6/4/2013,Lebanon,Indiana,United States,40.007221,-86.440277,0,0,Non-Fatal,non-fatal,False
+87403,CEN13LA397,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87403/pdf,7/5/2013,Nappanee,Indiana,United States,41.508335,-85.963333,0,0,Non-Fatal,non-fatal,False
+87527,CEN13LA424,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87527/pdf,7/19/2013,Huntingburg,Indiana,United States,38.251945,-86.921386,0,1,Non-Fatal,non-fatal,False
+87547,CEN13LA428,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87547/pdf,7/21/2013,Mill Creek,Indiana,United States,41.580554,-86.53083,1,0,Fatal,fatal,True
+87569,CEN13LA433,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87569/pdf,7/25/2013,Columbus,Indiana,United States,39.234165,-85.900001,1,1,Fatal,fatal,True
+87570,CEN13CA434,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87570/pdf,7/25/2013,Charlottesville,Indiana,United States,39.787498,-85.636947,0,0,Non-Fatal,non-fatal,False
+87617,CEN13FA446,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87617/pdf,7/29/2013,Knox,Indiana,United States,41.319721,-86.663612,1,0,Fatal,fatal,True
+87640,CEN13CA452,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87640/pdf,7/25/2013,Tell City,Indiana,United States,38.017776,-86.688613,0,0,Non-Fatal,non-fatal,False
+87650,CEN13LA455,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87650/pdf,7/28/2013,Lafayette,Indiana,United States,40.284999,-86.856391,0,1,Non-Fatal,non-fatal,False
+87674,CEN13LA459,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87674/pdf,7/25/2013,Greencastle,Indiana,United States,39.633609,-86.813613,0,0,Non-Fatal,non-fatal,False
+87831,CEN13CA498,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87831/pdf,8/21/2013,Indianapolis,Indiana,United States,40.030555,-86.251388,0,0,Non-Fatal,non-fatal,False
+87913,CEN13CA515,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87913/pdf,8/25/2013,Valparaiso,Indiana,United States,41.453887,-87.006942,0,0,Non-Fatal,non-fatal,False
+88123,CEN13LA557,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88123/pdf,9/24/2013,Urbana,Indiana,United States,40.878334,-85.778053,0,1,Non-Fatal,non-fatal,False
+88395,CEN14LA045,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88395/pdf,10/11/2013,French Lick,Indiana,United States,38.506111,-86.636947,0,0,Non-Fatal,non-fatal,False
+88902,CEN14CA155,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88902/pdf,2/26/2014,South Bend,Indiana,United States,41.708332,-86.317222,0,0,Non-Fatal,non-fatal,False
+88929,CEN14LA161,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88929/pdf,3/18/2014,Greenwood,Indiana,United States,39.63639,-86.055274,0,1,Non-Fatal,non-fatal,False
+89092,CEN14CA207,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89092/pdf,4/19/2014,Bloomington,Indiana,United States,39.145832,-86.616668,0,0,Non-Fatal,non-fatal,False
+89179,CEN14CA231,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89179/pdf,5/3/2014,Connersville,Indiana,United States,39.694442,-85.132225,0,0,Non-Fatal,non-fatal,False
+89219,CEN14LA243,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89219/pdf,5/10/2014,Attica,Indiana,United States,40.236667,-87.233055,1,0,Fatal,fatal,True
+89511,CEN14LA307,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89511/pdf,6/21/2014,Mt. Comfort,Indiana,United States,39.85889,-85.909164,0,0,Non-Fatal,non-fatal,False
+89548,CEN14CA322,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89548/pdf,6/25/2014,Knox,Indiana,United States,41.330276,-86.664718,0,0,Non-Fatal,non-fatal,False
+89566,CEN14LA327,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89566/pdf,6/27/2014,Indianapolis,Indiana,United States,39.730846,-86.289115,0,0,Non-Fatal,non-fatal,False
+89645,CEN14FA356,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89645/pdf,7/11/2014,Greenwood,Indiana,United States,39.614723,-86.091392,1,1,Fatal,fatal,True
+89683,CEN14LA374,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89683/pdf,7/16/2014,Rockville,Indiana,United States,39.796112,-87.67694,0,0,Non-Fatal,non-fatal,False
+89709,CEN14CA381,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89709/pdf,7/21/2014,Greenfield,Indiana,United States,39.843612,-85.896942,0,0,Non-Fatal,non-fatal,False
+89858,CEN14CA422,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89858/pdf,7/31/2014,Warsaw,Indiana,United States,41.274723,-85.839996,0,0,Non-Fatal,non-fatal,False
+90018,CEN14CA481,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90018/pdf,8/31/2014,Plymouth,Indiana,United States,41.415,-86.300003,0,0,Non-Fatal,non-fatal,False
+90102,CEN14LA504,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90102/pdf,9/18/2014,Bloomington,Indiana,United States,39.164722,-86.618888,2,0,Fatal,fatal,True
+90152,CEN14LA519,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90152/pdf,9/19/2014,Woodburn,Indiana,United States,41.125,-84.853332,0,0,Non-Fatal,non-fatal,False
+90300,CEN15LA026,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90300/pdf,10/24/2014,Mount Vernon,Indiana,United States,37.903888,-87.790275,1,0,Fatal,fatal,True
+90573,CEN15LA098,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90573/pdf,1/4/2015,Parker City,Indiana,United States,40.113056,-85.2425,0,1,Non-Fatal,non-fatal,False
+90602,CEN15LA103,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90602/pdf,1/10/2015,Peru,Indiana,United States,40.64389,-85.903335,0,1,Non-Fatal,non-fatal,False
+90617,CEN15LA106,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90617/pdf,1/19/2015,Shipshewana,Indiana,United States,41.705833,-85.613052,0,0,Non-Fatal,non-fatal,False
+90790,CEN15CA155,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90790/pdf,2/26/2015,Plymouth,Indiana,United States,41.365001,-86.300277,0,0,Non-Fatal,non-fatal,False
+90941,GAA15CA022,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90941/pdf,3/17/2015,New Market,Indiana,United States,39.946388,-86.92694,0,0,Non-Fatal,non-fatal,False
+91011,CEN15FA194,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91011/pdf,4/3/2015,Advance,Indiana,United States,39.994998,-86.543609,1,0,Fatal,fatal,True
+91122,CEN15LA216,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91122/pdf,5/4/2015,Huntington,Indiana,United States,40.864166,-85.470001,0,0,Non-Fatal,non-fatal,False
+91302,GAA15CA105,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91302/pdf,6/3/2015,Sharpsville,Indiana,United States,40.390277,-86.150001,0,0,Non-Fatal,non-fatal,False
+91495,CEN15CA293,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91495/pdf,7/5/2015,Crawfordsville,Indiana,United States,39.975555,-86.919723,0,1,Non-Fatal,non-fatal,False
+91692,GAA15CA208,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91692/pdf,7/22/2015,North Vernon,Indiana,United States,39.044998,-85.603614,0,0,Non-Fatal,non-fatal,False
+91833,GAA15CA234,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91833/pdf,8/15/2015,Wolcottville,Indiana,United States,41.534999,-85.375274,0,0,Non-Fatal,non-fatal,False
+91838,CEN15CA373,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91838/pdf,7/17/2015,Alexandria,Indiana,United States,40.232498,-85.637496,0,0,Non-Fatal,non-fatal,False
+91969,CEN15CA410,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91969/pdf,9/9/2015,Delphi,Indiana,United States,40.543056,-86.681388,0,0,Non-Fatal,non-fatal,False
+92014,CEN15LA417,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92014/pdf,9/5/2015,Pekin,Indiana,United States,38.474998,-85.997222,0,0,Non-Fatal,non-fatal,False
+92085,CEN15LA433,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92085/pdf,9/26/2015,Fort Wayne,Indiana,United States,40.999652,-85.209388,0,1,Non-Fatal,non-fatal,False
+92349,CEN16LA047,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92349/pdf,11/16/2015,Goshen,Indiana,United States,41.526668,-85.793334,0,0,Non-Fatal,non-fatal,False
+92649,CEN15LA451,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92649/pdf,6/20/2015,Carthage,Indiana,United States,39.738334,-85.571945,0,0,Non-Fatal,non-fatal,False
+92793,CEN16LA115,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92793/pdf,2/27/2016,Seymour,Indiana,United States,38.843055,-85.815002,0,0,Non-Fatal,non-fatal,False
+92884,GAA16CA159,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92884/pdf,3/23/2016,Valparaiso,Indiana,United States,41.453609,-87.006942,0,0,Non-Fatal,non-fatal,False
+92903,CEN16LA132,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92903/pdf,3/26/2016,Kentland,Indiana,United States,40.758888,-87.437774,0,0,Non-Fatal,non-fatal,False
+93055,CEN16LA163,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93055/pdf,4/21/2016,Zionsville,Indiana,United States,40.030555,-86.251388,0,0,Non-Fatal,non-fatal,False
+93066,GAA16LA199,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93066/pdf,4/23/2016,Culver,Indiana,United States,41.210277,-86.371391,0,1,Non-Fatal,non-fatal,False
+93096,CEN16LA170,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93096/pdf,4/29/2016,Fortville,Indiana,United States,39.916667,-85.847778,0,1,Non-Fatal,non-fatal,False
+93141,GAA16CA226,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93141/pdf,5/6/2016,Bloomington,Indiana,United States,39.14611,-86.616668,0,0,Non-Fatal,non-fatal,False
+93202,GAA16CA244,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93202/pdf,5/15/2016,Frankton,Indiana,United States,40.209445,-85.808609,0,0,Non-Fatal,non-fatal,False
+93366,CEN16FA216,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93366/pdf,6/13/2016,Rockville,Indiana,United States,39.738887,-87.219444,2,0,Fatal,fatal,True
+93373,GAA16CA307,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93373/pdf,6/11/2016,Valparaiso,Indiana,United States,41.452499,-87.006942,0,0,Non-Fatal,non-fatal,False
+93396,CEN16FA220,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93396/pdf,6/16/2016,Madison,Indiana,United States,38.746387,-85.470558,1,0,Fatal,fatal,True
+93470,GAA16CA334,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93470/pdf,6/25/2016,Kokomo,Indiana,United States,40.531944,-86.055,0,0,Non-Fatal,non-fatal,False
+93751,CEN16LA300,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93751/pdf,8/2/2016,Bluffton,Indiana,United States,40.716667,-85.25,0,2,Non-Fatal,non-fatal,False
+93812,CEN16CA317,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93812/pdf,8/9/2016,Eminence,Indiana,United States,39.573612,-86.618057,0,0,Non-Fatal,non-fatal,False
+93889,CEN16FA333,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93889/pdf,8/25/2016,Terre Haute,Indiana,United States,39.549446,-87.369163,1,1,Fatal,fatal,True
+93970,CEN16CA360,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93970/pdf,8/25/2016,Lebanon,Indiana,United States,40.007221,-86.440551,0,0,Non-Fatal,non-fatal,False
+94028,GAA16CA491,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94028/pdf,9/15/2016,Valparaiso,Indiana,United States,41.45222,-87.008331,0,0,Non-Fatal,non-fatal,False
+94141,CEN16CA390,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94141/pdf,9/30/2016,Rensselaer,Indiana,United States,40.937221,-87.182502,0,0,Non-Fatal,non-fatal,False
+94199,GAA17CA021,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94199/pdf,10/12/2016,Huntingburg,Indiana,United States,38.249168,-86.953613,0,0,Non-Fatal,non-fatal,False
+94314,CEN17LA029,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94314/pdf,10/30/2016,Jeffersonville,Indiana,United States,38.355278,-85.738052,0,0,Non-Fatal,non-fatal,False
+94454,CEN17FA046,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94454/pdf,12/2/2016,Mt Vernon,Indiana,United States,37.955001,-87.892776,1,0,Fatal,fatal,True
+94464,CEN17LA048,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94464/pdf,12/3/2016,Goshen,Indiana,United States,41.531387,-85.863334,0,0,Non-Fatal,non-fatal,False
+94643,CEN17LA082,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94643/pdf,1/6/2017,Hobart,Indiana,United States,41.551666,-87.263885,0,1,Non-Fatal,non-fatal,False
+94759,GAA17CA153,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94759/pdf,2/20/2017,Valparaiso,Indiana,United States,41.454723,-87.007225,0,0,Non-Fatal,non-fatal,False
+94867,CEN17FA127,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94867/pdf,3/14/2017,Chalmers,Indiana,United States,40.648612,-86.84333,1,0,Fatal,fatal,True
+94953,CEN17LA144,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94953/pdf,3/29/2017,Fort Wayne,Indiana,United States,40.978332,-85.195274,0,1,Non-Fatal,non-fatal,False
+94994,CEN17FA152,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94994/pdf,4/12/2017,Hartsville,Indiana,United States,39.236389,-85.693054,1,0,Fatal,fatal,True
+95006,CEN17LA154,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95006/pdf,4/7/2017,Greensburg,Indiana,United States,40.779663,-82.530532,0,0,Non-Fatal,non-fatal,False
+95025,GAA17CA237,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95025/pdf,4/18/2017,Earl Park,Indiana,United States,40.420833,-87.252502,0,0,Non-Fatal,non-fatal,False
+95174,GAA17CA279,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95174/pdf,5/10/2017,Vevay,Indiana,United States,38.516387,-85.133331,0,0,Non-Fatal,non-fatal,False
+95270,CEN17LA205,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95270/pdf,5/26/2017,Portland,Indiana,United States,40.451946,-84.979721,0,0,Non-Fatal,non-fatal,False
+95360,GAA17CA336,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95360/pdf,6/8/2017,Auburn,Indiana,United States,41.207221,-85.003334,0,0,Non-Fatal,non-fatal,False
+95540,GAA17CA401,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95540/pdf,7/7/2017,Paoli,Indiana,United States,38.585556,-86.464721,0,0,Non-Fatal,non-fatal,False
+95562,CEN17LA267,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95562/pdf,7/8/2017,Ireland,Indiana,United States,38.414722,-86.999443,0,1,Non-Fatal,non-fatal,False
+95592,CEN17LA271,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95592/pdf,7/5/2017,Rushville,Indiana,United States,39.868057,-85.754997,0,0,Non-Fatal,non-fatal,False
+95746,CEN17LA302,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95746/pdf,8/3/2017,Mentone,Indiana,United States,41.150001,-86.0625,0,0,Non-Fatal,non-fatal,False
+95824,CEN17LA318,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95824/pdf,8/14/2017,Rochester,Indiana,United States,41.067501,-86.194168,0,0,Non-Fatal,non-fatal,False
+95929,CEN17FA334,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95929/pdf,8/31/2017,Fishers,Indiana,United States,39.93,-86.040275,1,0,Fatal,fatal,True
+95995,CEN17LA348,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95995/pdf,9/12/2017,South Bend,Indiana,United States,41.708332,-86.317222,0,0,Non-Fatal,non-fatal,False
+96081,CEN17LA365,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96081/pdf,9/16/2017,Plymouth,Indiana,United States,41.345832,-86.291946,0,0,Non-Fatal,non-fatal,False
+96231,CEN17LA375,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96231/pdf,9/11/2017,Griffith,Indiana,United States,41.519721,-87.399444,0,0,Non-Fatal,non-fatal,False
+96425,CEN18LA048,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96425/pdf,12/3/2017,Jeffersonville,Indiana,United States,38.365554,-85.738052,0,0,Non-Fatal,non-fatal,False
+96487,CEN18FA053,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96487/pdf,12/16/2017,Oldenburg,Indiana,United States,39.372501,-85.248054,3,0,Fatal,fatal,True
+96540,CEN18LA062,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96540/pdf,12/27/2017,Michigan City,Indiana,United States,41.695278,-86.825553,0,0,Non-Fatal,non-fatal,False
+96680,CEN18FA088,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96680/pdf,1/27/2018,Williamsport,Indiana,United States,40.230556,-87.411109,1,0,Fatal,fatal,True
+96777,CEN18FA107,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96777/pdf,2/22/2018,Rossville,Indiana,United States,40.464721,-86.612777,3,0,Fatal,fatal,True
+96967,GAA18CA195,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96967/pdf,3/21/2018,Knox,Indiana,United States,41.325553,-86.662223,0,0,Non-Fatal,non-fatal,False
+96969,CEN18FA132,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96969/pdf,4/2/2018,Marion,Indiana,United States,40.490833,-85.679725,2,0,Fatal,fatal,True
+97222,CEN18LA165,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97222/pdf,5/8/2018,VALPARAISO,Indiana,United States,41.453887,-87.006942,0,1,Non-Fatal,non-fatal,False
+97245,GAA18CA277,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97245/pdf,5/5/2018,Waterloo,Indiana,United States,41.431388,-84.981109,0,0,Non-Fatal,non-fatal,False
+97261,CEN18LA174,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97261/pdf,5/15/2018,Fort Wayne,Indiana,United States,41.169998,-85.18,0,0,Non-Fatal,non-fatal,False
+97528,CEN18TA233,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97528/pdf,6/18/2018,Ferdinand,Indiana,United States,38.220554,-86.873054,0,1,Non-Fatal,non-fatal,False
+97704,CEN18FA258,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97704/pdf,7/6/2018,Arlington,Indiana,United States,39.633056,-85.635833,1,0,Fatal,fatal,True
+97769,CEN18LA269,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97769/pdf,7/15/2018,Franklin,Indiana,United States,39.426387,-86.058334,0,1,Non-Fatal,non-fatal,False
+97799,GAA18CA424,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97799/pdf,7/16/2018,New Castle,Indiana,United States,39.564723,-85.235557,0,0,Non-Fatal,non-fatal,False
+97841,CEN18FA282,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97841/pdf,7/19/2018,Patriot,Indiana,United States,38.794723,-84.820274,1,0,Fatal,fatal,True
+98011,CEN18LA319,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98011/pdf,8/4/2018,Knox,Indiana,United States,41.29,-86.630554,0,0,Non-Fatal,non-fatal,False
+98166,CEN18LA352,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98166/pdf,8/27/2018,Rushville,Indiana,United States,39.674999,-85.322219,0,0,Non-Fatal,non-fatal,False
+98520,ERA19LA022,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98520/pdf,10/20/2018,Brownstown,Indiana,United States,38.842777,-86.063888,0,0,Non-Fatal,non-fatal,False
+98525,WPR19LA011,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98525/pdf,10/21/2018,Indianapolis,Indiana,United States,39.894443,-86.304168,0,0,Non-Fatal,non-fatal,False
+98701,CEN19FA035,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98701/pdf,11/29/2018,Marion,Indiana,United States,40.480556,-85.682502,1,0,Fatal,fatal,True
+98710,CEN19FA036,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98710/pdf,11/30/2018,Memphis,Indiana,United States,38.475276,-85.811111,3,0,Fatal,fatal,True
+98768,CEN19FA044,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98768/pdf,12/13/2018,Valparaiso,Indiana,United States,41.451667,-87.004447,1,0,Fatal,fatal,True
+99010,CEN19FA084,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99010/pdf,2/21/2019,Goshen,Indiana,United States,41.527778,-85.757222,1,0,Fatal,fatal,True
+99038,CEN19LA090,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99038/pdf,2/11/2019,Richmond,Indiana,United States,39.750831,-84.852218,0,0,Non-Fatal,non-fatal,False
+99284,GAA19CA215,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99284/pdf,4/15/2019,Lebanon,Indiana,United States,40.007221,-86.440551,0,0,Non-Fatal,non-fatal,False
+99370,CEN19FA135,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99370/pdf,5/5/2019,Anderson,Indiana,United States,40.108612,-85.613052,0,1,Non-Fatal,non-fatal,False
+99382,GAA19CA244,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99382/pdf,5/4/2019,VALPARAISO,Indiana,United States,41.453887,-87.006942,0,0,Non-Fatal,non-fatal,False
+99384,GAA19CA246,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99384/pdf,5/5/2019,Marion,Indiana,United States,40.486946,-85.683609,0,0,Non-Fatal,non-fatal,False
+99464,CEN19FA148,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99464/pdf,5/22/2019,Greenfield,Indiana,United States,39.851387,-85.883613,2,0,Fatal,fatal,True
+99597,GAA19CA329,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99597/pdf,6/6/2019,Lafayette,Indiana,United States,40.412223,-86.936943,0,0,Non-Fatal,non-fatal,False
+99598,GAA19CA330,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99598/pdf,6/7/2019,Terre Haute,Indiana,United States,39.445835,-87.317222,0,0,Non-Fatal,non-fatal,False
+99603,CEN19LA163,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99603/pdf,6/11/2019,Switz City,Indiana,United States,39.064723,-87.053337,0,1,Non-Fatal,non-fatal,False
+99748,CEN19FA195,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99748/pdf,7/1/2019,Orleans,Indiana,United States,38.628055,-86.47583,1,0,Fatal,fatal,True
+99788,GAA19CA392,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99788/pdf,7/7/2019,Westfield,Indiana,United States,40.048889,-86.157775,0,0,Non-Fatal,non-fatal,False
+99833,CEN19LA223,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99833/pdf,7/14/2019,Elkhart,Indiana,United States,41.720535,-85.979141,0,0,Non-Fatal,non-fatal,False
+99838,CEN19LA225,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99838/pdf,7/14/2019,Knox,Indiana,United States,41.294166,-86.622497,0,1,Non-Fatal,non-fatal,False
+100166,CEN19TA293,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100166/pdf,8/25/2019,Russiaville,Indiana,United States,40.405277,-86.242774,0,0,Non-Fatal,non-fatal,False
+100216,CEN19LA309,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100216/pdf,9/9/2019,WALKERTON,Indiana,United States,41.505001,-86.515556,0,0,Non-Fatal,non-fatal,False
+100263,CEN19LA320,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100263/pdf,9/13/2019,Hoagland,Indiana,United States,40.924446,-85.017219,0,0,Non-Fatal,non-fatal,False
+100333,GAA19CA569,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100333/pdf,9/20/2019,Fort Wayne,Indiana,United States,41.143333,-85.152778,0,0,Non-Fatal,non-fatal,False
+100335,GAA19CA571,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100335/pdf,9/25/2019,Lafayette,Indiana,United States,40.412223,-86.936943,0,0,Non-Fatal,non-fatal,False
+100366,CEN20FA002,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100366/pdf,10/5/2019,Kokomo,Indiana,United States,40.474998,-86.063331,1,0,Fatal,fatal,True
+100548,GAA20CA063,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100548/pdf,11/10/2019,Lebanon,Indiana,United States,40.036109,-86.482223,0,0,Non-Fatal,non-fatal,False
+100716,CEN20FA038,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100716/pdf,12/21/2019,Evansville,Indiana,United States,38.095832,-87.540557,1,0,Fatal,fatal,True
+100982,CEN20FA098,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100982/pdf,2/23/2020,North Manchester,Indiana,United States,40.998054,-85.825553,1,0,Fatal,fatal,True
+101029,CEN20CA112,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101029/pdf,3/3/2020,Madison,Indiana,United States,38.759998,-85.464721,0,0,Non-Fatal,non-fatal,False
+101061,CEN20LA118,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101061/pdf,3/11/2020,Rensselaer,Indiana,United States,40.948333,-87.178886,0,1,Non-Fatal,non-fatal,False
+101282,CEN20CA180,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101282/pdf,5/16/2020,Rochester,Indiana,United States,41.066112,-86.189163,0,0,Non-Fatal,non-fatal,False
+101396,CEN20LA214,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101396/pdf,6/6/2020,New Washington,Indiana,United States,38.538612,-85.482498,1,0,Fatal,fatal,True
+101609,CEN20CA285,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101609/pdf,7/15/2020,Rochester,Indiana,United States,41.065555,-86.181663,0,0,Non-Fatal,non-fatal,False
+101642,CEN20CA296,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101642/pdf,7/20/2020,Bloomington,Indiana,United States,39.160556,-86.541389,0,0,Non-Fatal,non-fatal,False
+101666,CEN20LA304,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101666/pdf,7/24/2020,Monrovia,Indiana,United States,39.570869,-86.500274,1,0,Fatal,fatal,True
+101680,CEN20CA310,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101680/pdf,7/25/2020,Angola,Indiana,United States,41.636665,-85.086112,0,0,Non-Fatal,non-fatal,False
+101787,CEN20CA335,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101787/pdf,8/11/2020,Lafayette,Indiana,United States,40.411666,-87.257225,0,1,Non-Fatal,non-fatal,False
+101994,CEN20LA401,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101994/pdf,9/20/2020,Kokomo,Indiana,United States,40.529342,-86.170822,3,1,Fatal,fatal,True
+102028,CEN20CA416,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102028/pdf,9/21/2020,Lafayette,Indiana,United States,40.419727,-86.89064,0,0,Non-Fatal,non-fatal,False
+102099,CEN21LA008,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102099/pdf,10/6/2020,Mount Vernon,Indiana,United States,37.920396,-87.7663,2,0,Fatal,fatal,True
+102213,CEN21LA037,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102213/pdf,10/28/2020,Wabash,Indiana,United States,40.761972,-85.79875,0,0,Non-Fatal,non-fatal,False
+102294,CEN21LA060,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102294/pdf,11/12/2020,Salem,Indiana,United States,38.602428,-86.145168,0,0,Non-Fatal,non-fatal,False
+102349,CEN21LA068,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102349/pdf,11/28/2020,French Lick,Indiana,United States,38.504267,-86.6526,0,0,Non-Fatal,non-fatal,False
+102612,CEN21LA124,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102612/pdf,1/12/2021,Lafayette,Indiana,United States,40.318149,-86.861809,0,0,Non-Fatal,non-fatal,False
+102662,CEN21LA134,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102662/pdf,2/21/2021,Indianapolis,Indiana,United States,39.935389,-86.045068,0,0,Non-Fatal,non-fatal,False
+102752,CEN21LA157,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102752/pdf,3/5/2021,Indianapolis,Indiana,United States,39.6276,-86.088,0,0,Non-Fatal,non-fatal,False
+102853,CEN21LA171,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102853/pdf,3/22/2021,Wanatah,Indiana,United States,41.451359,-86.93296,0,0,Non-Fatal,non-fatal,False
+102937,CEN21LA194,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102937/pdf,4/16/2021,North Vernon,Indiana,United States,39.054943,-85.598748,0,0,Non-Fatal,non-fatal,False
+102975,CEN21LA200,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102975/pdf,4/25/2021,Richmond,Indiana,United States,39.748056,-84.851833,1,0,Fatal,fatal,True
+103196,CEN21LA246,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103196/pdf,5/25/2021,Indianapolis,Indiana,United States,39.935823,-86.045447,0,0,Non-Fatal,non-fatal,False
+103216,CEN21FA252,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103216/pdf,6/6/2021,Darlington,Indiana,United States,40.114244,-86.75415,2,0,Fatal,fatal,True
+103479,CEN21LA318,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103479/pdf,7/6/2021,Nappanee,Indiana,United States,41.4427,-85.9941,0,0,Non-Fatal,non-fatal,False
+103571,CEN21LA340,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103571/pdf,7/27/2021,Floyds Knobs,Indiana,United States,38.346014,-85.869725,0,1,Non-Fatal,non-fatal,False
+103628,CEN21LA353,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103628/pdf,8/3/2021,Jeffersonville,Indiana,United States,38.366618,-85.738145,0,0,Non-Fatal,non-fatal,False
+103633,CEN21LA356,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103633/pdf,8/4/2021,Corydon,Indiana,United States,38.242222,-86.046667,0,1,Non-Fatal,non-fatal,False
+103648,CEN21LA359,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103648/pdf,8/5/2021,Gosport,Indiana,United States,39.34891,-86.66797,0,0,Non-Fatal,non-fatal,False
+103760,CEN21LA386,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103760/pdf,8/25/2021,Fishers,Indiana,United States,39.927205,-86.00699,0,0,Non-Fatal,non-fatal,False
+103803,CEN21LA400,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103803/pdf,9/4/2021,Fort Wayne,Indiana,United States,40.980917,-85.187897,0,0,Non-Fatal,non-fatal,False
+104025,CEN21LA469,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104025/pdf,9/30/2021,Kokomo,Indiana,United States,40.4864,-86.1336,0,0,Non-Fatal,non-fatal,False
+104420,CEN22FA080,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104420/pdf,12/17/2021,Bloomington,Indiana,United States,39.108858,-86.604478,1,0,Fatal,fatal,True

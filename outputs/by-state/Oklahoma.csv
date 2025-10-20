@@ -1,0 +1,167 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+82688,CEN12LA134,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82688/pdf,1/13/2012,Bartlesville,Oklahoma,United States,36.729789,-96.069648,0,0,Non-Fatal,non-fatal,False
+83033,CEN12LA179,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83033/pdf,3/3/2012,Oklahoma City,Oklahoma,United States,35.488056,-97.823608,1,0,Fatal,fatal,True
+83335,CEN12LA235,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83335/pdf,3/30/2012,Alva,Oklahoma,United States,37.503055,-99.009719,0,0,Non-Fatal,non-fatal,False
+83548,CEN12CA269,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83548/pdf,4/29/2012,Hugo,Oklahoma,United States,34.033611,-95.538612,0,0,Non-Fatal,non-fatal,False
+83645,CEN12LA299,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83645/pdf,5/14/2012,Shawnee,Oklahoma,United States,35.357223,-96.943336,0,0,Non-Fatal,non-fatal,False
+83690,CEN12LA307,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83690/pdf,5/19/2012,Checotah,Oklahoma,United States,35.472499,-95.573333,1,0,Fatal,fatal,True
+83745,CEN12LA314,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83745/pdf,5/21/2012,Ardmore,Oklahoma,United States,34.146945,-97.122497,0,0,Non-Fatal,non-fatal,False
+83794,CEN12CA329,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83794/pdf,5/29/2012,Pryor,Oklahoma,United States,36.225276,-95.330001,0,0,Non-Fatal,non-fatal,False
+83955,CEN12LA368,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83955/pdf,6/12/2012,Hooker,Oklahoma,United States,36.850276,-101.221664,0,2,Non-Fatal,non-fatal,False
+84362,CEN12CA454,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84362/pdf,7/15/2012,Jenks,Oklahoma,United States,36.003887,-95.967498,0,0,Non-Fatal,non-fatal,False
+84618,CEN12CA533,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84618/pdf,8/7/2012,Newkirk,Oklahoma,United States,36.95,-96.951942,0,0,Non-Fatal,non-fatal,False
+85013,CEN12CA625,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85013/pdf,9/9/2012,Geary,Oklahoma,United States,35.619445,-98.522499,0,0,Non-Fatal,non-fatal,False
+85307,CEN12CA671,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85307/pdf,8/29/2012,Goldsby,Oklahoma,United States,35.153057,-97.468887,0,0,Non-Fatal,non-fatal,False
+85418,CEN13CA027,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85418/pdf,10/19/2012,Helena,Oklahoma,United States,36.54639,-98.270553,0,0,Non-Fatal,non-fatal,False
+85526,CEN13FA051,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85526/pdf,11/6/2012,Anadarko,Oklahoma,United States,35.041667,-98.265274,1,0,Fatal,fatal,True
+85888,CEN13TA113,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85888/pdf,12/21/2012,Oklahoma City,Oklahoma,United States,35.404167,-97.588607,0,0,Non-Fatal,non-fatal,False
+85938,CEN13FA121,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85938/pdf,1/2/2013,Seminole,Oklahoma,United States,35.30722,-96.580558,0,4,Non-Fatal,non-fatal,False
+86019,CEN13LA132,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86019/pdf,1/7/2013,Antlers,Oklahoma,United States,34.231109,-95.620834,0,0,Non-Fatal,non-fatal,False
+86050,CEN13FA137,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86050/pdf,1/19/2013,Mangum,Oklahoma,United States,35.916667,-99.591941,3,0,Fatal,fatal,True
+86185,CEN13LA155,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86185/pdf,2/6/2013,Tulsa,Oklahoma,United States,36.198333,-95.888053,0,0,Non-Fatal,non-fatal,False
+86262,CEN13LA167,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86262/pdf,2/7/2013,Idabel,Oklahoma,United States,33.909168,-94.859443,0,0,Non-Fatal,non-fatal,False
+86280,CEN13FA174,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86280/pdf,2/22/2013,Oklahoma City,Oklahoma,United States,35.565555,-97.646942,2,1,Fatal,fatal,True
+86397,CEN13CA189,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86397/pdf,3/11/2013,El Reno,Oklahoma,United States,35.468055,-98.002502,0,0,Non-Fatal,non-fatal,False
+86577,CEN13FA217,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86577/pdf,4/1/2013,Guymon,Oklahoma,United States,36.730556,-101.605278,2,0,Fatal,fatal,True
+86604,CEN13FA221,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86604/pdf,4/7/2013,Collinsville,Oklahoma,United States,36.365276,-95.84111,2,0,Fatal,fatal,True
+87090,CEN13CA315,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87090/pdf,6/3/2013,Cookson,Oklahoma,United States,35.702777,-94.934997,0,0,Non-Fatal,non-fatal,False
+87113,CEN13LA322,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87113/pdf,6/6/2013,Covington,Oklahoma,United States,36.292499,-97.593055,0,0,Non-Fatal,non-fatal,False
+87143,CEN13LA332,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87143/pdf,6/10/2013,Oklahoma City,Oklahoma,United States,35.534168,-97.646942,0,0,Non-Fatal,non-fatal,False
+87299,CEN13LA370,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87299/pdf,6/25/2013,El Reno,Oklahoma,United States,35.472778,-98.005836,0,0,Non-Fatal,non-fatal,False
+87367,CEN13LA390,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87367/pdf,6/12/2013,Boise City,Oklahoma,United States,36.774166,-102.510276,0,0,Non-Fatal,non-fatal,False
+87598,CEN13TA441,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87598/pdf,7/26/2013,Tecumseh,Oklahoma,United States,35.260555,-97.01889,0,1,Non-Fatal,non-fatal,False
+87699,CEN13FA465,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87699/pdf,8/5/2013,Balko,Oklahoma,United States,36.52222,-100.876945,1,0,Fatal,fatal,True
+87722,CEN13CA475,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87722/pdf,8/10/2013,Poteau,Oklahoma,United States,35.019443,-94.621391,0,0,Non-Fatal,non-fatal,False
+88156,CEN13LA565,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88156/pdf,9/25/2013,Weatherford,Oklahoma,United States,35.530681,-98.680824,0,0,Non-Fatal,non-fatal,False
+88237,CEN14FA010,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88237/pdf,10/18/2013,Clayton,Oklahoma,United States,34.583057,-95.500274,1,0,Fatal,fatal,True
+88312,CEN14FA019,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88312/pdf,10/21/2013,Talihina,Oklahoma,United States,34.618888,-95.02861,1,0,Fatal,fatal,True
+88409,CEN14FA046,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88409/pdf,11/10/2013,Owasso,Oklahoma,United States,36.2975,-95.874443,1,0,Fatal,fatal,True
+88575,CEN14CA092,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88575/pdf,12/20/2013,Guymon,Oklahoma,United States,36.684722,-101.508056,0,0,Non-Fatal,non-fatal,False
+88705,CEN14CA119,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88705/pdf,1/23/2014,Tulsa,Oklahoma,United States,36.039443,-95.984443,0,0,Non-Fatal,non-fatal,False
+88766,CEN14LA129,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88766/pdf,2/3/2014,Elk City,Oklahoma,United States,35.465278,-99.394721,0,0,Non-Fatal,non-fatal,False
+89062,CEN14LA199,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89062/pdf,4/12/2014,Cookson,Oklahoma,United States,35.680313,-94.889846,0,2,Non-Fatal,non-fatal,False
+89125,CEN14LA218,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89125/pdf,4/27/2014,Wann,Oklahoma,United States,36.941112,-95.752777,0,3,Non-Fatal,non-fatal,False
+89539,CEN14LA319,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89539/pdf,6/20/2014,Anadarko,Oklahoma,United States,35.059574,-98.239585,0,0,Non-Fatal,non-fatal,False
+89892,CEN14FA434,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89892/pdf,8/16/2014,Ardmore,Oklahoma,United States,34.133056,-97.110832,1,1,Fatal,fatal,True
+90108,CEN14FA506,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90108/pdf,9/19/2014,Okmulgee,Oklahoma,United States,35.714168,-95.973052,1,0,Fatal,fatal,True
+90178,CEN14CA525,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90178/pdf,9/25/2014,Nashoba,Oklahoma,United States,34.531944,-95.163887,0,0,Non-Fatal,non-fatal,False
+90180,CEN14LA526,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90180/pdf,9/29/2014,Hobart,Oklahoma,United States,35.019527,-99.089126,0,1,Non-Fatal,non-fatal,False
+90277,CEN15TA019,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90277/pdf,10/18/2014,Oklahoma City,Oklahoma,United States,35.416667,-97.392776,0,0,Non-Fatal,non-fatal,False
+90650,CEN15CA121,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90650/pdf,1/22/2015,Tulsa,Oklahoma,United States,36.039443,-95.986114,0,0,Non-Fatal,non-fatal,False
+90663,CEN15FA127,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90663/pdf,1/28/2015,Kingston,Oklahoma,United States,33.958057,-96.589164,1,0,Fatal,fatal,True
+90841,CEN15CA166,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90841/pdf,3/6/2015,Leonard,Oklahoma,United States,35.936668,-95.81639,0,0,Non-Fatal,non-fatal,False
+90848,CEN15CA168,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90848/pdf,3/7/2015,Walters,Oklahoma,United States,34.400276,-98.267219,0,0,Non-Fatal,non-fatal,False
+90927,CEN15LA180,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90927/pdf,3/24/2015,Verdigris,Oklahoma,United States,36.267501,-95.630836,0,0,Non-Fatal,non-fatal,False
+91051,CEN15LA204,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91051/pdf,4/15/2015,Maysville,Oklahoma,United States,34.834167,-97.466667,0,0,Non-Fatal,non-fatal,False
+91063,CEN15LA205,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91063/pdf,4/18/2015,Burneyville,Oklahoma,United States,33.925834,-97.296386,0,0,Non-Fatal,non-fatal,False
+91207,CEN15LA238,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91207/pdf,5/10/2015,Omega,Oklahoma,United States,35.870277,-98.197776,0,0,Non-Fatal,non-fatal,False
+91318,CEN15LA258,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91318/pdf,6/6/2015,Haskell,Oklahoma,United States,35.834167,-95.665832,0,0,Non-Fatal,non-fatal,False
+91516,GAA15CA165,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91516/pdf,7/4/2015,Comanche,Oklahoma,United States,34.313331,-97.996391,0,0,Non-Fatal,non-fatal,False
+91613,CEN15LA313,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91613/pdf,7/21/2015,Perry,Oklahoma,United States,36.384445,-97.272781,0,1,Non-Fatal,non-fatal,False
+91631,CEN15FA316,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91631/pdf,7/26/2015,Colbert,Oklahoma,United States,33.801387,-96.465835,2,0,Fatal,fatal,True
+91856,CEN15LA379,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91856/pdf,8/25/2015,Ketchum,Oklahoma,United States,36.549167,-95.000274,0,0,Non-Fatal,non-fatal,False
+92112,CEN15LA437,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92112/pdf,9/30/2015,Bartlesville,Oklahoma,United States,36.763332,-96.011108,0,0,Non-Fatal,non-fatal,False
+92566,CEN16LA082,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92566/pdf,12/23/2015,Tahlequah,Oklahoma,United States,35.930278,-95.004447,0,0,Non-Fatal,non-fatal,False
+92597,CEN16LA090,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92597/pdf,1/17/2016,Overbrook,Oklahoma,United States,34.078887,-97.109169,0,0,Non-Fatal,non-fatal,False
+92674,GAA16CA116,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92674/pdf,1/29/2016,Durant,Oklahoma,United States,33.942222,-96.394996,0,0,Non-Fatal,non-fatal,False
+92959,GAA16CA176,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92959/pdf,4/2/2016,Yukon,Oklahoma,United States,35.600276,-97.706108,0,0,Non-Fatal,non-fatal,False
+92960,GAA16CA177,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92960/pdf,4/5/2016,Hulbert,Oklahoma,United States,35.954723,-95.135276,0,0,Non-Fatal,non-fatal,False
+92983,GAA16CA180,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92983/pdf,4/2/2016,Guthrie,Oklahoma,United States,35.851387,-97.416114,0,0,Non-Fatal,non-fatal,False
+93041,GAA16CA194,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93041/pdf,4/15/2016,Stillwater,Oklahoma,United States,36.168609,-97.086944,0,0,Non-Fatal,non-fatal,False
+93054,CEN16LA162,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93054/pdf,4/21/2016,Bixby,Oklahoma,United States,35.993057,-95.886665,0,0,Non-Fatal,non-fatal,False
+93058,CEN16LA164,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93058/pdf,4/21/2016,Sand Springs,Oklahoma,United States,36.186668,-96.150001,0,0,Non-Fatal,non-fatal,False
+93086,GAA16CA208,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93086/pdf,4/27/2016,Durant,Oklahoma,United States,33.942222,-96.394447,0,0,Non-Fatal,non-fatal,False
+93174,CEN16LA183,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93174/pdf,5/13/2016,Edmond,Oklahoma,United States,35.666667,-97.614997,0,1,Non-Fatal,non-fatal,False
+93176,CEN16LA184,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93176/pdf,5/1/2016,Ponca City,Oklahoma,United States,36.731945,-97.099723,0,1,Non-Fatal,non-fatal,False
+93227,GAA16CA253,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93227/pdf,5/14/2016,Shawnee,Oklahoma,United States,35.357223,-96.942779,0,0,Non-Fatal,non-fatal,False
+93386,CEN16LA217,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93386/pdf,6/11/2016,Westport,Oklahoma,United States,36.210556,-96.254447,0,0,Non-Fatal,non-fatal,False
+93657,CEN16FA278,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93657/pdf,7/21/2016,Fairmont,Oklahoma,United States,36.372222,-97.660835,2,0,Fatal,fatal,True
+93685,GAA16CA390,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93685/pdf,7/22/2016,Claremore,Oklahoma,United States,36.288887,-95.478332,0,0,Non-Fatal,non-fatal,False
+93697,GAA16CA395,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93697/pdf,7/23/2016,Collinsville,Oklahoma,United States,36.353889,-95.803337,0,0,Non-Fatal,non-fatal,False
+93776,CEN16FA307,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93776/pdf,8/6/2016,Burns Flat,Oklahoma,United States,35.364166,-99.204444,1,0,Fatal,fatal,True
+93840,CEN16LA323,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93840/pdf,8/13/2016,Skiatook,Oklahoma,United States,36.381111,-96.010276,0,0,Non-Fatal,non-fatal,False
+94229,CEN17LA019,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94229/pdf,10/16/2016,Mc Alester,Oklahoma,United States,35.473609,-96.309448,0,2,Non-Fatal,non-fatal,False
+94268,GAA17CA037,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94268/pdf,10/16/2016,Wagoner,Oklahoma,United States,35.964443,-95.341941,0,0,Non-Fatal,non-fatal,False
+94650,CEN17FA085,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94650/pdf,1/25/2017,Jay,Oklahoma,United States,36.50111,-94.808609,1,0,Fatal,fatal,True
+94788,GAA17CA160,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94788/pdf,2/25/2017,Madill,Oklahoma,United States,34.140834,-96.811943,0,0,Non-Fatal,non-fatal,False
+94820,GAA17CA173,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94820/pdf,3/2/2017,Tulsa,Oklahoma,United States,36.040554,-95.985557,0,0,Non-Fatal,non-fatal,False
+94825,CEN17CA120,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94825/pdf,3/2/2017,Fairmont,Oklahoma,United States,36.324722,-97.753051,0,1,Non-Fatal,non-fatal,False
+94861,GAA17CA185,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94861/pdf,3/11/2017,Okmulgee,Oklahoma,United States,35.665,-95.946113,0,0,Non-Fatal,non-fatal,False
+94865,CEN17LA126,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94865/pdf,3/13/2017,Skiatook,Oklahoma,United States,36.351665,-96.011947,0,0,Non-Fatal,non-fatal,False
+94909,CEN17FA138,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94909/pdf,3/24/2017,Union City,Oklahoma,United States,35.361389,-97.91278,1,0,Fatal,fatal,True
+95078,CEN17FA170,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95078/pdf,4/28/2017,Hollis,Oklahoma,United States,34.700279,-99.908607,1,0,Fatal,fatal,True
+95192,CEN17LA186,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95192/pdf,5/13/2017,Muskogee,Oklahoma,United States,35.702777,-95.376945,0,0,Non-Fatal,non-fatal,False
+95395,CEN17LA235,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95395/pdf,6/17/2017,Buffalo,Oklahoma,United States,36.847499,-99.457496,0,0,Non-Fatal,non-fatal,False
+95400,GAA17CA349,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95400/pdf,4/19/2017,Tulsa,Oklahoma,United States,36.04111,-95.985,0,0,Non-Fatal,non-fatal,False
+95435,CEN17LA242,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95435/pdf,6/25/2017,Grove,Oklahoma,United States,36.606666,-94.738609,0,0,Non-Fatal,non-fatal,False
+95484,CEN17LA251,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95484/pdf,7/2/2017,Ponca City,Oklahoma,United States,36.654167,-97.085556,0,0,Non-Fatal,non-fatal,False
+95674,CEN17LA286,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95674/pdf,7/8/2017,Walters,Oklahoma,United States,34.399166,-98.266387,0,0,Non-Fatal,non-fatal,False
+95701,CEN17LA292,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95701/pdf,7/30/2017,Tahlequah,Oklahoma,United States,35.930278,-95.004447,0,0,Non-Fatal,non-fatal,False
+95760,GAA17CA472,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95760/pdf,8/2/2017,Skiatook,Oklahoma,United States,36.355278,-96.010833,0,0,Non-Fatal,non-fatal,False
+96031,CEN17LA357,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96031/pdf,9/15/2017,McAlester,Oklahoma,United States,34.871944,-95.78778,0,0,Non-Fatal,non-fatal,False
+96285,CEN18FA023,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96285/pdf,11/4/2017,Alva,Oklahoma,United States,36.787776,-98.670555,2,0,Fatal,fatal,True
+96465,GAA18CA082,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96465/pdf,12/9/2017,Pocasset,Oklahoma,United States,35.207221,-97.970275,0,0,Non-Fatal,non-fatal,False
+96584,CEN18LA070,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96584/pdf,1/6/2018,Ponca City,Oklahoma,United States,36.731945,-97.099723,0,0,Non-Fatal,non-fatal,False
+96611,CEN18LA075,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96611/pdf,1/13/2018,Tishomingo,Oklahoma,United States,34.198612,-96.674446,0,1,Non-Fatal,non-fatal,False
+96903,CEN18LA125,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96903/pdf,3/21/2018,Beggs,Oklahoma,United States,35.793609,-96.029724,0,0,Non-Fatal,non-fatal,False
+96926,ERA18FA114,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96926/pdf,3/25/2018,Hydro,Oklahoma,United States,35.454444,-98.562774,2,0,Fatal,fatal,True
+96958,CEN18LA131,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96958/pdf,3/31/2018,Grove,Oklahoma,United States,36.608055,-94.728057,0,0,Non-Fatal,non-fatal,False
+97159,CEN18LA156,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97159/pdf,5/2/2018,Woodward,Oklahoma,United States,36.443611,-99.514999,0,0,Non-Fatal,non-fatal,False
+97340,GAA18CA325,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97340/pdf,5/26/2018,Kingston,Oklahoma,United States,33.878887,-96.714447,0,0,Non-Fatal,non-fatal,False
+97362,CEN18FA201,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97362/pdf,5/30/2018,El Reno,Oklahoma,United States,35.611667,-97.873336,1,0,Fatal,fatal,True
+97527,CEN18FA232,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97527/pdf,6/19/2018,Enid,Oklahoma,United States,36.472499,-97.940277,1,0,Fatal,fatal,True
+97863,GAA18CA435,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97863/pdf,7/23/2018,Tulsa,Oklahoma,United States,36.19889,-95.883888,0,0,Non-Fatal,non-fatal,False
+97988,CEN18FA310,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97988/pdf,8/4/2018,Ponca City,Oklahoma,United States,36.76361,-97.150276,5,0,Fatal,fatal,True
+98058,GAA18CA485,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98058/pdf,8/4/2018,Sallisaw,Oklahoma,United States,35.438331,-94.803054,0,0,Non-Fatal,non-fatal,False
+98116,CEN18LA345,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98116/pdf,8/18/2018,Tulsa,Oklahoma,United States,36.039722,-95.984725,0,0,Non-Fatal,non-fatal,False
+98231,GAA18CA527,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98231/pdf,9/1/2018,Tulsa,Oklahoma,United States,36.038055,-95.986389,0,0,Non-Fatal,non-fatal,False
+98434,ERA19LA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98434/pdf,10/4/2018,Wagoner,Oklahoma,United States,35.965557,-95.341941,0,0,Non-Fatal,non-fatal,False
+98887,CEN19LA068,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98887/pdf,1/11/2019,Ponca City,Oklahoma,United States,36.725276,-97.101943,0,0,Non-Fatal,non-fatal,False
+99004,GAA19CA142,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99004/pdf,2/20/2019,Tulsa,Oklahoma,United States,36.039722,-95.982498,0,0,Non-Fatal,non-fatal,False
+99131,CEN19FA104,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99131/pdf,3/18/2019,Yukon,Oklahoma,United States,35.604442,-97.705558,2,0,Fatal,fatal,True
+99144,CEN19LA106,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99144/pdf,3/20/2019,Madill,Oklahoma,United States,34.30389,-97.020553,0,0,Non-Fatal,non-fatal,False
+99357,GAA19CA237,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99357/pdf,4/26/2019,Chandler,Oklahoma,United States,35.814998,-96.873886,0,0,Non-Fatal,non-fatal,False
+99698,GAA19CA368,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99698/pdf,6/22/2019,Tulsa,Oklahoma,United States,36.04111,-95.983055,0,0,Non-Fatal,non-fatal,False
+99911,CEN19LA233,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99911/pdf,7/22/2019,Kingston,Oklahoma,United States,33.999168,-96.641944,0,0,Non-Fatal,non-fatal,False
+100041,CEN19LA264,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100041/pdf,8/9/2019,Cordell,Oklahoma,United States,35.291942,-98.969718,0,1,Non-Fatal,non-fatal,False
+100143,GAA19CA512,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100143/pdf,8/12/2019,Chickasha,Oklahoma,United States,35.097499,-97.969169,0,0,Non-Fatal,non-fatal,False
+100190,CEN19LA300,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100190/pdf,8/25/2019,Bethany,Oklahoma,United States,35.534168,-97.646942,0,0,Non-Fatal,non-fatal,False
+100229,GAA19CA536,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100229/pdf,9/5/2019,TAHLEQUAH,Oklahoma,United States,35.930278,-95.004447,0,0,Non-Fatal,non-fatal,False
+100291,GAA19CA554,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100291/pdf,9/16/2019,Owasso,Oklahoma,United States,36.266666,-95.783607,0,0,Non-Fatal,non-fatal,False
+100295,CEN19LA324,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100295/pdf,9/18/2019,Duncan,Oklahoma,United States,34.471389,-97.959724,0,0,Non-Fatal,non-fatal,False
+100308,CEN19TA327,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100308/pdf,9/2/2019,Tulsa,Oklahoma,United States,36.198333,-95.888053,0,0,Non-Fatal,non-fatal,False
+100309,CEN19TA328,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100309/pdf,8/23/2019,Lawton,Oklahoma,United States,34.604167,-98.395553,0,1,Non-Fatal,non-fatal,False
+100756,CEN20LA053,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100756/pdf,1/1/2020,Ada,Oklahoma,United States,34.807333,-96.66704,0,0,Non-Fatal,non-fatal,False
+100900,CEN20CA074,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100900/pdf,2/3/2020,Kingfisher,Oklahoma,United States,35.876667,-97.953056,0,0,Non-Fatal,non-fatal,False
+101181,CEN20CA152,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101181/pdf,4/16/2020,Enid,Oklahoma,United States,36.364723,-97.667778,0,0,Non-Fatal,non-fatal,False
+101254,CEN20LA173,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101254/pdf,5/9/2020,Haskell,Oklahoma,United States,35.864166,-95.655555,0,1,Non-Fatal,non-fatal,False
+101426,CEN20CA226,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101426/pdf,6/7/2020,Talihina,Oklahoma,United States,34.707778,-95.07389,0,0,Non-Fatal,non-fatal,False
+101441,CEN20CA229,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101441/pdf,6/12/2020,McCurtain,Oklahoma,United States,35.145,-94.916114,0,1,Non-Fatal,non-fatal,False
+101503,CEN20CA249,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101503/pdf,6/1/2020,Lahoma,Oklahoma,United States,36.3875,-98.089721,0,0,Non-Fatal,non-fatal,False
+101549,CEN20LA266,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101549/pdf,7/6/2020,Pauls Valley,Oklahoma,United States,34.749168,-97.26889,0,1,Non-Fatal,non-fatal,False
+101574,CEN20LA271,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101574/pdf,7/10/2020,Dustin,Oklahoma,United States,35.154167,-95.987777,1,0,Fatal,fatal,True
+101629,CEN20LA292,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101629/pdf,7/18/2020,Burns Flat,Oklahoma,United States,35.381668,-99.20111,0,0,Non-Fatal,non-fatal,False
+101655,CEN20LA301,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101655/pdf,7/22/2020,Idabel,Oklahoma,United States,33.900001,-94.830001,0,0,Non-Fatal,non-fatal,False
+101724,CEN20LA321,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101724/pdf,8/1/2020,Seiling,Oklahoma,United States,36.15139,-98.933891,0,0,Non-Fatal,non-fatal,False
+101824,CEN20CA350,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101824/pdf,8/18/2020,Olustee,Oklahoma,United States,34.520557,-99.433891,0,0,Non-Fatal,non-fatal,False
+101914,CEN20LA378,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101914/pdf,9/3/2020,Oklahoma City,Oklahoma,United States,35.469852,-97.519767,0,0,Non-Fatal,non-fatal,False
+102021,CEN20LA413,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102021/pdf,9/19/2020,Wayne,Oklahoma,United States,34.896567,-97.19059,1,0,Fatal,fatal,True
+102256,CEN21LA047,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102256/pdf,11/7/2020,Ardmore,Oklahoma,United States,34.127751,-97.063227,0,1,Non-Fatal,non-fatal,False
+102279,CEN21LA057,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102279/pdf,10/24/2020,Tishomingo,Oklahoma,United States,34.19,-96.6,0,0,Non-Fatal,non-fatal,False
+102372,CEN21LA074,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102372/pdf,11/15/2020,Francis,Oklahoma,United States,34.874694,-96.536437,0,0,Non-Fatal,non-fatal,False
+102517,CEN21LA110,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102517/pdf,1/9/2021,Cushing,Oklahoma,United States,35.939235,-96.820585,0,0,Non-Fatal,non-fatal,False
+102855,CEN21LA173,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102855/pdf,3/26/2021,Dustin,Oklahoma,United States,35.2707,-96.0308,0,2,Non-Fatal,non-fatal,False
+102908,CEN21LA188,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102908/pdf,4/10/2021,Tishomingo,Oklahoma,United States,34.1985,-96.6745,0,0,Non-Fatal,non-fatal,False
+103077,CEN21LA216,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103077/pdf,5/12/2021,Yukon,Oklahoma,United States,35.491833,-97.821178,0,0,Non-Fatal,non-fatal,False
+103081,CEN21LA218,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103081/pdf,5/13/2021,Tulsa,Oklahoma,United States,36.191374,-95.900161,0,0,Non-Fatal,non-fatal,False
+103400,CEN21FA300,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103400/pdf,7/2/2021,Roff,Oklahoma,United States,34.61,96.78,2,0,Fatal,fatal,True
+103445,CEN21LA311,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103445/pdf,7/7/2021,Pryor,Oklahoma,United States,36.225389,-95.330056,0,0,Non-Fatal,non-fatal,False
+103455,CEN21FA314,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103455/pdf,7/12/2021,Seiling,Oklahoma,United States,36.13667,-98.31667,1,0,Fatal,fatal,True
+103559,CEN21LA338,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103559/pdf,7/23/2021,Harrah,Oklahoma,United States,35.473353,-97.186388,0,0,Non-Fatal,non-fatal,False
+103799,CEN21LA396,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103799/pdf,9/6/2021,Tulsa,Oklahoma,United States,36.132952,-95.825555,1,0,Fatal,fatal,True
+103824,CEN21LA408,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103824/pdf,8/15/2021,Heavener,Oklahoma,United States,34.776655,-94.515596,0,0,Non-Fatal,non-fatal,False
+104119,CEN22FA016,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104119/pdf,10/18/2021,Stroud,Oklahoma,United States,35.881312,-96.657354,1,0,Fatal,fatal,True
+104326,CEN22FA053,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104326/pdf,11/28/2021,Perry,Oklahoma,United States,36.380203,-97.344568,1,1,Fatal,fatal,True
+104329,CEN22LA055,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104329/pdf,11/28/2021,Haskell,Oklahoma,United States,35.832861,-95.667417,0,0,Non-Fatal,non-fatal,False
+104378,CEN22LA066,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104378/pdf,12/3/2021,Tahlequah,Oklahoma,United States,35.930278,-95.004528,0,0,Non-Fatal,non-fatal,False
+104389,CEN22FA070,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104389/pdf,12/12/2021,Inola,Oklahoma,United States,36.221,-95.519,1,0,Fatal,fatal,True

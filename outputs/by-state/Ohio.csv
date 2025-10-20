@@ -1,0 +1,254 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+83006,CEN12LA176,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83006/pdf,2/19/2012,Bowling Green,Ohio,United States,41.391109,-83.630279,0,0,Non-Fatal,non-fatal,False
+83262,CEN12FA217,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83262/pdf,3/30/2012,Belmont,Ohio,United States,40.019451,-81.040214,1,0,Fatal,fatal,True
+83268,CEN12LA218,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83268/pdf,2/18/2012,New Philadelphia,Ohio,United States,40.470001,-81.419723,0,0,Non-Fatal,non-fatal,False
+83367,CEN12CA238,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83367/pdf,4/9/2012,Youngstown,Ohio,United States,40.961666,-80.677223,0,0,Non-Fatal,non-fatal,False
+83405,CEN12LA245,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83405/pdf,4/13/2012,Medina,Ohio,United States,41.37994,-81.639533,0,0,Non-Fatal,non-fatal,False
+83446,CEN12FA251,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83446/pdf,4/21/2012,Newcomerstown,Ohio,United States,40.249443,-81.545555,1,0,Fatal,fatal,True
+83863,CEN12LA337,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83863/pdf,6/4/2012,Put-in-Bay,Ohio,United States,41.636665,-82.82833,0,0,Non-Fatal,non-fatal,False
+83909,CEN12LA349,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83909/pdf,6/9/2012,Spring Valley,Ohio,United States,39.610214,-83.999046,1,0,Fatal,fatal,True
+83975,CEN12LA369,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83975/pdf,6/8/2012,Norwalk,Ohio,United States,41.24472,-82.551109,0,0,Non-Fatal,non-fatal,False
+84028,CEN12LA381,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84028/pdf,6/18/2012,Farmersville,Ohio,United States,39.695835,-84.448333,0,1,Non-Fatal,non-fatal,False
+84115,CEN12LA401,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84115/pdf,6/28/2012,Baltic,Ohio,United States,40.439552,-81.700576,0,2,Non-Fatal,non-fatal,False
+84149,CEN12LA410,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84149/pdf,6/29/2012,Centerburg,Ohio,United States,40.30088,-82.689758,0,0,Non-Fatal,non-fatal,False
+84153,CEN12CA413,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84153/pdf,6/29/2012,Newark,Ohio,United States,40.024723,-82.461669,0,1,Non-Fatal,non-fatal,False
+84327,CEN12LA445,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84327/pdf,7/15/2012,Waynesville,Ohio,United States,39.537776,-84.129997,0,0,Non-Fatal,non-fatal,False
+84348,CEN12LA448,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84348/pdf,7/17/2012,Marlboro,Ohio,United States,40.943889,-81.238891,0,1,Non-Fatal,non-fatal,False
+84388,CEN12LA460,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84388/pdf,7/20/2012,Rutland,Ohio,United States,39.11,-82.113609,1,0,Fatal,fatal,True
+84649,CEN12LA538,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84649/pdf,8/7/2012,Galion,Ohio,United States,40.753334,-83.723892,0,0,Non-Fatal,non-fatal,False
+84697,CEN12TA550,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84697/pdf,8/16/2012,Columbus,Ohio,United States,39.970146,-83.010154,0,0,Non-Fatal,non-fatal,False
+84780,CEN12LA569,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84780/pdf,8/18/2012,Leesburg,Ohio,United States,39.339145,-83.550384,0,0,Non-Fatal,non-fatal,False
+84843,CEN12CA585,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84843/pdf,8/28/2012,Brookville,Ohio,United States,39.862499,-84.433052,0,0,Non-Fatal,non-fatal,False
+84864,CEN12LA593,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84864/pdf,8/30/2012,Bowling Green,Ohio,United States,41.387779,-83.624725,0,0,Non-Fatal,non-fatal,False
+84917,CEN12CA600,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84917/pdf,8/26/2012,Columbus,Ohio,United States,39.991943,-82.88861,0,0,Non-Fatal,non-fatal,False
+84990,CEN12CA620,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84990/pdf,9/9/2012,Phillipsburg,Ohio,United States,39.913055,-84.400276,0,0,Non-Fatal,non-fatal,False
+85400,CEN12LA676,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85400/pdf,7/19/2012,Elyria,Ohio,United States,41.344165,-82.17778,0,0,Non-Fatal,non-fatal,False
+85428,CEN13CA031,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85428/pdf,10/24/2012,Carrollton,Ohio,United States,40.561389,-81.078056,0,0,Non-Fatal,non-fatal,False
+85497,CEN13CA043,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85497/pdf,11/3/2012,Georgetown,Ohio,United States,38.875831,-83.876113,0,0,Non-Fatal,non-fatal,False
+85536,CEN13LA055,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85536/pdf,11/4/2012,Darbyville,Ohio,United States,39.702499,-83.147224,0,1,Non-Fatal,non-fatal,False
+86033,CEN13CA136,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86033/pdf,1/15/2013,Upper Sandusky,Ohio,United States,40.883335,-83.314445,0,0,Non-Fatal,non-fatal,False
+86067,CEN13CA139,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86067/pdf,1/17/2013,Phillipsburg,Ohio,United States,39.829353,-84.409759,0,0,Non-Fatal,non-fatal,False
+86104,CEN13CA145,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86104/pdf,1/29/2013,London,Ohio,United States,40.050834,-83.386665,0,0,Non-Fatal,non-fatal,False
+86398,CEN13CA190,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86398/pdf,3/11/2013,Middletown,Ohio,United States,39.531665,-84.396385,0,1,Non-Fatal,non-fatal,False
+86556,CEN13CA215,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86556/pdf,3/30/2013,Willoughby,Ohio,United States,41.565277,-81.486389,0,0,Non-Fatal,non-fatal,False
+86590,CEN13LA218,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86590/pdf,3/29/2013,Cleveland,Ohio,United States,41.517501,-81.683334,0,0,Non-Fatal,non-fatal,False
+86753,CEN13LA244,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86753/pdf,4/27/2013,Bryan,Ohio,United States,41.508335,-84.563613,1,1,Fatal,fatal,True
+86790,CEN13CA251,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86790/pdf,5/1/2013,Cortland,Ohio,United States,41.381942,-80.712219,0,0,Non-Fatal,non-fatal,False
+86879,CEN13FA274,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86879/pdf,6/22/2013,Dayton,Ohio,United States,39.907222,-84.217224,2,0,Fatal,fatal,True
+87032,CEN13LA304,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87032/pdf,5/11/2013,Hamilton,Ohio,United States,39.360553,-84.529441,0,0,Non-Fatal,non-fatal,False
+87037,CEN13LA308,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87037/pdf,5/29/2013,Elyria,Ohio,United States,41.344165,-82.17778,0,0,Non-Fatal,non-fatal,False
+87174,CEN13CA343,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87174/pdf,6/10/2013,Franklin,Ohio,United States,39.549743,-84.300888,0,0,Non-Fatal,non-fatal,False
+87243,CEN13LA361,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87243/pdf,6/20/2013,Dayton,Ohio,United States,39.904167,-84.21833,0,0,Non-Fatal,non-fatal,False
+87267,CEN13LA366,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87267/pdf,6/18/2013,Cincinnati,Ohio,United States,39.103332,-84.418609,0,0,Non-Fatal,non-fatal,False
+87353,CEN13CA385,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87353/pdf,6/29/2013,Waynesville,Ohio,United States,39.476665,-84.093612,0,0,Non-Fatal,non-fatal,False
+87705,CEN13LA467,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87705/pdf,7/16/2013,Dalton,Ohio,United States,40.871387,-81.886108,0,0,Non-Fatal,non-fatal,False
+87825,CEN13LA497,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87825/pdf,8/20/2013,Zanesville,Ohio,United States,40.006942,-82.012222,0,0,Non-Fatal,non-fatal,False
+88122,CEN13CA556,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88122/pdf,9/24/2013,Wadsworth,Ohio,United States,41.028331,-81.798332,0,1,Non-Fatal,non-fatal,False
+88186,CEN14LA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88186/pdf,10/9/2013,Xenia,Ohio,United States,39.691112,-83.991943,0,0,Non-Fatal,non-fatal,False
+88527,CEN14CA078,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88527/pdf,12/7/2013,Columbia Station,Ohio,United States,41.318889,-81.960281,0,0,Non-Fatal,non-fatal,False
+88528,CEN14LA079,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88528/pdf,12/4/2013,Jeromesville,Ohio,United States,40.804164,-82.195831,0,1,Non-Fatal,non-fatal,False
+88561,CEN14CA088,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88561/pdf,12/13/2013,Bowling Green,Ohio,United States,41.390834,-83.793891,0,0,Non-Fatal,non-fatal,False
+88810,CEN14LA144,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88810/pdf,2/13/2014,Galion,Ohio,United States,40.753334,-82.723609,0,0,Non-Fatal,non-fatal,False
+88896,CEN14CA153,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88896/pdf,3/6/2014,Cleveland,Ohio,United States,41.517501,-81.683334,0,0,Non-Fatal,non-fatal,False
+88912,CEN14LA159,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88912/pdf,3/8/2014,Wapakoneta,Ohio,United States,40.49361,-84.298057,0,0,Non-Fatal,non-fatal,False
+88933,CEN14CA162,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88933/pdf,3/13/2014,West Union,Ohio,United States,38.851387,-83.56639,0,0,Non-Fatal,non-fatal,False
+89010,CEN14FA185,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89010/pdf,4/5/2014,Albany,Ohio,United States,39.212501,-82.243057,1,0,Fatal,fatal,True
+89049,CEN14LA195,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89049/pdf,4/12/2014,Amelia,Ohio,United States,39.04639,-84.270835,0,0,Non-Fatal,non-fatal,False
+89162,CEN14LA228,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89162/pdf,4/24/2014,Richwood,Ohio,United States,40.419147,-83.289306,0,2,Non-Fatal,non-fatal,False
+89184,CEN14LA233,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89184/pdf,5/6/2014,Lancaster,Ohio,United States,39.753612,-82.674446,0,0,Non-Fatal,non-fatal,False
+89296,CEN14CA260,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89296/pdf,5/27/2014,Wadsworth,Ohio,United States,41.029998,-81.779998,0,0,Non-Fatal,non-fatal,False
+89328,CEN14CA268,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89328/pdf,5/26/2014,New Carlisle,Ohio,United States,39.930831,-84.013336,0,0,Non-Fatal,non-fatal,False
+89347,CEN14LA272,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89347/pdf,6/1/2014,Middletown,Ohio,United States,39.531944,-84.396385,1,0,Fatal,fatal,True
+89357,CEN14CA274,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89357/pdf,5/30/2014,Bluffton,Ohio,United States,40.890441,-83.879493,0,0,Non-Fatal,non-fatal,False
+89405,CEN14CA282,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89405/pdf,5/29/2014,Galion,Ohio,United States,40.752777,-82.724723,0,0,Non-Fatal,non-fatal,False
+89415,CEN14CA285,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89415/pdf,6/4/2014,Lebanon,Ohio,United States,39.454444,-84.252777,0,0,Non-Fatal,non-fatal,False
+89644,CEN14CA355,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89644/pdf,6/15/2014,Put in Bay,Ohio,United States,41.638332,-82.826942,0,0,Non-Fatal,non-fatal,False
+89745,CEN14FA389,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89745/pdf,7/27/2014,Findlay,Ohio,United States,41.040611,-83.639495,2,0,Fatal,fatal,True
+89775,CEN14LA398,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89775/pdf,7/29/2014,West Liberty,Ohio,United States,40.301944,-83.76889,0,1,Non-Fatal,non-fatal,False
+89926,CEN14LA445,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89926/pdf,8/19/2014,Bethel,Ohio,United States,38.923332,-84.043609,0,1,Non-Fatal,non-fatal,False
+89948,CEN14FA453,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89948/pdf,8/25/2014,Willoughby Hills,Ohio,United States,41.572223,-81.478057,4,0,Fatal,fatal,True
+89958,CEN14LA456,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89958/pdf,8/26/2014,Edon,Ohio,United States,41.550014,-84.759254,0,0,Non-Fatal,non-fatal,False
+90043,CEN14LA489,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90043/pdf,9/5/2014,Highland Heights,Ohio,United States,41.564998,-81.486389,0,0,Non-Fatal,non-fatal,False
+90109,CEN14LA507,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90109/pdf,9/20/2014,Middletown,Ohio,United States,39.418334,-84.362503,2,0,Fatal,fatal,True
+90255,CEN15CA010,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90255/pdf,10/12/2014,Waynesville,Ohio,United States,39.476665,-84.093887,0,1,Non-Fatal,non-fatal,False
+90289,CEN15LA024,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90289/pdf,10/19/2014,Xenia,Ohio,United States,39.679164,-83.870834,0,1,Non-Fatal,non-fatal,False
+90368,CEN15FA040,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90368/pdf,11/6/2014,Grover Hill,Ohio,United States,41.045833,-84.496948,3,0,Fatal,fatal,True
+90545,CEN15FA088,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90545/pdf,12/29/2014,Port Clinton,Ohio,United States,41.520557,-82.871948,1,0,Fatal,fatal,True
+90916,GAA15CA016,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90916/pdf,3/18/2015,Mount Vernon,Ohio,United States,40.328887,-82.525558,0,0,Non-Fatal,non-fatal,False
+90960,GAA15LA027,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90960/pdf,3/28/2015,Westfield Township,Ohio,United States,41.045276,-81.936668,0,1,Non-Fatal,non-fatal,False
+90976,CEN15CA188,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90976/pdf,2/12/2015,Akron,Ohio,United States,41.037498,-81.466667,0,0,Non-Fatal,non-fatal,False
+91016,CEN15CA196,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91016/pdf,4/11/2015,Cambridge,Ohio,United States,39.974998,-81.577499,0,0,Non-Fatal,non-fatal,False
+91253,GAA15CA093,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91253/pdf,5/23/2015,Lorain/Elyria,Ohio,United States,41.344165,-82.17778,0,0,Non-Fatal,non-fatal,False
+91255,GAA15CA094,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91255/pdf,5/25/2015,Galion,Ohio,United States,40.752777,-82.724441,0,0,Non-Fatal,non-fatal,False
+91412,GAA15CA130,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91412/pdf,6/9/2015,Swanton,Ohio,United States,41.587223,-83.8125,0,0,Non-Fatal,non-fatal,False
+91441,CEN15FA281,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91441/pdf,6/26/2015,Beloit,Ohio,United States,40.910556,-81.0,1,0,Fatal,fatal,True
+91453,GAA15CA141,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91453/pdf,6/25/2015,Middlefield,Ohio,United States,41.449722,-81.063056,0,0,Non-Fatal,non-fatal,False
+91539,CEN15LA303,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91539/pdf,7/5/2015,Cincinnati,Ohio,United States,39.031944,-84.272499,0,0,Non-Fatal,non-fatal,False
+91865,GAA15CA237,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91865/pdf,8/23/2015,Springfield,Ohio,United States,39.842224,-83.838607,0,0,Non-Fatal,non-fatal,False
+91894,CEN15LA391,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91894/pdf,8/31/2015,Hebron,Ohio,United States,39.961112,-82.540832,0,0,Non-Fatal,non-fatal,False
+92182,GAA15CA299,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92182/pdf,9/17/2015,Wellington,Ohio,United States,41.16611,-82.197219,0,0,Non-Fatal,non-fatal,False
+92294,CEN16LA031,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92294/pdf,11/4/2015,Wakeman,Ohio,United States,41.293056,-82.370552,0,0,Non-Fatal,non-fatal,False
+92666,CEN16FA095,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92666/pdf,1/26/2016,Xenia,Ohio,United States,39.690834,-83.991943,1,0,Fatal,fatal,True
+92784,GAA16CA139,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92784/pdf,2/21/2016,Willoughby,Ohio,United States,41.685832,-81.390556,0,0,Non-Fatal,non-fatal,False
+92842,GAA16CA148,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92842/pdf,3/9/2016,Chesapeake,Ohio,United States,38.419166,-82.494445,0,0,Non-Fatal,non-fatal,False
+93037,CEN16LA157,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93037/pdf,4/14/2016,Mansfield,Ohio,United States,40.821388,-82.51667,0,0,Non-Fatal,non-fatal,False
+93078,CEN16FA169,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93078/pdf,4/24/2016,Carrollton,Ohio,United States,40.610832,-80.974441,1,0,Fatal,fatal,True
+93127,GAA16CA221,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93127/pdf,5/6/2016,Batavia,Ohio,United States,39.077777,-84.21083,0,0,Non-Fatal,non-fatal,False
+93151,CEN16LA178,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93151/pdf,5/10/2016,Akron,Ohio,United States,40.915,-81.443611,0,0,Non-Fatal,non-fatal,False
+93186,GAA16CA238,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93186/pdf,5/13/2016,Millersburg,Ohio,United States,40.536666,-81.955833,0,0,Non-Fatal,non-fatal,False
+93299,GAA16CA274,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93299/pdf,5/31/2016,Zanesville,Ohio,United States,40.007221,-82.012496,0,0,Non-Fatal,non-fatal,False
+93311,GAA16CA278,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93311/pdf,5/31/2016,Wadsworth,Ohio,United States,41.002498,-81.754997,0,0,Non-Fatal,non-fatal,False
+93365,GAA16CA301,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93365/pdf,6/8/2016,Urbana,Ohio,United States,40.130279,-83.754447,0,0,Non-Fatal,non-fatal,False
+93472,GAA16CA335,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93472/pdf,6/26/2016,Richwood,Ohio,United States,40.465831,-83.285003,0,0,Non-Fatal,non-fatal,False
+93531,CEN16LA243,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93531/pdf,6/30/2016,Marysville,Ohio,United States,40.223888,-83.35083,0,0,Non-Fatal,non-fatal,False
+93542,GAA16CA361,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93542/pdf,6/21/2016,Lancaster,Ohio,United States,39.755554,-82.657218,0,0,Non-Fatal,non-fatal,False
+93660,CEN16LA281,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93660/pdf,7/22/2016,Springfield,Ohio,United States,39.873889,-83.687225,2,0,Fatal,fatal,True
+93686,GAA16CA391,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93686/pdf,7/20/2016,Blanchester,Ohio,United States,39.206665,-84.018333,0,0,Non-Fatal,non-fatal,False
+93773,CEN16LA306,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93773/pdf,8/4/2016,Russellville,Ohio,United States,38.881942,-83.882774,0,0,Non-Fatal,non-fatal,False
+93788,CEN16LA311,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93788/pdf,8/6/2016,Cardington,Ohio,United States,40.495834,-82.902221,0,0,Non-Fatal,non-fatal,False
+93794,CEN16LA313,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93794/pdf,8/4/2016,Mt. Orab,Ohio,United States,39.058055,-83.910835,0,0,Non-Fatal,non-fatal,False
+93871,GAA16CA441,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93871/pdf,8/17/2016,Cadiz,Ohio,United States,40.23722,-81.010833,0,0,Non-Fatal,non-fatal,False
+93933,CEN16LA342,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93933/pdf,8/30/2016,Madison,Ohio,United States,41.792221,-81.058052,0,0,Non-Fatal,non-fatal,False
+93951,CEN16LA353,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93951/pdf,9/4/2016,Plain City,Ohio,United States,40.153888,-83.274444,0,1,Non-Fatal,non-fatal,False
+93966,GAA16CA471,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93966/pdf,8/6/2016,Hillsboro,Ohio,United States,39.280555,-83.675834,0,0,Non-Fatal,non-fatal,False
+94013,CEN16FA370,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94013/pdf,9/14/2016,Arcanum,Ohio,United States,39.976943,-84.543052,2,0,Fatal,fatal,True
+94032,CEN16LA374,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94032/pdf,9/13/2016,Bowling Green,Ohio,United States,41.586944,-83.808052,0,0,Non-Fatal,non-fatal,False
+94066,CEN16LA382,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94066/pdf,9/21/2016,Wooster,Ohio,United States,40.873054,-81.942779,0,0,Non-Fatal,non-fatal,False
+94077,GAA16CA507,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94077/pdf,9/3/2016,Dalton,Ohio,United States,40.79861,-81.695556,0,0,Non-Fatal,non-fatal,False
+94217,CEN17FA016,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94217/pdf,10/16/2016,Oregonia,Ohio,United States,39.398334,-84.102218,2,0,Fatal,fatal,True
+94269,GAA17CA038,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94269/pdf,10/15/2016,Wilmington,Ohio,United States,39.503055,-83.863052,0,0,Non-Fatal,non-fatal,False
+94284,GAA17CA047,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94284/pdf,10/15/2016,Springfield,Ohio,United States,39.83889,-83.845001,0,0,Non-Fatal,non-fatal,False
+94451,GAA16CA529,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94451/pdf,9/2/2016,Delaware,Ohio,United States,40.279724,-83.115554,0,0,Non-Fatal,non-fatal,False
+94527,CEN17LA060,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94527/pdf,12/21/2016,Millersburg,Ohio,United States,40.536666,-81.955833,0,0,Non-Fatal,non-fatal,False
+94545,CEN17FA072,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94545/pdf,12/29/2016,Cleveland,Ohio,United States,41.554721,-81.70333,6,0,Fatal,fatal,True
+94639,CEN17LA081,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94639/pdf,1/21/2017,Kidron,Ohio,United States,40.74472,-81.764724,0,0,Non-Fatal,non-fatal,False
+94696,GAA17CA133,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94696/pdf,1/22/2017,Sebring,Ohio,United States,40.906112,-81.0,0,0,Non-Fatal,non-fatal,False
+94727,CEN17LA104,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94727/pdf,2/14/2017,Columbus,Ohio,United States,39.901111,-83.136947,0,0,Non-Fatal,non-fatal,False
+94751,CEN17FA108,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94751/pdf,2/19/2017,Springfield,Ohio,United States,39.915554,-83.704444,1,0,Fatal,fatal,True
+94984,GAA17CA223,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94984/pdf,4/8/2017,New Carlisle,Ohio,United States,39.930278,-84.013336,0,0,Non-Fatal,non-fatal,False
+95130,GAA17CA266,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95130/pdf,5/3/2017,Portage County Airport,Ohio,United States,41.210277,-81.248611,0,0,Non-Fatal,non-fatal,False
+95181,GAA17CA282,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95181/pdf,5/9/2017,Fremont,Ohio,United States,41.334445,-83.164718,0,0,Non-Fatal,non-fatal,False
+95276,CEN17FA207,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95276/pdf,6/1/2017,Bowling Green,Ohio,United States,41.339168,-83.598609,1,0,Fatal,fatal,True
+95356,GAA17CA334,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95356/pdf,6/9/2017,Geneva,Ohio,United States,41.77861,-80.90361,0,0,Non-Fatal,non-fatal,False
+95357,GAA17CA335,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95357/pdf,6/12/2017,Stow,Ohio,United States,41.150001,-81.415275,0,0,Non-Fatal,non-fatal,False
+95363,GAA17CA337,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95363/pdf,6/11/2017,Ravenna,Ohio,United States,41.210277,-81.251663,0,0,Non-Fatal,non-fatal,False
+95393,CEN17LA234,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95393/pdf,6/17/2017,Mount Vernon,Ohio,United States,40.365276,-82.495277,1,0,Fatal,fatal,True
+95522,CEN17FA258,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95522/pdf,7/8/2017,Waterford,Ohio,United States,39.575553,-81.690277,2,0,Fatal,fatal,True
+95544,CEN17LA261,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95544/pdf,7/5/2017,Wauseon,Ohio,United States,41.61222,-84.138885,0,0,Non-Fatal,non-fatal,False
+95628,GAA17CA425,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95628/pdf,7/18/2017,Bowling Green,Ohio,United States,41.391666,-83.629997,0,0,Non-Fatal,non-fatal,False
+95721,CEN17LA295,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95721/pdf,7/30/2017,Loudonville,Ohio,United States,40.632778,-82.17694,0,0,Non-Fatal,non-fatal,False
+95761,CEN17LA305,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95761/pdf,8/5/2017,Marion,Ohio,United States,40.62611,-83.109443,0,1,Non-Fatal,non-fatal,False
+95791,CEN17LA311,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95791/pdf,8/9/2017,Wellston,Ohio,United States,39.125,-82.53833,0,0,Non-Fatal,non-fatal,False
+95847,CEN17LA322,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95847/pdf,7/4/2017,Hamilton,Ohio,United States,39.363887,-84.525558,0,0,Non-Fatal,non-fatal,False
+95850,CEN17LA323,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95850/pdf,8/12/2017,Ashland,Ohio,United States,40.859706,-82.309471,0,1,Non-Fatal,non-fatal,False
+96035,CEN17LA358,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96035/pdf,9/17/2017,London,Ohio,United States,39.932777,-83.461944,0,0,Non-Fatal,non-fatal,False
+96171,GAA18CA008,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96171/pdf,10/8/2017,Medina,Ohio,United States,41.131668,-81.761947,0,0,Non-Fatal,non-fatal,False
+96203,CEN18LA014,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96203/pdf,10/16/2017,Gustavus,Ohio,United States,41.453609,-80.692779,0,1,Non-Fatal,non-fatal,False
+96233,GAA18CA019,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96233/pdf,10/22/2017,Dayton,Ohio,United States,39.691112,-83.991943,0,0,Non-Fatal,non-fatal,False
+96249,CEN17LA376,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96249/pdf,9/27/2017,Piqua,Ohio,United States,40.164722,-84.308334,0,0,Non-Fatal,non-fatal,False
+96311,GAA18CA038,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96311/pdf,11/5/2017,Batavia,Ohio,United States,39.084167,-84.205001,0,0,Non-Fatal,non-fatal,False
+96331,GAA18CA046,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96331/pdf,11/14/2017,Columbus,Ohio,United States,40.077777,-83.068054,0,0,Non-Fatal,non-fatal,False
+96360,CEN18LA036,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96360/pdf,11/8/2017,Carroll,Ohio,United States,39.755554,-82.657218,0,0,Non-Fatal,non-fatal,False
+96417,CEN18FA045,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96417/pdf,12/3/2017,Ravenna,Ohio,United States,41.20861,-81.228332,1,0,Fatal,fatal,True
+96510,GAA18CA089,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96510/pdf,12/13/2017,Newark,Ohio,United States,40.023056,-82.46389,0,0,Non-Fatal,non-fatal,False
+96545,CEN18LA064,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96545/pdf,12/28/2017,Paulding,Ohio,United States,41.188888,-84.708053,0,0,Non-Fatal,non-fatal,False
+96591,CEN18LA073,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96591/pdf,1/11/2018,Wadsworth,Ohio,United States,41.003055,-81.756385,0,0,Non-Fatal,non-fatal,False
+96607,CEN18FA074,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96607/pdf,1/15/2018,Perrysburg,Ohio,United States,41.501667,-83.445274,2,0,Fatal,fatal,True
+96803,GAA18CA144,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96803/pdf,2/18/2018,Ashland,Ohio,United States,40.903057,-82.255554,0,0,Non-Fatal,non-fatal,False
+96832,GAA18CA150,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96832/pdf,3/6/2018,Kent,Ohio,United States,41.147499,-81.415832,0,0,Non-Fatal,non-fatal,False
+97045,CEN18FA143,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97045/pdf,4/16/2018,Warsaw,Ohio,United States,40.406387,-82.081947,2,0,Fatal,fatal,True
+97165,GAA18CA249,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97165/pdf,4/29/2018,Newark,Ohio,United States,40.130001,-82.29,0,0,Non-Fatal,non-fatal,False
+97244,GAA18CA276,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97244/pdf,5/8/2018,Batavia,Ohio,United States,39.080276,-84.20861,0,0,Non-Fatal,non-fatal,False
+97249,CEN18LA171,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97249/pdf,5/11/2018,ORRVILLE,Ohio,United States,40.875556,-81.766387,0,1,Non-Fatal,non-fatal,False
+97253,CEN18LA173,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97253/pdf,5/15/2018,Hamilton,Ohio,United States,39.363887,-84.521942,0,1,Non-Fatal,non-fatal,False
+97315,GAA18CA295,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97315/pdf,5/24/2018,Batavia,Ohio,United States,39.078334,-84.210556,0,0,Non-Fatal,non-fatal,False
+97519,GAA18CA359,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97519/pdf,6/15/2018,Hillsboro,Ohio,United States,39.188888,-83.538887,0,0,Non-Fatal,non-fatal,False
+97566,CEN18LA239,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97566/pdf,6/25/2018,Beach City,Ohio,United States,40.646389,-81.555831,0,1,Non-Fatal,non-fatal,False
+97648,CEN18LA245,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97648/pdf,6/29/2018,Ashland,Ohio,United States,40.877223,-82.331665,1,0,Fatal,fatal,True
+97804,GAA18CA425,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97804/pdf,7/13/2018,Batavia,Ohio,United States,39.078887,-84.209724,0,0,Non-Fatal,non-fatal,False
+97805,GAA18CA426,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97805/pdf,7/14/2018,Dayton,Ohio,United States,39.58889,-84.224723,0,0,Non-Fatal,non-fatal,False
+97807,CEN18LA275,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97807/pdf,7/12/2018,Orient,Ohio,United States,39.805831,-83.152221,0,0,Non-Fatal,non-fatal,False
+97846,CEN18LA284,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97846/pdf,7/19/2018,Zanesville,Ohio,United States,39.988609,-81.884719,0,0,Non-Fatal,non-fatal,False
+97923,WPR18LA207,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97923/pdf,7/28/2018,Mount Vernon,Ohio,United States,40.328887,-82.526107,0,0,Non-Fatal,non-fatal,False
+97930,CEN18LA301,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97930/pdf,7/27/2018,Painesville,Ohio,United States,41.666942,-81.197219,0,1,Non-Fatal,non-fatal,False
+97933,GAA18CA452,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97933/pdf,7/28/2018,Wadsworth,Ohio,United States,41.027221,-81.798889,0,0,Non-Fatal,non-fatal,False
+98002,GAA18CA470,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98002/pdf,8/6/2018,Mansfield,Ohio,United States,40.755001,-82.721664,0,0,Non-Fatal,non-fatal,False
+98065,GAA18CA487,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98065/pdf,8/10/2018,Waynesville,Ohio,United States,39.505279,-84.121948,0,0,Non-Fatal,non-fatal,False
+98157,CEN18LA351,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98157/pdf,8/26/2018,Delaware,Ohio,United States,40.299999,-83.0,0,0,Non-Fatal,non-fatal,False
+98211,CEN18LA362,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98211/pdf,8/31/2018,New Carlisle,Ohio,United States,39.931661,-84.024778,0,1,Non-Fatal,non-fatal,False
+98249,CEN18LA370,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98249/pdf,8/31/2018,Lancaster,Ohio,United States,39.755554,-82.657218,0,0,Non-Fatal,non-fatal,False
+98257,GAA18CA539,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98257/pdf,9/3/2018,DELAWARE,Ohio,United States,40.27861,-83.103889,0,0,Non-Fatal,non-fatal,False
+98543,CEN19LA013,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98543/pdf,10/24/2018,Middletown,Ohio,United States,39.531944,-84.396385,0,0,Non-Fatal,non-fatal,False
+98602,GAA19CA049,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98602/pdf,11/4/2018,ELYRIA,Ohio,United States,41.344165,-82.17778,0,0,Non-Fatal,non-fatal,False
+98665,GAA19CA069,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98665/pdf,11/17/2018,Versailles,Ohio,United States,40.204444,-84.532501,0,0,Non-Fatal,non-fatal,False
+98794,CEN19LA047,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98794/pdf,12/16/2018,McClure,Ohio,United States,41.371112,-83.942222,0,0,Non-Fatal,non-fatal,False
+98847,CEN19LA056,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98847/pdf,1/21/2019,Kidron,Ohio,United States,40.755554,-81.776947,2,0,Fatal,fatal,True
+98895,GAA19CA104,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98895/pdf,1/6/2019,Bowling Green,Ohio,United States,41.391109,-83.630279,0,0,Non-Fatal,non-fatal,False
+99071,GAA19CA156,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99071/pdf,3/7/2019,Marysville,Ohio,United States,40.224445,-83.351669,0,0,Non-Fatal,non-fatal,False
+99098,ERA19FA124,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99098/pdf,3/12/2019,Madeira,Ohio,United States,39.179443,-84.380279,1,0,Fatal,fatal,True
+99120,CEN19FA100,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99120/pdf,3/17/2019,Plain City,Ohio,United States,40.188331,-83.204444,1,0,Fatal,fatal,True
+99262,GAA19CA204,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99262/pdf,4/11/2019,Marysville,Ohio,United States,40.224723,-83.35028,0,0,Non-Fatal,non-fatal,False
+99446,CEN19FA144,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99446/pdf,5/18/2019,Chillicothe,Ohio,United States,39.284168,-82.874443,1,0,Fatal,fatal,True
+99500,ERA19FA181,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99500/pdf,5/28/2019,Auburn Township,Ohio,United States,41.375278,-81.193054,1,0,Fatal,fatal,True
+99529,GAA19CA303,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99529/pdf,5/31/2019,Rockford,Ohio,United States,40.614166,-84.0,0,0,Non-Fatal,non-fatal,False
+99573,GAA19CA318,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99573/pdf,5/31/2019,Youngstown,Ohio,United States,40.959999,-80.68,0,0,Non-Fatal,non-fatal,False
+99628,GAA19CA340,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99628/pdf,6/12/2019,Cambridge,Ohio,United States,39.974998,-81.577499,0,0,Non-Fatal,non-fatal,False
+99677,CEN19FA177,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99677/pdf,6/20/2019,Elida,Ohio,United States,40.846389,-84.158332,2,0,Fatal,fatal,True
+99733,CEN19FA191,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99733/pdf,6/30/2019,Elyria,Ohio,United States,41.329723,-82.105834,1,0,Fatal,fatal,True
+99886,GAA19CA438,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99886/pdf,7/9/2019,Columbia Station,Ohio,United States,41.318611,-81.960556,0,0,Non-Fatal,non-fatal,False
+100033,CEN19LA262,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100033/pdf,8/10/2019,Newark,Ohio,United States,40.024723,-82.461944,0,0,Non-Fatal,non-fatal,False
+100034,CEN19LA263,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100034/pdf,8/11/2019,New Carlisle,Ohio,United States,39.929721,-84.022781,0,0,Non-Fatal,non-fatal,False
+100194,CEN19LA303,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100194/pdf,9/4/2019,Van Wert,Ohio,United States,40.881668,-84.644165,0,0,Non-Fatal,non-fatal,False
+100231,CEN19MA312,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100231/pdf,9/11/2019,Monclova,Ohio,United States,41.596389,-83.783889,2,0,Fatal,fatal,True
+100285,CEN19FA323,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100285/pdf,9/18/2019,London,Ohio,United States,39.93222,-83.470558,1,0,Fatal,fatal,True
+100416,GAA20CA017,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100416/pdf,10/10/2019,Dayton,Ohio,United States,39.58889,-84.224723,0,0,Non-Fatal,non-fatal,False
+100560,GAA20CA073,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100560/pdf,11/6/2019,Waynesville,Ohio,United States,39.476665,-84.093887,0,0,Non-Fatal,non-fatal,False
+100584,GAA20CA081,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100584/pdf,11/17/2019,West Jefferson,Ohio,United States,39.935554,-83.236389,0,0,Non-Fatal,non-fatal,False
+100720,CEN20CA039,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100720/pdf,12/20/2019,Delaware,Ohio,United States,40.279724,-83.114723,0,0,Non-Fatal,non-fatal,False
+100724,CEN20LA043,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100724/pdf,12/18/2019,Harrison,Ohio,United States,39.259166,-84.774444,0,0,Non-Fatal,non-fatal,False
+100815,CEN20CA059,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100815/pdf,12/23/2019,Xenia,Ohio,United States,39.690834,-83.992774,0,0,Non-Fatal,non-fatal,False
+100833,CEN20LA063,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100833/pdf,1/17/2020,Paulding,Ohio,United States,41.136112,-84.441665,0,1,Non-Fatal,non-fatal,False
+100964,CEN20LA092,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100964/pdf,2/15/2020,Wadsworth,Ohio,United States,41.003055,-81.756385,0,0,Non-Fatal,non-fatal,False
+101033,CEN20CA114,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101033/pdf,3/4/2020,Harrison,Ohio,United States,39.259166,-84.774444,0,0,Non-Fatal,non-fatal,False
+101091,CEN20LA127,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101091/pdf,3/18/2020,Pleasant Plain,Ohio,United States,39.294166,-84.10778,1,0,Fatal,fatal,True
+101171,CEN20LA148,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101171/pdf,4/16/2020,Cincinnati,Ohio,United States,39.210834,-84.459999,0,0,Non-Fatal,non-fatal,False
+101334,CEN20LA197,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101334/pdf,5/27/2020,Cambridge,Ohio,United States,40.020557,-81.535552,1,0,Fatal,fatal,True
+101451,CEN20CA233,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101451/pdf,6/17/2020,Mount Victory,Ohio,United States,40.372222,-83.511665,0,0,Non-Fatal,non-fatal,False
+101467,CEN20CA238,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101467/pdf,6/20/2020,Cambridge,Ohio,United States,39.974998,-81.577499,0,0,Non-Fatal,non-fatal,False
+101468,CEN20LA239,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101468/pdf,6/20/2020,Millersport,Ohio,United States,39.899166,-82.55278,0,0,Non-Fatal,non-fatal,False
+101578,CEN20CA274,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101578/pdf,7/11/2020,Springfield,Ohio,United States,39.854721,-83.816108,0,0,Non-Fatal,non-fatal,False
+101600,CEN20CA280,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101600/pdf,7/14/2020,New Carlisle,Ohio,United States,39.931388,-84.016944,0,0,Non-Fatal,non-fatal,False
+101622,CEN20LA290,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101622/pdf,7/18/2020,Loveland,Ohio,United States,39.267501,-84.26583,0,0,Non-Fatal,non-fatal,False
+101683,CEN20CA312,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101683/pdf,7/27/2020,Tiro,Ohio,United States,40.914722,-82.79,0,0,Non-Fatal,non-fatal,False
+101885,CEN20CA371,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101885/pdf,8/24/2020,WILLOUGHBY,Ohio,United States,41.684028,-81.38975,0,0,Non-Fatal,non-fatal,False
+102049,CEN20LA422,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102049/pdf,9/23/2020,St. Clairsville,Ohio,United States,40.011978,-80.911844,0,0,Non-Fatal,non-fatal,False
+102140,CEN21LA016,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102140/pdf,10/13/2020,New Carlisle,Ohio,United States,39.930892,-84.013546,0,0,Non-Fatal,non-fatal,False
+102163,CEN21LA020,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102163/pdf,10/16/2020,Beloit,Ohio,United States,40.936,-81.005,0,0,Non-Fatal,non-fatal,False
+102207,CEN21LA034,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102207/pdf,10/28/2020,Lebanon,Ohio,United States,39.431359,-84.256329,0,0,Non-Fatal,non-fatal,False
+102236,CEN21LA041,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102236/pdf,10/22/2020,Xenia,Ohio,United States,39.691383,-83.991185,0,0,Non-Fatal,non-fatal,False
+102262,CEN21LA049,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102262/pdf,11/8/2020,Circleville,Ohio,United States,39.524079,-82.981683,0,0,Non-Fatal,non-fatal,False
+102623,CEN21LA126,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102623/pdf,2/7/2021,Urbana,Ohio,United States,40.130746,-83.754296,0,0,Non-Fatal,non-fatal,False
+103001,CEN21LA205,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103001/pdf,4/24/2021,Carrollton,Ohio,United States,40.561576,-81.078333,0,0,Non-Fatal,non-fatal,False
+103125,CEN21LA229,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103125/pdf,5/20/2021,Washington Court House,Ohio,United States,39.5704,-83.4172,0,0,Non-Fatal,non-fatal,False
+103157,CEN21LA237,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103157/pdf,5/27/2021,Celina,Ohio,United States,40.481742,-84.548806,0,1,Non-Fatal,non-fatal,False
+103162,CEN21FA238,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103162/pdf,5/28/2021,McDermott,Ohio,United States,38.81828,-83.02776,2,0,Fatal,fatal,True
+103214,CEN21LA250,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103214/pdf,6/4/2021,West Portsmouth,Ohio,United States,38.791468,-83.014358,0,0,Non-Fatal,non-fatal,False
+103260,CEN21LA265,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103260/pdf,6/14/2021,Columbus,Ohio,United States,40.07951,-83.07321,0,0,Non-Fatal,non-fatal,False
+103284,CEN21LA275,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103284/pdf,6/16/2021,Baltimore,Ohio,United States,39.843405,-82.578716,0,0,Non-Fatal,non-fatal,False
+103321,CEN21LA288,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103321/pdf,6/23/2021,Butler,Ohio,United States,40.59683,-82.43173,0,0,Non-Fatal,non-fatal,False
+103402,CEN21LA301,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103402/pdf,6/20/2021,Wilmington,Ohio,United States,39.553116,-83.854927,0,0,Non-Fatal,non-fatal,False
+103439,CEN21LA309,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103439/pdf,7/6/2021,Ashtabula,Ohio,United States,41.89,-80.79,0,0,Non-Fatal,non-fatal,False
+103443,CEN21LA310,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103443/pdf,7/5/2021,Wapakoneta,Ohio,United States,40.49355,-84.298,0,0,Non-Fatal,non-fatal,False
+103629,CEN21LA354,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103629/pdf,8/4/2021,Wooster,Ohio,United States,40.8051,-81.9351,0,1,Non-Fatal,non-fatal,False
+103664,CEN21LA365,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103664/pdf,8/1/2021,Urbana,Ohio,United States,40.15119,-83.748438,0,0,Non-Fatal,non-fatal,False
+103733,CEN21FA376,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103733/pdf,8/20/2021,Urbana,Ohio,United States,40.066464,-83.774502,1,0,Fatal,fatal,True
+103740,CEN21LA379,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103740/pdf,8/17/2021,Bellefontaine,Ohio,United States,40.372278,-83.81925,0,0,Non-Fatal,non-fatal,False
+103745,CEN21LA381,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103745/pdf,8/11/2021,Wadsworth,Ohio,United States,41.03,-81.8,0,0,Non-Fatal,non-fatal,False
+103795,CEN21LA395,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103795/pdf,9/3/2021,Wadsworth,Ohio,United States,41.003637,-81.738904,1,0,Fatal,fatal,True
+103842,CEN21LA413,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103842/pdf,8/24/2021,Stow,Ohio,United States,41.155556,-81.414167,0,0,Non-Fatal,non-fatal,False
+103903,CEN21FA426,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103903/pdf,9/18/2021,Wadsworth,Ohio,United States,41.004559,-81.755136,1,0,Fatal,fatal,True
+103975,CEN21LA457,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103975/pdf,9/24/2021,Lancaster,Ohio,United States,39.751822,-82.654257,0,1,Non-Fatal,non-fatal,False
+104057,CEN21LA472,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104057/pdf,9/28/2021,East Sparta,Ohio,United States,40.69,-81.35,0,0,Non-Fatal,non-fatal,False
+104175,CEN22LA022,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104175/pdf,10/23/2021,Wadsworth,Ohio,United States,41.003061,-81.756522,0,0,Non-Fatal,non-fatal,False
+104263,CEN22LA038,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104263/pdf,11/15/2021,West Union,Ohio,United States,38.851672,-83.566007,0,0,Non-Fatal,non-fatal,False
+104280,CEN22LA041,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104280/pdf,11/19/2021,Miamisburg,Ohio,United States,39.588972,-84.224861,0,0,Non-Fatal,non-fatal,False

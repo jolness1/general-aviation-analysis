@@ -1,0 +1,182 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+82789,CEN12LA146,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/82789/pdf,1/31/2012,Sheridan,Arkansas,United States,34.32389,-92.349998,0,1,Non-Fatal,non-fatal,False
+83224,CEN12CA205,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83224/pdf,3/25/2012,Viola,Arkansas,United States,36.368888,-92.470558,0,0,Non-Fatal,non-fatal,False
+83295,CEN12CA225,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83295/pdf,3/21/2012,Malvern,Arkansas,United States,34.333057,-92.76139,0,0,Non-Fatal,non-fatal,False
+83487,CEN12LA259,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83487/pdf,4/21/2012,Stuttgart,Arkansas,United States,34.593055,-91.571662,0,0,Non-Fatal,non-fatal,False
+83687,CEN12LA306,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83687/pdf,5/15/2012,Marion,Arkansas,United States,35.275001,-90.5,0,0,Non-Fatal,non-fatal,False
+83717,CEN12LA310,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83717/pdf,5/19/2012,Humnoke,Arkansas,United States,34.506111,-91.753334,0,0,Non-Fatal,non-fatal,False
+83732,CEN12FA312,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83732/pdf,5/23/2012,Sedgwick,Arkansas,United States,35.973609,-90.776664,1,1,Fatal,fatal,True
+83781,CEN12LA323,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83781/pdf,5/25/2012,Alicia,Arkansas,United States,36.125278,-90.924446,0,0,Non-Fatal,non-fatal,False
+83785,CEN12LA326,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83785/pdf,5/25/2012,Ozark,Arkansas,United States,35.510833,-93.839447,0,0,Non-Fatal,non-fatal,False
+83800,CEN12LA331,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83800/pdf,5/29/2012,Stuttgart,Arkansas,United States,34.599445,-91.574996,0,0,Non-Fatal,non-fatal,False
+83912,CEN12LA352,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83912/pdf,6/7/2012,Higginson,Arkansas,United States,35.210556,-91.737503,0,0,Non-Fatal,non-fatal,False
+84017,CEN12LA379,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84017/pdf,6/17/2012,Lakeview,Arkansas,United States,36.349166,-92.555831,0,0,Non-Fatal,non-fatal,False
+84050,CEN12LA386,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84050/pdf,6/21/2012,Walnut Ridge,Arkansas,United States,36.124721,-90.925003,0,0,Non-Fatal,non-fatal,False
+84225,CEN12CA422,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84225/pdf,7/4/2012,Greers Ferry,Arkansas,United States,35.602222,-92.142501,0,0,Non-Fatal,non-fatal,False
+84342,CEN12CA447,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84342/pdf,7/15/2012,Lakeview,Arkansas,United States,36.348888,-92.555557,0,0,Non-Fatal,non-fatal,False
+84400,CEN12FA463,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84400/pdf,7/21/2012,Marked Tree,Arkansas,United States,35.533054,-90.400276,0,0,Non-Fatal,non-fatal,False
+84445,CEN12LA476,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84445/pdf,7/25/2012,Conway,Arkansas,United States,35.081111,-92.424446,0,0,Non-Fatal,non-fatal,False
+84475,CEN12CA486,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84475/pdf,7/25/2012,Heber Springs,Arkansas,United States,35.511665,-92.012779,0,0,Non-Fatal,non-fatal,False
+84518,CEN12LA495,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84518/pdf,7/29/2012,Lakeview,Arkansas,United States,36.369384,-92.530258,0,0,Non-Fatal,non-fatal,False
+85393,CEN13CA021,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85393/pdf,10/20/2012,Lonoke,Arkansas,United States,34.813888,-92.0,0,0,Non-Fatal,non-fatal,False
+85534,CEN13LA054,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85534/pdf,11/7/2012,Conway,Arkansas,United States,35.081111,-92.424446,1,0,Fatal,fatal,True
+85715,CEN13CA084,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85715/pdf,12/1/2012,Melbourne,Arkansas,United States,36.071666,-91.839447,0,0,Non-Fatal,non-fatal,False
+85776,CEN13LA095,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85776/pdf,12/5/2012,Gurdon,Arkansas,United States,33.923889,-93.168052,0,0,Non-Fatal,non-fatal,False
+86264,CEN13LA168,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86264/pdf,2/7/2013,Forrest City,Arkansas,United States,34.946388,-90.774444,0,0,Non-Fatal,non-fatal,False
+86424,CEN13LA191,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86424/pdf,3/8/2013,Beech Grove,Arkansas,United States,36.085277,-90.741943,0,0,Non-Fatal,non-fatal,False
+86447,CEN13LA198,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86447/pdf,3/10/2013,Rogers,Arkansas,United States,36.372222,-94.106941,0,0,Non-Fatal,non-fatal,False
+86661,CEN13LA229,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86661/pdf,4/15/2013,Warren,Arkansas,United States,33.560554,-92.085281,0,0,Non-Fatal,non-fatal,False
+86701,CEN13LA237,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86701/pdf,4/22/2013,Greenbrier,Arkansas,United States,35.177501,-92.334999,1,0,Fatal,fatal,True
+87158,CEN13LA342,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87158/pdf,6/10/2013,Morrilton,Arkansas,United States,35.136112,-92.713607,0,0,Non-Fatal,non-fatal,False
+87348,CEN13LA381,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87348/pdf,6/30/2013,Hot Springs,Arkansas,United States,34.45861,-93.132225,0,0,Non-Fatal,non-fatal,False
+87352,CEN13LA384,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87352/pdf,6/28/2013,Heth,Arkansas,United States,35.116943,-90.48722,0,0,Non-Fatal,non-fatal,False
+87429,CEN13LA402,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87429/pdf,7/3/2013,Tillar,Arkansas,United States,33.709129,-91.449111,0,0,Non-Fatal,non-fatal,False
+87486,CEN13LA414,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87486/pdf,7/10/2013,Coy,Arkansas,United States,34.526943,-91.872497,0,0,Non-Fatal,non-fatal,False
+87646,CEN13LA454,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87646/pdf,7/31/2013,Jonesboro,Arkansas,United States,35.836944,-90.52639,0,0,Non-Fatal,non-fatal,False
+87773,CEN13LA486,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87773/pdf,8/9/2013,Dumas,Arkansas,United States,33.884445,-91.534164,0,0,Non-Fatal,non-fatal,False
+87861,CEN13LA504,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87861/pdf,8/22/2013,Walnut Ridge,Arkansas,United States,36.124443,-90.925003,0,0,Non-Fatal,non-fatal,False
+88051,CEN13CA549,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88051/pdf,9/13/2013,Conway,Arkansas,United States,35.081665,-92.432502,0,0,Non-Fatal,non-fatal,False
+88161,CEN13LA568,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88161/pdf,8/28/2013,Gould,Arkansas,United States,33.986946,-91.559722,0,0,Non-Fatal,non-fatal,False
+88257,CEN14FA014,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88257/pdf,10/21/2013,Huntsville,Arkansas,United States,35.896389,-93.760559,2,0,Fatal,fatal,True
+88357,CEN14LA030,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88357/pdf,10/14/2013,Hector,Arkansas,United States,35.463054,-92.979164,0,0,Non-Fatal,non-fatal,False
+88372,CEN14FA035,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88372/pdf,11/1/2013,Springdale,Arkansas,United States,36.180438,-94.140518,2,0,Fatal,fatal,True
+88789,CEN14GA135,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88789/pdf,1/31/2014,Oden,Arkansas,United States,34.619998,-93.77639,1,0,Fatal,fatal,True
+89002,CEN14CA181,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89002/pdf,3/28/2014,Dora,Arkansas,United States,35.458332,-94.446662,0,0,Non-Fatal,non-fatal,False
+89086,CEN14LA204,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89086/pdf,4/18/2014,Searcy,Arkansas,United States,35.178333,-91.746391,0,0,Non-Fatal,non-fatal,False
+89201,CEN14CA238,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89201/pdf,5/10/2014,Osage,Arkansas,United States,36.289459,-93.289321,0,0,Non-Fatal,non-fatal,False
+89294,CEN14CA258,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89294/pdf,5/24/2014,Hunter,Arkansas,United States,35.067222,-91.091392,0,0,Non-Fatal,non-fatal,False
+89409,CEN14CA283,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89409/pdf,6/7/2014,Wilmont,Arkansas,United States,33.060276,-91.571388,0,0,Non-Fatal,non-fatal,False
+89468,CEN14LA298,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89468/pdf,6/7/2014,Oneida,Arkansas,United States,34.405277,-90.82611,0,0,Non-Fatal,non-fatal,False
+89469,CEN14LA299,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89469/pdf,6/16/2014,Dell,Arkansas,United States,35.796665,-90.083885,0,0,Non-Fatal,non-fatal,False
+89473,CEN14LA301,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89473/pdf,6/18/2014,Lake City,Arkansas,United States,35.909999,-90.488052,0,0,Non-Fatal,non-fatal,False
+89512,CEN14LA308,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89512/pdf,6/19/2014,Beech Grove,Arkansas,United States,36.160312,-90.610847,0,0,Non-Fatal,non-fatal,False
+89523,CEN14CA314,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89523/pdf,6/21/2014,Newport,Arkansas,United States,35.597499,-91.29,0,0,Non-Fatal,non-fatal,False
+89595,CEN14FA337,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89595/pdf,7/2/2014,Harrison,Arkansas,United States,36.0,-93.0,0,1,Non-Fatal,non-fatal,False
+89789,CEN14CA402,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89789/pdf,7/29/2014,Pine Bluff,Arkansas,United States,34.1725,-91.935836,0,0,Non-Fatal,non-fatal,False
+90229,CEN15CA007,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90229/pdf,10/3/2014,Atlanta,Arkansas,United States,33.118331,-93.011665,0,1,Non-Fatal,non-fatal,False
+90268,CEN15LA015,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90268/pdf,10/15/2014,West Memphis,Arkansas,United States,35.134998,-90.234443,0,0,Non-Fatal,non-fatal,False
+90286,CEN15FA022,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90286/pdf,10/20/2014,Lonoke,Arkansas,United States,34.822776,-91.993888,1,0,Fatal,fatal,True
+90287,CEN15LA023,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90287/pdf,10/21/2014,Mountain Home,Arkansas,United States,36.368888,-92.470558,0,1,Non-Fatal,non-fatal,False
+90627,CEN15LA112,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90627/pdf,1/17/2015,Lonoke county,Arkansas,United States,34.971111,-91.83139,0,0,Non-Fatal,non-fatal,False
+90670,CEN15LA131,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90670/pdf,1/29/2015,North Little Rock,Arkansas,United States,34.83472,-92.258613,0,0,Non-Fatal,non-fatal,False
+90909,GAA15CA013,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90909/pdf,3/20/2015,Lake Hamilton,Arkansas,United States,34.453056,-93.03833,0,0,Non-Fatal,non-fatal,False
+90978,CEN15FA189,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90978/pdf,4/2/2015,Batesville,Arkansas,United States,35.686111,-91.770278,1,0,Fatal,fatal,True
+91186,CEN15LA233,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91186/pdf,5/15/2015,Piggott,Arkansas,United States,36.374721,-90.166114,0,0,Non-Fatal,non-fatal,False
+91192,GAA15CA076,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91192/pdf,5/13/2015,Bentonville,Arkansas,United States,36.345275,-94.218887,0,0,Non-Fatal,non-fatal,False
+91320,CEN15LA259,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91320/pdf,6/3/2015,Delaplaine,Arkansas,United States,36.233612,-90.726669,0,0,Non-Fatal,non-fatal,False
+91341,GAA15CA114,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91341/pdf,6/9/2015,Tollville,Arkansas,United States,34.712776,-91.529724,0,0,Non-Fatal,non-fatal,False
+91362,CEN15LA270,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91362/pdf,6/10/2015,Jonesboro,Arkansas,United States,35.831665,-90.646385,0,0,Non-Fatal,non-fatal,False
+91459,CEN15LA285,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91459/pdf,6/21/2015,Danville,Arkansas,United States,35.051666,-93.391387,0,0,Non-Fatal,non-fatal,False
+91589,CEN15LA308,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91589/pdf,7/16/2015,Melbourne,Arkansas,United States,36.070835,-91.830276,0,1,Non-Fatal,non-fatal,False
+91648,GAA15CA202,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91648/pdf,7/25/2015,De Queen,Arkansas,United States,34.02639,-94.154167,0,0,Non-Fatal,non-fatal,False
+91685,CEN15FA331,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91685/pdf,8/1/2015,Wilmot,Arkansas,United States,33.082221,-91.46083,1,0,Fatal,fatal,True
+91821,CEN15LA367,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91821/pdf,8/18/2015,Wiville,Arkansas,United States,35.163612,-91.223609,1,0,Fatal,fatal,True
+91839,CEN15FA374,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91839/pdf,8/23/2015,El Dorado,Arkansas,United States,33.220832,-92.813331,1,0,Fatal,fatal,True
+91871,CEN15LA384,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91871/pdf,8/26/2015,Pine Bluff,Arkansas,United States,34.19889,-92.003608,0,1,Non-Fatal,non-fatal,False
+92093,GAA15CA288,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92093/pdf,9/27/2015,Bentonville,Arkansas,United States,36.346389,-94.219444,0,0,Non-Fatal,non-fatal,False
+92254,CEN16FA024,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92254/pdf,10/29/2015,Pottsville,Arkansas,United States,35.264999,-93.065277,4,0,Fatal,fatal,True
+92272,CEN16LA026,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92272/pdf,11/3/2015,Fayetteville,Arkansas,United States,36.056667,-94.174446,0,0,Non-Fatal,non-fatal,False
+92273,CEN16LA025,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92273/pdf,10/30/2015,Sheridan,Arkansas,United States,34.327499,-92.351387,0,0,Non-Fatal,non-fatal,False
+92713,GAA16CA125,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92713/pdf,2/12/2016,Fort Smith,Arkansas,United States,35.334445,-94.373886,0,0,Non-Fatal,non-fatal,False
+92812,GAA16CA144,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92812/pdf,3/2/2016,Clinton,Arkansas,United States,35.6525,-92.400276,0,0,Non-Fatal,non-fatal,False
+93107,CEN16FA172,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93107/pdf,5/5/2016,North Little Rock,Arkansas,United States,34.838333,-92.254447,1,1,Fatal,fatal,True
+93171,CEN16LA182,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93171/pdf,5/13/2016,Portia,Arkansas,United States,36.075553,-91.061111,1,0,Fatal,fatal,True
+93256,CEN16LA197,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93256/pdf,5/23/2016,Texarkana,Arkansas,United States,33.441665,-94.03778,0,0,Non-Fatal,non-fatal,False
+93274,GAA16CA266,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93274/pdf,5/29/2016,Pine Bluff,Arkansas,United States,34.174446,-91.935554,0,0,Non-Fatal,non-fatal,False
+93279,CEN16LA200,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93279/pdf,5/13/2016,Little Rock,Arkansas,United States,34.833332,-92.25222,0,0,Non-Fatal,non-fatal,False
+93337,GAA16CA288,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93337/pdf,6/5/2016,Henderson,Arkansas,United States,36.299999,-92.216392,0,0,Non-Fatal,non-fatal,False
+93341,CEN16FA210,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93341/pdf,6/8/2016,Pine Bluff,Arkansas,United States,34.116111,-92.210556,1,0,Fatal,fatal,True
+93363,CEN16FA215,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93363/pdf,6/12/2016,Jonesboro,Arkansas,United States,35.826389,-90.549163,1,0,Fatal,fatal,True
+93377,GAA16CA310,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93377/pdf,6/12/2016,Greers Ferry,Arkansas,United States,35.525833,-92.166664,0,0,Non-Fatal,non-fatal,False
+93581,GAA16CA367,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93581/pdf,7/7/2016,Searcy,Arkansas,United States,35.312221,-91.87889,0,0,Non-Fatal,non-fatal,False
+93631,CEN16LA271,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93631/pdf,7/18/2016,Hope,Arkansas,United States,33.723888,-93.655281,0,1,Non-Fatal,non-fatal,False
+93790,CEN16LA312,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93790/pdf,8/8/2016,Hickory Ridge,Arkansas,United States,35.399166,-91.001945,1,0,Fatal,fatal,True
+93847,GAA16CA433,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93847/pdf,8/11/2016,Quitman,Arkansas,United States,35.502777,-92.198059,0,0,Non-Fatal,non-fatal,False
+93928,CEN16FA341,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93928/pdf,8/31/2016,Bentonville,Arkansas,United States,36.345275,-94.219444,1,0,Fatal,fatal,True
+94088,GAA16CA512,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94088/pdf,9/6/2016,Wilson,Arkansas,United States,33.419162,-93.060462,0,0,Non-Fatal,non-fatal,False
+94198,GAA17CA020,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94198/pdf,10/11/2016,Lowell,Arkansas,United States,36.133609,-94.155555,0,0,Non-Fatal,non-fatal,False
+94245,GAA17CA030,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94245/pdf,10/18/2016,Paragould,Arkansas,United States,36.026668,-90.444168,0,0,Non-Fatal,non-fatal,False
+94375,GAA17CA066,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94375/pdf,11/12/2016,Conway,Arkansas,United States,35.054721,-92.354164,0,0,Non-Fatal,non-fatal,False
+94572,CEN17FA071,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94572/pdf,1/5/2017,Gurdon,Arkansas,United States,33.90942,-93.140174,2,0,Fatal,fatal,True
+94813,CEN17CA116,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94813/pdf,3/3/2017,Conway,Arkansas,United States,35.02,-92.555,0,1,Non-Fatal,non-fatal,False
+95131,GAA17CA267,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95131/pdf,5/8/2017,Walnut Ridge,Arkansas,United States,36.145832,-90.836112,0,0,Non-Fatal,non-fatal,False
+95156,CEN17LA177,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95156/pdf,5/8/2017,Beech Grove,Arkansas,United States,36.084167,-90.748054,0,0,Non-Fatal,non-fatal,False
+95373,CEN17LA230,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95373/pdf,6/14/2017,Delaplaine,Arkansas,United States,36.219444,-90.731391,0,0,Non-Fatal,non-fatal,False
+95379,GAA17CA342,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95379/pdf,6/15/2017,Pocahontas,Arkansas,United States,36.221668,-90.834724,0,0,Non-Fatal,non-fatal,False
+95524,CEN17FA259,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95524/pdf,7/8/2017,Cash,Arkansas,United States,35.790279,-90.888336,1,0,Fatal,fatal,True
+95538,GAA17CA399,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95538/pdf,7/7/2017,Pine Bluff,Arkansas,United States,34.170276,-91.935279,0,0,Non-Fatal,non-fatal,False
+95659,CEN17LA284,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95659/pdf,7/18/2017,Reyno,Arkansas,United States,36.35889,-90.816108,0,0,Non-Fatal,non-fatal,False
+95712,GAA17CA454,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95712/pdf,7/25/2017,Trumann,Arkansas,United States,35.619167,-90.568885,0,1,Non-Fatal,non-fatal,False
+95790,CEN17LA312,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95790/pdf,8/3/2017,Danville,Arkansas,United States,35.086944,-93.427497,0,0,Non-Fatal,non-fatal,False
+95797,CEN17LA313,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95797/pdf,7/20/2017,Grady,Arkansas,United States,34.080001,-91.700836,0,0,Non-Fatal,non-fatal,False
+95892,CEN17LA329,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95892/pdf,8/24/2017,Manila,Arkansas,United States,35.859165,-90.192497,0,0,Non-Fatal,non-fatal,False
+96074,CEN17FA364,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96074/pdf,9/24/2017,Camden,Arkansas,United States,33.453609,-92.758056,2,0,Fatal,fatal,True
+96281,GAA17CA575,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96281/pdf,9/28/2017,Texarkana,Arkansas,United States,33.45,-93.996391,0,0,Non-Fatal,non-fatal,False
+96742,CEN18LA099,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96742/pdf,2/8/2018,Batesville,Arkansas,United States,35.726112,-91.647499,0,0,Non-Fatal,non-fatal,False
+96859,GAA18CA160,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96859/pdf,3/7/2018,England,Arkansas,United States,34.486667,-91.865554,0,0,Non-Fatal,non-fatal,False
+97168,GAA18CA252,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97168/pdf,4/30/2018,Little Rock,Arkansas,United States,34.830276,-92.256111,0,0,Non-Fatal,non-fatal,False
+97209,GAA18CA265,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97209/pdf,5/4/2018,Truman,Arkansas,United States,35.570278,-90.636108,0,0,Non-Fatal,non-fatal,False
+97248,GAA18CA279,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97248/pdf,5/11/2018,MORRILTON,Arkansas,United States,35.13639,-92.714996,0,0,Non-Fatal,non-fatal,False
+97304,CEN18LA189,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97304/pdf,5/21/2018,Gurdon,Arkansas,United States,33.923053,-93.157218,0,2,Non-Fatal,non-fatal,False
+97402,CEN18LA211,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97402/pdf,5/31/2018,Parkin,Arkansas,United States,35.243331,-90.570556,0,0,Non-Fatal,non-fatal,False
+97416,GAA18CA327,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97416/pdf,6/6/2018,Springdale,Arkansas,United States,36.174167,-94.122222,0,0,Non-Fatal,non-fatal,False
+97476,CEN18LA223,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97476/pdf,6/14/2018,Eureka Springs,Arkansas,United States,36.429721,-93.695556,0,1,Non-Fatal,non-fatal,False
+97521,GAA18CA361,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97521/pdf,6/17/2018,Lakeview,Arkansas,United States,36.349166,-92.555831,0,0,Non-Fatal,non-fatal,False
+97539,GAA18CA365,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97539/pdf,6/19/2018,Morrilton,Arkansas,United States,35.136112,-92.713607,0,0,Non-Fatal,non-fatal,False
+97640,CEN18LA241,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97640/pdf,6/28/2018,Pocahontas,Arkansas,United States,36.245555,-90.955276,0,0,Non-Fatal,non-fatal,False
+97732,CEN18FA263,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97732/pdf,7/11/2018,Wheatley,Arkansas,United States,34.946945,-91.114166,1,0,Fatal,fatal,True
+97801,CEN18LA274,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97801/pdf,7/11/2018,Lakeview,Arkansas,United States,36.348888,-92.555831,0,1,Non-Fatal,non-fatal,False
+97899,GAA18CA442,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97899/pdf,7/14/2018,Warren,Arkansas,United States,33.564445,-92.081108,0,0,Non-Fatal,non-fatal,False
+97974,GAA18CA465,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97974/pdf,7/27/2018,El Dorado,Arkansas,United States,33.221111,-92.811668,0,0,Non-Fatal,non-fatal,False
+98137,CEN18LA347,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98137/pdf,8/22/2018,Little Rock,Arkansas,United States,34.543609,-92.131111,0,2,Non-Fatal,non-fatal,False
+98290,GAA18CA549,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98290/pdf,9/12/2018,Bentonville,Arkansas,United States,36.348331,-94.219169,0,0,Non-Fatal,non-fatal,False
+98358,CEN18FA389,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98358/pdf,9/26/2018,Austin,Arkansas,United States,35.04,-92.019447,1,0,Fatal,fatal,True
+98586,CEN19FA020,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98586/pdf,11/2/2018,McDougal,Arkansas,United States,36.436668,-90.452499,1,0,Fatal,fatal,True
+99166,GAA19CA177,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99166/pdf,3/24/2019,Fayetteville,Arkansas,United States,35.979999,-94.069999,0,0,Non-Fatal,non-fatal,False
+99219,CEN19LA116,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99219/pdf,4/2/2019,Lafe,Arkansas,United States,36.204444,-90.548889,0,0,Non-Fatal,non-fatal,False
+99418,GAA19CA259,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99418/pdf,5/13/2019,Crossett,Arkansas,United States,33.178333,-91.880279,0,0,Non-Fatal,non-fatal,False
+99454,GAA19CA271,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99454/pdf,5/17/2019,Stuttgart,Arkansas,United States,34.597499,-91.574996,0,0,Non-Fatal,non-fatal,False
+99507,GAA19CA289,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99507/pdf,5/27/2019,Fisher,Arkansas,United States,35.503612,-91.006668,0,0,Non-Fatal,non-fatal,False
+99530,GAA19CA304,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99530/pdf,6/1/2019,Flippin,Arkansas,United States,36.290832,-92.590278,0,0,Non-Fatal,non-fatal,False
+99538,CEN19FA160,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99538/pdf,6/2/2019,Cass,Arkansas,United States,35.705276,-93.794998,3,1,Fatal,fatal,True
+99574,GAA19CA319,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99574/pdf,6/6/2019,Weiner,Arkansas,United States,35.590278,-90.913612,0,0,Non-Fatal,non-fatal,False
+99747,CEN19LA194,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99747/pdf,7/1/2019,Fort Smith,Arkansas,United States,35.334445,-94.265556,0,0,Non-Fatal,non-fatal,False
+99832,CEN19LA222,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99832/pdf,7/13/2019,Clinton,Arkansas,United States,35.599593,-92.456987,0,2,Non-Fatal,non-fatal,False
+99987,CEN19FA248,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99987/pdf,8/4/2019,De Queen,Arkansas,United States,34.039443,-94.423889,1,1,Fatal,fatal,True
+100314,CEN19FA332,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100314/pdf,9/23/2019,Prairie Grove,Arkansas,United States,35.787498,-94.355003,1,0,Fatal,fatal,True
+100550,GAA20CA064,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100550/pdf,11/9/2019,Huntsville,Arkansas,United States,36.078056,-93.754997,0,0,Non-Fatal,non-fatal,False
+100928,CEN20LA078,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100928/pdf,2/9/2020,Fort Smith,Arkansas,United States,33.336387,-94.3675,0,1,Non-Fatal,non-fatal,False
+101018,CEN20LA109,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101018/pdf,2/25/2020,Dumas,Arkansas,United States,33.869998,-91.526947,0,0,Non-Fatal,non-fatal,False
+101360,CEN20CA205,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101360/pdf,5/31/2020,Lakeview,Arkansas,United States,36.348609,-92.556945,0,0,Non-Fatal,non-fatal,False
+101453,CEN20LA234,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101453/pdf,6/17/2020,Pine Bluff,Arkansas,United States,34.206665,-91.873886,0,1,Non-Fatal,non-fatal,False
+101567,CEN20LA269,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101567/pdf,7/3/2020,Weldon,Arkansas,United States,35.462776,-91.17694,0,0,Non-Fatal,non-fatal,False
+101616,CEN20LA287,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101616/pdf,7/3/2020,Des Arc,Arkansas,United States,34.976112,-91.456947,0,0,Non-Fatal,non-fatal,False
+101663,CEN20CA303,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101663/pdf,7/22/2020,Jacksonville,Arkansas,United States,34.856109,-92.081108,0,0,Non-Fatal,non-fatal,False
+101754,CEN20LA327,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101754/pdf,8/3/2020,Alicia,Arkansas,United States,35.894443,-91.125831,0,1,Non-Fatal,non-fatal,False
+101823,CEN20CA349,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101823/pdf,8/1/2020,Bentonville,Arkansas,United States,36.345275,-94.219444,0,0,Non-Fatal,non-fatal,False
+101835,CEN20CA351,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101835/pdf,8/2/2020,Conway,Arkansas,United States,35.02,-92.555,0,0,Non-Fatal,non-fatal,False
+101845,CEN20LA357,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101845/pdf,8/21/2020,Dell,Arkansas,United States,35.857658,-90.040421,1,0,Fatal,fatal,True
+101918,CEN20LA379,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101918/pdf,9/4/2020,Chester,Arkansas,United States,35.686111,-94.252502,4,0,Fatal,fatal,True
+101962,CEN20CA391,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101962/pdf,9/11/2020,Ozark,Arkansas,United States,35.677501,-93.732223,0,0,Non-Fatal,non-fatal,False
+102071,CEN20LA430,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102071/pdf,9/25/2020,Rogers,Arkansas,United States,36.372417,-94.106972,0,0,Non-Fatal,non-fatal,False
+102087,CEN21LA005,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102087/pdf,10/2/2020,Egypt,Arkansas,United States,35.936,-90.9278,0,0,Non-Fatal,non-fatal,False
+102352,CEN21LA070,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102352/pdf,11/30/2020,Franklin,Arkansas,United States,36.178333,-91.771539,2,0,Fatal,fatal,True
+102486,CEN21LA107,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102486/pdf,1/4/2021,Credit,Arkansas,United States,35.70662,-90.944723,2,0,Fatal,fatal,True
+102798,CEN21LA161,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102798/pdf,3/15/2021,Dumas,Arkansas,United States,33.875654,-91.342513,0,0,Non-Fatal,non-fatal,False
+102973,CEN21FA198,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102973/pdf,4/23/2021,Danville,Arkansas,United States,34.96735,-93.62222,4,0,Fatal,fatal,True
+103130,CEN21LA231,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103130/pdf,4/28/2021,Madison,Arkansas,United States,34.978386,-90.723025,0,0,Non-Fatal,non-fatal,False
+103176,CEN21LA240,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103176/pdf,5/27/2021,Trumann,Arkansas,United States,35.60145,-90.59085,0,0,Non-Fatal,non-fatal,False
+103270,CEN21FA270,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103270/pdf,6/15/2021,Paragould,Arkansas,United States,36.103922,-90.7146,1,0,Fatal,fatal,True
+103289,CEN21FA277,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103289/pdf,6/18/2021,Conway,Arkansas,United States,35.025973,-92.547776,1,0,Fatal,fatal,True
+103314,CEN21LA287,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103314/pdf,6/20/2021,Sedgwick,Arkansas,United States,35.986718,-90.895871,0,0,Non-Fatal,non-fatal,False
+103390,CEN21LA296,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103390/pdf,6/28/2021,Hoxie,Arkansas,United States,36.0503,-90.9751,0,0,Non-Fatal,non-fatal,False
+103660,CEN21FA364,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103660/pdf,8/9/2021,Melbourne,Arkansas,United States,36.056675,-91.835556,1,0,Fatal,fatal,True
+103815,CEN21LA405,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103815/pdf,9/2/2021,Morrilton,Arkansas,United States,35.136195,-92.713497,0,0,Non-Fatal,non-fatal,False
+103844,CEN21LA415,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103844/pdf,9/12/2021,Ozark,Arkansas,United States,35.487,-93.8277,0,2,Non-Fatal,non-fatal,False
+103968,CEN21LA454,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103968/pdf,9/24/2021,Ozark,Arkansas,United States,35.6785,-93.7286,0,0,Non-Fatal,non-fatal,False
+104045,CEN21LA471,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104045/pdf,9/29/2021,West Cobb,Arkansas,United States,35.677288,-93.732683,0,1,Non-Fatal,non-fatal,False
+104081,CEN22LA012,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104081/pdf,10/8/2021,Wildwood,Arkansas,United States,35.017152,-92.070303,0,1,Non-Fatal,non-fatal,False
+104189,CEN22LA024,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104189/pdf,10/31/2021,Forrest City,Arkansas,United States,34.941998,-90.774966,1,0,Fatal,fatal,True
+104344,CEN22FA058,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104344/pdf,12/3/2021,Bonnerdale,Arkansas,United States,34.344821,-93.359793,1,0,Fatal,fatal,True
+104443,CEN22FA082,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104443/pdf,12/26/2021,Hardy,Arkansas,United States,36.346112,-91.542252,2,0,Fatal,fatal,True
+104451,CEN22LA085,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104451/pdf,12/28/2021,Helena,Arkansas,United States,34.576493,-90.675889,0,0,Non-Fatal,non-fatal,False

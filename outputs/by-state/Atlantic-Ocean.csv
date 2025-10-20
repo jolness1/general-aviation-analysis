@@ -1,0 +1,15 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+83064,ERA12FAMS1,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83064/pdf,3/1/2012,,Atlantic Ocean,United States,37.635326,-72.86193,1,0,Fatal,fatal,True
+83989,ERA12FAMS2,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83989/pdf,6/8/2012,Atlantic Ocean,Atlantic Ocean,United States,37.635807,-72.861976,1,0,Fatal,fatal,True
+84059,ERA12LA410,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84059/pdf,6/22/2012,Atlantic Ocean,Atlantic Ocean,United States,37.63499,-72.861167,0,0,Non-Fatal,non-fatal,False
+85144,ERA12LA578,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85144/pdf,9/23/2012,,Atlantic Ocean,United States,37.634864,-72.861099,1,0,Fatal,fatal,True
+87984,CEN13WA527,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87984/pdf,9/4/2013,Channel Islands,Atlantic Ocean,United Kingdom,,,2,0,Fatal,fatal,True
+91956,ERA15LA349,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91956/pdf,9/10/2015,Atlantic City,Atlantic Ocean,United States,37.634948,-72.861251,1,0,Fatal,fatal,True
+93017,ERA16LA158,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93017/pdf,4/15/2016,Atlantic Ocean,Atlantic Ocean,Unknown,37.635826,-72.860786,0,0,Non-Fatal,non-fatal,False
+96957,ERA18LA119,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96957/pdf,3/31/2018,Atlantic Ocean,Atlantic Ocean,United States,37.634529,-72.861137,2,0,Fatal,fatal,True
+98544,ERA19LA026,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98544/pdf,10/25/2018,Atlantic Ocean,Atlantic Ocean,United States,37.634952,-72.860855,5,0,Fatal,fatal,True
+98936,ERA19LA093,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98936/pdf,2/1/2019,Atlantic Ocean,Atlantic Ocean,United States,37.634956,-72.86087,2,0,Fatal,fatal,True
+99039,ERA19TA111,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99039/pdf,2/28/2019,West Palm Beach,Atlantic Ocean,United States,26.659444,-79.688056,0,0,Non-Fatal,non-fatal,False
+99060,ERA19TA120,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99060/pdf,3/5/2019,Atlantic Ocean,Atlantic Ocean,United States,37.634746,-72.862037,0,0,Non-Fatal,non-fatal,False
+99484,ERA19LA180,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99484/pdf,5/24/2019,Atlantic Ocean,Atlantic Ocean,United States,37.634193,-72.8609,1,0,Fatal,fatal,True
+102682,ERA21LA141,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102682/pdf,2/24/2021,Atlantic Ocean,Atlantic Ocean,United States,26.178064,-79.920067,1,0,Fatal,fatal,True

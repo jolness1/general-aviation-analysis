@@ -1,0 +1,290 @@
+MKey,NTSBNumber,Report,EventDate,City,StateOrRegion,Country,Latitude,Longitude,FatalInjuries,SeriousInjuries,InjuryLevel,InjuryCategory,IsFatal
+83136,WPR12FA136,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83136/pdf,3/14/2012,Goble,Oregon,United States,46.025276,-122.92028,2,0,Fatal,fatal,True
+83320,WPR12CA158,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83320/pdf,4/6/2012,Redmond,Oregon,United States,44.253887,-121.149719,0,0,Non-Fatal,non-fatal,False
+83435,WPR12FA180,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83435/pdf,4/23/2012,Sisters,Oregon,United States,44.217777,-121.505279,2,0,Fatal,fatal,True
+83451,WPR12LA178,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83451/pdf,4/21/2012,Pendleton,Oregon,United States,45.694999,-118.258056,0,1,Non-Fatal,non-fatal,False
+83464,WPR12LA181,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83464/pdf,4/22/2012,Monmouth,Oregon,United States,44.841945,-123.255554,0,0,Non-Fatal,non-fatal,False
+83542,WPR12FA193,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83542/pdf,4/27/2012,Eugene,Oregon,United States,44.121387,-123.207221,0,0,Non-Fatal,non-fatal,False
+83643,WPR12CA206,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83643/pdf,5/14/2012,Molalla,Oregon,United States,45.14611,-122.6175,0,0,Non-Fatal,non-fatal,False
+83674,WPR12LA212,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83674/pdf,5/13/2012,Hillsboro,Oregon,United States,45.540554,-122.949996,0,0,Non-Fatal,non-fatal,False
+83807,WPR12FA237,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83807/pdf,5/24/2012,Lakeview,Oregon,United States,42.526111,-119.73944,1,0,Fatal,fatal,True
+83897,WPR12CA251,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/83897/pdf,6/8/2012,Bend,Oregon,United States,44.094444,-121.200279,0,0,Non-Fatal,non-fatal,False
+84060,WPR12FA274,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84060/pdf,6/23/2012,Veneta,Oregon,United States,44.061668,-123.39389,4,0,Fatal,fatal,True
+84245,WPR12CA299,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84245/pdf,7/6/2012,Hillsboro,Oregon,United States,45.428333,-122.941947,0,0,Non-Fatal,non-fatal,False
+84318,WPR12CA304,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84318/pdf,7/13/2012,Redmond,Oregon,United States,44.206943,-121.321113,0,0,Non-Fatal,non-fatal,False
+84442,WPR12LA324,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84442/pdf,7/20/2012,Medford,Oregon,United States,42.374168,-122.873611,0,0,Non-Fatal,non-fatal,False
+84473,WPR12LA328,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84473/pdf,7/26/2012,The Dalles,Oregon,United States,45.588333,-121.035003,0,1,Non-Fatal,non-fatal,False
+84480,WPR12LA329,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84480/pdf,7/27/2012,Sandy,Oregon,United States,45.379131,-122.229705,0,0,Non-Fatal,non-fatal,False
+84573,WPR12CA343,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84573/pdf,8/3/2012,White City,Oregon,United States,42.538887,-122.903892,0,0,Non-Fatal,non-fatal,False
+84582,WPR12CA345,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84582/pdf,7/25/2012,Ashland,Oregon,United States,42.190277,-122.660552,0,0,Non-Fatal,non-fatal,False
+84617,WPR12LA347,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84617/pdf,8/7/2012,Deer Island,Oregon,United States,45.917778,-122.853889,0,0,Non-Fatal,non-fatal,False
+84638,WPR12CA353,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84638/pdf,8/1/2012,Joseph,Oregon,United States,45.359443,-117.253608,0,0,Non-Fatal,non-fatal,False
+84751,WPR12CA363,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84751/pdf,8/19/2012,Hillsboro,Oregon,United States,45.428333,-122.941947,0,0,Non-Fatal,non-fatal,False
+84779,WPR12LA366,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84779/pdf,8/23/2012,Scappoose,Oregon,United States,45.769165,-122.856941,0,0,Non-Fatal,non-fatal,False
+84791,WPR12CA368,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84791/pdf,8/21/2012,McMinnville,Oregon,United States,45.194442,-123.136108,0,0,Non-Fatal,non-fatal,False
+84856,WPR12CA376,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84856/pdf,8/29/2012,Terrebonne,Oregon,United States,44.331111,-121.369445,0,1,Non-Fatal,non-fatal,False
+84890,WPR12CA390,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84890/pdf,9/2/2012,Manzanita,Oregon,United States,45.698055,-123.929725,0,0,Non-Fatal,non-fatal,False
+84891,WPR12LA391,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84891/pdf,9/3/2012,Toledo,Oregon,United States,44.616664,-123.933334,0,1,Non-Fatal,non-fatal,False
+84942,WPR12CA399,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84942/pdf,8/19/2012,Hood River,Oregon,United States,45.670276,-121.535003,0,0,Non-Fatal,non-fatal,False
+84955,WPR12LA402,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/84955/pdf,9/5/2012,Lemolo Lake,Oregon,United States,43.303054,-122.183334,0,1,Non-Fatal,non-fatal,False
+85083,WPR12CA424,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85083/pdf,9/14/2012,Andrews,Oregon,United States,42.487777,-118.608612,0,0,Non-Fatal,non-fatal,False
+85102,WPR12CA431,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85102/pdf,9/20/2012,McMinnville,Oregon,United States,45.194442,-123.136108,0,0,Non-Fatal,non-fatal,False
+85171,WPR12LA439,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85171/pdf,9/28/2012,Eugene,Oregon,United States,44.03989,-123.219726,0,0,Non-Fatal,non-fatal,False
+85284,WPR13FA006,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85284/pdf,10/7/2012,Shady Cove,Oregon,United States,42.568889,-122.884445,0,0,Non-Fatal,non-fatal,False
+85670,WPR13FA056,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85670/pdf,11/26/2012,Scio,Oregon,United States,44.629165,-122.871948,2,0,Fatal,fatal,True
+85677,WPR13CA057,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85677/pdf,11/27/2012,Sheridan,Oregon,United States,45.105278,-123.387779,0,0,Non-Fatal,non-fatal,False
+85920,WPR13CA079,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/85920/pdf,1/1/2013,Chiloquin,Oregon,United States,42.574443,-121.873886,0,0,Non-Fatal,non-fatal,False
+86082,WPR13LA102,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86082/pdf,1/17/2013,Redmond,Oregon,United States,44.253887,-121.14833,0,0,Non-Fatal,non-fatal,False
+86284,WPR13CA133,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86284/pdf,2/22/2013,Lebanon,Oregon,United States,44.568332,-122.971389,0,0,Non-Fatal,non-fatal,False
+86451,WPR13LA154,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86451/pdf,3/18/2013,Hillsboro,Oregon,United States,45.425556,-122.945274,0,0,Non-Fatal,non-fatal,False
+86557,WPR13LA174,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86557/pdf,3/30/2013,Waldport,Oregon,United States,44.384445,-124.084999,0,0,Non-Fatal,non-fatal,False
+86889,WPR13FA227,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/86889/pdf,5/13/2013,McMinnville,Oregon,United States,45.190277,-123.15139,0,0,Non-Fatal,non-fatal,False
+87066,WPR13CA258,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87066/pdf,4/18/2013,Corvallis,Oregon,United States,44.49139,-123.286941,0,0,Non-Fatal,non-fatal,False
+87086,WPR13CA261,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87086/pdf,6/1/2013,La Grande,Oregon,United States,46.29,-118.006668,0,0,Non-Fatal,non-fatal,False
+87149,WPR13LA267,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87149/pdf,6/7/2013,Chiloquin,Oregon,United States,42.579166,-121.87889,0,0,Non-Fatal,non-fatal,False
+87273,WPR13LA283,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87273/pdf,6/23/2013,Adrian,Oregon,United States,43.666667,-117.260559,1,0,Fatal,fatal,True
+87438,WPR13LA322,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87438/pdf,7/7/2013,Albany,Oregon,United States,44.637779,-123.059448,0,0,Non-Fatal,non-fatal,False
+87465,WPR13CA324,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87465/pdf,7/4/2013,Canby,Oregon,United States,45.255554,-122.650833,0,0,Non-Fatal,non-fatal,False
+87523,WPR13CA333,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87523/pdf,7/20/2013,Hood River,Oregon,United States,45.668609,-121.508331,0,1,Non-Fatal,non-fatal,False
+87541,WPR13LA336,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87541/pdf,7/22/2013,Independence,Oregon,United States,44.819721,-123.199165,0,0,Non-Fatal,non-fatal,False
+87657,WPR13CA354,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87657/pdf,6/25/2013,The Dalles,Oregon,United States,45.348888,-121.199165,0,0,Non-Fatal,non-fatal,False
+87712,WPR13LA363,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87712/pdf,7/13/2013,White City,Oregon,United States,42.559982,-122.920684,0,0,Non-Fatal,non-fatal,False
+87751,WPR13CA365,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87751/pdf,8/10/2013,Independence,Oregon,United States,44.866664,-123.198059,0,0,Non-Fatal,non-fatal,False
+87783,WPR13CA372,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87783/pdf,8/14/2013,Aurora,Oregon,United States,45.24139,-122.768608,0,0,Non-Fatal,non-fatal,False
+87789,WPR13GA374,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87789/pdf,8/12/2013,Burns,Oregon,United States,43.743888,-118.879447,0,0,Non-Fatal,non-fatal,False
+87818,WPR13LA378,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87818/pdf,8/18/2013,Sisters,Oregon,United States,44.554443,-121.858612,0,0,Non-Fatal,non-fatal,False
+87930,WPR13FA393,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87930/pdf,8/31/2013,Scappoose,Oregon,United States,45.764999,-122.863609,1,0,Fatal,fatal,True
+87946,WPR13LA396,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87946/pdf,9/1/2013,Sisters,Oregon,United States,44.303054,-121.531944,0,0,Non-Fatal,non-fatal,False
+87998,WPR13FA400,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/87998/pdf,9/8/2013,Prineville,Oregon,United States,44.290279,-120.887779,1,0,Fatal,fatal,True
+88058,WPR13FA411,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88058/pdf,9/16/2013,Detroit,Oregon,United States,44.705833,-122.110832,1,0,Fatal,fatal,True
+88069,WPR13LA414,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88069/pdf,9/16/2013,Redmond,Oregon,United States,44.256668,-121.150001,0,0,Non-Fatal,non-fatal,False
+88118,WPR13CA421,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88118/pdf,9/7/2013,Eugene,Oregon,United States,44.124443,-123.211944,0,0,Non-Fatal,non-fatal,False
+88332,WPR14FA037,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88332/pdf,10/28/2013,McMinnville,Oregon,United States,45.224445,-123.20333,1,0,Fatal,fatal,True
+88420,WPR14CA052,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88420/pdf,10/28/2013,Milo,Oregon,United States,42.953609,-123.149444,0,3,Non-Fatal,non-fatal,False
+88435,WPR14LA055,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88435/pdf,11/17/2013,Lakeside,Oregon,United States,45.593055,-124.188888,0,1,Non-Fatal,non-fatal,False
+88497,WPR14LA059,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88497/pdf,11/29/2013,Florence,Oregon,United States,43.980556,-124.110557,0,0,Non-Fatal,non-fatal,False
+88593,WPR14CA077,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88593/pdf,12/24/2013,Hillsboro,Oregon,United States,45.546112,-122.956665,0,0,Non-Fatal,non-fatal,False
+88638,WPR14CA088,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88638/pdf,1/4/2014,Manzanita,Oregon,United States,45.698333,-123.929725,0,0,Non-Fatal,non-fatal,False
+88790,WPR14LA114,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88790/pdf,1/26/2014,Roseburg,Oregon,United States,43.238887,-123.355834,0,0,Non-Fatal,non-fatal,False
+88838,WPR14CA120,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/88838/pdf,2/22/2014,Scappoose,Oregon,United States,45.771667,-122.861946,0,0,Non-Fatal,non-fatal,False
+89025,WPR14LA160,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89025/pdf,4/4/2014,Astoria,Oregon,United States,46.11,-124.11,0,1,Non-Fatal,non-fatal,False
+89047,WPR14CA166,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89047/pdf,4/12/2014,Kent,Oregon,United States,45.183612,-120.466392,0,1,Non-Fatal,non-fatal,False
+89323,WPR14FA218,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89323/pdf,5/31/2014,Toledo,Oregon,United States,44.607776,-123.919723,2,1,Fatal,fatal,True
+89439,WPR14FA244,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89439/pdf,6/15/2014,Florence,Oregon,United States,43.976387,-124.106941,2,0,Fatal,fatal,True
+89516,WPR14LA265,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89516/pdf,6/15/2014,Turner,Oregon,United States,44.769721,-122.96833,0,0,Non-Fatal,non-fatal,False
+89602,WPR14CA280,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89602/pdf,7/3/2014,Gaston,Oregon,United States,45.606388,-122.892776,0,0,Non-Fatal,non-fatal,False
+89649,WPR14CA291,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89649/pdf,7/8/2014,Cove,Oregon,United States,45.569999,-117.528053,0,0,Non-Fatal,non-fatal,False
+89697,WPR14CA301,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89697/pdf,7/19/2014,Hubbart,Oregon,United States,45.171665,-122.757499,0,0,Non-Fatal,non-fatal,False
+89798,WPR14CA326,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89798/pdf,8/3/2014,Dayton,Oregon,United States,45.179164,-123.197776,0,0,Non-Fatal,non-fatal,False
+89842,WPR14LA338,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/89842/pdf,8/10/2014,North Plains,Oregon,United States,45.602222,-123.02138,0,0,Non-Fatal,non-fatal,False
+90110,WPR14CA380,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90110/pdf,9/19/2014,Portland,Oregon,United States,45.540832,-122.950279,0,0,Non-Fatal,non-fatal,False
+90237,WPR15LA008,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90237/pdf,10/10/2014,Bend,Oregon,United States,44.092224,-121.179443,0,0,Non-Fatal,non-fatal,False
+90241,WPR15CA009,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90241/pdf,10/11/2014,Mulino,Oregon,United States,45.216388,-122.589996,0,0,Non-Fatal,non-fatal,False
+90312,WPR15LA022,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90312/pdf,10/26/2014,Monument,Oregon,United States,47.839225,-116.880668,0,0,Non-Fatal,non-fatal,False
+90347,WPR15LA032,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90347/pdf,11/2/2014,Jacksonville,Oregon,United States,42.223609,-123.064445,0,0,Non-Fatal,non-fatal,False
+90592,WPR15LA084,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90592/pdf,1/11/2015,Prineville,Oregon,United States,44.286109,-120.903053,1,0,Fatal,fatal,True
+90688,WPR15CA097,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90688/pdf,1/29/2015,Newburg,Oregon,United States,45.333332,-123.166664,0,0,Non-Fatal,non-fatal,False
+90748,WPR15LA106,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90748/pdf,2/17/2015,Alfalfa,Oregon,United States,44.095001,-120.943336,0,0,Non-Fatal,non-fatal,False
+90765,WPR15CA112,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90765/pdf,2/15/2015,The Dalles,Oregon,United States,45.619445,-121.168334,0,0,Non-Fatal,non-fatal,False
+90955,WPR15LA137,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/90955/pdf,3/1/2015,Redmond,Oregon,United States,44.253887,-121.150001,0,0,Non-Fatal,non-fatal,False
+91014,GAA15CA038,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91014/pdf,4/12/2015,Sherwood,Oregon,United States,45.343887,-122.879722,0,0,Non-Fatal,non-fatal,False
+91080,WPR15FA152,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91080/pdf,4/21/2015,Mt Tom,Oregon,United States,44.217224,-122.979164,1,0,Fatal,fatal,True
+91109,WPR15LA155,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91109/pdf,4/30/2015,Crescent Lake,Oregon,United States,43.532501,-121.949996,0,0,Non-Fatal,non-fatal,False
+91111,WPR15LA156,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91111/pdf,5/3/2015,Cottage Grove,Oregon,United States,43.804164,-123.031944,0,0,Non-Fatal,non-fatal,False
+91173,WPR15FA161,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91173/pdf,5/14/2015,Juntura,Oregon,United States,43.759723,-118.088333,1,0,Fatal,fatal,True
+91306,WPR15LA178,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91306/pdf,5/31/2015,Cove,Oregon,United States,45.353054,-117.633888,0,0,Non-Fatal,non-fatal,False
+91373,GAA15CA124,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91373/pdf,5/29/2015,Sunriver,Oregon,United States,43.875,-121.453613,0,0,Non-Fatal,non-fatal,False
+91404,WPR15LA192,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91404/pdf,6/20/2015,La Grande,Oregon,United States,45.287223,-118.00389,0,0,Non-Fatal,non-fatal,False
+91418,GAA15CA132,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91418/pdf,6/21/2015,Merrill,Oregon,United States,42.028888,-121.598335,0,0,Non-Fatal,non-fatal,False
+91430,GAA15CA135,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91430/pdf,6/23/2015,Nyssa,Oregon,United States,43.897777,-116.989997,0,0,Non-Fatal,non-fatal,False
+91482,WPR15FA205,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91482/pdf,7/1/2015,Newberg,Oregon,United States,45.329166,-123.069725,2,0,Fatal,fatal,True
+91492,WPR15FA208,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91492/pdf,7/4/2015,Salem,Oregon,United States,44.919166,-123.007225,1,0,Fatal,fatal,True
+91688,WPR15LA228,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91688/pdf,8/2/2015,Hubbard,Oregon,United States,45.18,-122.743614,0,0,Non-Fatal,non-fatal,False
+91826,GAA15CA231,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91826/pdf,8/16/2015,Ione,Oregon,United States,45.330276,-119.779724,0,0,Non-Fatal,non-fatal,False
+91834,WPR15LA248,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91834/pdf,8/19/2015,Ironside,Oregon,United States,44.338333,-118.11,0,0,Non-Fatal,non-fatal,False
+91928,WPR15FA258,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91928/pdf,9/7/2015,Creswell,Oregon,United States,43.935001,-123.008888,2,0,Fatal,fatal,True
+91991,GAA15CA262,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91991/pdf,8/19/2015,The Dalles,Oregon,United States,45.619445,-121.168334,0,0,Non-Fatal,non-fatal,False
+91996,WPR15LA261,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/91996/pdf,9/18/2015,Forest Grove,Oregon,United States,45.539722,-123.114166,0,0,Non-Fatal,non-fatal,False
+92147,GAA16CA011,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92147/pdf,10/1/2015,McMinnville,Oregon,United States,45.2,-123.129997,0,0,Non-Fatal,non-fatal,False
+92270,WPR16LA020,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92270/pdf,11/2/2015,Dallas,Oregon,United States,45.006942,-123.401947,0,0,Non-Fatal,non-fatal,False
+92301,WPR16CA022,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92301/pdf,11/6/2015,Lebanon,Oregon,United States,44.595001,-122.952224,0,0,Non-Fatal,non-fatal,False
+92302,WPR16LA023,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92302/pdf,11/6/2015,Independence,Oregon,United States,44.836666,-123.200836,0,0,Non-Fatal,non-fatal,False
+92548,WPR16LA049,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92548/pdf,1/2/2016,Salem,Oregon,United States,44.901668,-123.003608,0,0,Non-Fatal,non-fatal,False
+92592,GAA16LA100,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92592/pdf,1/13/2016,Ritter Butte,Oregon,United States,44.833889,-119.073059,0,1,Non-Fatal,non-fatal,False
+92662,WPR16LA060,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92662/pdf,1/31/2016,Burns,Oregon,United States,43.591945,-118.955558,0,0,Non-Fatal,non-fatal,False
+92695,GAA16CA122,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92695/pdf,2/8/2016,Gold Beach,Oregon,United States,42.415279,-124.425003,0,0,Non-Fatal,non-fatal,False
+92714,WPR16LA068,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92714/pdf,2/13/2016,Independence,Oregon,United States,44.86639,-123.198333,0,0,Non-Fatal,non-fatal,False
+92822,WPR16LA081,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92822/pdf,2/5/2016,Ashland,Oregon,United States,42.189998,-122.660552,0,0,Non-Fatal,non-fatal,False
+92892,WPR16FA087,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/92892/pdf,3/23/2016,Astoria,Oregon,United States,46.218887,-123.796669,2,0,Fatal,fatal,True
+93100,GAA16CA213,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93100/pdf,5/3/2016,Troutdale,Oregon,United States,45.549999,-122.400276,0,0,Non-Fatal,non-fatal,False
+93123,GAA15CA302,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93123/pdf,6/20/2015,Grants Pass,Oregon,United States,42.506389,-123.384162,0,0,Non-Fatal,non-fatal,False
+93330,WPR16CA121,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93330/pdf,5/25/2016,Brookings,Oregon,United States,42.071109,-124.287223,0,1,Non-Fatal,non-fatal,False
+93376,GAA16CA309,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93376/pdf,6/11/2016,Ontario,Oregon,United States,44.016387,-117.01139,0,0,Non-Fatal,non-fatal,False
+93388,GAA16CA317,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93388/pdf,6/13/2016,McMinnville,Oregon,United States,45.225833,-123.115554,0,0,Non-Fatal,non-fatal,False
+93551,WPR16LA138,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93551/pdf,7/4/2016,Brookings,Oregon,United States,42.078887,-124.333335,3,0,Fatal,fatal,True
+93580,GAA16CA366,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93580/pdf,7/10/2016,Grants Pass,Oregon,United States,42.509998,-123.388053,0,0,Non-Fatal,non-fatal,False
+93727,WPR16FA154,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93727/pdf,8/1/2016,The Dalles,Oregon,United States,45.619445,-121.168334,1,0,Fatal,fatal,True
+93738,GAA16CA407,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93738/pdf,8/1/2016,Scappoose,Oregon,United States,45.777221,-122.863609,0,0,Non-Fatal,non-fatal,False
+93793,GAA16CA422,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93793/pdf,8/6/2016,Hillsborough,Oregon,United States,45.428333,-122.942222,0,0,Non-Fatal,non-fatal,False
+93801,GAA16CA424,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93801/pdf,8/5/2016,Sunriver,Oregon,United States,43.877498,-121.452499,0,0,Non-Fatal,non-fatal,False
+93833,GAA16CA429,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93833/pdf,8/13/2016,Joseph,Oregon,United States,45.357223,-117.253334,0,0,Non-Fatal,non-fatal,False
+93841,GAA16CA431,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93841/pdf,8/12/2016,Hillsboro,Oregon,United States,45.538055,-122.947776,0,0,Non-Fatal,non-fatal,False
+93875,GAA16CA443,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93875/pdf,8/19/2016,Klamath Falls,Oregon,United States,42.157775,-121.734443,0,0,Non-Fatal,non-fatal,False
+93898,WPR16FA169,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93898/pdf,8/27/2016,Madras,Oregon,United States,44.669166,-121.153335,1,0,Fatal,fatal,True
+93973,WPR16LA174,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/93973/pdf,8/24/2016,Corvallis,Oregon,United States,44.49472,-123.29083,0,0,Non-Fatal,non-fatal,False
+94108,GAA16CA518,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94108/pdf,9/28/2016,Andrews,Oregon,United States,42.423889,-118.605552,0,0,Non-Fatal,non-fatal,False
+94588,GAA17CA110,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94588/pdf,1/9/2017,Milton-Freewater,Oregon,United States,45.936111,-118.412223,0,0,Non-Fatal,non-fatal,False
+94606,WPR17FA052,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94606/pdf,1/13/2017,Port Orford,Oregon,United States,42.806945,-124.532218,1,0,Fatal,fatal,True
+94862,GAA17CA186,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94862/pdf,3/12/2017,Hillsboro,Oregon,United States,45.428333,-122.942222,0,0,Non-Fatal,non-fatal,False
+94898,GAA17CA199,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94898/pdf,4/3/2017,Scappoose,Oregon,United States,45.77111,-122.861946,0,0,Non-Fatal,non-fatal,False
+94948,WPR17LA082,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94948/pdf,3/31/2017,The Dalles,Oregon,United States,45.618057,-121.167503,0,0,Non-Fatal,non-fatal,False
+94971,WPR17FA085,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/94971/pdf,4/7/2017,Harrisburg,Oregon,United States,44.292499,-123.18222,4,0,Fatal,fatal,True
+95190,GAA17CA288,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95190/pdf,5/15/2017,Lebanon,Oregon,United States,44.528331,-122.929725,0,0,Non-Fatal,non-fatal,False
+95229,GAA17CA302,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95229/pdf,5/20/2017,Prospect,Oregon,United States,42.743057,-122.488334,0,0,Non-Fatal,non-fatal,False
+95272,WPR17LA116,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95272/pdf,5/20/2017,Pendelton,Oregon,United States,45.694721,-118.843055,0,0,Non-Fatal,non-fatal,False
+95350,GAA17CA331,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95350/pdf,6/11/2017,Hood River,Oregon,United States,45.665,-121.52111,0,0,Non-Fatal,non-fatal,False
+95421,GAA17CA358,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95421/pdf,6/19/2017,Eugene,Oregon,United States,44.121665,-123.215835,0,0,Non-Fatal,non-fatal,False
+95422,GAA17CA359,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95422/pdf,6/14/2017,Salem,Oregon,United States,45.079444,-122.927223,0,0,Non-Fatal,non-fatal,False
+95428,GAA17CA363,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95428/pdf,6/24/2017,Pendleton,Oregon,United States,45.696945,-118.85028,0,0,Non-Fatal,non-fatal,False
+95454,GAA17CA373,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95454/pdf,6/25/2017,Roseburg,Oregon,United States,43.239444,-123.355834,0,0,Non-Fatal,non-fatal,False
+95529,WPR17LA147,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95529/pdf,7/9/2017,Baker City,Oregon,United States,44.835556,-117.798332,0,0,Non-Fatal,non-fatal,False
+95622,GAA17CA424,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95622/pdf,7/18/2017,Owyhee,Oregon,United States,43.42472,-117.345558,0,0,Non-Fatal,non-fatal,False
+95644,GAA17CA432,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95644/pdf,7/23/2017,Sandy,Oregon,United States,45.430557,-122.241943,0,0,Non-Fatal,non-fatal,False
+95827,GAA17CA490,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95827/pdf,8/4/2017,Mulino,Oregon,United States,45.214721,-122.58889,0,0,Non-Fatal,non-fatal,False
+95839,WPR17FA185,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95839/pdf,8/19/2017,Madras,Oregon,United States,44.643054,-121.164443,1,0,Fatal,fatal,True
+95882,GAA17CA507,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95882/pdf,8/24/2017,Hillsboro,Oregon,United States,45.427223,-122.943885,0,0,Non-Fatal,non-fatal,False
+95920,WPR17LA192,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/95920/pdf,8/24/2017,Klamath Falls,Oregon,United States,42.15361,-121.721389,0,0,Non-Fatal,non-fatal,False
+96034,GAA17CA541,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96034/pdf,9/16/2017,Manzanita,Oregon,United States,45.698055,-123.929725,0,0,Non-Fatal,non-fatal,False
+96127,WPR18FA001,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96127/pdf,10/1/2017,Klamath Falls,Oregon,United States,42.253612,-122.265556,2,0,Fatal,fatal,True
+96155,WPR18LA005,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96155/pdf,10/5/2017,Hillsboro,Oregon,United States,45.428333,-122.942222,0,2,Non-Fatal,non-fatal,False
+96474,GAA18CA084,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96474/pdf,12/12/2017,Rogersburg,Oregon,United States,45.864723,-116.804725,0,0,Non-Fatal,non-fatal,False
+96532,WPR18LA055,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96532/pdf,12/23/2017,Newport,Oregon,United States,44.578609,-124.06277,0,0,Non-Fatal,non-fatal,False
+96547,WPR18LA057,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96547/pdf,1/2/2018,Aurora,Oregon,United States,45.247222,-122.769996,0,0,Non-Fatal,non-fatal,False
+96620,GAA18CA108,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96620/pdf,1/13/2018,Astoria,Oregon,United States,46.161388,-123.640274,0,0,Non-Fatal,non-fatal,False
+96713,WPR18CA085,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96713/pdf,2/6/2018,Newport,Oregon,United States,44.580276,-124.057777,0,0,Non-Fatal,non-fatal,False
+96807,GAA18CA145,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96807/pdf,2/28/2018,Milton-Freewater,Oregon,United States,45.926944,-118.130836,0,0,Non-Fatal,non-fatal,False
+96901,GAA18CA172,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96901/pdf,3/20/2018,Sunriver,Oregon,United States,43.863609,-121.407775,0,0,Non-Fatal,non-fatal,False
+96921,WPR18LA111,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96921/pdf,3/20/2018,Clatskanie,Oregon,United States,46.059791,-123.270965,0,0,Non-Fatal,non-fatal,False
+96922,GAA18CA176,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96922/pdf,3/18/2018,Ontario,Oregon,United States,44.022499,-117.014724,0,0,Non-Fatal,non-fatal,False
+96938,GAA18CA181,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/96938/pdf,3/10/2018,Hillsboro,Oregon,United States,45.537498,-122.946662,0,0,Non-Fatal,non-fatal,False
+97117,WPR18LA127,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97117/pdf,4/26/2018,Hillsboro,Oregon,United States,45.515556,-123.014442,0,2,Non-Fatal,non-fatal,False
+97125,GAA18CA236,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97125/pdf,4/27/2018,Hood River,Oregon,United States,45.672779,-121.533889,0,0,Non-Fatal,non-fatal,False
+97147,WPR18LA130,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97147/pdf,5/1/2018,Portland,Oregon,United States,45.701389,-122.85028,0,1,Non-Fatal,non-fatal,False
+97182,GAA18CA254,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97182/pdf,5/4/2018,Sisters,Oregon,United States,44.304443,-121.539169,0,0,Non-Fatal,non-fatal,False
+97326,WPR18LA148,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97326/pdf,5/26/2018,Hillsboro,Oregon,United States,45.550277,-122.956947,0,0,Non-Fatal,non-fatal,False
+97399,ANC18FA041,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97399/pdf,6/3/2018,Salem,Oregon,United States,44.966667,-122.923332,1,0,Fatal,fatal,True
+97621,GAA18CA383,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97621/pdf,6/27/2018,Malin,Oregon,United States,42.11972,-121.694168,0,0,Non-Fatal,non-fatal,False
+97754,WPR18LA193,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97754/pdf,7/12/2018,Ontario,Oregon,United States,44.028888,-117.017776,0,0,Non-Fatal,non-fatal,False
+97901,GAA18CA444,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97901/pdf,7/21/2018,Hood River,Oregon,United States,45.6725,-121.53083,0,0,Non-Fatal,non-fatal,False
+97959,GAA18CA459,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/97959/pdf,7/31/2018,Bend,Oregon,United States,44.094444,-121.200279,0,0,Non-Fatal,non-fatal,False
+98042,WPR18FA218,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98042/pdf,8/11/2018,Baker City,Oregon,United States,44.813331,-117.793891,2,0,Fatal,fatal,True
+98142,WPR18TA238,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98142/pdf,8/20/2018,Brownsville,Oregon,United States,44.357776,-122.917778,0,1,Non-Fatal,non-fatal,False
+98160,GAA18CA508,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98160/pdf,8/24/2018,Corvallis,Oregon,United States,44.5,-123.283332,0,0,Non-Fatal,non-fatal,False
+98161,GAA18CA509,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98161/pdf,8/25/2018,Prineville,Oregon,United States,44.287776,-120.905281,0,0,Non-Fatal,non-fatal,False
+98333,GAA18CA562,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98333/pdf,9/19/2018,Independence,Oregon,United States,44.866943,-123.198333,0,0,Non-Fatal,non-fatal,False
+98341,GAA18CA564,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98341/pdf,9/21/2018,Roseburg,Oregon,United States,43.239444,-123.355834,0,0,Non-Fatal,non-fatal,False
+98360,GAA18CA569,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98360/pdf,9/15/2018,Grass Valley,Oregon,United States,45.45,-120.863609,0,0,Non-Fatal,non-fatal,False
+98429,GAA19CA007,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98429/pdf,10/6/2018,Medford,Oregon,United States,42.367221,-122.869163,0,0,Non-Fatal,non-fatal,False
+98528,GAA19CA032,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98528/pdf,10/18/2018,MADRAS,Oregon,United States,44.665554,-121.153335,0,0,Non-Fatal,non-fatal,False
+98612,WPR19LA020,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98612/pdf,10/27/2018,Burns,Oregon,United States,42.3325,-118.31583,0,0,Non-Fatal,non-fatal,False
+98632,GAA19CA056,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98632/pdf,11/13/2018,Newberg,Oregon,United States,45.323612,-123.054168,0,0,Non-Fatal,non-fatal,False
+98641,GAA19CA061,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98641/pdf,11/2/2018,Corvallis,Oregon,United States,44.497222,-123.289443,0,0,Non-Fatal,non-fatal,False
+98823,GAA19CA111,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98823/pdf,12/29/2018,Bend,Oregon,United States,44.094444,-121.200279,0,0,Non-Fatal,non-fatal,False
+98851,WPR19LA071,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98851/pdf,1/23/2019,Ashland,Oregon,United States,42.066665,-122.596389,1,0,Fatal,fatal,True
+98910,WPR19LA076,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98910/pdf,1/28/2019,Prospect,Oregon,United States,42.717224,-122.51721,0,1,Non-Fatal,non-fatal,False
+98913,WPR19FA077,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98913/pdf,1/25/2019,Mt Hood,Oregon,United States,45.374168,-121.688888,1,0,Fatal,fatal,True
+98973,GAA19CA134,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/98973/pdf,1/25/2019,Troutdale,Oregon,United States,45.549446,-122.40139,0,0,Non-Fatal,non-fatal,False
+99003,WPR19TA085,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99003/pdf,2/6/2019,Aurora,Oregon,United States,45.24139,-122.768608,0,2,Non-Fatal,non-fatal,False
+99023,GAA19CA150,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99023/pdf,2/21/2019,Scappoose,Oregon,United States,45.77111,-122.861946,0,0,Non-Fatal,non-fatal,False
+99125,GAA19CA169,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99125/pdf,3/15/2019,Madras,Oregon,United States,44.670276,-121.155281,0,0,Non-Fatal,non-fatal,False
+99130,WPR19LA097,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99130/pdf,3/17/2019,Newberg,Oregon,United States,45.330276,-122.96833,0,0,Non-Fatal,non-fatal,False
+99194,GAA19CA185,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99194/pdf,3/28/2019,Hermiston,Oregon,United States,45.819999,-119.28083,0,0,Non-Fatal,non-fatal,False
+99207,GAA19CA189,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99207/pdf,3/18/2019,Corvallis,Oregon,United States,44.497222,-123.289443,0,0,Non-Fatal,non-fatal,False
+99238,GAA19CA202,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99238/pdf,4/10/2019,Sisters,Oregon,United States,45.588611,-122.596946,0,0,Non-Fatal,non-fatal,False
+99286,WPR19FA116,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99286/pdf,4/18/2019,Brookings,Oregon,United States,42.083889,-124.30166,2,0,Fatal,fatal,True
+99326,WPR19LA122,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99326/pdf,4/26/2019,Oakridge,Oregon,United States,43.55389,-122.47583,0,0,Non-Fatal,non-fatal,False
+99333,GAA19CA226,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99333/pdf,4/26/2019,McMinnville,Oregon,United States,45.194442,-123.136108,0,0,Non-Fatal,non-fatal,False
+99363,WPR19LA130,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99363/pdf,4/21/2019,Prineville,Oregon,United States,44.190277,-120.820556,0,0,Non-Fatal,non-fatal,False
+99414,GAA19CA255,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99414/pdf,5/10/2019,Roseburg,Oregon,United States,43.239444,-123.355834,0,0,Non-Fatal,non-fatal,False
+99550,WPR19FA159,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99550/pdf,6/4/2019,Summerville,Oregon,United States,45.490833,-118.00888,1,0,Fatal,fatal,True
+99570,WPR19TA162,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99570/pdf,6/8/2019,Medford,Oregon,United States,42.351665,-122.860557,0,0,Non-Fatal,non-fatal,False
+99587,WPR19LA165,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99587/pdf,5/14/2019,Medford,Oregon,United States,42.538887,-122.903892,0,0,Non-Fatal,non-fatal,False
+99607,WPR19LA169,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99607/pdf,6/12/2019,Independence,Oregon,United States,44.867221,-123.19833,0,0,Non-Fatal,non-fatal,False
+99618,GAA19CA336,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99618/pdf,6/10/2019,Ontario,Oregon,United States,44.019443,-117.013053,0,0,Non-Fatal,non-fatal,False
+99690,WPR19FA178,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99690/pdf,6/22/2019,Sunriver,Oregon,United States,43.864444,-121.455001,1,0,Fatal,fatal,True
+99699,GAA19CA369,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99699/pdf,6/21/2019,Imnaha,Oregon,United States,45.666389,-116.618331,0,0,Non-Fatal,non-fatal,False
+99813,ANC19LA032,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99813/pdf,7/8/2019,Newport,Oregon,United States,44.580276,-124.058052,0,1,Non-Fatal,non-fatal,False
+99859,WPR19LA189,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99859/pdf,7/16/2019,Aumsville,Oregon,United States,44.8875,-122.871948,0,0,Non-Fatal,non-fatal,False
+99876,WPR19LA191,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99876/pdf,7/17/2019,Alvord Desert,Oregon,United States,42.5354,-118.456,1,0,Fatal,fatal,True
+99904,WPR19LA196,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99904/pdf,7/19/2019,Dallesport,Oregon,United States,45.619445,-121.168334,0,0,Non-Fatal,non-fatal,False
+99913,WPR19LA198,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99913/pdf,7/22/2019,Madras,Oregon,United States,44.670276,-121.155281,0,0,Non-Fatal,non-fatal,False
+99921,GAA19CA450,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99921/pdf,7/19/2019,Cove,Oregon,United States,45.354167,-117.633331,0,0,Non-Fatal,non-fatal,False
+99965,WPR19LA205,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99965/pdf,7/27/2019,Eugene,Oregon,United States,44.121387,-123.207221,0,2,Non-Fatal,non-fatal,False
+99984,WPR19LA207,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/99984/pdf,7/9/2019,Klamath Falls,Oregon,United States,42.132778,-121.71971,0,0,Non-Fatal,non-fatal,False
+100032,WPR19FA215,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100032/pdf,8/9/2019,Ontario,Oregon,United States,44.025833,-117.02833,1,1,Fatal,fatal,True
+100136,WPR19LA237,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100136/pdf,8/20/2019,Eugene,Oregon,United States,44.123611,-123.20222,0,0,Non-Fatal,non-fatal,False
+100155,WPR19FA244,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100155/pdf,8/27/2019,McKenzie Bridge,Oregon,United States,44.182498,-122.07833,2,0,Fatal,fatal,True
+100169,GAA19CA518,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100169/pdf,8/27/2019,Ashland,Oregon,United States,42.509998,-123.388053,0,0,Non-Fatal,non-fatal,False
+100203,WPR19FA251,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100203/pdf,9/6/2019,Hood River,Oregon,United States,45.673889,-121.54222,2,0,Fatal,fatal,True
+100236,WPR19FA256,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100236/pdf,9/8/2019,La Grande,Oregon,United States,45.146389,-118.293334,1,0,Fatal,fatal,True
+100317,WPR19LA265,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100317/pdf,9/23/2019,Gresham,Oregon,United States,45.470001,-122.470001,0,2,Non-Fatal,non-fatal,False
+100492,WPR20FA016,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100492/pdf,10/25/2019,Jordan Valley,Oregon,United States,43.394721,-117.04694,1,1,Fatal,fatal,True
+100528,GAA20CA053,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100528/pdf,11/1/2019,Salem,Oregon,United States,44.909442,-123.002502,0,0,Non-Fatal,non-fatal,False
+100844,WPR20CA071,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100844/pdf,1/20/2020,Sun River,Oregon,United States,43.875556,-121.45333,0,0,Non-Fatal,non-fatal,False
+100993,WPR20FAMS2,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/100993/pdf,2/12/2020,Pacific Ocean ,Oregon,United States,43.760833,-125.51166,1,0,Fatal,fatal,True
+101013,WPR20LA097,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101013/pdf,2/27/2020,Baker City,Oregon,United States,44.730556,-117.83889,0,0,Non-Fatal,non-fatal,False
+101094,WPR20LA111,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101094/pdf,3/18/2020,Eagle Creek,Oregon,United States,45.352779,-122.340835,0,1,Non-Fatal,non-fatal,False
+101150,WPR20LA119,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101150/pdf,4/6/2020,Hillsboro,Oregon,United States,45.542221,-122.950836,0,0,Non-Fatal,non-fatal,False
+101335,WPR20LA155,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101335/pdf,5/28/2020,Roseburg,Oregon,United States,43.117221,-123.31027,1,0,Fatal,fatal,True
+101359,WPR20LA161,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101359/pdf,5/17/2020,Cascade Locks,Oregon,United States,45.67361,-121.89055,0,0,Non-Fatal,non-fatal,False
+101489,WPR20LA194,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101489/pdf,6/23/2020,Imnaha,Oregon,United States,45.43187,-116.6928,0,2,Non-Fatal,non-fatal,False
+101512,WPR20CA200,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101512/pdf,6/29/2020,McMinnville,Oregon,United States,45.194442,-123.136108,0,0,Non-Fatal,non-fatal,False
+101516,WPR20LA201,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101516/pdf,6/30/2020,Bend,Oregon,United States,44.1025,-121.197776,1,0,Fatal,fatal,True
+101565,WPR20CA213,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101565/pdf,7/6/2020,Redmond,Oregon,United States,44.254165,-121.152221,0,0,Non-Fatal,non-fatal,False
+101619,WPR20LA224,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101619/pdf,7/17/2020,Mehama,Oregon,United States,44.794723,-122.61916,1,0,Fatal,fatal,True
+101734,WPR20LA252,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101734/pdf,6/4/2020,Salem,Oregon,United States,44.909442,-123.0025,0,0,Non-Fatal,non-fatal,False
+101739,WPR20CA254,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101739/pdf,7/22/2020,Clearwater,Oregon,United States,43.223331,-122.421112,0,0,Non-Fatal,non-fatal,False
+101820,WPR20CA276,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101820/pdf,8/18/2020,Hillsboro,Oregon,United States,45.427776,-122.943054,0,0,Non-Fatal,non-fatal,False
+101856,WPR20LA283,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101856/pdf,8/24/2020,Pine Grove,Oregon,United States,45.170555,-121.548614,1,0,Fatal,fatal,True
+101984,WPR20LA309,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/101984/pdf,9/10/2020,Enterprise,Oregon,United States,45.424999,-117.26499,0,0,Non-Fatal,non-fatal,False
+102036,WPR20CA316,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102036/pdf,9/22/2020,Pacific City,Oregon,United States,45.189601,-123.96057,0,0,Non-Fatal,non-fatal,False
+102061,WPR20LA324,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102061/pdf,9/14/2020,Lake Abert,Oregon,United States,42.661111,-120.22972,0,0,Non-Fatal,non-fatal,False
+102089,WPR20LA332,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102089/pdf,9/30/2020,Oregon City,Oregon,United States,45.320677,-122.5512,0,0,Non-Fatal,non-fatal,False
+102110,WPR21LA008,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102110/pdf,10/2/2020,Princeton,Oregon,United States,42.745925,-118.67379,0,0,Non-Fatal,non-fatal,False
+102299,ANC21LA007,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102299/pdf,11/16/2020,Colton,Oregon,United States,45.05,-122.156,2,0,Fatal,fatal,True
+102331,WPR21LA061,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102331/pdf,11/8/2020,Arch Cape,Oregon,United States,45.767319,-123.98501,1,0,Fatal,fatal,True
+102508,WPR21LA082,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102508/pdf,1/9/2021,Warm Springs,Oregon,United States,44.996186,-121.13765,1,0,Fatal,fatal,True
+102553,WPR21LA094,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102553/pdf,1/21/2021,Eagle Point,Oregon,United States,42.25219,-122.453,0,0,Non-Fatal,non-fatal,False
+102669,WPR21LA117,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102669/pdf,2/7/2021,Redmond,Oregon,United States,44.254102,-121.15058,0,0,Non-Fatal,non-fatal,False
+102704,WPR21LA122,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102704/pdf,3/3/2021,Sisters,Oregon,United States,44.2984,-121.5445,0,0,Non-Fatal,non-fatal,False
+102779,WPR21LA136,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102779/pdf,3/16/2021,Myrtle Creek,Oregon,United States,42.997261,-123.31534,0,0,Non-Fatal,non-fatal,False
+102936,WPR21LA162,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102936/pdf,4/17/2021,Hermiston,Oregon,United States,45.828222,-119.25916,0,0,Non-Fatal,non-fatal,False
+102999,WPR21LA179,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/102999/pdf,4/29/2021,Corvallis,Oregon,United States,44.49172,-123.2933,0,0,Non-Fatal,non-fatal,False
+103089,WPR21LA195,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103089/pdf,5/12/2021,Hillsboro,Oregon,United States,45.431456,-122.93964,0,0,Non-Fatal,non-fatal,False
+103098,WPR21LA196,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103098/pdf,5/15/2021,Wallowa,Oregon,United States,45.44692,-116.5859,0,0,Non-Fatal,non-fatal,False
+103144,WPR21LA204,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103144/pdf,5/20/2021,Eugene,Oregon,United States,44.158721,-123.20972,0,1,Non-Fatal,non-fatal,False
+103186,WPR21LA214,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103186/pdf,5/29/2021,Fields,Oregon,United States,42.52,-118.46,0,0,Non-Fatal,non-fatal,False
+103278,WPR21LA230,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103278/pdf,6/12/2021,Fields ,Oregon,United States,42.264206,-118.67499,0,0,Non-Fatal,non-fatal,False
+103294,WPR21FA233,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103294/pdf,6/20/2021,White City,Oregon,United States,42.53817,-122.89871,1,0,Fatal,fatal,True
+103360,WPR21LA250,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103360/pdf,6/28/2021,Hood River,Oregon,United States,45.672404,-121.56234,0,0,Non-Fatal,non-fatal,False
+103372,WPR21LA252,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103372/pdf,6/29/2021,Lakeside,Oregon,United States,43.58317,-124.18039,0,0,Non-Fatal,non-fatal,False
+103494,WPR21LA274,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103494/pdf,7/7/2021,Independence,Oregon,United States,44.867152,-123.19824,0,0,Non-Fatal,non-fatal,False
+103503,WPR21LA276,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103503/pdf,7/8/2021,Hillsboro,Oregon,United States,45.5442,-122.95356,0,0,Non-Fatal,non-fatal,False
+103569,WPR21LA292,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103569/pdf,7/23/2021,Mt. Hood,Oregon,United States,45.592617,-121.54868,0,0,Non-Fatal,non-fatal,False
+103649,WPR21LA306,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103649/pdf,8/4/2021,Woodburn,Oregon,United States,45.16105,-123.00217,0,1,Non-Fatal,non-fatal,False
+103686,WPR21LA314,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103686/pdf,7/27/2021,Roseburg,Oregon,United States,43.214812,-123.40291,0,0,Non-Fatal,non-fatal,False
+103789,WPR21LA333,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103789/pdf,8/27/2021,Glide,Oregon,United States,43.438748,-122.90996,0,1,Non-Fatal,non-fatal,False
+103807,WPR21LA337,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103807/pdf,9/2/2021,Enterprise,Oregon,United States,45.424547,-117.26465,0,0,Non-Fatal,non-fatal,False
+103825,WPR21LA338,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103825/pdf,9/8/2021,Tillamook,Oregon,United States,45.36571,-123.64671,0,0,Non-Fatal,non-fatal,False
+103859,WPR21LA344,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/103859/pdf,7/31/2021,Eugene,Oregon,United States,44.124583,-123.21197,0,0,Non-Fatal,non-fatal,False
+104033,WPR22LA002,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104033/pdf,10/2/2021,Oregon City,Oregon,United States,45.311799,-122.55218,0,0,Non-Fatal,non-fatal,False
+104051,WPR22LA003,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104051/pdf,10/2/2021,Independence,Oregon,United States,44.864351,-123.19761,0,0,Non-Fatal,non-fatal,False
+104075,WPR21LA362,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104075/pdf,3/28/2021,Ontario,Oregon,United States,44.019361,-117.01302,0,0,Non-Fatal,non-fatal,False
+104092,WPR22LA009,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104092/pdf,10/6/2021,Albany,Oregon,United States,44.637815,-123.05944,0,0,Non-Fatal,non-fatal,False
+104138,WPR22LA019,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104138/pdf,10/14/2021,Fall Creek,Oregon,United States,43.965348,-122.58123,0,0,Non-Fatal,non-fatal,False
+104202,WPR21LA365,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104202/pdf,9/26/2021,Salem,Oregon,United States,44.969177,-122.89201,0,0,Non-Fatal,non-fatal,False
+104243,WPR22LA034,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104243/pdf,11/15/2021,Molalla,Oregon,United States,45.147285,-122.57571,0,0,Non-Fatal,non-fatal,False
+104300,WPR22LA045,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104300/pdf,11/22/2021,Scio,Oregon,United States,44.638285,-122.82748,0,0,Non-Fatal,non-fatal,False
+104346,WPR22FA055,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104346/pdf,12/5/2021,Medford,Oregon,United States,42.36066,-122.87706,2,0,Fatal,fatal,True
+104383,WPR22LA060,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104383/pdf,12/9/2021,Hillsboro,Oregon,United States,45.42845,-122.94215,0,0,Non-Fatal,non-fatal,False
+104392,WPR22LA063,https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/104392/pdf,11/28/2021,Eugene,Oregon,United States,44.0746,-123.1307,0,0,Non-Fatal,non-fatal,False
